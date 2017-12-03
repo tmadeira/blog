@@ -1,0 +1,27 @@
+@import 'breaks';
+@import 'fonts';
+
+html {
+  @extend %serif;
+  background: #fff;
+  color: #333;
+  font-size: 18px;
+  line-height: 24px;
+
+  @include breakpoint($big) {
+    font-size: 23px;
+    line-height: 32px;
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.wrap {
+  @extend %wrap;
+}

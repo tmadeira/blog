@@ -1,3 +1,10 @@
 @import 'breakpoint-sass/stylesheets/breakpoint';
 
-$big: 900px;
+$big: 840px;
+
+%wrap {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: $big;
+  padding: 0 15px;
+}

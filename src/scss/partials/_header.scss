@@ -1,0 +1,37 @@
+@import '../base/breaks';
+
+$header-line-height: 48px;
+$header-font-size: 24px;
+
+$big-header-line-height: 64px;
+$big-header-font-size: 32px;
+
+.header {
+  background: #000;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 0.85;
+  right: 0;
+
+  &-title {
+    @extend %sans;
+    font-size: $header-font-size;
+    line-height: $header-line-height;
+    text-transform: lowercase;
+
+    @include breakpoint($big) {
+      font-size: $big-header-font-size;
+      line-height: $big-header-line-height;
+    }
+  }
+}
+
+html {
+  padding-top: $header-line-height;
+
+  @include breakpoint($big) {
+    padding-top: $big-header-line-height;
+  }
+}

@@ -8,3 +8,13 @@ $big: 840px;
   max-width: $big;
   padding: 0 15px;
 }
+
+%default-margin {
+  margin-bottom: 15px;
+  margin-top: 15px;
+
+  @include breakpoint($big) {
+    margin-bottom: 25px;
+    margin-top: 25px;
+  }
+}

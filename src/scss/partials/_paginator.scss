@@ -1,0 +1,26 @@
+@import '../base/breaks';
+@import '../base/fonts';
+
+.paginator {
+  @extend %default-margin;
+  @extend %sans;
+  @extend %wrap;
+  display: table;
+  font-size: 16px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  width: 100%;
+
+  > * {
+    display: table-cell;
+    text-align: right;
+
+    &:first-child {
+      text-align: left;
+    }
+  }
+
+  > span {
+    width: 100%;
+  }
+}

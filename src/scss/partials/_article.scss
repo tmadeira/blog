@@ -1,15 +1,5 @@
-@import 'base/breaks';
-@import 'base/fonts';
-
-%default-margin {
-  margin-bottom: 15px;
-  margin-top: 15px;
-
-  @include breakpoint($big) {
-    margin-bottom: 25px;
-    margin-top: 25px;
-  }
-}
+@import '../base/breaks';
+@import '../base/fonts';
 
 %code {
   @extend %mono;
@@ -22,7 +12,7 @@
   }
 }
 
-.single {
+.article {
   h2 {
     @extend %wrap;
     @extend %default-margin;

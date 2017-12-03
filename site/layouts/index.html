@@ -7,12 +7,14 @@
 
   {{ if ne .Paginator.TotalPages 0 }}
     <div class="paginator">
-      {{ if .Paginator.HasNext }}
-        <a href="{{ .Paginator.Next.URL }}" class="older">&laquo; Posts mais antigos</a>
+      {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="newer">&laquo; Posts mais novos</a>
       {{ end }}
 
-      {{ if .Paginator.HasPrev }}
-        <a href="{{ .Paginator.Prev.URL }}" class="newer">Posts mais novos &raquo;</a>
+      <span>&nbsp;</span>
+
+      {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}" class="older">Posts mais antigos &raquo;</a>
       {{ end }}
     </div>
   {{ end }}

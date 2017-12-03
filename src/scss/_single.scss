@@ -23,13 +23,6 @@
 }
 
 .single {
-  figure {
-    @extend %default-margin;
-    background: #333;
-    color: #fff;
-    padding: 15px 0;
-  }
-
   h2 {
     @extend %wrap;
     @extend %default-margin;
@@ -40,6 +33,15 @@
     @include breakpoint($big) {
       font-size: 48px;
       line-height: 56px;
+    }
+  }
+}
+
+.entry {
+  a {
+    box-shadow: inset 0 -4px 0 #539ad7;
+    &:hover {
+      background: #539ad7;
     }
   }
 
@@ -70,12 +72,21 @@
   }
 
   pre {
-    @extend %code;
-    @extend %wrap;
+    @extend %default-margin;
+    background: #333;
+    color: #fff;
     overflow: scroll;
+    padding: 15px 0;
+
+    code {
+      @extend %wrap;
+      background: none;
+      display: block;
+      vertical-align: baseline;
+    }
   }
 
-  tt {
+  code {
     @extend %code;
     background: #eee;
     display: inline-block;

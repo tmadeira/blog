@@ -1,3 +1,19 @@
-{{ partial "header" . }}
+{{ define "main" }}
+  <!-- vim: set syntax=gohtmltmpl: -->
+  {{ $paginator := .Paginate (where .Data.Pages "Type" "ne" "page") 10 }}
+  {{ range  where .Paginator.Pages "Type" "ne" "page" }}
+    {{ partial "article" . }}
+  {{ end }}
 
-{{ partial "footer" . }}
+  {{ if ne .Paginator.TotalPages 0 }}
+    <div class="paginator">
+      {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}" class="older">&laquo; Posts mais antigos</a>
+      {{ end }}
+
+      {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="newer">Posts mais novos &raquo;</a>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}

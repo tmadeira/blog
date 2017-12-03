@@ -5,11 +5,15 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="/css/main.css" />
+  <title>{{ block "title" . }}{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+  {{ .Hugo.Generator }}
 </head>
 
 <body>
   <header class="header">
     <div class="wrap">
-      <h1 class="header-title">Tiago Madeira</h1>
+      <h1 class="header-title">
+        <a href="/">Tiago Madeira</a>
+      </h1>
     </div>
   </header>

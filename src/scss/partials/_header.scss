@@ -6,6 +6,14 @@ $header-font-size: 24px;
 $big-header-line-height: 64px;
 $big-header-font-size: 32px;
 
+html {
+  padding-top: $header-line-height;
+
+  @include breakpoint($big) {
+    padding-top: $big-header-line-height;
+  }
+}
+
 .header {
   background: #000;
   color: #fff;
@@ -14,24 +22,50 @@ $big-header-font-size: 32px;
   left: 0;
   opacity: 0.85;
   right: 0;
+  white-space: nowrap;
 
   &-title {
     @extend %sans;
+    display: table-cell;
     font-size: $header-font-size;
     line-height: $header-line-height;
     text-transform: lowercase;
+    vertical-align: middle;
 
     @include breakpoint($big) {
       font-size: $big-header-font-size;
       line-height: $big-header-line-height;
     }
   }
-}
 
-html {
-  padding-top: $header-line-height;
+  .wrap {
+    display: table;
+    width: 100%;
+  }
 
-  @include breakpoint($big) {
-    padding-top: $big-header-line-height;
+  &-menu {
+    @extend %mono;
+    display: table-cell;
+    font-size: 14px;
+    list-style: none;
+    text-align: right;
+    text-transform: lowercase;
+    vertical-align: middle;
+
+    > li {
+      display: inline-block;
+
+      &::before {
+        content: " | ";
+      }
+
+      &:first-child::before {
+        content: none;
+      }
+    }
+
+    @include breakpoint($big) {
+      font-size: 16px;
+    }
   }
 }

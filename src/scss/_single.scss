@@ -1,0 +1,85 @@
+@import 'base/breaks';
+@import 'base/fonts';
+
+%default-margin {
+  margin-bottom: 15px;
+  margin-top: 15px;
+
+  @include breakpoint($big) {
+    margin-bottom: 25px;
+    margin-top: 25px;
+  }
+}
+
+%code {
+  @extend %mono;
+  font-size: 14px;
+  line-height: 20px;
+
+  @include breakpoint($big) {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
+
+.single {
+  figure {
+    @extend %default-margin;
+    background: #333;
+    color: #fff;
+    padding: 15px 0;
+  }
+
+  h2 {
+    @extend %wrap;
+    @extend %default-margin;
+    @extend %sans;
+    font-size: 32px;
+    line-height: 36px;
+
+    @include breakpoint($big) {
+      font-size: 48px;
+      line-height: 56px;
+    }
+  }
+
+  h3 {
+    @extend %wrap;
+    @extend %default-margin;
+    @extend %sans;
+    font-size: 24px;
+    line-height: 28px;
+
+    @include breakpoint($big) {
+      font-size: 32px;
+      line-height: 36px;
+    }
+  }
+
+
+  hr {
+    @extend %default-margin;
+    background: #eee;
+    border: 0;
+    height: 2px;
+  }
+
+  p {
+    @extend %wrap;
+    @extend %default-margin;
+  }
+
+  pre {
+    @extend %code;
+    @extend %wrap;
+    overflow: scroll;
+  }
+
+  tt {
+    @extend %code;
+    background: #eee;
+    display: inline-block;
+    padding: 1px 4px;
+    vertical-align: 1px;
+  }
+}

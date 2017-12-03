@@ -65,7 +65,7 @@ gulp.task("server", ["hugo", "css", "js"], () => {
   });
   watch("./src/js/**/*.js", () => { gulp.start(["js"]) });
   watch("./src/scss/**/*.scss", () => { gulp.start(["css"]) });
-  watch("./site/**/*", () => { gulp.start(["hugo"]) });
+  watch("./site/**/*.{html,json,md,toml}", () => { gulp.start(["hugo"]) });
 });
 
 /**

@@ -82,6 +82,12 @@
     height: 2px;
   }
 
+  ol {
+    @extend %default-margin;
+    @extend %wrap;
+    padding-left: 45px;
+  }
+
   p {
     @extend %wrap;
     @extend %default-margin;

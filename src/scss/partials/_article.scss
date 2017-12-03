@@ -25,6 +25,34 @@
       line-height: 56px;
     }
   }
+
+  &-meta {
+    @extend %wrap;
+    @extend %default-margin;
+    @extend %mono;
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  &-date {
+    text-transform: lowercase;
+  }
+
+  &-cats {
+    a {
+      background: #333;
+      color: #fff;
+      display: inline-block;
+      padding: 0 4px;
+    }
+  }
+
+  &-tags {
+    a {
+      text-decoration: underline;
+      text-transform: lowercase;
+    }
+  }
 }
 
 .entry {
@@ -38,9 +66,13 @@
   blockquote {
     @extend %wrap;
     @extend %default-margin;
+    border-left: solid 30px #eee;
     font-size: 0.85em;
     line-height: 1.4em;
-    padding-left: 50px;
+
+    @include breakpoint($big) {
+      padding-left: 30px !important;
+    }
   }
 
   code {
@@ -64,6 +96,32 @@
     }
   }
 
+  h4 {
+    @extend %wrap;
+    @extend %default-margin;
+    @extend %sans;
+    font-size: 20px;
+    line-height: 24px;
+
+    @include breakpoint($big) {
+      font-size: 26px;
+      line-height: 32px;
+    }
+  }
+
+  h5 {
+    @extend %wrap;
+    @extend %default-margin;
+    @extend %sans;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+
+    @include breakpoint($big) {
+      font-size: 20px;
+      line-height: 24px;
+    }
+  }
 
   hr {
     @extend %default-margin;
@@ -75,7 +133,7 @@
   ol {
     @extend %default-margin;
     @extend %wrap;
-    padding-left: 45px;
+    padding-left: 45px !important;
   }
 
   p {
@@ -102,6 +160,6 @@
     @extend %default-margin;
     @extend %wrap;
     list-style: square;
-    padding-left: 45px;
+    padding-left: 45px !important;
   }
 }

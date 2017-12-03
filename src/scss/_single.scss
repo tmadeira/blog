@@ -45,6 +45,22 @@
     }
   }
 
+  blockquote {
+    @extend %wrap;
+    @extend %default-margin;
+    font-size: 0.85em;
+    line-height: 1.4em;
+    padding-left: 50px;
+  }
+
+  code {
+    @extend %code;
+    background: #eee;
+    display: inline-block;
+    padding: 1px 4px;
+    vertical-align: 1px;
+  }
+
   h3 {
     @extend %wrap;
     @extend %default-margin;
@@ -86,11 +102,10 @@
     }
   }
 
-  code {
-    @extend %code;
-    background: #eee;
-    display: inline-block;
-    padding: 1px 4px;
-    vertical-align: 1px;
+  ul {
+    @extend %default-margin;
+    @extend %wrap;
+    list-style: square;
+    padding-left: 45px;
   }
 }

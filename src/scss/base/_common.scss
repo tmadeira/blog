@@ -22,6 +22,11 @@ html {
   }
 }
 
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 .wrap {
   @extend %wrap;
 }

@@ -156,6 +156,29 @@
     }
   }
 
+  table {
+    @extend %default-margin;
+    @extend %wrap;
+    font-size: 0.85em;
+    width: 100%;
+  }
+
+  td,
+  th {
+    padding: 3px 6px;
+  }
+
+  th {
+    font-weight: 700;
+  }
+
+  tr {
+    background: #ddd;
+    &:nth-child(2n+1) {
+      background: #eee;
+    }
+  }
+
   ul {
     @extend %default-margin;
     @extend %wrap;

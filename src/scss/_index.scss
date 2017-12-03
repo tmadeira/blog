@@ -1,0 +1,11 @@
+.index-list {
+  list-style: none;
+
+  > li {
+    background: #f8f8f4;
+    padding: 1px 0;
+    &:nth-child(2n+1) {
+      background: #fff;
+    }
+  }
+}

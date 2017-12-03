@@ -1,9 +1,13 @@
 {{ define "main" }}
   <!-- vim: set syntax=gohtmltmpl: -->
   {{ $paginator := .Paginate (where .Data.Pages "Type" "ne" "page") 10 }}
-  {{ range  where .Paginator.Pages "Type" "ne" "page" }}
-    {{ partial "article" . }}
-  {{ end }}
+  <ul class="index-list">
+    {{ range  where .Paginator.Pages "Type" "ne" "page" }}
+      <li>
+        {{ partial "article" . }}
+      </li>
+    {{ end }}
+  </ul>
 
   {{ partial "paginator" . }}
 {{ end }}

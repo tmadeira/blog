@@ -3182,9 +3182,9 @@ https-browserify@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
 
-hugo-bin@^0.13.0:
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.13.0.tgz#7968387c4360ce7ac93a8b09db36472ecaa353b1"
+hugo-bin@^0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.15.0.tgz#a2a15b20de2342e32ec8d1a11eb1de2f687c9212"
   dependencies:
     bin-wrapper "3.0.2"
     del-cli "0.2.1"

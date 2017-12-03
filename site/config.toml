@@ -1,3 +1,4 @@
 baseURL = "http://tmadeira.github.io/"
 languageCode = "pt-br"
 title = "Tiago Madeira"
+pygmentsCodeFences = true

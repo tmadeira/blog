@@ -107,6 +107,7 @@ A query (que na verdade é duas) ordena o resultado por data, retorna o título 
 Usei o resultado da query da seguinte forma:
 
 ```php
+<?php
 $q = mysql_query($query); // $query é a string com aquele SQLzão
 $print_final_li = false;
 $first = true;
@@ -145,6 +146,7 @@ while ($a = mysql_fetch_array($q, MYSQL_ASSOC)) {
 if ($print_final_li) {
     echo "</li>\n";
 }
+?>
 ```
 
 <small>(e se você quiser vê-lo em prática, entre em <a href="http://juntos.org.br/">juntos.org.br</a> e procure por <em>“Juntos pelo Brasil”</em>)</small>

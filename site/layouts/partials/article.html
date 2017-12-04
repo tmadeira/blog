@@ -2,32 +2,36 @@
 <article class="article">
 	<h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
 
-  <div class="article-meta">
-    <span class="article-date">{{ .Date.Local.Format "02/01/2006 15:04" }}</span>
+  {{ if ne .Type "page" }}
+    <div class="article-meta">
+      <span class="article-date">{{ .Date.Local.Format "02/01/2006 15:04" }}</span>
 
-    |
+      |
 
-    {{ with .Params.categories }}
-      <span class="article-cats">
-        {{ range . }}
-          <a href="/categories/{{ . | urlize }}">{{ . }}</a>
-        {{ end }}
-      </span>
-    {{ end }}
-  </div>
+      {{ with .Params.categories }}
+        <span class="article-cats">
+          {{ range . }}
+            <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+          {{ end }}
+        </span>
+      {{ end }}
+    </div>
+  {{ end }}
 
   <div class="entry">
     {{ .Content }}
   </div>
 
-  <div class="article-meta">
-    {{ with .Params.tags }}
-      <span class="article-tags">
-        <strong>Tags:</strong>
-        {{ range . }}
-          <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-        {{ end }}
-      </span>
-    {{ end }}
-  </div>
+  {{ if ne .Type "page" }}
+    <div class="article-meta">
+      {{ with .Params.tags }}
+        <span class="article-tags">
+          <strong>Tags:</strong>
+          {{ range . }}
+            <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+          {{ end }}
+        </span>
+      {{ end }}
+    </div>
+  {{ end }}
 </article>

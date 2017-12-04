@@ -57,9 +57,13 @@
 
 .entry {
   a {
-    box-shadow: inset 0 -4px 0 #539ad7;
+    box-shadow: inset 0 -4px 0 #bdf;
     &:hover {
-      background: #539ad7;
+      background: #bdf;
+    }
+
+    @include breakpoint($big) {
+      box-shadow: inset 0 -5px 0 #bdf;
     }
   }
 
@@ -149,6 +153,13 @@
     max-width: 100%;
   }
 
+  li {
+    p {
+      margin: 10px 0;
+      padding: 0;
+    }
+  }
+
   ol {
     @extend %default-margin;
     @extend %wrap;
@@ -212,7 +223,7 @@
   ul {
     @extend %default-margin;
     @extend %wrap;
-    list-style: square;
+    list-style: circle;
     padding-left: 45px !important;
   }
 

@@ -173,6 +173,17 @@
       display: block;
       vertical-align: baseline;
     }
+
+    @include breakpoint($big) {
+      text-align: center;
+
+      code {
+        display: inline-block;
+        min-width: $big;
+        max-width: 100% !important;
+        text-align: left;
+      }
+    }
   }
 
   table {

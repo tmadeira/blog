@@ -6,7 +6,7 @@
   @extend %sans;
   @extend %wrap;
   display: table;
-  font-size: 16px;
+  font-size: 14px;
   text-transform: uppercase;
   white-space: nowrap;
   width: 100%;
@@ -22,5 +22,9 @@
 
   > span {
     width: 100%;
+  }
+
+  @include breakpoint($big) {
+    font-size: 16px;
   }
 }

@@ -97,7 +97,7 @@ Portanto, se você quiser copiar do site da Folha sem preocupações (e sem desa
 
 Acho o método acima (do _userscript_) o melhor para copiar da Folha. No entanto, é conveniente ter um método mais genérico. Por isso, criei um _bookmarklet_, isso é, um pequeno script que podemos executar clicando num botão na barra de favoritos (neste caso, para restaurar o comportamento padrão das funções copiar/colar).
 
-Aqui está ele: [Restaurar copiar/colar][10]{.bookmarlet}
+Aqui está ele: <a href="javascript:all=document.querySelectorAll('*');for(i=0;i<all.length;i++)all[i].oncopy=function(e){e.stopPropagation();return true};void(0)">Restaurar copiar/colar</a>
 
 Para instalar, arraste esse link para sua barra de favoritos. Para usar, clique sempre que precisar copiar um texto e então copie normalmente.
 
@@ -112,5 +112,3 @@ Viva a Internet!
  [7]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
  [8]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
  [9]: http://tiagomadeira.com/wp-content/uploads/2014/04/falha.user.js
- [10]: javascript:all=document.querySelectorAll('*');for(i=0;i<all.length;i++)all[i].oncopy=function(e){e.stopPropagation();return true};void(0)
-

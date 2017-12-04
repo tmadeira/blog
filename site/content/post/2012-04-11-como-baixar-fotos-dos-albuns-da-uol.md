@@ -45,7 +45,7 @@ Desativar o CSS da página é uma forma fácil de acabar com todo seu leiaute e 
 
 Em geral, você pode escrever um script na barra de endereço para executá-lo na página em que você está. Há um tempo atrás todos os navegadores aceitavam isso, mas aparentemente muitos têm desativado esse recurso por questões de segurança, inclusive o Firefox. De qualquer maneira, se seu navegador suportar, você pode simplesmente digitar:
 
-```
+```javascript
 javascript:document.getElementById("setaEsq").style.width=document.getElementById("setaDir").style.width="50px";void(0);
 ```
 

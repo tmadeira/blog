@@ -22,9 +22,10 @@ O pessoal da modalidade programação ia tirar cópias de um livro do Stolfi e d
 
 Folheei o livro, não entendi nada, deixei num canto e voltei a abrir alguns anos depois, não lembro exatamente quando. E foi aí que fez-se a luz. A primeira parte é sobre coordenadas homogêneas.
 
-**Coordenadas homogêneas?** A ideia parece simples (até demais) pra ser poderosa. Basicamente você representa uma coordenada em  <img src='https://s0.wp.com/latex.php?latex=%28X%2C+Y%29+%5Cin+%5Cmathbb%7BR%7D%5E2&bg=T&fg=000000&s=0' alt='(X, Y) \in \mathbb{R}^2' title='(X, Y) \in \mathbb{R}^2' class='latex' />com uma tripla ordenada  <img src='https://s0.wp.com/latex.php?latex=%5Bw%2C+x%2C+y%5D&bg=T&fg=000000&s=0' alt='[w, x, y]' title='[w, x, y]' class='latex' />tal que  <img src='https://s0.wp.com/latex.php?latex=x+%3D+%5Cfrac%7BX%7D%7Bw%7D&bg=T&fg=000000&s=0' alt='x = \frac{X}{w}' title='x = \frac{X}{w}' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=y+%3D+%5Cfrac%7BY%7D%7Bw%7D&bg=T&fg=000000&s=0' alt='y = \frac{Y}{w}' title='y = \frac{Y}{w}' class='latex' />. A reta tem a mesma representação.
+**Coordenadas homogêneas?** A ideia parece simples (até demais) pra ser poderosa. Basicamente você representa uma coordenada em \\((X, Y) \in \mathbb{R}^2\\) com uma tripla ordenada \\([w, x, y]\\) tal que \\(x = \frac{X}{w}\\) e \\(y = \frac{Y}{w}\\). A reta tem a mesma representação.
 
-<pre lang="cpp" line="1">struct ponto {
+```cpp
+struct ponto {
 	int w, x, y;
 };
 
@@ -37,14 +38,14 @@ typedef ponto reta;
 
 **Quero código!** Vou mostrar como resolvi o problema _Symmetry_ ([2002 TopCoder Inv Round 4 – Division I, Level Three][2]).
 
-_O enunciado é simples:_ Dados n (2  <img src='https://s0.wp.com/latex.php?latex=%5Cleq&bg=T&fg=000000&s=0' alt='\leq' title='\leq' class='latex' />n  <img src='https://s0.wp.com/latex.php?latex=%5Cleq&bg=T&fg=000000&s=0' alt='\leq' title='\leq' class='latex' />200) pontos inteiros (com coordenadas de -10000 a 10000) determinar quantas linhas de simetria existem entre eles.
+_O enunciado é simples:_ Dados n (\\(2 \leq n \leq 200\\)) pontos inteiros (com coordenadas de -10000 a 10000) determinar quantas linhas de simetria existem entre eles.
 
-Dá pra fazer em  <img src='https://s0.wp.com/latex.php?latex=O%28n%5E3%29&bg=T&fg=000000&s=0' alt='O(n^3)' title='O(n^3)' class='latex' />com a seguinte ideia:
+Dá pra fazer em \\(O(n^3)\\) com a seguinte ideia:
 
   1. Crie uma árvore binária balanceada indexada por retas. (em C++, _map <reta,int>_)
-  2. Para cada par de pontos, determine a reta de simetria entre eles e adicione 2 a essa reta na árvore binária. (<img src='https://s0.wp.com/latex.php?latex=O%28n%5E2+log+n%29&bg=T&fg=000000&s=0' alt='O(n^2 log n)' title='O(n^2 log n)' class='latex' />)
-  3. Para cada reta na árvore binária, adicione 1 para cada ponto que pertence a essa reta. (<img src='https://s0.wp.com/latex.php?latex=O%28n%5E3%29&bg=T&fg=000000&s=0' alt='O(n^3)' title='O(n^3)' class='latex' />)
-  4. É fácil ver que a reta é uma reta de simetria do conjunto de pontos se e somente se seu valor na árvore binária for <img src='https://s0.wp.com/latex.php?latex=n&bg=T&fg=000000&s=0' alt='n' title='n' class='latex' />.
+  2. Para cada par de pontos, determine a reta de simetria entre eles e adicione 2 a essa reta na árvore binária. (\\(O(n^2 log n)\\))
+  3. Para cada reta na árvore binária, adicione 1 para cada ponto que pertence a essa reta. (\\(O(n^3)\\))
+  4. É fácil ver que a reta é uma reta de simetria do conjunto de pontos se e somente se seu valor na árvore binária for \\(n\\).
 
 O problema geométrico está no segundo passo: determinar a reta de simetria entre dois pontos. Sejam esses pontos _p_ e _q_. É preciso:
 
@@ -53,51 +54,52 @@ O problema geométrico está no segundo passo: determinar a reta de simetria ent
   3. Determinar uma reta (ou um vetor) perpendicular à reta do passo acima.
   4. Determinar a reta que passa pelo ponto médio e tem a direção do vetor perpendicular do passo 3.
 
-Determinar o ponto médio sem usar ponto flutuante seria trivial de qualquer forma (basta multiplicar todas as coordenadas por dois), mas com coordenadas homogêneas isso é desnecessário. É fácil ver que o ponto médio  <img src='https://s0.wp.com/latex.php?latex=m&bg=T&fg=000000&s=0' alt='m' title='m' class='latex' />entre  <img src='https://s0.wp.com/latex.php?latex=p+%3D+%5Bw_0%2C+x_0%2C+y_0%5D&bg=T&fg=000000&s=0' alt='p = [w_0, x_0, y_0]' title='p = [w_0, x_0, y_0]' class='latex' />e  <img src='https://s0.wp.com/latex.php?latex=q+%3D+%5Bw_1%2C+x_1%2C+y_1%5D&bg=T&fg=000000&s=0' alt='q = [w_1, x_1, y_1]' title='q = [w_1, x_1, y_1]' class='latex' />é:
+Determinar o ponto médio sem usar ponto flutuante seria trivial de qualquer forma (basta multiplicar todas as coordenadas por dois), mas com coordenadas homogêneas isso é desnecessário. É fácil ver que o ponto médio \\(m\\) entre \\(p = [w_0, x_0, y_0]\\) e \\(q = [w_1, x_1, y_1]\\) é:
 
-<p style="text-align:center;">
-  <img src='https://s0.wp.com/latex.php?latex=m+%3D+%5B+2+w_0+w_1+%2C+w_1+x_0+%2B+w_0+x_1+%2C+w_1+y_0+%2B+w_0+q_1+%5D&bg=T&fg=000000&s=0' alt='m = [ 2 w_0 w_1 , w_1 x_0 + w_0 x_1 , w_1 y_0 + w_0 q_1 ]' title='m = [ 2 w_0 w_1 , w_1 x_0 + w_0 x_1 , w_1 y_0 + w_0 q_1 ]' class='latex' />
-</p>
+$$m = [ 2 w_0 w_1 , w_1 x_0 + w_0 x_1 , w_1 y_0 + w_0 q_1 ]$$
 
-<pre lang="cpp" line="1">ponto ponto_medio(ponto p, ponto q) {
+```cpp
+ponto ponto_medio(ponto p, ponto q) {
 	return (ponto) { 2*p.w*q.w, q.w*p.x+q.x*p.w, q.w*p.y+q.y*p.w };
 }
 ```
 
-Três pontos <img src='https://s0.wp.com/latex.php?latex=%5Bw_0%2C+x_0%2C+y_0%5D&bg=T&fg=000000&s=0' alt='[w_0, x_0, y_0]' title='[w_0, x_0, y_0]' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=%5Bw_1%2C+x_1%2C+y_1%5D&bg=T&fg=000000&s=0' alt='[w_1, x_1, y_1]' title='[w_1, x_1, y_1]' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=%5Bw_2%2C+x_2%2C+y_2%5D&bg=T&fg=000000&s=0' alt='[w_2, x_2, y_2]' title='[w_2, x_2, y_2]' class='latex' />são colineares se
+Três pontos \\([w_0, x_0, y_0]\\), \\([w_1, x_1, y_1]\\), \\([w_2, x_2, y_2]\\) são colineares se
 
-<p style="text-align:center;">
-  <img src='https://s0.wp.com/latex.php?latex=+%5Cleft%7C+%5Cbegin%7Barray%7D%7Bccc%7D+w_0+%26+x_0+%26+y_0+%5C%5C+w_1+%26+x_1+%26+y_1+%5C%5C+w_2+%26+x_2+%26+y_2+%5Cend%7Barray%7D+%5Cright%7C+%3D+0+&bg=T&fg=000000&s=0' alt=' \left| \begin{array}{ccc} w_0 & x_0 & y_0 \\ w_1 & x_1 & y_1 \\ w_2 & x_2 & y_2 \end{array} \right| = 0 ' title=' \left| \begin{array}{ccc} w_0 & x_0 & y_0 \\ w_1 & x_1 & y_1 \\ w_2 & x_2 & y_2 \end{array} \right| = 0 ' class='latex' />,
-</p>
+$$\left| \begin{array}{ccc} w_0 & x_0 & y_0 \\ w_1 & x_1 & y_1 \\ w_2 & x_2 & y_2 \end{array} \right| = 0$$
 
-o que nos permite concluir que a reta  <img src='https://s0.wp.com/latex.php?latex=r+%3D+%5Clangle+W%2C+X%2C+Y+%5Crangle&bg=T&fg=000000&s=0' alt='r = \langle W, X, Y \rangle' title='r = \langle W, X, Y \rangle' class='latex' />que passa por  <img src='https://s0.wp.com/latex.php?latex=p+%3D+%5B+w_0%2C+x_0%2C+y_0+%5D&bg=T&fg=000000&s=0' alt='p = [ w_0, x_0, y_0 ]' title='p = [ w_0, x_0, y_0 ]' class='latex' />e  <img src='https://s0.wp.com/latex.php?latex=q+%3D+%5B+w_1%2C+x_1%2C+y_1+%5D&bg=T&fg=000000&s=0' alt='q = [ w_1, x_1, y_1 ]' title='q = [ w_1, x_1, y_1 ]' class='latex' />é:
+, o que nos permite concluir que a reta \\(r = \langle W, X, Y \rangle\\) que passa por \\(p = [ w_0, x_0, y_0 ]\\) e \\(q = [ w_1, x_1, y_1 ]\\) é:
 
-<p style="text-align:center;">
-  <img src='https://s0.wp.com/latex.php?latex=r+%3D+%5Clangle+%2Bx_0+y_1+-+y_0+x_1%2C+-w_0+y_1+%2B+w_1+y_0%2C+w_0+x_1+-+w_1+x_0%5Crangle&bg=T&fg=000000&s=0' alt='r = \langle +x_0 y_1 - y_0 x_1, -w_0 y_1 + w_1 y_0, w_0 x_1 - w_1 x_0\rangle' title='r = \langle +x_0 y_1 - y_0 x_1, -w_0 y_1 + w_1 y_0, w_0 x_1 - w_1 x_0\rangle' class='latex' />.
-</p>
+$$r = \langle +x_0 y_1 - y_0 x_1, -w_0 y_1 + w_1 y_0, w_0 x_1 - w_1 x_0\rangle$$
 
-<pre lang="cpp" line="1">ponto reta_determinada_por(ponto p, ponto q) {
+Logo:
+
+```cpp
+ponto reta_determinada_por(ponto p, ponto q) {
 	return (reta) { +p.x*q.y-q.x*p.y, -p.w*q.y+q.w*p.y, +p.w*q.x-q.w*p.x };
 }
 ```
 
-(um ponto  <img src='https://s0.wp.com/latex.php?latex=%5Bw%2C+x%2C+y%5D&bg=T&fg=000000&s=0' alt='[w, x, y]' title='[w, x, y]' class='latex' />pertence a  <img src='https://s0.wp.com/latex.php?latex=r&bg=T&fg=000000&s=0' alt='r' title='r' class='latex' />se <img src='https://s0.wp.com/latex.php?latex=Ww+%2B+Xx+%2B+Yy+%3D+0&bg=T&fg=000000&s=0' alt='Ww + Xx + Yy = 0' title='Ww + Xx + Yy = 0' class='latex' />)
+(um ponto \\([w, x, y]\\) pertence a \\(r\\) se \\(Ww + Xx + Yy = 0\\))
 
-<pre lang="cpp" line="1">int ponto_na_reta(ponto p, reta r) {
+```cpp
+int ponto_na_reta(ponto p, reta r) {
 	return p.w*r.w + p.x*r.x + p.y*r.y == 0;
 }
 ```
 
-Agora a parte mais legal: a fórmula para determinar uma reta que passa por dois pontos funciona com pontos no infinito (pensemos em pontos no infinito como vetores, porque eles tem direção mas tem <img src='https://s0.wp.com/latex.php?latex=w+%3D+0&bg=T&fg=000000&s=0' alt='w = 0' title='w = 0' class='latex' />): o resultado é a reta determinada por um ponto e uma direção. O vetor perpendicular à reta  <img src='https://s0.wp.com/latex.php?latex=%5Clangle+W%2C+X%2C+Y+%5Crangle&bg=T&fg=000000&s=0' alt='\langle W, X, Y \rangle' title='\langle W, X, Y \rangle' class='latex' />é <img src='https://s0.wp.com/latex.php?latex=%5B+0%2C+X%2C+Y+%5D&bg=T&fg=000000&s=0' alt='[ 0, X, Y ]' title='[ 0, X, Y ]' class='latex' />.
+Agora a parte mais legal: a fórmula para determinar uma reta que passa por dois pontos funciona com pontos no infinito (pensemos em pontos no infinito como vetores, porque eles tem direção mas tem \\(w = 0\\)): o resultado é a reta determinada por um ponto e uma direção. O vetor perpendicular à reta \\(\langle W, X, Y \rangle\\) é \\([ 0, X, Y ]\\).
 
-<pre lang="cpp" line="1">ponto ponto_infinito_na_reta_perpendicular(reta r) {
+```cpp
+ponto ponto_infinito_na_reta_perpendicular(reta r) {
 	return (reta) { 0, r.x, r.y };
 }
 ```
 
 E isso é tudo. Agora basta criar uma representação única da reta pra guardar na árvore binária.
 
-<pre lang="cpp" line="1">reta reformata_reta(reta r) {
+```cpp
+reta reformata_reta(reta r) {
 	if (r.w < 0) {
 		r.w = -r.w;
 		r.x = -r.x;
@@ -136,7 +138,8 @@ for (int i = 0; i < n; i++) {
 
 Terceiro e o quarto são:
 
-<pre lang="cpp" line="1">int output = 0;
+```cpp
+int output = 0;
 for (map <reta,int>::iterator i = M.begin(); i != M.end(); i++) {
 	for (int j = 0; j < n; j++)
 		if (ponto_na_reta(P[j], i->first))

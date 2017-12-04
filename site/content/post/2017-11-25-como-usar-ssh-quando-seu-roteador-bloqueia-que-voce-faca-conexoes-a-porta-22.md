@@ -96,8 +96,6 @@ Host github.com
   Port 443
 ```
 
-* * *
-
 Se conhecer outras soluções interessantes, fique à vontade para compartilhar na caixa de comentários!
 
  [1]: https://randyfay.com/content/git-over-ssh-tunnel-through-firewall-or-vpn

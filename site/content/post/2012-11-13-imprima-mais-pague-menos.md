@@ -101,7 +101,7 @@ Um problema econômico interessante para quando se está numa gráfica imprimind
 
 [<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/grafico3-650x251.png?resize=604%2C233" alt="gráfico esperto" title="gráfico esperto" class="aligncenter size-large wp-image-2317" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/grafico3.png?resize=650%2C251&ssl=1 650w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/grafico3.png?resize=300%2C116&ssl=1 300w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/grafico3.png?w=1091&ssl=1 1091w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" />][4]
 
-Descobrir se estamos numa região amarela é simples. Basta calcular o preço que pagaríamos a princípio (multiplicar o número de cópias pelo preço por cópias da região em que estamos) e comparar com o preço que pagaríamos se pedíssemos o menor número de cópias da região imediatamente mais barata. Por exemplo, faz sentido imprimir 15 cópias porque  <img src='https://s0.wp.com/latex.php?latex=15+%5Ctimes+0.40%3D6.00&bg=T&fg=000000&s=0' alt='15 \times 0.40=6.00' title='15 \times 0.40=6.00' class='latex' />é menor do que <img src='https://s0.wp.com/latex.php?latex=21+%5Ctimes+0.30+%3D+6.30&bg=T&fg=000000&s=0' alt='21 \times 0.30 = 6.30' title='21 \times 0.30 = 6.30' class='latex' />, mas não faz sentido imprimir 85 cópias porque  <img src='https://s0.wp.com/latex.php?latex=85+%5Ctimes+0.25+%3D+21.25&bg=T&fg=000000&s=0' alt='85 \times 0.25 = 21.25' title='85 \times 0.25 = 21.25' class='latex' />é maior do que <img src='https://s0.wp.com/latex.php?latex=101+%5Ctimes+0.20+%3D+20.20&bg=T&fg=000000&s=0' alt='101 \times 0.20 = 20.20' title='101 \times 0.20 = 20.20' class='latex' />.
+Descobrir se estamos numa região amarela é simples. Basta calcular o preço que pagaríamos a princípio (multiplicar o número de cópias pelo preço por cópias da região em que estamos) e comparar com o preço que pagaríamos se pedíssemos o menor número de cópias da região imediatamente mais barata. Por exemplo, faz sentido imprimir 15 cópias porque \\(15 \times 0.40=6.00\\) é menor do que \\(21 \times 0.30 = 6.30\\), mas não faz sentido imprimir 85 cópias porque \\(85 \times 0.25 = 21.25\\) é maior do que \\(101 \times 0.20 = 20.20\\).
 
 * * *
 
@@ -125,7 +125,7 @@ Se você separar todas as funções que encontramos na tabela de preços do prob
 
 Uma forma de resolver o problema é fazer com que as interseções sejam nos pontos onde o preço das impressões muda. Isso se faz movendo cada uma das funções um pouquinho pra cima, isso é, adicionando constantes às funções de primeiro grau.
 
-Por exemplo: 3 cópias custam R$ 2,10. Se a partir de 4 cópias quisermos que as cópias custem R$ 0,50 em vez de R$ 0,70, podemos forçar que 4 cópias custem R$ 2,10 + R$ 0,50 = R$ 2,60. R$ 2,60 é R$ 2,00 + R$ 0,60. Logo, em vez de usarmos a função de preço  <img src='https://s0.wp.com/latex.php?latex=f%28x%29+%3D+0.5x&bg=T&fg=000000&s=0' alt='f(x) = 0.5x' title='f(x) = 0.5x' class='latex' />para _x_ entre 4 e 10, podemos usar a função <img src='https://s0.wp.com/latex.php?latex=f%28x%29+%3D+0.5x+%2B+0.6&bg=T&fg=000000&s=0' alt='f(x) = 0.5x + 0.6' title='f(x) = 0.5x + 0.6' class='latex' />.
+Por exemplo: 3 cópias custam R$ 2,10. Se a partir de 4 cópias quisermos que as cópias custem R$ 0,50 em vez de R$ 0,70, podemos forçar que 4 cópias custem R$ 2,10 + R$ 0,50 = R$ 2,60. R$ 2,60 é R$ 2,00 + R$ 0,60. Logo, em vez de usarmos a função de preço \\(f(x) = 0.5x\\) para _x_ entre 4 e 10, podemos usar a função \\(f(x) = 0.5x + 0.6\\).
 
 Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de preços final fica assim:
 
@@ -197,15 +197,11 @@ Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de pre�
 
 Agora note que as coisas passam a fazer mais sentido (embora muito mais caras):
 
-– 3 cópias custam R$ 2,10 e 4 cópias custam R$ 2,60;
-
-– 10 cópias custam R$ 5,60 e 11 cópias custam R$ 6,00;
-
-– 20 cópias custam R$ 9,60 e 21 cópias custam R$ 9,90;
-
-– 50 cópias custam R$ 18,60 e 51 cópias custam R$ 18,85;
-
-– 100 cópias custam R$ 31,10 e 101 cópias custam R$ 31,30.
+- 3 cópias custam R$ 2,10 e 4 cópias custam R$ 2,60;
+- 10 cópias custam R$ 5,60 e 11 cópias custam R$ 6,00;
+- 20 cópias custam R$ 9,60 e 21 cópias custam R$ 9,90;
+- 50 cópias custam R$ 18,60 e 51 cópias custam R$ 18,85;
+- 100 cópias custam R$ 31,10 e 101 cópias custam R$ 31,30.
 
 O gráfico monótono (e bonito) comprova:
 

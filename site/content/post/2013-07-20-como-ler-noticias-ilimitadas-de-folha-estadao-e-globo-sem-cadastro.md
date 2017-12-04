@@ -24,10 +24,6 @@ tags:
 
 * * *
 
-* * *
-
-* * *
-
 A mídia tradicional mudou a forma como publica na internet. A regra agora é que sem cadastro você só pode acessar um determinado número (pequeno) de notícias. O nome do sistema é [paywall][2]. Ao chegar no limite, você recebe mensagens como as seguintes:
 
 <p style="text-align:center;">

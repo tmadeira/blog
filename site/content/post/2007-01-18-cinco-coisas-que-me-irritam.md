@@ -45,10 +45,10 @@ Sei lá se a televisão a cabo é melhor. A que eu tenho aqui em casa é ridícu
 ### Passo a tag para…
 
   * [Bruno][8]
-      * [Carol][9]
-      * [Fabricio][10]
-      * [Thássius][11]
-      * [Wendel][12]</ul>
+  * [Carol][9]
+  * [Fabricio][10]
+  * [Thássius][11]
+  * [Wendel][12]
 
  [1]: http://www.ofimdavarzea.com/2007/01/17/cinco-coisas-irritantes/
  [2]: http://tiagomadeira.net/2007/01/18/emerge-happiness/

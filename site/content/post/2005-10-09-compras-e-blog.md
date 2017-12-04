@@ -26,7 +26,7 @@ Vou aproveitar o post pra postar os códigos que eu estou fazendo pra interpreta
 #### Expressões Regulares
 
 ```php
-< ?php
+<?php
 /* A parte de regex de códigos precisa do GeSHi Highlighter. Includando-o... */
 include("geshi.php");
 
@@ -78,9 +78,6 @@ class Regex {
         }
 
         /* Beleza, agora precisamos sempre lembrar de não highlightear o que estiver entre
-
-```
-.
            E também não podemos deixar nada fora dos padrões XHTML Strict. */
 
         $this->texto=str_replace("&", "&", $this->texto);
@@ -89,175 +86,94 @@ class Regex {
         $this->texto=str_replace(""", """, $this->texto);
 
         // Aqui tá o meu "nl2br" semântico! =)
-        $this->texto="
-
-<p>
-  ".$this->texto."
-</p>";
-        $this->texto=preg_replace("/nnn*/", "
-
-<p>
-  ", $this->texto);
-              /*
-</p>
-
-<p>
-
-</p> vazios não são semânticos. Mas estive pensando depois de fazer isso e acho que
-                algumas pessoas podem querer dar um grande espaço entre os
-
-<p>
-  , por isso estou
+        $this->texto="<p>".$this->texto."</p>";
+        $this->texto=preg_replace("/\n\n\n*/", "<p>", $this->texto);
+              /* </p><p></p> vazios não são semânticos. Mas estive pensando depois de fazer isso e acho que
+                  algumas pessoas podem querer dar um grande espaço entre os <p>, por isso estou
                   pensando em fazer uma ER que a cada n a mais de dois n's adicione 10px ao
-                  margin-bottom do último
-</p>
+                  margin-bottom do último </p><p>. O que vocês acham? */
+        $this->texto=preg_replace("/\n/", "<br />\n", $this->texto);
+        $this->texto=preg_replace("/</p></p><p>/", " </p>\n<p>", $this->texto);
 
-<p>
-  . O que vocês acham? */
-          $this->texto=preg_replace("/n/", "<br />n", $this->texto);
-          $this->texto=preg_replace("/< /p>
-</p>
+        // Formatação básica (negrito, itálico, sublinhado, cores, cabeçalhos)
+        $this->texto=preg_replace("/[b](.*)[/b]/sU", "<strong>\1</strong>", $this->texto);
+        $this->texto=preg_replace("/[i](.*)[/i]/sU", "<em>\1</em>", $this->texto);
+        $this->texto=preg_replace("/[u](.*)[/u]/sU", "<span style="text-decoration:underline;">\1</span>", $this->texto);
+        $this->texto=preg_replace("/[color=([^]]+)](.*)[/color]/sU", "<span style="color:\1;">\2</span>", $this->texto);
+        $this->texto=preg_replace("/[h([1-6])](.*)[/h\1]/sU", "<h \1>\2< /h\1>n", $this->texto);
 
-<p>
-  /", "
-</p>n
+        // Citações
+        $this->texto=preg_replace("/[quote](.*)[/quote]/sU", "<q>\1</q>n", $this->texto);
+        $this->texto=preg_replace("/[quote=([^]]+)](.*)[/quote]/sU", "<q>\2</q>n<cite>\1</cite>", $this->texto);
 
-<p>
-  ", $this->texto);
+        // URLs
+        $this->texto=preg_replace("/([^\"/=]])(www.[^[:blank:]\"< ]+)/", "\1<a href=\"http://\2\">\2", $this->texto);
+        $this->texto=preg_replace("/([^\"=]])(http://[^[:blank:]\"< ]+)/", "\1<a href=\"\2\">\2", $this->texto);
 
-          // Formatação básica (negrito, itálico, sublinhado, cores, cabeçalhos)
-             $this->texto=preg_replace("/[b](.*)[/b]/sU", "<strong>\1</strong>", $this->texto);
-          $this->texto=preg_replace("/[i](.*)[/i]/sU", "<em>\1</em>", $this->texto);
-          $this->texto=preg_replace("/[u](.*)[/u]/sU", "<span style="text-decoration:underline;">\1</span>", $this->texto);
-          $this->texto=preg_replace("/[color=([^]]+)](.*)[/color]/sU", "<span style="color:\1;">\2</span>", $this->texto);
-          $this->texto=preg_replace("/[h([1-6])](.*)[/h\1]/sU", "<h \1>\2< /h\1>n", $this->texto);
+        $this->texto=preg_replace("/[url]([^\"]*)[/url]/sU", "<a href=\"\1\">\1</a>", $this->texto);
+        $this->texto=preg_replace("/[url=([^[:blank:]\"]+)[[:blank:]]+title=([^]\"]+)](.*)[/url]/sU", "<a href=\"\1\" title=\"\2\">\3</a>", $this->texto);
+        $this->texto=preg_replace("/[url=([^\]\"]+)](.*)[/url]/sU", "<a href=\"\1\">\2</a>", $this->texto);
 
-          // Citações
-          $this->texto=preg_replace("/[quote](.*)[/quote]/sU", "<q>\1</q>n", $this->texto);
-          $this->texto=preg_replace("/[quote=([^]]+)](.*)[/quote]/sU", "<q>\2</q>n<cite>\1</cite>", $this->texto);
+        preg_match_all("/<a href=\"([^\"]+)\">/U", $this->texto, $matches);
 
-          // URLs
-          $this->texto=preg_replace("/([^"/=]])(www.[^[:blank:]"< ]+)/", "\1<a href="http://\2">\2", $this->texto);
-          $this->texto=preg_replace("/([^"=]])(http://[^[:blank:]"< ]+)/", "\1<a href="\2">\2", $this->texto);
+        for ($i=0; $i<count ($matches[0]); $i++) {
+            $parse=parse_url($matches[1][$i]);
+            $dominio=$parse["host"];
+            $this->texto=str_replace($matches[0][$i], "<a href="".$matches[1][$i]."" title="Link Externo: $dominio">", $this->texto);
+        }
 
-          $this->texto=preg_replace("/[url]([^"]*)[/url]/sU", "<a href="\1">\1</a>", $this->texto);
-          $this->texto=preg_replace("/[url=([^[:blank:]"]+)[[:blank:]]+title=([^]"]+)](.*)[/url]/sU", "<a href="\1" title="\2">\3</a>", $this->texto);
-          $this->texto=preg_replace("/[url=([^]"]+)](.*)[/url]/sU", "<a href="\1">\2</a>", $this->texto);
+        // Imagens
+        $this->texto=preg_replace("/[img=([^]]+)]([^\"]*)[/img]/U", "<img src=\"\2\" alt=\"\1\" />", $this->texto);
+        $this->texto=preg_replace("/[img]([^\"]*)[/img]/U", "<img src=\"\1\" alt=\"Imagem: \2\" />", $this->texto);
 
+        // Listas
+        $this->texto=preg_replace("/[list](.*)[/list]/sU", "<ul>\1</ul>", $this->texto);
+        $this->texto=preg_replace("/[li](.*)[/li]/sU", "<li><p>\1</p></li>", $this->texto);
 
-          preg_match_all("/<a href="([^"]+)">/U", $this->texto, $matches);
-
-          for ($i=0; $i<count ($matches[0]); $i++) {
-              $parse=parse_url($matches[1][$i]);
-              $dominio=$parse["host"];
-              $this->texto=str_replace($matches[0][$i], "<a href="".$matches[1][$i]."" title="Link Externo: $dominio">", $this->texto);
+        // Limpando besteiras... Alguém tem alguma idéia melhor do que esse FOR feio?
+        for ($count=0; $count<10; $count++) {
+            $this->texto=preg_replace("/<br /></li>/", "", $this->texto);
+            $this->texto=preg_replace("/<ul><br />/", "</ul><ul>", $this->texto);
+              $this->texto=preg_replace("/< (/?)li><br />/", "< \1li>",  $this->texto);
+              $this->texto=preg_replace("/<q><br />/", "</q><q>", $this->texto);
+              $this->texto=preg_replace("/< /q><br />/", "</q>", $this->texto);
           }
 
-          // Imagens
-          $this->texto=preg_replace("/[img=([^]]+)]([^"]*)[/img]/U", "<img src="\2" alt="\1" />", $this->texto);
-          $this->texto=preg_replace("/[img]([^"]*)[/img]/U", "<img src="\1" alt="Imagem: \2" />", $this->texto);
+          // Emoticons
+          // $this->Emoticons();
 
-          // Listas
-          $this->texto=preg_replace("/[list](.*)[/list]/sU", "
+          /* Lembram que o código tinha sido transformado em md5s com o tempo, pros
+             bbcodes não entrarem em ação dentro deles? Então vamos transformar de
+             volta em códigos agora... */
 
-  <ul>
-    \1
-  </ul>", $this->texto);
-          $this->texto=preg_replace("/[li](.*)[/li]/sU", "
+          for ($i=0; $i<sizeof ($mcl[0]); $i++) {
+              $this->texto=str_replace($mcl_md5[$i], $geshi_mcl[$i], $this->texto);
+          }
 
-  <li>
-    <p>
-      \1
-    </p>
-  </li>", $this->texto);
+          for ($i=0; $i</sizeof><sizeof ($msl[0]); $i++) {
+              $this->texto=str_replace($msl_md5[$i], $geshi_msl[$i], $this->texto);
+          }
 
-          // Limpando besteiras... Alguém tem alguma idéia melhor do que esse FOR feio?
-          for ($count=0; $count<10; $count++) {
-              $this->texto=preg_replace("/
-
-  <br />< /li>/", "", $this->texto);
-              $this->texto=preg_replace("/
-
-  <ul>
-    <br />/", "
-  </ul>
-
-  <ul>
-    ", $this->texto);
-                $this->texto=preg_replace("/< (/?)li><br />/", "< \1li>",  $this->texto);
-                $this->texto=preg_replace("/<q><br />/", "</q><q>", $this->texto);
-                $this->texto=preg_replace("/< /q><br />/", "</q>", $this->texto);
-            }
-
-            // Emoticons
-            // $this->Emoticons();
-
-            /* Lembram que o código tinha sido transformado em md5s com o tempo, pros
-               bbcodes não entrarem em ação dentro deles? Então vamos transformar de
-               volta em códigos agora... */
-
-            for ($i=0; $i<sizeof ($mcl[0]); $i++) {
-                $this->texto=str_replace($mcl_md5[$i], $geshi_mcl[$i], $this->texto);
-            }
-
-            for ($i=0; $i</sizeof><sizeof ($msl[0]); $i++) {
-                $this->texto=str_replace($msl_md5[$i], $geshi_msl[$i], $this->texto);
-            }
-
-            // Limpando as besteiras que não precisam ser repetidas (e coloquei depois dos codes porque
-            // aqui corrijo o negócio com os
-
-    ```
-s.
-        $this->texto=preg_replace("/
-
-<p>
-  [[:blank:]]*
-
-  ```
-(.*)< /pre>[[:blank:]]*< /p>/sU", "<\/pre>
-
-```
-\1<\/pre>", $this->texto);
-        $this->texto=preg_replace("/</p>
-
-<p>
-  [[:blank:]]*
-
-  <ul>
-    (.*)< /ul>[[:blank:]]*< /p>/sU", "
-  </ul>
-
-  <ul>
-    \1
-  </ul>", $this->texto);
-          $this->texto=preg_replace("/
-</p>
-
-<p>
-  [[:blank:]]*<h (.)>(.*)< /h\1>[[:blank:]]*< /p>/sU", "</h><h \1>\2</h>", $this->texto);
+          // Limpando as besteiras que não precisam ser repetidas (e coloquei depois dos codes porque
+          // aqui corrijo o negócio com os <pre>s.
+          $this->texto=preg_replace("/<p>[[:blank:]]*<pre>(.*)< /pre>[[:blank:]]*< /p>/sU", "<\/pre><pre>\1<\/pre>", $this->texto);
+          $this->texto=preg_replace("/</p><p>[[:blank:]]*<ul>(.*)< /ul>[[:blank:]]*< /p>/sU", "</ul><ul>\1</ul>", $this->texto);
+          $this->texto=preg_replace("/</p><p>[[:blank:]]*<h (.)>(.*)< /h\1>[[:blank:]]*< /p>/sU", "</h><h \1>\2</h>", $this->texto);
           $this->texto=preg_replace("/< ([^>]+)>[[:blank:]]?< /\1>/", "", $this->texto);
 
           // E pra finalizar, o mais mala de todos... =)
-          $this->texto.="n";
+          $this->texto.="\n";
       }
   }
   ?>
 ```
 
+Tá bem comentado e queria pedir pra quem puder, dar uma testada com ele (coloquem uns BBCodes errados e coisas que vocês acham que eu não iria prever). Aí embaixo então a parte das estatísticas, para as quais estou usando um pouco do código do Shortstat. Ela tá assim por enquanto:
 
-  <p>
-    Tá bem comentado e queria pedir pra quem puder, dar uma testada com ele (coloquem uns BBCodes errados e coisas que vocês acham que eu não iria prever). Aí embaixo então a parte das estatísticas, para as quais estou usando um pouco do código do Shortstat. Ela tá assim por enquanto:
-  </p>
+#### Estatísticas
 
-
-  <h4>
-    Estatísticas
-  </h4>
-
-
-  ```php
-< ?php
+```php
+<?php
 class Estatisticas {
     var $ip, $pais, $codigopais, $referer, $url, $dominio, $res, $useragent, $navegador, $versaonavegador, $plataforma, $unixtime;
 
@@ -450,10 +366,7 @@ class Estatisticas {
 ?>
 ```
 
-
-  <p>
-    Bom... Esses dois códigos estão em desenvolvimento ainda, mas acho que com o tempo vão melhorando. Tem umas coisas na parte de Regex que eu queria tornar mais simples mas ainda não descobri como! :blink: Quem quiser sugerir, sinta-se a vontade.
-  </p>
+Bom... Esses dois códigos estão em desenvolvimento ainda, mas acho que com o tempo vão melhorando. Tem umas coisas na parte de Regex que eu queria tornar mais simples mas ainda não descobri como! :blink: Quem quiser sugerir, sinta-se a vontade.
 
  [1]: http://www.linuxmall.com.br/index.php?product_id=656
 

@@ -19,33 +19,33 @@ Vamos fingir que você é um cara mau que ao invés de comprar CDs legalmente (c
 
 Vejam como é simples e adaptem para as suas necessidades:
 
-<pre class="ruby"><span style="color: rgb(204, 0, 102); font-weight: bold;">require</span> <span style="color: rgb(153, 102, 0);">"taglib"</span>
- 
-<span style="color: rgb(153, 102, 0);">`ls BEATLES`</span>.<span style="color: rgb(204, 0, 102); font-weight: bold;">split</span><span style="color: rgb(0, 102, 0); font-weight: bold;">(</span><span style="color: rgb(153, 102, 0);">"<span style="color: rgb(0, 0, 153);">n</span>"</span><span style="color: rgb(0, 102, 0); font-weight: bold;">)</span>.<span style="color: rgb(153, 0, 204);">each</span> <span style="color: rgb(153, 102, 204); font-weight: bold;">do</span> |album|
-        <span style="color: rgb(153, 102, 0);">`ls "BEATLES/#{album}"`</span>.<span style="color: rgb(204, 0, 102); font-weight: bold;">split</span><span style="color: rgb(0, 102, 0); font-weight: bold;">(</span><span style="color: rgb(153, 102, 0);">"<span style="color: rgb(0, 0, 153);">n</span>"</span><span style="color: rgb(0, 102, 0); font-weight: bold;">)</span>.<span style="color: rgb(153, 0, 204);">each</span> <span style="color: rgb(153, 102, 204); font-weight: bold;">do</span> |filename|
-                path=<span style="color: rgb(153, 102, 0);">"BEATLES/#{album}/#{filename}"</span>
+```ruby
+require "taglib"
 
-                <span style="color: rgb(153, 102, 204); font-weight: bold;">if</span> filename.<span style="color: rgb(153, 0, 204);">match</span><span style="color: rgb(0, 102, 0); font-weight: bold;">(</span>/mp3$/<span style="color: rgb(0, 102, 0); font-weight: bold;">)</span> <span style="color: rgb(153, 102, 204); font-weight: bold;">then</span>
-                        file=TagLib::File.<span style="color: rgb(153, 0, 204);">new</span><span style="color: rgb(0, 102, 0); font-weight: bold;">(</span>path<span style="color: rgb(0, 102, 0); font-weight: bold;">)</span>
+`ls BEATLES`.split("n").each do |album|
+  `ls "BEATLES/#{album}"`.split("n").each do |filename|
+    path="BEATLES/#{album}/#{filename}"
 
-                        a=filename.<span style="color: rgb(204, 0, 102); font-weight: bold;">split</span><span style="color: rgb(0, 102, 0); font-weight: bold;">(</span><span style="color: rgb(153, 102, 0);">" - "</span><span style="color: rgb(0, 102, 0); font-weight: bold;">)</span>
-                        track=a<span style="color: rgb(0, 102, 0); font-weight: bold;">[</span>a.<span style="color: rgb(153, 0, 204);">length</span><span style="color: rgb(0, 102, 102);">-2</span><span style="color: rgb(0, 102, 0); font-weight: bold;">]</span>.<span style="color: rgb(153, 0, 204);">to_i</span>
+    if filename.match(/mp3$/) then
+      file=TagLib::File.new(path)
 
-                        title=a<span style="color: rgb(0, 102, 0); font-weight: bold;">[</span>a.<span style="color: rgb(153, 0, 204);">length</span><span style="color: rgb(0, 102, 102);">-1</span><span style="color: rgb(0, 102, 0); font-weight: bold;">]</span>.<span style="color: rgb(204, 0, 102); font-weight: bold;">gsub</span><span style="color: rgb(0, 102, 0); font-weight: bold;">(</span>/.<span style="color: rgb(153, 0, 204);">mp3</span>/, ''<span style="color: rgb(0, 102, 0); font-weight: bold;">)</span>
-                        file.<span style="color: rgb(153, 0, 204);">track</span>=track
-                        file.<span style="color: rgb(153, 0, 204);">genre</span>=<span style="color: rgb(153, 102, 0);">"Pop/Rock"</span>
+      a=filename.split(" - ")
+      track=a[a.length-2].to_i
 
-                        file.<span style="color: rgb(153, 0, 204);">artist</span>=<span style="color: rgb(153, 102, 0);">"The Beatles"</span>
-                        file.<span style="color: rgb(153, 0, 204);">album</span>=album
-                        file.<span style="color: rgb(153, 0, 204);">title</span>=title
-                        file.<span style="color: rgb(153, 0, 204);">save</span>
-                        file.<span style="color: rgb(153, 0, 204);">close</span>
+      title=a[a.length-1].gsub(/.mp3/, '')
+      file.track=track
+      file.genre="Pop/Rock"
 
-                <span style="color: rgb(153, 102, 204); font-weight: bold;">else</span>
-                        <span style="color: rgb(204, 0, 102); font-weight: bold;">puts</span> <span style="color: rgb(153, 102, 0);">"Tem um lixo por aí... Delete '#{path}'!"</span>
-                <span style="color: rgb(153, 102, 204); font-weight: bold;">end</span>
-        <span style="color: rgb(153, 102, 204); font-weight: bold;">end</span>
-<span style="color: rgb(153, 102, 204); font-weight: bold;">end</span>
+      file.artist="The Beatles"
+      file.album=album
+      file.title=title
+      file.save
+      file.close
+    else
+      puts "Tem um lixo por aí... Delete '#{path}'!"
+    end
+  end
+end
 ```
 
  [1]: http://tiagomadeira.com/2008/07/howto-como-baixar-filmes-com-legenda-na-internet/

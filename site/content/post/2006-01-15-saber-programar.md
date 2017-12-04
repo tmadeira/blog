@@ -19,21 +19,14 @@ Este artigo pode ter ficado meio confuso… Acho que acabei me perdendo no meio�
 
 **Lógica da Programação**
 
-Estava me perguntando hoje:
-
-_“O que é a lógica da programação?”_
-
-E não consegui obter nenhuma resposta
-
-com exatidão.
-
-Afinal, o que é esse negócio
-
-que “todo programador tem que saber”
-
-e que até cursos existem
-
-para o profissional aprender?
+> Estava me perguntando hoje:  
+> _“O que é a lógica da programação?”_  
+> E não consegui obter nenhuma resposta  
+> com exatidão.  
+> Afinal, o que é esse negócio  
+> que “todo programador tem que saber”  
+> e que até cursos existem  
+> para o profissional aprender?
 
 Desculpem… Não pude resistir… Hehehe :D Escrevi algo parecido e coube direitinho, aí dei uma modificada pra ficar em forma de “poesia”. Mas vamos ao artigo…
 
@@ -73,9 +66,7 @@ E cheguei a conclusão portanto de que lógica é a capacidade que a pessoa tem 
 
 Concorda? Não concorda? Comente!
 
-<p style="font-style:italic;font-size:80%;">
-  * Importante observar que o Professor Vavá nunca elogiaria o seu "Professor Rival"... Na verdade, ele colocou um aviso bem grande na questão: "Deduções lógicas podem às vezes estar erradas, como acontece, por exemplo, nesse caso." :)
-</p>
+\* Importante observar que o Professor Vavá nunca elogiaria o seu "Professor Rival"... Na verdade, ele colocou um aviso bem grande na questão: "Deduções lógicas podem às vezes estar erradas, como acontece, por exemplo, nesse caso." :)
 
  [1]: http://www.leandromatos.com.br
  [2]: http://www.leandromatos.com.br/pt/artigo.php?id=9

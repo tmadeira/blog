@@ -25,21 +25,16 @@ Um algoritmo é um procedimento computacional definido que recebe um ou mais val
 
 Vamos supôr por exemplo que temos a função:
 
-
-<img src='https://s0.wp.com/latex.php?latex=f%28x%29+%3D+%5Cfrac%7Bx%5E%7B2%7D%7D%7B3%7D&bg=T&fg=000000&s=0' alt='f(x) = \frac{x^{2}}{3}' title='f(x) = \frac{x^{2}}{3}' class='latex' />
+$$f(x) = \frac{x^{2}}{3}$$
 
 A sua entrada é o **x** e a sua saída é o **y** (ou **f(x)**, o valor que a função retorna).
 
 O algoritmo aqui seria o seginte:
 
-<li style="color:red;">
-  Entrada: Receber o valor X.
-</li>
-  1. Elevar X ao quadrado e guardar o número resultante como Z.
-  2. Dividir Z por 3 e guardar o número resultante como Y.
-<li style="color:blue;">
-  Saída: Imprimir o valor Y.
-</li>
+1. Entrada: Receber o valor X.
+2. Elevar X ao quadrado e guardar o número resultante como Z.
+3. Dividir Z por 3 e guardar o número resultante como Y.
+4. Saída: Imprimir o valor Y.
 
 O algoritmo, portanto, é a lógica do nosso problema matemático, ou, informático. É a seqüência de passos que eu faço na minha cabeça (ou, quando é complexo, no papel) antes de escrever, em C, a função **f**:
 
@@ -54,25 +49,13 @@ int f(int x) {
 
 Se formos pensar, veremos que tudo o que fazemos é um algoritmo, é um procedimento que recebe uma entrada e envia uma saída. Não só no computador, mas na vida. Quando eu falo com alguém, eu espero sua entrada (o que a pessoa fala pra mim), então penso e transformo essa entrada numa saída (a resposta que vou dar pra pessoa). E assim é com várias outras coisas. Podemos dizer também que acordar é um algoritmo, por exemplo:
 
-<li style="color:red;">
-  Entrada: Meu cérebro disse que eu estou acordado!
-</li>
-  1. Percebi que acordei, mas estou com sono. Espero um pouco.
-<li style="color:blue;">
-  Saída: Abrir os olhos.
-</li>
-<li style="color:blue;">
-  Saída: Se espreguiçar.
-</li>
-<li style="color:blue;">
-  Saída: Tirar a coberta.
-</li>
-<li style="color:blue;">
-  Saída: Sentar na cama.
-</li>
-<li style="color:blue;">
-  Saída: Sair da cama.
-</li>
+1. Entrada: Meu cérebro disse que eu estou acordado!
+2. Percebi que acordei, mas estou com sono. Espero um pouco.
+3. Saída: Abrir os olhos.
+4. Saída: Se espreguiçar.
+5. Saída: Tirar a coberta.
+6. Saída: Sentar na cama.
+7. Saída: Sair da cama.
 
 Podem existir vários algoritmos diferentes para resolver o mesmo problema. No caso de **Acordar**, cada um acorda de forma diferente, por exemplo. Foi até um exemplo meio estranho esse aí, mas outro algoritmo poderia dar outra saída, como por exemplo simplesmente abrir os olhos e cair da cama. Ou no caso acima da função matemática, poderíamos ter um algoritmo que fizesse a mesma coisa de maneira diferente também.
 

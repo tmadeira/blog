@@ -79,24 +79,25 @@ export DISPLAY=":0"
   * Os dois iguais (==) são para expressar condição, como no C (e em um monte de linguagens derivadas dele).
   * O “=” atribui
   * O “+=” atribui “mais uma coisa” (_append_)
-      * O “:=” atribui uma coisa como constante (ou seja, neste caso eu ou os scripts de regras da minha distro não conseguem mais mudar o valor do “RUN”).</ul>
-    ##### Variáveis do exemplo
+  * O “:=” atribui uma coisa como constante (ou seja, neste caso eu ou os scripts de regras da minha distro não conseguem mais mudar o valor do “RUN”).
 
-      * **ACTION**: A ação que está sendo feita com o dispositivo (neste caso é a adição dele – _add_)
-      * **BUS**: Barramento. Neste caso, a USB.
-      * **SYSFS**: Variáveis específicas deste dispositivo (depois vou mostrar como encontramos elas)
-      * **GROUP**: Grupo em que o dispositivo está.
-      * **MODE**: Permissões do dispositivo.
-      * **SYMLINK**: Links simbólicos para o dispositivo.
-      * **RUN**: Comando Shell para executar.
+##### Variáveis do exemplo
 
-    Não conheço todas as variáveis, mas para saber mais você pode consultar o [Writing udev rules][11] (o objetivo desse post não é entrar em detalhes).
+  * **ACTION**: A ação que está sendo feita com o dispositivo (neste caso é a adição dele – _add_)
+  * **BUS**: Barramento. Neste caso, a USB.
+  * **SYSFS**: Variáveis específicas deste dispositivo (depois vou mostrar como encontramos elas)
+  * **GROUP**: Grupo em que o dispositivo está.
+  * **MODE**: Permissões do dispositivo.
+  * **SYMLINK**: Links simbólicos para o dispositivo.
+  * **RUN**: Comando Shell para executar.
 
-    #### udevmonitor
+Não conheço todas as variáveis, mas para saber mais você pode consultar o [Writing udev rules][11] (o objetivo desse post não é entrar em detalhes).
 
-    O **udevmonitor** é um aplicativo que imprime os eventos recebidos pelo Kernel e o evento que o **udev** manda depois do proessamento de regras em tempo real. Veja o que acontece, por exemplo, quando pluggo uma máquina digital na minha porta USB:
+#### udevmonitor
 
-    ```
+O **udevmonitor** é um aplicativo que imprime os eventos recebidos pelo Kernel e o evento que o **udev** manda depois do proessamento de regras em tempo real. Veja o que acontece, por exemplo, quando pluggo uma máquina digital na minha porta USB:
+
+```
 UEVENT[1158086870.385094] add@/devices/pci0000:00/0000:00:02.0/usb1/1-1
 UEVENT[1158086870.388950] add@/devices/pci0000:00/0000:00:02.0/usb1/1-1/1-1:1.0
 UEVENT[1158086870.389571] add@/class/usb_device/usbdev1.3
@@ -104,9 +105,9 @@ UDEV  [1158086870.390983] add@/devices/pci0000:00/0000:00:02.0/usb1/1-1
 UDEV  [1158086870.404378] add@/devices/pci0000:00/0000:00:02.0/usb1/1-1/1-1:1.0
 ```
 
-    É interessante para acompanharmos os dispositivos que são encontrados pelo **udev**. Veja agora o **udevmonitor** quando eu despluggo a minha máquina:
+É interessante para acompanharmos os dispositivos que são encontrados pelo **udev**. Veja agora o **udevmonitor** quando eu despluggo a minha máquina:
 
-    ```
+```
 UEVENT[1158089965.438657] remove@/devices/pci0000:00/0000:00:02.0/usb1/1-1/1-1:1.0
 UEVENT[1158089965.438765] remove@/class/usb_device/usbdev1.3
 UEVENT[1158089965.438794] remove@/devices/pci0000:00/0000:00:02.0/usb1/1-1
@@ -115,22 +116,23 @@ UDEV  [1158089965.443341] remove@/class/usb_device/usbdev1.3
 UDEV  [1158089965.444795] remove@/devices/pci0000:00/0000:00:02.0/usb1/1-1
 ```
 
-    #### udevinfo
+#### udevinfo
 
-    O **udevinfo** imprime informações sobre um dispositivo. Para descobrir que o **SYSFS{product}** da minha máquina era **Canon Digital Camera** foi este comando que eu utilizei, da seguinte maneira:
+O **udevinfo** imprime informações sobre um dispositivo. Para descobrir que o **SYSFS{product}** da minha máquina era **Canon Digital Camera** foi este comando que eu utilizei, da seguinte maneira:
 
-    ```
+```
 <strong># udevinfo -q all -n usbdev1.4</strong>
 P: /class/usb_device/usbdev1.4
 N: usbdev1.4
 S: bus/usb/1/4
 ```
 
-    (descobri que ela estava na **usbdev1.4** usando o **udevmonitor**)
+(descobri que ela estava na **usbdev1.4** usando o **udevmonitor**)
 
-    Aí agora sabendo o _path_ eu descobri todo o resto: (a saída é grande, use a barra de rolagem)
+Aí agora sabendo o _path_ eu descobri todo o resto: (a saída é grande, use a barra de rolagem)
 
-    <pre style="overflow:auto; max-height:250px;"><strong># udevinfo -a -p /class/usb_device/usbdev1.4</strong>
+```
+# udevinfo -a -p /class/usb_device/usbdev1.4
 Udevinfo starts with the device specified by the devpath and then
 walks up the chain of parent devices. It prints for every device
 found, all possible attributes in the udev rules key format.
@@ -209,24 +211,23 @@ and the attributes from one single parent device.
     ID=="pci0000:00"
     BUS==""
     DRIVER==""
-
 ```
 
-    ### Os contras
+### Os contras
 
-    Hmmm… Na verdade, pelo que eu me lembro da palestra, o **udev** só tem um contra. Ele vai detectando os dispositivos e jogando-os no **/dev** na ordem em que ele vai encontrando-os. Então, às vezes a minha placa de rede SiS pode ser detectada como **eth0** e a Realtek como **eth1** e no outro dia o contrário. Mas contornar isso é muito simples, usando aquelas regras (e inclusive podemos dar os nomes **/dev/placa-sis** e **/dev/placa-realtek** para nossas placas). =)
+Hmmm… Na verdade, pelo que eu me lembro da palestra, o **udev** só tem um contra. Ele vai detectando os dispositivos e jogando-os no **/dev** na ordem em que ele vai encontrando-os. Então, às vezes a minha placa de rede SiS pode ser detectada como **eth0** e a Realtek como **eth1** e no outro dia o contrário. Mas contornar isso é muito simples, usando aquelas regras (e inclusive podemos dar os nomes **/dev/placa-sis** e **/dev/placa-realtek** para nossas placas). =)
 
-    ### Encontrou um erro?
+### Encontrou um erro?
 
-    Eu ainda tô conhecendo o **udev** (como eu disse, conheci ele nesse final de semana), então meu texto pode ter alguma falha ou pode estar faltando alguma informação. Por favor, comente se encontrar algum erro ou quiser sugerir algo legal… =)
+Eu ainda tô conhecendo o **udev** (como eu disse, conheci ele nesse final de semana), então meu texto pode ter alguma falha ou pode estar faltando alguma informação. Por favor, comente se encontrar algum erro ou quiser sugerir algo legal… =)
 
-    ### Para mais informações…
+### Para mais informações…
 
-    ```
+```
 $ man udev
 ```
 
-    … e a [página do udev][12]
+… e a [página do udev][12]
 
  [1]: http://www.linuxchix.org.br/?q=node/71
  [2]: http://www.fug.com.br

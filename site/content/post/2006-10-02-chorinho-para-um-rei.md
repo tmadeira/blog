@@ -23,49 +23,29 @@ Chega de enrolação, curtam a letra!
 ### Chorinho para um rei
 
 > Este chorinho tão chorado e caprichado que eu fiz
-
 > Foi dedicado ao Jacob do Bandolim
-
 > Que foi um rei e como tal foi coroado
-
 > Lá no céu entronizado, seu reinado não tem fim
->
 > Naquela sala uma cadeira está vazia,
-
 > Mas por Deus eu juraria
-
 > que no céu tem outra igual
-
 > Onde ele senta nas noites de lua cheia
-
 > vem do mar brincar na areia de sua terra natal
->
 > Enquanto aqui na terra a noite é de seresta
-
 > La no céu também tem festa, ninguém quer que chegue o fim
-
 > Até os santos se esquecem das promessas
-
 > escutando distraídos o Jacob do Bandolim
->
 > Há muita gente que machuca esse instrumento
-
 > mas ninguém tira o lamento que ele só soube tirar
-
 > O bandolim aconchegado junto ao peito
-
 > soava de um certo jeito, parecia até falar
-
 > O bandolim aconchegado junto ao peito
-
 > soava de um certo jeito, parecia até falar
 >
 > Quando chegar a minha vez de ir embora,
-
 > Pode ser até agora, peço só um favor pra mim:
 >
 > Quero levar o meu chorinho caprichado
-
 > Só pra ouvir interpretado por Jacob do Bandolim.
 
  [1]: http://brunopinheiro.com.br/blog/2004_07_01_archive.php

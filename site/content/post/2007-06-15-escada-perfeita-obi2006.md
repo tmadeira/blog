@@ -50,33 +50,33 @@ Seu programa deve imprimir, na _saída padrão_, uma única linha, contendo um i
 #### Exemplo 1
 
 ```
-<strong>Entrada</strong>
+Entrada
 5
 5 4 5 4 2
 
-<strong>Saída</strong>
+Saída
 5
 ```
 
 #### Exemplo 2
 
 ```
-<strong>Entrada</strong>
+Entrada
 6
 9 8 7 6 5 4
 
-<strong>Saída</strong>
+Saída
 9
 ```
 
 #### Exemplo 3
 
 ```
-<strong>Entrada</strong>
+Entrada
 2
 1 5
 
-<strong>Saída</strong>
+Saída
 -1
 ```
 
@@ -86,41 +86,43 @@ OK. Estão prontos?
 
 Depois de pensar um pouco, conclui-se que:
 
-  1. A **escada perfeita** é uma <acronym title="Progressão aritmética">PA</acronym> de razão 1 (aumenta de um em um). Você lembra disso do seu primeiro ano do Ensino Médio? Senão, é bom dar uma [relembrada][3]. As fórmulas (simples e facilmente deduzíveis) da PA são:
+1. A **escada perfeita** é uma <acronym title="Progressão aritmética">PA</acronym> de razão 1 (aumenta de um em um). Você lembra disso do seu primeiro ano do Ensino Médio? Senão, é bom dar uma [relembrada][3]. As fórmulas (simples e facilmente deduzíveis) da PA são:
 
-    #### Termo geral da PA
+#### Termo geral da PA
 
+$$a\_{n} = a\_{1} + (n-1).r$$
 
-<img src='https://s0.wp.com/latex.php?latex=a_%7Bn%7D+%3D+a_%7B1%7D+%2B+%28n-1%29.r&bg=T&fg=000000&s=0' alt='a_{n} = a_{1} + (n-1).r' title='a_{n} = a_{1} + (n-1).r' class='latex' />
-    #### Soma de PA
+#### Soma de PA
 
+$$S\_{n} = (a\_{1}+a\_{n}).\frac{n}{2}$$
 
-<img src='https://s0.wp.com/latex.php?latex=%5Cdisplaystyle+S_%7Bn%7D+%3D+%28a_%7B1%7D%2Ba_%7Bn%7D%29.%5Cfrac%7Bn%7D%7B2%7D&bg=T&fg=000000&s=0' alt='\displaystyle S_{n} = (a_{1}+a_{n}).\frac{n}{2}' title='\displaystyle S_{n} = (a_{1}+a_{n}).\frac{n}{2}' class='latex' /> </li>
+2. Sabemos quanto vale **n** (o número de pilhas, número de elementos da PA) e conseguimos calcular a **soma de todos os elementos** (podemos fazer isso até durante o loop da entrada, certo?)
 
-      * Sabemos quanto vale **n** (o número de pilhas, número de elementos da PA) e conseguimos calcular a **soma de todos os elementos** (podemos fazer isso até durante o loop da entrada, certo?)
-      * Sabemos quanto vale a razão (r=1).
-      * Substituindo o que sabemos nas fórmulas conseguimos formar um sistema de equações básico e desta forma torna-se fácil descobrir o valor do primeiro e do último termo da PA ( <img src='https://s0.wp.com/latex.php?latex=a_%7B1%7D&bg=T&fg=000000&s=0' alt='a_{1}' title='a_{1}' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=a_%7Bn%7D&bg=T&fg=000000&s=0' alt='a_{n}' title='a_{n}' class='latex' />). Resumindo um pouco os cálculos, depois de alguma manipulação algébrica você chega a:
-<img src='https://s0.wp.com/latex.php?latex=%5Cdisplaystyle+a_%7Bn%7D+%3D+%5Cfrac%7B%5Cfrac%7B2.S_%7Bn%7D%7D%7Bn%7D%2Bn-1%7D%7B2%7D&bg=T&fg=000000&s=0' alt='\displaystyle a_{n} = \frac{\frac{2.S_{n}}{n}+n-1}{2}' title='\displaystyle a_{n} = \frac{\frac{2.S_{n}}{n}+n-1}{2}' class='latex' />
+3. Sabemos quanto vale a razão (r=1).
 
-<img src='https://s0.wp.com/latex.php?latex=%5Cdisplaystyle+a_%7B1%7D+%3D+1+%2B+a_%7Bn%7D+-+n&bg=T&fg=000000&s=0' alt='\displaystyle a_{1} = 1 + a_{n} - n' title='\displaystyle a_{1} = 1 + a_{n} - n' class='latex' /> </li>
+4. Substituindo o que sabemos nas fórmulas conseguimos formar um sistema de equações básico e desta forma torna-se fácil descobrir o valor do primeiro e do último termo da PA (\\(a\_{1}\\) e \\(a\_{n}\\)). Resumindo um pouco os cálculos, depois de alguma manipulação algébrica você chega a:
 
-          * Agora que já sabemos onde começa e onde termina a escada basta fazer um loop em cada fila de blocos e adicionar à uma variável _movimentos_ a quantidade de quadradinhos que estão sobrando nesta fileira (por exemplo, na primeira fileira da figura do enunciado está sobrando três quadradinhos para chegar ao <img src='https://s0.wp.com/latex.php?latex=a_%7B1%7D%3D2&bg=T&fg=000000&s=0' alt='a_{1}=2' title='a_{1}=2' class='latex' />). Ao mesmo tempo, adicionamos à outra variável (_moves_) a quantidade de quadradinhos que devem ser retirados **ou** colocados na fileira (porque depois se esta variável não for igual a 0 imprimimos -1). Ficou claro?</ol>
+$$a\_{n} = \frac{\frac{2.S\_{n}}{n}+n-1}{2}$$
 
-        ### Implementação
+$$a\_{1} = 1 + a\_{n} - n$$
 
-        #### Variáveis
+5. Agora que já sabemos onde começa e onde termina a escada basta fazer um loop em cada fila de blocos e adicionar à uma variável _movimentos_ a quantidade de quadradinhos que estão sobrando nesta fileira (por exemplo, na primeira fileira da figura do enunciado está sobrando três quadradinhos para chegar ao \\(a\_{1}=2\\)). Ao mesmo tempo, adicionamos à outra variável (_moves_) a quantidade de quadradinhos que devem ser retirados **ou** colocados na fileira (porque depois se esta variável não for igual a 0 imprimimos -1). Ficou claro?
 
-          * **n**: número de degraus (fileiras de blocos)
-          * **a**: <img src='https://s0.wp.com/latex.php?latex=a_%7B1%7D&bg=T&fg=000000&s=0' alt='a_{1}' title='a_{1}' class='latex' />, número de blocos do primeiro degrau.
-          * **b**: <img src='https://s0.wp.com/latex.php?latex=a_%7Bn%7D&bg=T&fg=000000&s=0' alt='a_{n}' title='a_{n}' class='latex' />, número de blocos do último degrau.
-          * **soma**: <img src='https://s0.wp.com/latex.php?latex=S_%7Bn%7D&bg=T&fg=000000&s=0' alt='S_{n}' title='S_{n}' class='latex' />, soma da PA.
-          * **pilha[]**: vetor de degraus.
-          * **movimentos** e **moves**: explicados no quinto passo da solução.
-          * **i** e **j**: variáveis auxiliares para fazer os _loops_.
+### Implementação
 
-        #### Codeado em C
+#### Variáveis
 
-        ```c
+  * **n**: número de degraus (fileiras de blocos)
+  * **a**: \\(a\_{1}\\), número de blocos do primeiro degrau.
+  * **b**: \\(a\_{n}\\) , número de blocos do último degrau.
+  * **soma**: \\(S\_{n}\\) , soma da PA.
+  * **pilha[]**: vetor de degraus.
+  * **movimentos** e **moves**: explicados no quinto passo da solução.
+  * **i** e **j**: variáveis auxiliares para fazer os _loops_.
+
+#### Codeado em C
+
+```c
 #include <stdio.h>
 #define PMAX 10001
 
@@ -150,16 +152,16 @@ int main() {
     }
 
     if (moves!=0) {
-        printf("-1n");
+        printf("-1\n");
     } else {
-        printf("%dn", movimentos);
+        printf("%d\n", movimentos);
     }
 
     return 0;
 }
 ```
 
-        Prontinho! Qualquer dúvida escrevam seus comentários.
+Prontinho! Qualquer dúvida escrevam seus comentários.
 
  [1]: http://olimpiada.ic.unicamp.br
  [2]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2007/06/ilustraescada1.gif

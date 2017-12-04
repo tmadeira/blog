@@ -34,16 +34,16 @@ Achei a possibilidade tão legal que resolvi fazer um programa para nunca mais p
 #### Exemplo de funcionamento
 
 ```
-<strong>$ ls</strong>
+$ ls
 Amelie [Amélie Poulain].2001.BRRip.x264.AAC[5.1]-VLiS.mkv
-<strong>$ downloadsubtitle Amelie\ \[Amélie\ Poulain\].2001.BRRip.x264.AAC\[5.1\]-VLiS.mkv pob</strong>
+$ downloadsubtitle Amelie\ \[Amélie\ Poulain\].2001.BRRip.x264.AAC\[5.1\]-VLiS.mkv pob
 Requested language: pob
 Movie hash: bcdc90cf4873c09b
 Subtitle ID: 4642726
 Subtitle: Amelie [Amélie Poulain].2001.BRRip.x264.AAC[5.1]-VLiS.srt
-<strong>$ ls</strong>
+$ ls
 Amelie [Amélie Poulain].2001.BRRip.x264.AAC[5.1]-VLiS.mkv  Amelie [Amélie Poulain].2001.BRRip.x264.AAC[5.1]-VLiS.srt
-<strong>$ </strong>
+$
 ```
 
 E aí o filme está pronto para você assistir com o `mplayer` ou com o seu programa favorito.
@@ -52,7 +52,8 @@ E aí o filme está pronto para você assistir com o `mplayer` ou com o seu prog
 
 Este é o código inicial. Está aqui para fins históricos. Não será atualizado. Use a próxima seção (Download) para baixar a última versão, com bugs corrigidos, tratamento de erros e possivelmente novas funcionalidades.
 
-<pre lang="c" src="oshash.c">#include <stdio.h>
+```c
+#include <stdio.h>
 #include <stdlib.h>
 
 void usage(char *name) {
@@ -84,7 +85,8 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-<pre lang="bash" src="downloadsubtitle">#!/bin/bash
+```bash
+#!/bin/bash
 
 usage() {
     echo "Usage: $0 <file> [lang]"
@@ -113,10 +115,7 @@ output=$(echo "$1" | sed 's/\.[^.]*$/.srt/')
 oshash=$(oshash "$1")
 echo "Movie hash: $oshash"
 subid=$(wget "http://www.opensubtitles.org/en/search/sublanguageid-$lang/moviehash-$oshash/rss_2_00" -q -O - \
-    | grep '
-
-<link />
-.*en/subtitles' | sed 's|.*en/subtitles/||; s|/.*||' | head -n1)
+    | grep '<link />.*en/subtitles' | sed 's|.*en/subtitles/||; s|/.*||' | head -n1)
 echo "Subtitle ID: $subid"
 wget "http://www.opensubtitles.org/en/subtitleserve/sub/$subid" -q -O - | gunzip > "$output" 2> /dev/null
 echo "Subtitle: $output"

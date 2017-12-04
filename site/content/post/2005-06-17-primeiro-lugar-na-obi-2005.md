@@ -26,14 +26,11 @@ O segundo lugar, de Fortaleza, fez 300 pontos.
 
 Agora vou pra UNICAMP em julho fazer o curso de programação avançada (com tópicos muito legais, que vão acabar com muitas dúvidas minhas – como Programação Dinâmica e Algoritmos Gulosos) disputar uma vaga na IOI na Polônia. Acho difícil conseguir vencer, até porque cinco pessoas gabaritaram a **Programação Nível 2** (ou seis?), mas vou me esforçar para chegar o mais perto possível das quatro vagas.
 
-#### Programas em Bash usados para ver o resultado antes do normal
+### Programas em Bash usados para ver o resultado antes do normal
 
-<div>
-  <h4>
-    Primeiro Programa
-  </h4>
+#### Primeiro Programa
 
-  ```bash
+```bash
 #!/bin/bash
 
 musica="/ntfs/Program Files/MSN Messenger/type.wav"
@@ -51,10 +48,7 @@ else
 fi
 ```
 
-  <p>
-    Este programa verifica quando o site é atualizado. Quando a música tocou, o navegador se abriu e vi que apareceu um novo link (Copy of …)
-  </p>
-</div>
+Este programa verifica quando o site é atualizado. Quando a música tocou, o navegador se abriu e vi que apareceu um novo link (Copy of …)
 
 #### Segundo Programa
 

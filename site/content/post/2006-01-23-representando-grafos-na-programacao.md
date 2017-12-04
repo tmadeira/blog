@@ -45,7 +45,7 @@ Para representar um grafo, cada vértice **sempre** vai ser um número. No caso 
 
 ### Matriz de Adjacência
 
-A matriz de adjacência é uma matriz de **N x N** (onde **N** é o número de vértices do grafo). Ela inicialmente é preenchida toda com **** e quando há uma relação entre o vértice do _x_ (**número da coluna**) com o do _y_ (**número da linha**), _matriz\[x\]\[y\]_ é marcado um **1**.
+A matriz de adjacência é uma matriz de **N x N** (onde **N** é o número de vértices do grafo). Ela inicialmente é preenchida toda com **0** e quando há uma relação entre o vértice do _x_ (**número da coluna**) com o do _y_ (**número da linha**), _matriz\[x\]\[y\]_ é marcado um **1**.
 
 Vamos escrever este [grafo aqui][2] usando uma matriz de adjacência:
 
@@ -199,77 +199,58 @@ Essas são as **cinco arestas** do nosso grafo. Vamos representá-la na **matriz
 <table>
   <tr>
     <td>
-       
     </td>
-
     <td>
       <strong>1</strong>
     </td>
-
     <td>
       <strong>2</strong>
     </td>
-
     <td>
       <strong>3</strong>
     </td>
-
     <td>
       <strong>4</strong>
     </td>
-
     <td>
       <strong>5</strong>
     </td>
   </tr>
-
   <tr>
     <td>
       <strong>1</strong>
     </td>
-
     <td>
     </td>
-
     <td class="preto">
       1
     </td>
-
     <td class="preto">
       1
     </td>
-
     <td>
     </td>
-
     <td>
     </td>
   </tr>
-
   <tr>
     <td>
       <strong>2</strong>
     </td>
-
     <td class="preto">
       1
     </td>
-
     <td>
     </td>
-
     <td class="preto">
       1
     </td>
-
     <td class="preto">
       1
     </td>
-
     <td>
     </td>
   </tr>
-
   <tr>
     <td>
       <strong>3</strong>
@@ -292,7 +273,6 @@ Essas são as **cinco arestas** do nosso grafo. Vamos representá-la na **matriz
     <td>
     </td>
   </tr>
-
   <tr>
     <td>
       <strong>4</strong>
@@ -315,7 +295,6 @@ Essas são as **cinco arestas** do nosso grafo. Vamos representá-la na **matriz
       1
     </td>
   </tr>
-
   <tr>
     <td>
       <strong>5</strong>
@@ -358,29 +337,25 @@ Alguns desses programas são complicados, mas isto não entra em questão. Apena
   * [Pedágio][11]
   * [Rede Ótica][12]
 
-* – **Grafo orientado**
-
-+ – **Grafo ponderado** (veremos no próximo artigo)
-
+\* – **Grafo orientado**  
+\+ – **Grafo ponderado** (veremos no próximo artigo)  
 X – Não queira ver esse problema. Nunca vi solução mais feia. Já estou providenciando uma implementação mais decente… ;)
 
 #### Descobrir o grau de cada vértice
 
 Eu não disse pra vocês que era fácil conseguir emprego no [Orkut][13]? Hehehe… Vamos pensar como podemos descobrir o grau (relembrando… o número de arestas que cada vértice tem OU o número de amigos que cada pessoa tem) na matriz de adjacências. Não basta contar quantos **1**s tem na sua linha correspondente? Então façamos isto.
 
-```
-<strong>para</strong> <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-	<em>grau</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 0
-	<strong>para</strong> <em>j</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+	<em>grau</em> <span class="tex-render">\leftarrow{}</span> 0
+	<strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
 		<strong>se</strong> <em>matriz[i][j] = 1</em>, <strong>então</strong>
-			<em>grau</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>grau</em> + 1
+			<em>grau</em> <span class="tex-render">\leftarrow{}</span> <em>grau</em> + 1
 		<strong>fim-se</strong>
 	<strong>fim-para</strong>
 	<strong>imprima</strong> "O vértice " <em>i</em> " tem grau " <em>grau</em> "."
-<strong>fim-para</strong>
-```
+<strong>fim-para</strong></code></pre>
 
-O custo é  <img src='https://s0.wp.com/latex.php?latex=%5CTheta%7B%7D%28n%5E%7B2%7D%29&bg=T&fg=000000&s=0' alt='\Theta{}(n^{2})' title='\Theta{}(n^{2})' class='latex' />até no melhor caso… Será que não há uma maneira mais simples de fazer isso? Imagina um negócio do tamanho do Orkut. Milhões de pessoas… Não seria bem mais fácil se ao invés de termos que passar por todos os vértices, só passarmos pelos amigos? Não poderíamos colocar somente seus amigos num vetor? É por isto que utilizamos a **lista de adjacência**.
+O custo é \\(\Theta{}(n^{2})\\) até no melhor caso… Será que não há uma maneira mais simples de fazer isso? Imagina um negócio do tamanho do Orkut. Milhões de pessoas… Não seria bem mais fácil se ao invés de termos que passar por todos os vértices, só passarmos pelos amigos? Não poderíamos colocar somente seus amigos num vetor? É por isto que utilizamos a **lista de adjacência**.
 
 ### Lista de Adjacência
 
@@ -722,53 +697,47 @@ Vamos trabalhar com uma entrada de vários **x, y**, indicando relação entre x
 
 #### Matriz de Adjacências
 
-```
-<strong>para</strong> <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-	<strong>para</strong> <em>j</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-		<em>matriz[i][j]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 0
+<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+	<strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+		<em>matriz[i][j]</em> <span class="tex-render">\leftarrow{}</span> 0
 	<strong>fim-para</strong>
 <strong>fim-para</strong>
 
-<strong>enquanto</strong> (<strong>recebe</strong> <em>x</em>, <em>y</em> <strong>e</strong> <em>x <img src='https://s0.wp.com/latex.php?latex=%5Cneq%7B%7D&bg=T&fg=000000&s=0' alt='\neq{}' title='\neq{}' class='latex' /> 0</em>), <strong>faça</strong>
-	<em>matriz[x][y]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>1</em>
-	<em>matriz[y][x]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>1</em>
-<strong>fim-enquanto</strong>
-```
+<strong>enquanto</strong> (<strong>recebe</strong> <em>x</em>, <em>y</em> <strong>e</strong> <em>x <span class="tex-render">\neq{}</span> 0</em>), <strong>faça</strong>
+	<em>matriz[x][y]</em> <span class="tex-render">\leftarrow{}</span> <em>1</em>
+	<em>matriz[y][x]</em> <span class="tex-render">\leftarrow{}</span> <em>1</em>
+<strong>fim-enquanto</strong></code></pre>
 
 Tem vários exemplos implementados em C [aqui][14].
 
 #### Lista de Adjacências
 
-```
-<strong>para</strong> <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-	<em>grau[i]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 0
+<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+	<em>grau[i]</em> <span class="tex-render">\leftarrow{}</span> 0
 <strong>fim-para</strong>
 
-<strong>enquanto</strong> (<strong>recebe</strong> <em>x</em>, <em>y</em> <strong>e</strong> <em>x <img src='https://s0.wp.com/latex.php?latex=%5Cneq%7B%7D&bg=T&fg=000000&s=0' alt='\neq{}' title='\neq{}' class='latex' /> 0</em>), <strong>faça</strong>
-	<em>lista[x][grau[x]++]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>y</em>
-	<em>lista[y][grau[y]++]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>x</em>
-<strong>fim-enquanto</strong>
-```
+<strong>enquanto</strong> (<strong>recebe</strong> <em>x</em>, <em>y</em> <strong>e</strong> <em>x <span class="tex-render">\neq{}</span> 0</em>), <strong>faça</strong>
+	<em>lista[x][grau[x]++]</em> <span class="tex-render">\leftarrow{}</span> <em>y</em>
+	<em>lista[y][grau[y]++]</em> <span class="tex-render">\leftarrow{}</span> <em>x</em>
+<strong>fim-enquanto</strong></code></pre>
 
 Para quem não programa em **C**, o _variavel++_ significa “incrementar _variavel_ depois da instrução atual”.
 
 #### As duas juntas
 
-```
-<strong>para</strong> <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-	<strong>para</strong> <em>j</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-		<em>matriz[i][j]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 0
+<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+	<strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+		<em>matriz[i][j]</em> <span class="tex-render">\leftarrow{}</span> 0
 	<strong>fim-para</strong>
-	<em>grau[i]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 0
+	<em>grau[i]</em> <span class="tex-render">\leftarrow{}</span> 0
 <strong>fim-para</strong>
 
-<strong>enquanto</strong> (<strong>recebe</strong> <em>x</em>, <em>y</em> <strong>e</strong> <em>x <img src='https://s0.wp.com/latex.php?latex=%5Cneq%7B%7D&bg=T&fg=000000&s=0' alt='\neq{}' title='\neq{}' class='latex' /> 0</em>), <strong>faça</strong>
-	<em>matriz[x][y]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>1</em>
-	<em>matriz[y][x]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>1</em>
-	<em>lista[x][grau[x]++]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>y</em>
-	<em>lista[y][grau[y]++]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>x</em>
-<strong>fim-enquanto</strong>
-```
+<strong>enquanto</strong> (<strong>recebe</strong> <em>x</em>, <em>y</em> <strong>e</strong> <em>x <span class="tex-render">\neq{}</span> 0</em>), <strong>faça</strong>
+	<em>matriz[x][y]</em> <span class="tex-render">\leftarrow{}</span> <em>1</em>
+	<em>matriz[y][x]</em> <span class="tex-render">\leftarrow{}</span> <em>1</em>
+	<em>lista[x][grau[x]++]</em> <span class="tex-render">\leftarrow{}</span> <em>y</em>
+	<em>lista[y][grau[y]++]</em> <span class="tex-render">\leftarrow{}</span> <em>x</em>
+<strong>fim-enquanto</strong></code></pre>
 
 ### Qual a representação que devo utilizar?
 

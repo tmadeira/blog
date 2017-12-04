@@ -25,22 +25,22 @@ Então pensei: são 31 dias por mês, 12 meses por ano, 100 anos considerando qu
 
 A idéia de fazer com essas datas de nascimento veio do fato de vários usuários leigos que conheço utilizarem data de nascimento pra suas senhas (muito também pelo fato de eles usarem essa mesma senha nas senhas de seis dígitos numéricos do banco e esse tipo de coisa). Então lá fui eu pro código. A princípio escrevi em cerca de 30 segundos – 1 minuto o seguinte código em Ruby:
 
-<pre class="ruby"><span style="color: rgb(204, 0, 102); font-weight: bold;">require</span> <span style="color: rgb(153, 102, 0);">"md5"</span>
- 
-<span style="color: rgb(0, 102, 102);">100</span>.<span style="color: rgb(153, 0, 204);">times</span> <span style="color: rgb(153, 102, 204); font-weight: bold;">do</span> |ano|
-        <span style="color: rgb(0, 102, 102);">12</span>.<span style="color: rgb(153, 0, 204);">times</span> <span style="color: rgb(153, 102, 204); font-weight: bold;">do</span> |j|
-                mes = j<span style="color: rgb(0, 102, 102);">+1</span>
+```ruby
+require "md5"
 
-                <span style="color: rgb(0, 102, 102);">31</span>.<span style="color: rgb(153, 0, 204);">times</span> <span style="color: rgb(153, 102, 204); font-weight: bold;">do</span> |i|
-                        dia = i<span style="color: rgb(0, 102, 102);">+1</span>
-                        <span style="color: rgb(204, 0, 102); font-weight: bold;">string</span> = <span style="color: rgb(204, 0, 102); font-weight: bold;">sprintf</span><span style="color: rgb(0, 102, 0); font-weight: bold;">(</span><span style="color: rgb(153, 102, 0);">"%02d%02d%02d"</span>, dia, mes, ano<span style="color: rgb(0, 102, 0); font-weight: bold;">)</span>
+100.times do |ano|
+  12.times do |j|
+    mes = j+1
 
-                        md5 = MD5.<span style="color: rgb(153, 0, 204);">new</span><span style="color: rgb(0, 102, 0); font-weight: bold;">(</span><span style="color: rgb(204, 0, 102); font-weight: bold;">string</span><span style="color: rgb(0, 102, 0); font-weight: bold;">)</span>.<span style="color: rgb(153, 0, 204);">to_s</span>
-                        <span style="color: rgb(204, 0, 102); font-weight: bold;">puts</span> <span style="color: rgb(153, 102, 0);">"#{string}: #{md5}"</span>
-                <span style="color: rgb(153, 102, 204); font-weight: bold;">end</span>
+    31.times do |i|
+      dia = i+1
+      string = sprintf("%02d%02d%02d", dia, mes, ano)
 
-        <span style="color: rgb(153, 102, 204); font-weight: bold;">end</span>
-<span style="color: rgb(153, 102, 204); font-weight: bold;">end</span>
+      md5 = MD5.new(string).to_s
+      puts "#{string}: #{md5}"
+    end
+  end
+end
 ```
 
 É funcional e até eficiente…
@@ -55,80 +55,73 @@ sys     0m0.028s
 
 Mas minha geekialidade não permitiu que eu parasse por aqui. Nesse momento eu já nem me lembrava do freelance que estava fazendo e resolvi ver como usar MD5 em C. Meu primeiro chute foi um `man md5` no terminal, que já me retornou a resposta da vida, do universo e tudo mais: o cabeçalho openssl/md5.h e sua função MD5:
 
-```
+```c
 unsigned char *MD5(const unsigned char *d, unsigned long n,
                  unsigned char *md);
-
 ```
 
 Então lá fui eu pro programa:
 
-<pre class="c"><span style="color: rgb(51, 153, 51);">#include <stdio.h></span>
-<span style="color: rgb(51, 153, 51);">#include <openssl/md5.h></span>
- 
-<span style="color: rgb(153, 51, 51);">int</span> main<span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(102, 204, 102);">)</span> <span style="color: rgb(102, 204, 102);">{</span>
+```c
+#include <stdio.h>
+#include <openssl/md5.h>
 
-        <span style="color: rgb(153, 51, 51);">int</span> dia, mes, ano;
-        <span style="color: rgb(153, 51, 51);">unsigned</span> <span style="color: rgb(153, 51, 51);">char</span> <span style="color: rgb(153, 51, 51);">string</span><span style="color: rgb(102, 204, 102);">[</span>STRING_LENGTH<span style="color: rgb(102, 204, 102);">]</span>, md<span style="color: rgb(102, 204, 102);">[</span>MD5_DIGEST_LENGTH<span style="color: rgb(102, 204, 102);">]</span>;
-        <span style="color: rgb(177, 177, 0);">for</span> <span style="color: rgb(102, 204, 102);">(</span>ano = <span style="color: rgb(204, 102, 204);"></span>; ano < <span style="color: rgb(204, 102, 204);">100</span>; ano++<span style="color: rgb(102, 204, 102);">)</span> <span style="color: rgb(102, 204, 102);">{</span>
-
-                <span style="color: rgb(177, 177, 0);">for</span> <span style="color: rgb(102, 204, 102);">(</span>mes = <span style="color: rgb(204, 102, 204);"></span>; mes < <span style="color: rgb(204, 102, 204);">12</span>; mes++<span style="color: rgb(102, 204, 102);">)</span> <span style="color: rgb(102, 204, 102);">{</span>
-                        <span style="color: rgb(177, 177, 0);">for</span> <span style="color: rgb(102, 204, 102);">(</span>dia = <span style="color: rgb(204, 102, 204);"></span>; dia < <span style="color: rgb(204, 102, 204);">31</span>; dia++<span style="color: rgb(102, 204, 102);">)</span> <span style="color: rgb(102, 204, 102);">{</span>
-
-                                sprintf<span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(153, 51, 51);">string</span>, <span style="color: rgb(255, 0, 0);">"%02d%02d%02d"</span>, dia<span style="color: rgb(204, 102, 204);">+1</span>, mes<span style="color: rgb(204, 102, 204);">+1</span>, ano<span style="color: rgb(102, 204, 102);">)</span>;
-                                <a href="http://www.opengroup.org/onlinepubs/009695399/functions/printf.html"><span style="color: rgb(0, 0, 102);">printf</span></a><span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(255, 0, 0);">"%s<span style="color: rgb(0, 0, 153); font-weight: bold;">n</span>"</span>, MD5<span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(153, 51, 51);">string</span>, <span style="color: rgb(153, 51, 51);">sizeof</span><span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(153, 51, 51);">string</span><span style="color: rgb(102, 204, 102);">)</span>, md<span style="color: rgb(102, 204, 102);">)</span><span style="color: rgb(102, 204, 102);">)</span>;
-                        <span style="color: rgb(102, 204, 102);">}</span>
-
-                <span style="color: rgb(102, 204, 102);">}</span>
-        <span style="color: rgb(102, 204, 102);">}</span>
-        <span style="color: rgb(177, 177, 0);">return</span> <span style="color: rgb(204, 102, 204);"></span>;
-<span style="color: rgb(102, 204, 102);">}</span>
+int main() {
+  int dia, mes, ano;
+  unsigned char string[STRING_LENGTH], md[MD5_DIGEST_LENGTH];
+  for (ano = 0; ano < 100; ano++) {
+    for (mes = 0; mes < 12; mes++) {
+      for (dia = 0; dia < 31; dia++) {
+        sprintf(string, "%02d%02d%02d", dia+1, mes+1, ano);
+        printf("%sn", MD5(string, sizeof(string), md));
+      }
+    }
+  }
+  return 0;
+}
 ```
 
 Ao rodar, recebi saídas com caracteres estranhos e nenhum resultado visível. Corri pro Google. Procurei, procurei, e NINGUÉM usa essa maldita função MD5 do C num programa simples e não há exemplos nem howto de como utilizá-la. Depois de uns 30 minutos quebrando a cabeça (pra mais), percebi que alguns códigos que usavam isso na internet usavam %x (é o código pro printf imprimir inteiros hexadecimais) para imprimir caracteres do MD5 na tela. Aí encontrei algo assim:
 
-<pre class="c"><a href="http://www.opengroup.org/onlinepubs/009695399/functions/printf.html"><span style="color: rgb(0, 0, 102);">printf</span></a><span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(255, 0, 0);">"%x%x...%x%x"</span>, md<span style="color: rgb(102, 204, 102);">[</span><span style="color: rgb(204, 102, 204);"></span><span style="color: rgb(102, 204, 102);">]</span>, md<span style="color: rgb(102, 204, 102);">[</span><span style="color: rgb(204, 102, 204);">1</span><span style="color: rgb(102, 204, 102);">]</span>, ..., md<span style="color: rgb(102, 204, 102);">[</span><span style="color: rgb(204, 102, 204);">14</span><span style="color: rgb(102, 204, 102);">]</span>, md<span style="color: rgb(102, 204, 102);">[</span><span style="color: rgb(204, 102, 204);">15</span><span style="color: rgb(102, 204, 102);">]</span><span style="color: rgb(102, 204, 102);">)</span>;
+```c
+printf("%x%x...%x%x", md[0], md[1], ..., md[14], md[15]);
 ```
 
 (e pior que estou falando sério… tem gente na internet que não conhece `for`!)
 
 E caiu a ficha. O MD5 tem 16 inteiros hexadecimais de um byte, 32 caracteres. Escrever o código abaixo me tomou bastante tempo, mas uma aprendizagem interessante e um ânimo pra voltar pro meu freelance:
 
-<pre class="c"><span style="color: rgb(51, 153, 51);">#include <stdio.h></span>
-<span style="color: rgb(51, 153, 51);">#include <openssl/md5.h></span>
- 
-<span style="color: rgb(51, 153, 51);">#define STRING_LENGTH 6</span>
- 
-<span style="color: rgb(153, 51, 51);">int</span> main<span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(102, 204, 102);">)</span> <span style="color: rgb(102, 204, 102);">{</span>
+```c
+#include <stdio.h>
+#include <openssl/md5.h>
 
-        <span style="color: rgb(153, 51, 51);">int</span> dia, ano, mes;
-        <span style="color: rgb(153, 51, 51);">int</span> i;
-        <span style="color: rgb(153, 51, 51);">unsigned</span> <span style="color: rgb(153, 51, 51);">char</span> md<span style="color: rgb(102, 204, 102);">[</span>MD5_DIGEST_LENGTH<span style="color: rgb(102, 204, 102);">]</span>, <span style="color: rgb(153, 51, 51);">string</span><span style="color: rgb(102, 204, 102);">[</span>STRING_LENGTH<span style="color: rgb(102, 204, 102);">]</span>;
+#define STRING_LENGTH 6
 
- 
-        <span style="color: rgb(177, 177, 0);">for</span> <span style="color: rgb(102, 204, 102);">(</span>ano = <span style="color: rgb(204, 102, 204);"></span>; ano < <span style="color: rgb(204, 102, 204);">100</span>; ano++<span style="color: rgb(102, 204, 102);">)</span> <span style="color: rgb(102, 204, 102);">{</span>
-                <span style="color: rgb(177, 177, 0);">for</span> <span style="color: rgb(102, 204, 102);">(</span>mes = <span style="color: rgb(204, 102, 204);"></span>; mes < <span style="color: rgb(204, 102, 204);">12</span>; mes++<span style="color: rgb(102, 204, 102);">)</span> <span style="color: rgb(102, 204, 102);">{</span>
+int main() {
+  int dia, ano, mes;
+  int i;
+  unsigned char md[MD5_DIGEST_LENGTH], string[STRING_LENGTH];
 
-                        <span style="color: rgb(177, 177, 0);">for</span> <span style="color: rgb(102, 204, 102);">(</span>dia = <span style="color: rgb(204, 102, 204);"></span>; dia < <span style="color: rgb(204, 102, 204);">31</span>; dia++<span style="color: rgb(102, 204, 102);">)</span> <span style="color: rgb(102, 204, 102);">{</span>
-                                sprintf<span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(153, 51, 51);">string</span>, <span style="color: rgb(255, 0, 0);">"%02d%02d%02d"</span>, dia<span style="color: rgb(204, 102, 204);">+1</span>, mes<span style="color: rgb(204, 102, 204);">+1</span>, ano<span style="color: rgb(102, 204, 102);">)</span>;
-                                MD5<span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(153, 51, 51);">string</span>, <span style="color: rgb(153, 51, 51);">sizeof</span><span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(153, 51, 51);">string</span><span style="color: rgb(102, 204, 102);">)</span>, md<span style="color: rgb(102, 204, 102);">)</span>;
-                                <a href="http://www.opengroup.org/onlinepubs/009695399/functions/printf.html"><span style="color: rgb(0, 0, 102);">printf</span></a><span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(255, 0, 0);">"%s: "</span>, <span style="color: rgb(153, 51, 51);">string</span><span style="color: rgb(102, 204, 102);">)</span>;
-                                <span style="color: rgb(177, 177, 0);">for</span> <span style="color: rgb(102, 204, 102);">(</span>i = <span style="color: rgb(204, 102, 204);"></span>; i < <span style="color: rgb(204, 102, 204);">16</span>; i++<span style="color: rgb(102, 204, 102);">)</span> <span style="color: rgb(102, 204, 102);">{</span>
-
-                                        <a href="http://www.opengroup.org/onlinepubs/009695399/functions/printf.html"><span style="color: rgb(0, 0, 102);">printf</span></a><span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(255, 0, 0);">"%02x"</span>, md<span style="color: rgb(102, 204, 102);">[</span>i<span style="color: rgb(102, 204, 102);">]</span><span style="color: rgb(102, 204, 102);">)</span>; <span style="color: rgb(128, 128, 128); font-style: italic;">/* Note isso aqui! */</span>
-                                <span style="color: rgb(102, 204, 102);">}</span>
-                                <a href="http://www.opengroup.org/onlinepubs/009695399/functions/printf.html"><span style="color: rgb(0, 0, 102);">printf</span></a><span style="color: rgb(102, 204, 102);">(</span><span style="color: rgb(255, 0, 0);">"<span style="color: rgb(0, 0, 153); font-weight: bold;">n</span>"</span><span style="color: rgb(102, 204, 102);">)</span>;
-                        <span style="color: rgb(102, 204, 102);">}</span>
-
-                <span style="color: rgb(102, 204, 102);">}</span>
-        <span style="color: rgb(102, 204, 102);">}</span>
-        <span style="color: rgb(177, 177, 0);">return</span> <span style="color: rgb(204, 102, 204);"></span>;
-<span style="color: rgb(102, 204, 102);">}</span>
+  for (ano = 0; ano < 100; ano++) {
+    for (mes = 0; mes < 12; mes++) {
+      for (dia = 0; dia < 31; dia++) {
+        sprintf(string, "%02d%02d%02d", dia+1, mes+1, ano);
+        MD5(string, sizeof(string), md);
+        printf("%s: ", string);
+        for (i = 0; i < 16; i++) {
+          printf("%02x", md[i]); /* Note isso aqui! */
+        }
+        printf("n");
+      }
+    }
+  }
+  return 0;
+}
 ```
 
 O “Note isso aqui!” ainda foi uma sacanagem incrível, o código que eu disse do cara que imprimia %x%x%x… não funciona na prática, porque quando um dos dígitos é 0X, ele só imprime X.
 
-Enfim compilei meu código com `-lssl` (importante para C-zeiros de primeira viagem) e voi lá:
+Enfim compilei meu código com `-lssl` (importante para C-zeiros de primeira viagem) e _voi lá_:
 
 ```
 tiago@flick ~ $ time ./md5 > hashes-c
@@ -144,10 +137,10 @@ Pra quem se pergunta se eu realmente fiz tudo certo:
 
 ```
 tiago@flick ~ $ diff senhas-c senhas-ruby
-tiago@flick ~ $ 
+tiago@flick ~ $
 ```
 
-(ie. ou eu errei nos dois ou eu não errei em nenhum)
+(i.e. ou eu errei nos dois ou eu não errei em nenhum)
 
 Útil, não? Não. Na verdade isso não serve pra absolutamente nada, a não ser que você roube o banco de dados de alguém e esse alguém usa como senha a data de nascimento da sua mãe. Mas aí ele merece mesmo que você pegue sua senha, então isso não muda nada.
 

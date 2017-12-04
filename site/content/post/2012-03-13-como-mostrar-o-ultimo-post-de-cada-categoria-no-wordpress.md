@@ -111,10 +111,7 @@ $q = mysql_query($query); // $query é a string com aquele SQLzão
 $print_final_li = false;
 $first = true;
 while ($a = mysql_fetch_array($q, MYSQL_ASSOC)) {
-    echo "\t\t
-
-<li>
-  ";
+    echo "\t\t<li>\n";
       $permalink = get_permalink($a["id"]);
       $title = $a["title"];
       if ($title == "") {
@@ -135,8 +132,7 @@ while ($a = mysql_fetch_array($q, MYSQL_ASSOC)) {
       }
       if ($print_final_li) break;
       echo "<a class="post" href="$permalink" title="$title">$title</a>";
-      echo "
-</li>\n";
+      echo "</li>\n";
 }
 while ($a = mysql_fetch_array($q, MYSQL_ASSOC)) {
     $cats = explode(",", $a["cat"]);

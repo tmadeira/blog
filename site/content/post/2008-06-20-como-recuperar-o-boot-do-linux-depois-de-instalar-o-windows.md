@@ -38,12 +38,12 @@ Agora o que vamos fazer é montar a partição root do seu Linux (e considerarei
 Se o seu terminal terminar com um caractere $ (cifrão), digite “sudo su” para virar root. Agora pode digitar o que segue:
 
 ```
-# mkdir linux<br />
-# mount /dev/hda1 linux<br />
-# mount -o bind /dev linux/dev<br />
-# mount -t proc none linux/proc<br />
-# chroot linux /bin/bash<br />
-# source /etc/profile<br />
+# mkdir linux
+# mount /dev/hda1 linux
+# mount -o bind /dev linux/dev
+# mount -t proc none linux/proc
+# chroot linux /bin/bash
+# source /etc/profile
 # cat /proc/mounts > /etc/mtab
 ```
 
@@ -66,9 +66,9 @@ Agora, se você usa Grub (se não, provavelmente esse comando não dará problem
 E pronto! Limpando a sujeira…
 
 ```
-# exit<br />
-# umount linux/proc<br />
-# umount linux/dev<br />
+# exit
+# umount linux/proc
+# umount linux/dev
 # umount linux
 ```
 
@@ -77,16 +77,16 @@ E pode rebootar pro seu velho Linux.
 Se você não tinha Windows antes, o Windows não vai por mágica aparecer nas suas opções de boot. Então, no seu velho Linux, é só editar o arquivo /boot/grub/menu.lst (pra quem usa Grub) ou /etc/lilo.conf (pra quem usa Lilo) e colocar linhas para bootar o Windows, respectivamente:
 
 ```
-title Windows<br />
-rootnoverify (hd0,1)<br />
-makeactive<br />
+title Windows
+rootnoverify (hd0,1)
+makeactive
 chainloader +1
 ```
 
 e
 
 ```
-other=/dev/hda2<br />
+other=/dev/hda2
 label=Windows
 ```
 

@@ -17,7 +17,7 @@ tags:
   - will smith
 
 ---
-Lá por volta de 2007, na época em que saiu, assisti [À Procura da Felicidade (The Pursuit of Happ_y_ness)][1] em Santa Catarina. Na ocasião, minha impressão sobre o filme não foi boa e, com efeito, na minha memória não restava nada de positivo sobre ele. Me incomodou muito a mensagem do roteiro, algo como _“não importa quão ferrado você está; se esforçando e acreditando nos seus sonhos você só depende de você para subir na vida”_.
+Lá por volta de 2007, na época em que saiu, assisti [À Procura da Felicidade (The Pursuit of Happ<em>y</em>ness)][1] em Santa Catarina. Na ocasião, minha impressão sobre o filme não foi boa e, com efeito, na minha memória não restava nada de positivo sobre ele. Me incomodou muito a mensagem do roteiro, algo como _“não importa quão ferrado você está; se esforçando e acreditando nos seus sonhos você só depende de você para subir na vida”_.
 
 Inspirado pela ideia de assistir filmes que se passam em San Francisco e particularmente por ter visto um cartaz de um músico de rua na Chinatown dizendo que ele apareceu no filme, resolvi encará-lo novamente na semana passada. Dessa vez, achei tão brilhante que me vejo obrigado a escrever esta nota, que quero compartilhar com meus amigos no Brasil, para recomendá-lo.
 

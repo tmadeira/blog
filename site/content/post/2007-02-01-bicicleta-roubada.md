@@ -17,7 +17,7 @@ tags:
 ---
 31/01. 20h.
 
-Um indivíduo tirou o cadeado da minha Caloi Terra 21v vermelha e azul. Saiu correndo pela rua Camboriú. No centro da cidade, na frente da casa da Carol. Bem na hora que eu estava saindo pra pegar a bicicleta. No começo laggei. Nessas situações eu sempre bóio alguns segundos até perceber o que está acontecendo. Eu vi de longe o cara correndo. Tentei correr atrás do cara. Sujeito negro, camiseta branca, calção preto e chinelo; cara de malaco. Desisti.
+Um indivíduo tirou o cadeado da minha Caloi Terra 21v vermelha e azul. Saiu correndo pela rua Camboriú. No centro da cidade, na frente da casa da Carol. Bem na hora que eu estava saindo pra pegar a bicicleta. No começo laggei. Nessas situações eu sempre bóio alguns segundos até perceber o que está acontecendo. Eu vi de longe o cara correndo. Tentei correr atrás do cara. Sujeito negro, camiseta branca, calção preto e chinelo. Desisti.
 
 Liguei pra polícia. Cinco minutos de perguntas e do policial com uma calma impressionante no telefone. Com uma determinação incrível, 10 minutos depois, o ladrão já poderia estar em Balneário e o policial afirma: _“Vamos mandar uma viatura”_. Ótimo.
 

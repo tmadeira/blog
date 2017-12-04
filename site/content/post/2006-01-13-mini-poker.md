@@ -45,12 +45,12 @@ No início do jogo, cada jogador recebe cinco cartas. O conjunto de cinco cartas
 
 As regras para pontuação em Mini-Poker são as seguintes:
 
-  1. Se as cinco cartas estão em seqüência a partir da carta  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />(ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x%2B1&bg=T&fg=000000&s=0' alt='x+1' title='x+1' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x%2B2&bg=T&fg=000000&s=0' alt='x+2' title='x+2' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=x%2B3&bg=T&fg=000000&s=0' alt='x+3' title='x+3' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=x%2B4&bg=T&fg=000000&s=0' alt='x+4' title='x+4' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x%2B200&bg=T&fg=000000&s=0' alt='x+200' title='x+200' class='latex' />pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
-  2. Se há quatro cartas iguais  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />(uma _quadra_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x%2B180&bg=T&fg=000000&s=0' alt='x+180' title='x+180' class='latex' />pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
-  3. Se há três cartas iguais  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />e outras duas cartas iguais  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />(uma _trinca_ e um _par_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x%2B160&bg=T&fg=000000&s=0' alt='x+160' title='x+160' class='latex' />pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
-  4. Se há três cartas iguais  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />e duas outras cartas diferentes  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />e  <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />(uma _trinca_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x%2B140&bg=T&fg=000000&s=0' alt='x+140' title='x+140' class='latex' />pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
-  5. Se há duas cartas iguais <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, duas outras cartas iguais  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />(<img src='https://s0.wp.com/latex.php?latex=x+%5Cneq%7B%7D+y&bg=T&fg=000000&s=0' alt='x \neq{} y' title='x \neq{} y' class='latex' />) e uma outra carta distinta  <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />(dois _pares_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=3+%5Ctimes%7B%7D+x+%2B+2+%5Ctimes%7B%7D+y+%2B+20&bg=T&fg=000000&s=0' alt='3 \times{} x + 2 \times{} y + 20' title='3 \times{} x + 2 \times{} y + 20' class='latex' />pontos, em que <img src='https://s0.wp.com/latex.php?latex=x+%3E+y&bg=T&fg=000000&s=0' alt='x > y' title='x > y' class='latex' />. Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
-  6. Se há apenas duas cartas iguais  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />e as outras são distintas (um _par_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=t&bg=T&fg=000000&s=0' alt='t' title='t' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
+  1. Se as cinco cartas estão em seqüência a partir da carta \\(x\\) (ou seja, os valores das cartas são \\(x\\), \\(x+1\\), \\(x+2\\), \\(x+3\\) e \\(x+4\\)), a pontuação é \\(x+200\\) pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
+  2. Se há quatro cartas iguais \\(x\\) (uma _quadra_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(x\\), \\(x\\) e \\(y\\)), a pontuação é \\(x+180\\) pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
+  3. Se há três cartas iguais \\(x\\) e outras duas cartas iguais \\(y\\) (uma _trinca_ e um _par_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(x\\), \\(y\\) e \\(y\\)), a pontuação é \\(x+160\\) pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
+  4. Se há três cartas iguais \\(x\\) e duas outras cartas diferentes \\(y\\) e \\(z\\) (uma _trinca_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(x\\), \\(y\\) e \\(z\\)), a pontuação é \\(x+140\\) pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
+  5. Se há duas cartas iguais \\(x\\), duas outras cartas iguais \\(y\\) (\\(x \neq{} y\\)) e uma outra carta distinta \\(z\\) (dois _pares_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(y\\), \\(y\\) e \\(z\\)), a pontuação é \\(3 \times{} x + 2 \times{} y + 20\\) pontos, em que \\(x > y\\). Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
+  6. Se há apenas duas cartas iguais \\(x\\) e as outras são distintas (um _par_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(y\\), \\(z\\) e \\(t\\)), a pontuação é \\(x\\) pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
   7. Se todas as cartas são distintas, não há pontuação.
 
 #### Tarefa
@@ -59,7 +59,7 @@ Escreva um programa que, fornecidas as cartas dadas a um jogador, calcule a pont
 
 #### Entrada
 
-A entrada é composta por vários casos de teste, cada um correspondendo a uma jogada. A primeira linha da entrada contém um número inteiro  <img src='https://s0.wp.com/latex.php?latex=N&bg=T&fg=000000&s=0' alt='N' title='N' class='latex' />que indica o número de casos de teste (<img src='https://s0.wp.com/latex.php?latex=1+%5Cleq%7B%7D+N+%5Cleq%7B%7D+100&bg=T&fg=000000&s=0' alt='1 \leq{} N \leq{} 100' title='1 \leq{} N \leq{} 100' class='latex' />). Cada uma das  <img src='https://s0.wp.com/latex.php?latex=N&bg=T&fg=000000&s=0' alt='N' title='N' class='latex' />linhas seguintes contém cinco números inteiros <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D&bg=T&fg=000000&s=0' alt='C_{1}' title='C_{1}' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{2}' title='C_{2}' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{3}' title='C_{3}' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{4}' title='C_{4}' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{5}' title='C_{5}' class='latex' />, representando as cinco cartas recebidas por um jogador (<img src='https://s0.wp.com/latex.php?latex=1+leq%7B%7D+C_%7B1%7D%2C+C_%7B2%7D%2C+C_%7B3%7D%2C+C_%7B4%7D%2C+C_%7B5%7D+%5Cleq%7B%7D+13&bg=T&fg=000000&s=0' alt='1 leq{} C_{1}, C_{2}, C_{3}, C_{4}, C_{5} \leq{} 13' title='1 leq{} C_{1}, C_{2}, C_{3}, C_{4}, C_{5} \leq{} 13' class='latex' />).
+A entrada é composta por vários casos de teste, cada um correspondendo a uma jogada. A primeira linha da entrada contém um número inteiro \\(N\\) que indica o número de casos de teste (\\(1 \leq{} N \leq{} 100\\)). Cada uma das \\(N\\) linhas seguintes contém cinco números inteiros \\(C\_{1}\\), \\(C\_{2}\\), \\(C\_{3}\\), \\(C\_{4}\\) e \\(C\_{5}\\), representando as cinco cartas recebidas por um jogador (\\(1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13\\)).
 
 _A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado)._
 
@@ -71,9 +71,8 @@ _A saída deve ser escrita no dispositivo de saída padrã (normalmente a tela)_
 
 #### Restrições
 
-
-<img src='https://s0.wp.com/latex.php?latex=1+%5Cleq%7B%7D+N+%5Cleq%7B%7D+100&bg=T&fg=000000&s=0' alt='1 \leq{} N \leq{} 100' title='1 \leq{} N \leq{} 100' class='latex' />
-<img src='https://s0.wp.com/latex.php?latex=1+%5Cleq%7B%7D+C_%7B1%7D%2C+C_%7B2%7D%2C+C_%7B3%7D%2C+C_%7B4%7D%2C+C_%7B5%7D+%5Cleq%7B%7D+13&bg=T&fg=000000&s=0' alt='1 \leq{} C_{1}, C_{2}, C_{3}, C_{4}, C_{5} \leq{} 13' title='1 \leq{} C_{1}, C_{2}, C_{3}, C_{4}, C_{5} \leq{} 13' class='latex' />
+\\(1 \leq{} N \leq{} 100\\)
+\\(1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13\\)
 
 #### Exemplo de Entrada
 
@@ -91,7 +90,6 @@ Teste 1
 
 Teste 2
 201
-
 ```
 
 * * *
@@ -110,22 +108,18 @@ Com o tempo você pode decidir fazer um caminho diferente, mas eu sugiro começa
 
 O problema fala que começa nos dando um número _N_ que será o número de casos de teste que teremos que receber depois. Sem dificuldade podemos escrever o _pseudo_código a seguir:
 
-```
-<strong>recebe</strong> N
-<strong>para</strong> <em>nteste</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-<strong>fim-para</strong>
-```
+<pre><code>recebe</strong> N
+<strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+<strong>fim-para</strong></code></pre>
 
 Já chamo a variável que loopa como _nteste_, porque já li a saída do problema e sei que vou precisar imprimir o número de caad caso de teste… ;)
 
-Aí o enunciado diz que <q>Cada uma das <img src='https://s0.wp.com/latex.php?latex=N&bg=T&fg=000000&s=0' alt='N' title='N' class='latex' /> linhas seguintes contém cinco números inteiros <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D&bg=T&fg=000000&s=0' alt='C_{1}' title='C_{1}' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{2}' title='C_{2}' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{3}' title='C_{3}' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{4}' title='C_{4}' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{5}' title='C_{5}' class='latex' />, representando as cinco cartas recebidas por um jogador (<img src='https://s0.wp.com/latex.php?latex=1+%5Cleq%7B%7D+C_%7B1%7D%2C+C_%7B2%7D%2C+C_%7B3%7D%2C+C_%7B4%7D%2C+C_%7B5%7D+%5Cleq%7B%7D+13&bg=T&fg=000000&s=0' alt='1 \leq{} C_{1}, C_{2}, C_{3}, C_{4}, C_{5} \leq{} 13' title='1 \leq{} C_{1}, C_{2}, C_{3}, C_{4}, C_{5} \leq{} 13' class='latex' />).</q> Então, vamos receber os cinco números em cada iteração e colocá-los num vetor, é claro!
+Aí o enunciado diz que <q>Cada uma das \\(N\\) linhas seguintes contém cinco números inteiros \\(C\_{1}\\), \\(C\_{2}\\), \\(C\_{3}\\), \\(C\_{4}\\) e \\(C\_{5}\\), representando as cinco cartas recebidas por um jogador (\\(1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13\\)).</q> Então, vamos receber os cinco números em cada iteração e colocá-los num vetor, é claro!
 
-```
-<strong>recebe</strong> N
-<strong>para</strong> <em>nteste</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-    <strong>recebe</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D%2C+C_%7B2%7D%2C+C_%7B3%7D%2C+C_%7B4%7D%2C+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{1}, C_{2}, C_{3}, C_{4}, C_{5}' title='C_{1}, C_{2}, C_{3}, C_{4}, C_{5}' class='latex' />
-<strong>fim-para</strong>
-```
+<pre><code><strong>recebe</strong> N
+<strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+    <strong>recebe</strong> <span class="tex-render">C_{1}, C_{2}, C_{3}, C_{4}, C_{5}</span>
+<strong>fim-para</strong></code></pre>
 
 E a entrada está pronta.
 
@@ -133,27 +127,25 @@ E a entrada está pronta.
 
 O programa se baseia em encontrarmos valores iguais nos elementos do vetor. O que podemos fazer para facilitar essa tarefa?
 
-Isso mesmo: A ordenação! :D Se os elementos estiverem ordenados, ficará bem mais fácil para procurarmos quatro números iguais, porque eles não poderão ser qualquer uma das possibilidades, mas somente  <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D%2C+C_%7B2%7D%2C+C_%7B3%7D%2C+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{1}, C_{2}, C_{3}, C_{4}' title='C_{1}, C_{2}, C_{3}, C_{4}' class='latex' />ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D%2C+C_%7B3%7D%2C+C_%7B4%7D%2C+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{2}, C_{3}, C_{4}, C_{5}' title='C_{2}, C_{3}, C_{4}, C_{5}' class='latex' />.
+Isso mesmo: A ordenação! :D Se os elementos estiverem ordenados, ficará bem mais fácil para procurarmos quatro números iguais, porque eles não poderão ser qualquer uma das possibilidades, mas somente \\(C\_{1}, C\_{2}, C\_{3}, C\_{4}\\) ou \\(C\_{2}, C\_{3}, C\_{4}, C\_{5}\\).
 
 Aí que algoritmos devemos implementar para ordenar? Isso é uma conclusão que vamos chegar no final de nossa série, mas para este algoritmo não tem solução melhor que a **Ordenação por Inserção**. É um caso pequeno (n=5) e a **Ordenação por Inserção** é mais rápida que a por **Seleção**, porque o seu melhor caso é uma função linear. Então, vamos implementar o **Insertion Sort** no nosso algoritmo:
 
-```
-<strong>recebe</strong> N
-<strong>para</strong> <em>nteste</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-    <strong>recebe</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D%2C+C_%7B2%7D%2C+C_%7B3%7D%2C+C_%7B4%7D%2C+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{1}, C_{2}, C_{3}, C_{4}, C_{5}' title='C_{1}, C_{2}, C_{3}, C_{4}, C_{5}' class='latex' />
+<pre><code><strong>recebe</strong> N
+<strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+    <strong>recebe</strong> <span class="tex-render">C_{1}, C_{2}, C_{3}, C_{4}, C_{5}</span>
     <span style="color:red;">início da ordenação por inserção</span>
-    <strong>para</strong> <em>j</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 2 <strong>até</strong> <em>5</em>
-        <em>elemento</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=C_%7Bj%7D&bg=T&fg=000000&s=0' alt='C_{j}' title='C_{j}' class='latex' />
-        <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>j-1</em>
-        <strong>enquanto</strong> <em>i</em> > 0 <strong>e</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%7D&bg=T&fg=000000&s=0' alt='C_{i}' title='C_{i}' class='latex' /> > <em>elemento</em>, <strong>faça</strong>
-            <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%2B1%7D&bg=T&fg=000000&s=0' alt='C_{i+1}' title='C_{i+1}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%7D&bg=T&fg=000000&s=0' alt='C_{i}' title='C_{i}' class='latex' />
-            <img src='https://s0.wp.com/latex.php?latex=i&bg=T&fg=000000&s=0' alt='i' title='i' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=C_%7Bi-1%7D&bg=T&fg=000000&s=0' alt='C_{i-1}' title='C_{i-1}' class='latex' />
+    <strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 2 <strong>até</strong> <em>5</em>
+        <em>elemento</em> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{j}</span>
+        <em>i</em> <span class="tex-render">\leftarrow{}</span> <em>j-1</em>
+        <strong>enquanto</strong> <em>i</em> > 0 <strong>e</strong> <span class="tex-render">C_{i}</span> > <em>elemento</em>, <strong>faça</strong>
+            <span class="tex-render">C_{i+1}</span> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{i}</span>
+            <span class="tex-render">i</span> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{i-1}</span>
         <strong>fim-enquanto</strong>
-        <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%2B1%7D&bg=T&fg=000000&s=0' alt='C_{i+1}' title='C_{i+1}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>elemento</em>
+        <span class="tex-render">C_{i+1}</span> <span class="tex-render">\leftarrow{}</span> <em>elemento</em>
     <strong>fim-para</strong>
     <span style="color:red;">fim da ordenação por inserção</span>
-<strong>fim-para</strong>
-```
+<strong>fim-para</strong></code></pre>
 
 O bom desses algoritmos de ordenação é que sua lógica é muito simples e por isso é fácil decorá-los… Ao menos o **Insertion Sort** e o **Selection Sort** são algoritmos básicos que todo programador deve conhecer bem. Bom… Acredito que vocês não tenham tido dificuldade pra entender até aqui. A cor vermelha no pseudocódigo eu vou usar daqui pra frente para um comentário, que aliás, é uma excelente prática de boa programação.
 
@@ -165,73 +157,61 @@ Como vamos ver com os pseudocódigos a seguir, é fácil testar cada uma das reg
 
 #### Primeira Regra – Seqüência
 
-Se as cinco cartas estão em seqüência a partir da carta  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />(ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x%2B1&bg=T&fg=000000&s=0' alt='x+1' title='x+1' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x%2B2&bg=T&fg=000000&s=0' alt='x+2' title='x+2' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=x%2B3&bg=T&fg=000000&s=0' alt='x+3' title='x+3' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=x%2B4&bg=T&fg=000000&s=0' alt='x+4' title='x+4' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x%2B200&bg=T&fg=000000&s=0' alt='x+200' title='x+200' class='latex' />pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
+Se as cinco cartas estão em seqüência a partir da carta <span class="tex-render">x</span>(ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x+1</span>, <span class="tex-render">x+2</span>, \\(x+3\\) e <span class="tex-render">x+4</span>), a pontuação é \\(x+200\\) pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
 
-```
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D-1&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}-1' title='C_{1} = C_{2}-1' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D-1&bg=T&fg=000000&s=0' alt='C_{2} = C_{3}-1' title='C_{2} = C_{3}-1' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D%3DC_%7B4%7D-1&bg=T&fg=000000&s=0' alt='C_{3}=C_{4}-1' title='C_{3}=C_{4}-1' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D%3DC_%7B5%7D-1&bg=T&fg=000000&s=0' alt='C_{4}=C_{5}-1' title='C_{4}=C_{5}-1' class='latex' />, <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D%2B200&bg=T&fg=000000&s=0' alt='C_{1}+200' title='C_{1}+200' class='latex' />
-<strong>fim-se</strong>
-```
+<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2}-1</span> e <span class="tex-render">C_{2} = C_{3}-1</span> e <span class="tex-render">C_{3}=C_{4}-1</span> e <span class="tex-render">C_{4}=C_{5}-1</span>, <strong>então</strong>
+    <strong>retorna</strong> <span class="tex-render">C_{1}+200</span>
+<strong>fim-se</strong></code></pre>
 
 #### Segunda Regra – Quadra
 
-Se há quatro cartas iguais  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />(uma _quadra_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x%2B180&bg=T&fg=000000&s=0' alt='x+180' title='x+180' class='latex' />pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
+Se há quatro cartas iguais \\(x\\) (uma _quadra_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, \\(x\\) e <span class="tex-render">y</span>), a pontuação é \\(x+180\\) pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
 
-```
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D+%3D+C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2} = C_{3} = C_{4}' title='C_{1} = C_{2} = C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D+%3D+C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3} = C_{4} = C_{5}' title='C_{2} = C_{3} = C_{4} = C_{5}' class='latex' />, <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D%2B180&bg=T&fg=000000&s=0' alt='C_{2}+180' title='C_{2}+180' class='latex' />
-<strong>fim-se</strong>
-```
+<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
+    <strong>retorna</strong> <span class="tex-render">C_{2}+180</span>
+<strong>fim-se</strong></code></pre>
 
-Aqui retornamos  <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{2}' title='C_{2}' class='latex' />porque ele será sempre parte da quadra (ela começando em  <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D&bg=T&fg=000000&s=0' alt='C_{1}' title='C_{1}' class='latex' />ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{2}' title='C_{2}' class='latex' />).
+Aqui retornamos \\(C\_{2}\\) porque ele será sempre parte da quadra (ela começando em \\(C\_{1}\\) ou \\(C\_{2}\\)).
 
 #### Terceira e Quarta Regra – Trinca
 
-Se há três cartas iguais  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />e outras duas cartas iguais  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />(uma _trinca_ e um _par_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x%2B160&bg=T&fg=000000&s=0' alt='x+160' title='x+160' class='latex' />pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
+Se há três cartas iguais \\(x\\) e outras duas cartas iguais \\(y\\) (uma _trinca_ e um _par_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, \\(y\\) e <span class="tex-render">y</span>), a pontuação é \\(x+160\\) pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
 
-```
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D+%3D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2} = C_{3}' title='C_{1} = C_{2} = C_{3}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3} = C_{4}' title='C_{2} = C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%3D+C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{3} = C_{4} = C_{5}' title='C_{3} = C_{4} = C_{5}' class='latex' />, <strong>então</strong>
-    <strong>se</strong> ( <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%5Cneq%7B%7D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{1} \neq{} C_{3}' title='C_{1} \neq{} C_{3}' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}' title='C_{1} = C_{2}' class='latex' /> ) ou ( <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%5Cneq%7B%7D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{3} \neq{} C_{5}' title='C_{3} \neq{} C_{5}' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{4} = C_{5}' title='C_{4} = C_{5}' class='latex' /> ), <strong>então</strong>
-        <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D%2B160&bg=T&fg=000000&s=0' alt='C_{3}+160' title='C_{3}+160' class='latex' />
-```
+<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
+    <strong>se</strong> ( <span class="tex-render">C_{1} \neq{} C_{3}</span> e <span class="tex-render">C_{1} = C_{2}</span> ) ou ( <span class="tex-render">C_{3} \neq{} C_{5}</span> e <span class="tex-render">C_{4} = C_{5}</span> ), <strong>então</strong>
+        <strong>retorna</strong> <span class="tex-render">C_{3}+160</span></code></pre>
 
-Se há três cartas iguais  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />e duas outras cartas diferentes  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />e  <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />(uma _trinca_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x%2B140&bg=T&fg=000000&s=0' alt='x+140' title='x+140' class='latex' />pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
+Se há três cartas iguais \\(x\\) e duas outras cartas diferentes \\(y\\) e \\(z\\) (uma _trinca_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, \\(y\\) e <span class="tex-render">z</span>), a pontuação é \\(x+140\\) pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
 
-```
-<strong>senão</strong>
-        <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%2B+140&bg=T&fg=000000&s=0' alt='C_{3} + 140' title='C_{3} + 140' class='latex' />
+<pre><code>    <strong>senão</strong>
+        <strong>retorna</strong> <span class="tex-render">C_{3} + 140</span>
     <strong>fim-se</strong>
-<strong>fim-se</strong>
-```
+<strong>fim-se</strong></code></pre>
 
-Note que aqui retornamos  <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{3}' title='C_{3}' class='latex' />porque ele será sempre parte da trinca (o mesmo motivo que retornarmos  <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{2}' title='C_{2}' class='latex' />para a quadra).
+Note que aqui retornamos \\(C\_{3}\\) porque ele será sempre parte da trinca (o mesmo motivo que retornarmos \\(C\_{2}\\) para a quadra).
 
 #### Quinta Regra – Duas Duplas
 
-Se há duas cartas iguais <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, duas outras cartas iguais  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />(<img src='https://s0.wp.com/latex.php?latex=x+%5Cneq%7B%7D+y&bg=T&fg=000000&s=0' alt='x \neq{} y' title='x \neq{} y' class='latex' />) e uma outra carta distinta  <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />(dois _pares_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=3+%5Ctimes%7B%7D+x+%2B+2+%5Ctimes%7B%7D+y+%2B+20&bg=T&fg=000000&s=0' alt='3 \times{} x + 2 \times{} y + 20' title='3 \times{} x + 2 \times{} y + 20' class='latex' />pontos, em que <img src='https://s0.wp.com/latex.php?latex=x+%3E+y&bg=T&fg=000000&s=0' alt='x > y' title='x > y' class='latex' />. Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
+Se há duas cartas iguais <span class="tex-render">x</span>, duas outras cartas iguais \\(y\\) (<span class="tex-render">x \neq{} y</span>) e uma outra carta distinta \\(z\\) (dois _pares_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">y</span>, \\(y\\) e <span class="tex-render">z</span>), a pontuação é \\(3 \times{} x + 2 \times{} y + 20\\) pontos, em que \\(x > y\\). Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
 
-```
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}' title='C_{1} = C_{2}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3}' title='C_{2} = C_{3}' class='latex' />, <strong>então</strong>
-    <strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{3} = C_{4}' title='C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{4} = C_{5}' title='C_{4} = C_{5}' class='latex' />, <strong>então</strong>
-        <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=3+%5Ctimes%7B%7D+C_%7B4%7D+%2B+2+%5Ctimes%7B%7D+C_%7B2%7D+%2B20&bg=T&fg=000000&s=0' alt='3 \times{} C_{4} + 2 \times{} C_{2} +20' title='3 \times{} C_{4} + 2 \times{} C_{2} +20' class='latex' />
+<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
+    <strong>se</strong> <span class="tex-render">C_{3} = C_{4}</span> ou <span class="tex-render">C_{4} = C_{5}</span>, <strong>então</strong>
+        <strong>retorna</strong> <span class="tex-render">3 \times{} C_{4} + 2 \times{} C_{2} + 20</span>
     <strong>fim-se</strong>
-<strong>fim-se</strong>
-```
+<strong>fim-se</strong></code></pre>
 
- <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{2}' title='C_{2}' class='latex' />será sempre elemento da menor dupla e  <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{4}' title='C_{4}' class='latex' />será sempre elemento da maior dupla. Por isso usamos eles como  <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, respectivamente.
+\\(C\_{2}\\) será sempre elemento da menor dupla e \\(C\_{4}\\) será sempre elemento da maior dupla. Por isso usamos eles como \\(y\\) e <span class="tex-render">x</span>, respectivamente.
 
 #### Sexta Regra – Dupla
 
-Se há apenas duas cartas iguais  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />e as outras são distintas (um _par_, ou seja, os valores das cartas são <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />, <img src='https://s0.wp.com/latex.php?latex=y&bg=T&fg=000000&s=0' alt='y' title='y' class='latex' />,  <img src='https://s0.wp.com/latex.php?latex=z&bg=T&fg=000000&s=0' alt='z' title='z' class='latex' />e <img src='https://s0.wp.com/latex.php?latex=t&bg=T&fg=000000&s=0' alt='t' title='t' class='latex' />), a pontuação é  <img src='https://s0.wp.com/latex.php?latex=x&bg=T&fg=000000&s=0' alt='x' title='x' class='latex' />pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
+Se há apenas duas cartas iguais \\(x\\) e as outras são distintas (um _par_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">y</span>, \\(z\\) e <span class="tex-render">t</span>), a pontuação é \\(x\\) pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
 
-```
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}' title='C_{1} = C_{2}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3}' title='C_{2} = C_{3}' class='latex' />, <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{2}' title='C_{2}' class='latex' />
-<strong>senão se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{3} = C_{4}' title='C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{4} = C_{5}' title='C_{4} = C_{5}' class='latex' />,
+<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
+    <strong>retorna</strong> <span class="tex-render">C_{2}</span>
+<strong>senão se</strong> <span class="tex-render">C_{3} = C_{4}</span> ou <span class="tex-render">C_{4} = C_{5}</span>,
 <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{4}' title='C_{4}' class='latex' />
-<strong>fim-se</strong>
-```
+    <strong>retorna</strong> <span class="tex-render">C_{4}</span>
+<strong>fim-se</strong></code></pre>
 
 Separei em dois **SE**s porque senão não saberíamos que valor retornar.
 
@@ -239,56 +219,50 @@ Separei em dois **SE**s porque senão não saberíamos que valor retornar.
 
 Se todas as cartas são distintas, não há pontuação.
 
-```
-<strong>retorna</strong> 0
-```
+<pre><code><strong>retorna</strong> 0</code></pre>
 
 #### Função Inteira
 
 Juntando todos os **SE**s, temos:
 
-```
-<strong>função</strong> <em>pontua</em> (<em>C</em>)
-
-<span style="color:red;">primeira regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D-1&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}-1' title='C_{1} = C_{2}-1' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D-1&bg=T&fg=000000&s=0' alt='C_{2} = C_{3}-1' title='C_{2} = C_{3}-1' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D%3DC_%7B4%7D-1&bg=T&fg=000000&s=0' alt='C_{3}=C_{4}-1' title='C_{3}=C_{4}-1' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D%3DC_%7B5%7D-1&bg=T&fg=000000&s=0' alt='C_{4}=C_{5}-1' title='C_{4}=C_{5}-1' class='latex' />, <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D%2B200&bg=T&fg=000000&s=0' alt='C_{1}+200' title='C_{1}+200' class='latex' />
-<strong>fim-se</strong>
-
-<span style="color:red;">segunda regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D+%3D+C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2} = C_{3} = C_{4}' title='C_{1} = C_{2} = C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D+%3D+C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3} = C_{4} = C_{5}' title='C_{2} = C_{3} = C_{4} = C_{5}' class='latex' />, <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D%2B180&bg=T&fg=000000&s=0' alt='C_{2}+180' title='C_{2}+180' class='latex' />
-<strong>fim-se</strong>
-
-<span style="color:red;">terceira e quarta regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D+%3D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2} = C_{3}' title='C_{1} = C_{2} = C_{3}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3} = C_{4}' title='C_{2} = C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%3D+C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{3} = C_{4} = C_{5}' title='C_{3} = C_{4} = C_{5}' class='latex' />, <strong>então</strong>
-    <strong>se</strong> ( <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%5Cneq%7B%7D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{1} \neq{} C_{3}' title='C_{1} \neq{} C_{3}' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}' title='C_{1} = C_{2}' class='latex' /> ) ou ( <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+neq%7B%7D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{3} neq{} C_{5}' title='C_{3} neq{} C_{5}' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{4} = C_{5}' title='C_{4} = C_{5}' class='latex' /> ), <strong>então</strong>
-        <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D%2B160&bg=T&fg=000000&s=0' alt='C_{3}+160' title='C_{3}+160' class='latex' />
-    <strong>senão</strong>
-        <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%2B+140&bg=T&fg=000000&s=0' alt='C_{3} + 140' title='C_{3} + 140' class='latex' />
+<pre><code><strong>função</strong> <em>pontua</em> (<em>C</em>)
+    <span style="color:red;">primeira regra</span>
+    <strong>se</strong> <span class="tex-render">C_{1} = C_{2}-1</span> e <span class="tex-render">C_{2} = C_{3}-1</span> e <span class="tex-render">C_{3}=C_{4}-1</span> e <span class="tex-render">C_{4}=C_{5}-1</span>, <strong>então</strong>
+        <strong>retorna</strong> <span class="tex-render">C_{1}+200</span>
     <strong>fim-se</strong>
-<strong>fim-se</strong>
 
-<span style="color:red;">quinta regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}' title='C_{1} = C_{2}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3}' title='C_{2} = C_{3}' class='latex' />, <strong>então</strong>
-    <strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{3} = C_{4}' title='C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{4} = C_{5}' title='C_{4} = C_{5}' class='latex' />, <strong>então</strong>
-        <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=3+%5Ctimes%7B%7D+C_%7B4%7D+%2B+2+times%7B%7D+C_%7B2%7D+%2B20&bg=T&fg=000000&s=0' alt='3 \times{} C_{4} + 2 times{} C_{2} +20' title='3 \times{} C_{4} + 2 times{} C_{2} +20' class='latex' />
+    <span style="color:red;">segunda regra</span>
+    <strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
+        <strong>retorna</strong> <span class="tex-render">C_{2}+180</span>
     <strong>fim-se</strong>
-<strong>fim-se</strong>
 
-<span style="color:red;">sexta regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}' title='C_{1} = C_{2}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3}' title='C_{2} = C_{3}' class='latex' />, <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{2}' title='C_{2}' class='latex' />
-<strong>senão se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{3} = C_{4}' title='C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{4} = C_{5}' title='C_{4} = C_{5}' class='latex' />,
-<strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{4}' title='C_{4}' class='latex' />
-<strong>fim-se</strong>
+    <span style="color:red;">terceira e quarta regra</span>
+    <strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
+        <strong>se</strong> ( <span class="tex-render">C_{1} \neq{} C_{3}</span> e <span class="tex-render">C_{1} = C_{2}</span> ) ou ( <span class="tex-render">C_{3} \neq{} C_{5}</span> e <span class="tex-render">C_{4} = C_{5}</span> ), <strong>então</strong>
+            <strong>retorna</strong> <span class="tex-render">C_{3}+160</span>
+        <strong>senão</strong>
+            <strong>retorna</strong> <span class="tex-render">C_{3} + 140</span>
+        <strong>fim-se</strong>
+    <strong>fim-se</strong>
 
-<span style="color:red;">sétima regra</span>
-<strong>retorna</strong> 0
+    <span style="color:red;">quinta regra</span>
+    <strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
+        <strong>se</strong> <span class="tex-render">C_{3} = C_{4}</span> ou <span class="tex-render">C_{4} = C_{5}</span>, <strong>então</strong>
+            <strong>retorna</strong> <span class="tex-render">3 \times{} C_{4} + 2 \times{} C_{2} + 20</span>
+        <strong>fim-se</strong>
+    <strong>fim-se</strong>
 
-<strong>fim-função</strong>
-```
+    <span style="color:red;">sexta regra</span>
+    <strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
+        <strong>retorna</strong> <span class="tex-render">C_{2}</span>
+    <strong>senão se</strong> <span class="tex-render">C_{3} = C_{4}</span> ou <span class="tex-render">C_{4} = C_{5}</span>,
+    <strong>então</strong>
+        <strong>retorna</strong> <span class="tex-render">C_{4}</span>
+    <strong>fim-se</strong>
+
+    <span style="color:red;">sétima regra</span>
+    <strong>retorna</strong> 0
+<strong>fim-função</strong></code></pre>
 
 Já que a função retorna assim que encontra um resultado, não há risco de ocorrer nada errado (por exemplo, uma quadra é sempre uma trinca, que é sempre uma dupla). Agora basta colocarmos esta função no nosso código e adaptar para a saída ser igual a que o problema pede.
 
@@ -296,19 +270,18 @@ Já que a função retorna assim que encontra um resultado, não há risco de oc
 
 Para chegar a saída, basta fazermos o programa imprimir **Teste _nteste_** e depois o retorno da função **pontua**. Com isto, temos:
 
-```
-<strong>recebe</strong> N
-<strong>para</strong> <em>nteste</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-    <strong>recebe</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D%2C+C_%7B2%7D%2C+C_%7B3%7D%2C+C_%7B4%7D%2C+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{1}, C_{2}, C_{3}, C_{4}, C_{5}' title='C_{1}, C_{2}, C_{3}, C_{4}, C_{5}' class='latex' />
+<pre><code><strong>recebe</strong> N
+<strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
+    <strong>recebe</strong> <span class="tex-render">C_{1}, C_{2}, C_{3}, C_{4}, C_{5}</span>
     <span style="color:red;">início da ordenação por inserção</span>
-    <strong>para</strong> <em>j</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 2 <strong>até</strong> <em>5</em>
-        <em>elemento</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=C_%7Bj%7D&bg=T&fg=000000&s=0' alt='C_{j}' title='C_{j}' class='latex' />
-        <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>j-1</em>
-        <strong>enquanto</strong> <em>i</em> > 0 <strong>e</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%7D&bg=T&fg=000000&s=0' alt='C_{i}' title='C_{i}' class='latex' /> > <em>elemento</em>, <strong>faça</strong>
-            <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%2B1%7D&bg=T&fg=000000&s=0' alt='C_{i+1}' title='C_{i+1}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%7D&bg=T&fg=000000&s=0' alt='C_{i}' title='C_{i}' class='latex' />
-            <img src='https://s0.wp.com/latex.php?latex=i&bg=T&fg=000000&s=0' alt='i' title='i' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=C_%7Bi-1%7D&bg=T&fg=000000&s=0' alt='C_{i-1}' title='C_{i-1}' class='latex' />
+    <strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 2 <strong>até</strong> <em>5</em>
+        <em>elemento</em> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{j}</span>
+        <em>i</em> <span class="tex-render">\leftarrow{}</span> <em>j-1</em>
+        <strong>enquanto</strong> <em>i</em> > 0 <strong>e</strong> <span class="tex-render">C_{i}</span> > <em>elemento</em>, <strong>faça</strong>
+            <span class="tex-render">C_{i+1}</span> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{i}</span>
+            <span class="tex-render">i</span> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{i-1}</span>
         <strong>fim-enquanto</strong>
-        <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%2B1%7D&bg=T&fg=000000&s=0' alt='C_{i+1}' title='C_{i+1}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>elemento</em>
+        <span class="tex-render">C_{i+1}</span> <span class="tex-render">\leftarrow{}</span> <em>elemento</em>
     <strong>fim-para</strong>
     <span style="color:red;">fim da ordenação por inserção</span>
 
@@ -316,8 +289,7 @@ Para chegar a saída, basta fazermos o programa imprimir **Teste _nteste_** e de
     <strong>imprime linha</strong> testen
     <strong>imprime linha</strong> pontua(C)
     <strong>imprime linha</strong>
-<strong>fim-para</strong>
-```
+<strong>fim-para</strong></code></pre>
 
 Fiz essa saída assim pra se parecer com Pascal, mas para cada linguagem ela pode ser bem diferente… Vejamos dois exemplos…
 
@@ -333,72 +305,6 @@ printf("Teste %d\n%d\n\n", nteste, pontua(C));
 echo "Teste ".$nteste."\n".pontua($C)."\n\n";
 ```
 
-### Programa Completo
-
-```
-<strong>função</strong> <em>pontua</em> (<em>C</em>)
-
-<span style="color:red;">primeira regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D-1&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}-1' title='C_{1} = C_{2}-1' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D-1&bg=T&fg=000000&s=0' alt='C_{2} = C_{3}-1' title='C_{2} = C_{3}-1' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D%3DC_%7B4%7D-1&bg=T&fg=000000&s=0' alt='C_{3}=C_{4}-1' title='C_{3}=C_{4}-1' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D%3DC_%7B5%7D-1&bg=T&fg=000000&s=0' alt='C_{4}=C_{5}-1' title='C_{4}=C_{5}-1' class='latex' />, <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D%2B200&bg=T&fg=000000&s=0' alt='C_{1}+200' title='C_{1}+200' class='latex' />
-<strong>fim-se</strong>
-
-<span style="color:red;">segunda regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D+%3D+C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2} = C_{3} = C_{4}' title='C_{1} = C_{2} = C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D+%3D+C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3} = C_{4} = C_{5}' title='C_{2} = C_{3} = C_{4} = C_{5}' class='latex' />, <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D%2B180&bg=T&fg=000000&s=0' alt='C_{2}+180' title='C_{2}+180' class='latex' />
-<strong>fim-se</strong>
-
-<span style="color:red;">terceira e quarta regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D+%3D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2} = C_{3}' title='C_{1} = C_{2} = C_{3}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3} = C_{4}' title='C_{2} = C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%3D+C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{3} = C_{4} = C_{5}' title='C_{3} = C_{4} = C_{5}' class='latex' />, <strong>então</strong>
-    <strong>se</strong> ( <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+neq%7B%7D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{1} neq{} C_{3}' title='C_{1} neq{} C_{3}' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}' title='C_{1} = C_{2}' class='latex' /> ) ou ( <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+neq%7B%7D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{3} neq{} C_{5}' title='C_{3} neq{} C_{5}' class='latex' /> e <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{4} = C_{5}' title='C_{4} = C_{5}' class='latex' /> ), <strong>então</strong>
-        <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D%2B160&bg=T&fg=000000&s=0' alt='C_{3}+160' title='C_{3}+160' class='latex' />
-    <strong>senão</strong>
-        <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%2B+140&bg=T&fg=000000&s=0' alt='C_{3} + 140' title='C_{3} + 140' class='latex' />
-    <strong>fim-se</strong>
-<strong>fim-se</strong>
-
-<span style="color:red;">quinta regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}' title='C_{1} = C_{2}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3}' title='C_{2} = C_{3}' class='latex' />, <strong>então</strong>
-    <strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{3} = C_{4}' title='C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{4} = C_{5}' title='C_{4} = C_{5}' class='latex' />, <strong>então</strong>
-        <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=3+times%7B%7D+C_%7B4%7D+%2B+2+times%7B%7D+C_%7B2%7D+%2B20&bg=T&fg=000000&s=0' alt='3 times{} C_{4} + 2 times{} C_{2} +20' title='3 times{} C_{4} + 2 times{} C_{2} +20' class='latex' />
-    <strong>fim-se</strong>
-<strong>fim-se</strong>
-
-<span style="color:red;">sexta regra</span>
-<strong>se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D+%3D+C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{1} = C_{2}' title='C_{1} = C_{2}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D+%3D+C_%7B3%7D&bg=T&fg=000000&s=0' alt='C_{2} = C_{3}' title='C_{2} = C_{3}' class='latex' />, <strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B2%7D&bg=T&fg=000000&s=0' alt='C_{2}' title='C_{2}' class='latex' />
-<strong>senão se</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B3%7D+%3D+C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{3} = C_{4}' title='C_{3} = C_{4}' class='latex' /> ou <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D+%3D+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{4} = C_{5}' title='C_{4} = C_{5}' class='latex' />,
-<strong>então</strong>
-    <strong>retorna</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B4%7D&bg=T&fg=000000&s=0' alt='C_{4}' title='C_{4}' class='latex' />
-<strong>fim-se</strong>
-
-<span style="color:red;">sétima regra</span>
-<strong>retorna</strong> 0
-
-<strong>fim-função</strong>
-
-<strong>recebe</strong> N
-<strong>para</strong> <em>nteste</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-    <strong>recebe</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7B1%7D%2C+C_%7B2%7D%2C+C_%7B3%7D%2C+C_%7B4%7D%2C+C_%7B5%7D&bg=T&fg=000000&s=0' alt='C_{1}, C_{2}, C_{3}, C_{4}, C_{5}' title='C_{1}, C_{2}, C_{3}, C_{4}, C_{5}' class='latex' />
-    <span style="color:red;">início da ordenação por inserção</span>
-    <strong>para</strong> <em>j</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 2 <strong>até</strong> <em>5</em>
-        <em>elemento</em> <img src='https://s0.wp.com/latex.php?latex=leftarrow%7B%7D&bg=T&fg=000000&s=0' alt='leftarrow{}' title='leftarrow{}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=C_%7Bj%7D&bg=T&fg=000000&s=0' alt='C_{j}' title='C_{j}' class='latex' />
-        <em>i</em> <img src='https://s0.wp.com/latex.php?latex=leftarrow%7B%7D&bg=T&fg=000000&s=0' alt='leftarrow{}' title='leftarrow{}' class='latex' /> <em>j-1</em>
-        <strong>enquanto</strong> <em>i</em> > 0 <strong>e</strong> <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%7D&bg=T&fg=000000&s=0' alt='C_{i}' title='C_{i}' class='latex' /> > <em>elemento</em>, <strong>faça</strong>
-            <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%2B1%7D&bg=T&fg=000000&s=0' alt='C_{i+1}' title='C_{i+1}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%7D&bg=T&fg=000000&s=0' alt='C_{i}' title='C_{i}' class='latex' />
-            <img src='https://s0.wp.com/latex.php?latex=i&bg=T&fg=000000&s=0' alt='i' title='i' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=C_%7Bi-1%7D&bg=T&fg=000000&s=0' alt='C_{i-1}' title='C_{i-1}' class='latex' />
-        <strong>fim-enquanto</strong>
-        <img src='https://s0.wp.com/latex.php?latex=C_%7Bi%2B1%7D&bg=T&fg=000000&s=0' alt='C_{i+1}' title='C_{i+1}' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>elemento</em>
-    <strong>fim-para</strong>
-    <span style="color:red;">fim da ordenação por inserção</span>
-
-    <strong>imprime</strong> "Teste "
-    <strong>imprime linha</strong> testen
-    <strong>imprime linha</strong> pontua(C)
-    <strong>imprime linha</strong>
-<strong>fim-para</strong>
-```
-
 ### Comentários sobre o problema
 
 Este problema é muito chato. É trivial, mas perdemos um tempo enorme escrevendo **se**s. Ninguém gosta de um problema como esse, mas quando cai numa olimpíada somos obrigados a resolver… hehehe… Mas, para a felicidade geral de todos, saibam que a maioria dos problemas de olimpíadas não são assim. Exigem mais lógica e menos código. Com o tempo, vamos pegando problemas mais difíceis. Espero só ter cumprido meu objetivo dando uma utilidade pra **ordenação**, **entrada e saída** e que vocês tenham entendido tudo.
@@ -410,7 +316,7 @@ Sugiro que quem esteja aprendendo algoritmos com meus artigos e já saiba progra
   * [Cofrinhos da Vó Vitória][4]
   * [Quermesse][5]
 
-E, gostaria de fixar, mais importante é a interpretação e o seu pensamento… Programar é fácil!</p
+E, gostaria de fixar, mais importante é a interpretação e o seu pensamento… Programar é fácil!
 
  [1]: http://olimpiada.ic.unicamp.br
  [2]: http://olimpiada.ic.unicamp.br/programacao/tarefas/bits_trocados

@@ -63,23 +63,25 @@ Procure pela mesma versão que você baixou o filme (o nome completo, exemplo no
 
 ### Usando o MPLAYER para assistir o vídeo
 
-<pre class="bash">% mplayer <span style="color: #66cc66;">[</span>ARQUIVO DO FILME<span style="color: #66cc66;">]</span>
+```bash
+% mplayer [ARQUIVO DO FILME]
 ```
 
 #### » Legenda
 
 Para adicionar a legenda ao seu filme basta usar a opção **-sub [ARQUIVO DA LEGENDA]** ao comando do **mplayer**:
 
-<pre class="bash">% mplayer -sub <span style="color: #66cc66;">[</span>ARQUIVO DA LEGENDA<span style="color: #66cc66;">]</span> <span style="color: #66cc66;">[</span>ARQUIVO DO FILME<span style="color: #66cc66;">]</span>
+```bash
+% mplayer -sub [ARQUIVO DA LEGENDA] [ARQUIVO DO FILME]
 ```
 
 O mplayer é um programa muito mais versátil do que parece. É possível mudar a fonte, a cor e a posição da legenda, ente muitas outras coisas. A maioria dessas opções de legenda são alteradas usando o ASS. Eu costumo assistir os filmes com uma legenda grande amarela embaixo da área do filme widescreen (na faixa preta, porque a leitura torna-se mais fácil):
 
-<pre class="bash">% mplayer -ass -ass-color FFFF0000 -ass-font-scale <span style="color: #cc66cc;">1.2</span>
--ass-force-style <span style="color: #0000ff;">FontName=</span>Arial,Default.<span style="color: #0000ff;">Bold=</span><span style="color: #cc66cc;">1</span> -ass-use-margins
--ass-bottom-margin <span style="color: #cc66cc;">80</span> -sub <span style="color: #66cc66;">[</span>ARQUIVO DA LEGENDA<span style="color: #66cc66;">]</span>
-
-<span style="color: #66cc66;">[</span>ARQUIVO DO FILME<span style="color: #66cc66;">]</span>
+```bash
+% mplayer -ass -ass-color FFFF0000 -ass-font-scale 1.2 \
+-ass-force-style FontName=Arial,Default.Bold=1 -ass-use-margins \
+-ass-bottom-margin 80 -sub [ARQUIVO DA LEGENDA] \
+[ARQUIVO DO FILME]
 ```
 
 **Se a legenda estiver fora do tempo do filme,** use as teclas _x_ e _z_ dentro do mplayer para alterar o _delay_.
@@ -88,16 +90,17 @@ O mplayer é um programa muito mais versátil do que parece. É possível mudar 
 
 Adicionando **-fs -zoom** ao comando **mplayer** você executa o vídeo em tela cheia:
 
-<pre class="bash">% mplayer -fs -zoom <span style="color: #66cc66;">[</span>ARQUIVO DO FILME<span style="color: #66cc66;">]</span>
+```bash
+% mplayer -fs -zoom [ARQUIVO DO FILME]
 ```
 
 #### » Meu comando completo
 
-<pre class="bash">% mplayer -fs -zoom -ass -ass-color FFFF0000 -ass-font-scale <span style="color: #cc66cc;">1.2</span>
--ass-force-style <span style="color: #0000ff;">FontName=</span>Arial,Default.<span style="color: #0000ff;">Bold=</span><span style="color: #cc66cc;">1</span> -ass-use-margins
--ass-bottom-margin <span style="color: #cc66cc;">80</span> -sub <span style="color: #66cc66;">[</span>ARQUIVO DA LEGENDA<span style="color: #66cc66;">]</span>
-
-<span style="color: #66cc66;">[</span>ARQUIVO DO FILME<span style="color: #66cc66;">]</span>
+```bash
+% mplayer -fs -zoom -ass -ass-color FFFF0000 -ass-font-scale 1.2 \
+-ass-force-style FontName=Arial,Default.Bold=1 -ass-use-margins \
+-ass-bottom-margin 80 -sub [ARQUIVO DA LEGENDA] \
+[ARQUIVO DO FILME]
 ```
 
 ### Dicas para uma melhor sessão de cinema
@@ -114,15 +117,9 @@ Adicionando **-fs -zoom** ao comando **mplayer** você executa o vídeo em tela 
   * [Legendas.tv][9] (baixe legendas em português do Brasil)
   * [Mplayer][12] (player de vídeo para Linux)
 
-<div style="font-size:11px;">
-  <h3>
-    Importante! Não seja um fora-da-lei.
-  </h3>
+### Importante! Não seja um fora-da-lei.
 
-  <p>
-    Não use o que eu escrevi neste artigo para baixar ilegalmente filmes, livros e outros conteúdos protegidos por copyright.
-  </p>
-</div>
+Não use o que eu escrevi neste artigo para baixar ilegalmente filmes, livros e outros conteúdos protegidos por copyright, hehe.
 
  [1]: http://gift.sourceforge.net/
  [2]: http://www.bittorrent.com/

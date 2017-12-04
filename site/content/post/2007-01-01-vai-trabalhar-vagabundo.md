@@ -25,121 +25,67 @@ tags:
 Quando você pensa no futuro, o que vem à sua mente? A não ser que você tenha sido criado em outro planeta ou em outros tempos, a sua resposta é: trabalho. É com trabalho que conseguimos dinheiro, pra poder descansar. É uma lógica tão estúpida que não sei como ainda funciona.
 
 > Vai trabalhar, vagabundo
-
 > Vai trabalhar, criatura
-
 > Deus permite a todo mundo
-
 > Uma loucura
-
 > Passa o domingo em familia
-
 > Segunda-feira beleza
-
 > Embarca com alegria
-
 > Na correnteza
 >
 > Prepara o teu documento
-
 > Carimba o teu coração
-
 > Não perde nem um momento
-
 > Perde a razão
-
 > Pode esquecer a mulata
-
 > Pode esquecer o bilhar
-
 > Pode apertar a gravata
-
 > Vai te enforcar
-
 > Vai te entregar
-
 > Vai te estragar
-
 > Vai trabalhar
 >
 > Vê se não dorme no ponto
-
 > Reúne as economias
-
 > Perde os três contos no conto
-
 > Da loteria
-
 > Passa o domingo no mangue
-
 > Segunda-feira vazia
-
 > Ganha no banco de sangue
-
 > Pra mais um dia
 >
 > Cuidado com o viaduto
-
 > Cuidado com o avião
-
 > Não perde mais um minuto
-
 > Perde a questão
-
 > Tenta pensar no futuro
-
 > No escuro tenta pensar
-
 > Vai renovar teu seguro
-
 > Vai caducar
-
 > Vai te entregar
-
 > Vai te estragar
-
 > Vai trabalhar
 >
 > Passa o domingo sozinho
-
 > Segunda-feira a desgraça
-
 > Sem pai nem mãe, sem vizinho
-
 > Em plena praça
-
 > Vai terminar moribundo
-
 > Com um pouco de paciência
-
 > No fim da fila do fundo
-
 > Da previdência
-
 > Parte tranquilo, ó irmão
-
 > Descansa na paz de Deus
-
 > Deixaste casa e pensão
-
 > Só para os teus
-
 > A criançada chorando
-
 > Tua mulher vai suar
-
 > Pra botar outro malandro
-
 > No teu lugar
-
 > Vai te entregar
-
 > Vai te estragar
-
 > Vai te enforcar
-
 > Vai caducar
-
 > Vai trabalhar
 
 ([Chico Buarque][1])

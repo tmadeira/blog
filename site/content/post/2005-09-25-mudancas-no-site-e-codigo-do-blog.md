@@ -15,6 +15,8 @@ tags:
   - site
 
 ---
+<p><strong>Atenção: os códigos desta postagem, além de inúteis, estão com muitos erros de sintaxe. Foram convertidos entre várias plataformas de blog e perderam muita coisa. Estão guardados aqui apenas para registro.</strong></p>
+
 Ultimamente fiz várias alterações no site. Refiz quase que todas as páginas e deixei tudo um pouco mais leve e mais fácil para mudar depois. :D Depois de conhecer a POO, me viciei nela no final de semana e converti meu site inteiro para classes. E agora, que seu script tá um pouco melhor organizado, vou colocar aqui para quem quiser copiar, usar alguma idéia, saber como eu estou indo em POO, ver as besteiras que eu faço enquanto programo, etc. :lol: resolvi disponibilizar todo o código de meu blog aqui.
 
 Já que meu blog tem alguns bugs (_known bugs_ de pouca importância, como o caso de se alguém escreve CHARESPC no meio de um comentário ele deve criar um _&;_), peço somente que ninguém destrua-o sabendo disso. Se alguém descobrir algum bug, pode me enviar um e-mail que ficarei bastante grato. :)
@@ -120,18 +122,13 @@ class Regex {
 	}
 
 	function Codigos() {
-		preg_match_all("/tag code class="(.*)">(.*)</code>/sU",
+		preg_match_all("/tag code class=\"(.*)\">(.*)</code>/sU",
 			$this->texto,
 			$matches);
 		for ($i=0; $i<sizeof($matches[1]); $i++) {
 			$g=$this->GeshiHighlight($matches[2][$i], $matches[1][$i]);
 			if (eregi("MSIE", $_SERVER["HTTP_USER_AGENT"])) {
-				$g=ereg_replace("
-
-```
-", "
-
-<pre class="alturamaxima">", $g);
+				$g=ereg_replace("<pre>", "<pre class="alturamaxima">", $g);
 			}
 			$this->texto=str_replace($matches[0][$i],
 				$g,
@@ -178,20 +175,12 @@ class Artigo extends Regex {
 	}
 
 	function Mostra() {
-		echo "
-
-<h2>
-  <a href="/post/{$this-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>permalink}">{$this->titulo}</a>
-</h2>n";
-		echo $this->texto."n";
-		echo "
-
-<h5>
-  {$this->data} ";
-  		echo "<a href="/post/{$this-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>permalink}" class="permalink">permalink</a> ";
-  		echo "<a href="/post/{$this-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>permalink}#comentarios" class="comentarios">";
-  		echo "{$this->comentarios} comentário(s)</a>
-</h5>n";
+		echo "<h2><a href=\"/post/{$this-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>permalink}\">{$this->titulo}</a></h2>\n";
+		echo $this->texto."\n";
+		echo "<h5>{$this->data} ";
+    echo "<a href=\"/post/{$this-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>permalink}\" class=\"permalink\">permalink</a> ";
+    echo "<a href=\"/post/{$this-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>permalink}#comentarios\" class=\"comentarios\">";
+    echo "{$this->comentarios} comentário(s)</a></h5>\n";
 	}
 
 	function MostraComentarios() {
@@ -266,9 +255,7 @@ class Comentario extends Regex {
 		$this->data=date("d/m/Y", $comentario[0]);
 		$this->nome=$comentario[1];
 		if ($_SESSION["tiagomadeira"]) {
-			$this->email="</small>
-
-<span style="font-size:10px;"><br />";
+			$this->email="</small> <span style=\"font-size:10px;\"><br />";
 			if ($comentario[2]) $this->email.="<strong>E-mail:</strong> ".$comentario[2]."<br />n";
 			if ($comentario[3]) $this->ip="<strong>IP:</strong> ".$comentario[3]."<br />n";
 			if ($comentario[4]) $this->useragent="<strong>User Agent:</strong> ".$comentario[4];
@@ -290,174 +277,143 @@ class Comentario extends Regex {
 	}
 
 	function Mostra() {
-		echo "
+		echo "<div class=\"comentario\" id=\"com{$this->id}\">\n";
+    echo "\t <h4><a href=\"?PHPSESSID=9ec34c96b02b3755051aa682d1e02001#com{$this->id}\">#{$this->numero}</a> | ";
+    echo "{$this->nome} ";
+    echo "<small>{$this->data}{$this->email}{$this->ip}{$this->useragent}</h4>\n";
+    echo "<p>{$this->texto}</p>";
+    echo "</div>\n";
+  }
+}
 
-<div class="comentario" id="com{$this->id}">
-  n";
-  		echo "t
+// Objeto Comentários
+class Comentarios {
+  var $idpost;
+  var $ids;
+  var $tamanho;
 
-  <h4>
-    <a href="?PHPSESSID=9ec34c96b02b3755051aa682d1e02001#com{$this->id}">#{$this->numero}</a> | ";
-    		echo "{$this->nome} ";
-    		echo "<small>{$this->data}{$this->email}{$this->ip}{$this->useragent}</h4>n";
-    		echo "
+  function Comentarios($idpost) {
+    $this->idpost=$idpost;
 
-    <p>
-      {$this->texto}
-    </p>";
-    		echo "</div>n";
-    	}
+    $mysql=new MySql();
+    $mysql->conecta();
+
+    $query=mysql_query("SELECT id FROM comentario WHERE idpost='{$this->idpost}' ORDER BY data ASC, id ASC");
+    for ($i=1; $array=mysql_fetch_array($query); $i++) {
+      $this->ids[$i]=$array["id"];
     }
 
-    // Objeto Comentários
-    class Comentarios {
-    	var $idpost;
-    	var $ids;
-    	var $tamanho;
+    $this->tamanho=$i;
+    $mysql->desconecta();
+  }
 
-    	function Comentarios($idpost) {
-    		$this->idpost=$idpost;
-
-    		$mysql=new MySql();
-    		$mysql->conecta();
-
-    		$query=mysql_query("SELECT id FROM comentario WHERE idpost='{$this->idpost}' ORDER BY data ASC, id ASC");
-    		for ($i=1; $array=mysql_fetch_array($query); $i++) {
-    			$this->ids[$i]=$array["id"];
-    		}
-
-    		$this->tamanho=$i;
-    		$mysql->desconecta();
-    	}
-
-    	function Mostra() {
-    		echo "
-
-    <h3 id="comentarios">
-      Comentários
-    </h3>n";
-    		for ($i=1; $i<$this->tamanho; $i++) {
-    			$comentario=new Comentario($this->ids[$i], $i);
-    			$comentario->CharEspc(1);
-    			$comentario->Emoticons();
-    			$comentario->CharEspc(2);
-    			$comentario->QuebraLinha();
-    			$comentario->Mostra();
-    		}
-
-    		if ($this->tamanho <= 1) {
-    			echo "
-
-    <p>
-      Nenhum comentário cadastrado.
-    </p>n";
-    		}
-
-    		FormularioComentario($this->idpost);
-    	}
+  function Mostra() {
+    echo "<h3 id="comentarios">Comentários</h3>\n";
+    for ($i=1; $i<$this->tamanho; $i++) {
+      $comentario=new Comentario($this->ids[$i], $i);
+      $comentario->CharEspc(1);
+      $comentario->Emoticons();
+      $comentario->CharEspc(2);
+      $comentario->QuebraLinha();
+      $comentario->Mostra();
     }
 
-    // Função para descobrir IP do visitante
-    function PegaIP() {
-    	if (getenv("HTTP_CLIENT_IP") && strcasecmp(getenv("HTTP_CLIENT_IP"), "desconhecido")) {
-    		$ip=getenv("HTTP_CLIENT_IP");
-    	} else if (getenv("HTTP_X_FORWARDED_FOR") && strcasecmp(getenv("HTTP_X_FORWARDED_FOR"), "desconhecido")) {
-    		$ip=getenv("HTTP_X_FORWARDED_FOR");
-    	} else if (getenv("REMOTE_ADDR") && strcasecmp(getenv("REMOTE_ADDR"), "desconhecido")) {
-    		$ip=getenv("REMOTE_ADDR");
-    	} else if (isset($_SERVER['REMOTE_ADDR']) && $_SERVER['REMOTE_ADDR'] && strcasecmp($_SERVER['REMOTE_ADDR'], "desconhecido")) {
-    		$ip=$_SERVER['REMOTE_ADDR'];
-    	} else {
-    		$ip="desconhecido";
-    	}
-
-    	return($ip);
+    if ($this->tamanho <= 1) {
+      echo "<p>Nenhum comentário cadastrado.</p>\n";
     }
 
-    // Função que escreve o formulário para envio de comentário
-    function FormularioComentario($idpost) {
-    	$mysql=new MySql();
-    	$mysql->conecta();
-    	$query=mysql_query("SELECT permalink FROM artigos WHERE id='$idpost'");
-    	$row=mysql_fetch_row($query);
-    	$permalink=$row[0];
-    	$mysql->desconecta();
-    ?>
+    FormularioComentario($this->idpost);
+  }
+}
 
+// Função para descobrir IP do visitante
+function PegaIP() {
+  if (getenv("HTTP_CLIENT_IP") && strcasecmp(getenv("HTTP_CLIENT_IP"), "desconhecido")) {
+    $ip=getenv("HTTP_CLIENT_IP");
+  } else if (getenv("HTTP_X_FORWARDED_FOR") && strcasecmp(getenv("HTTP_X_FORWARDED_FOR"), "desconhecido")) {
+    $ip=getenv("HTTP_X_FORWARDED_FOR");
+  } else if (getenv("REMOTE_ADDR") && strcasecmp(getenv("REMOTE_ADDR"), "desconhecido")) {
+    $ip=getenv("REMOTE_ADDR");
+  } else if (isset($_SERVER['REMOTE_ADDR']) && $_SERVER['REMOTE_ADDR'] && strcasecmp($_SERVER['REMOTE_ADDR'], "desconhecido")) {
+    $ip=$_SERVER['REMOTE_ADDR'];
+  } else {
+    $ip="desconhecido";
+  }
 
+  return($ip);
+}
 
-    <h3>
-      Escreva um comentário
-    </h3>
+// Função que escreve o formulário para envio de comentário
+function FormularioComentario($idpost) {
+  $mysql=new MySql();
+  $mysql->conecta();
+  $query=mysql_query("SELECT permalink FROM artigos WHERE id='$idpost'");
+  $row=mysql_fetch_row($query);
+  $permalink=$row[0];
+  $mysql->desconecta();
+?>
 
+<h3>
+  Escreva um comentário
+</h3>
 
-
-
-    <?php
+<?php
 }
 
 // Função que cadastra um comentário
 function EscreveComentario($nome, $email, $texto, $idpost) {
-	$ip=PegaIP();
-	$useragent=$_SERVER["HTTP_USER_AGENT"];
-	$nome=purifica($nome);
-	$email=purifica($email);
-	$texto=purifica($texto);
-	$data=time();
-	$mysql=new MySql();
-	$mysql->conecta();
-    	mysql_query("INSERT INTO comentario (id, idpost, nome, email, texto, data, ip, useragent) VALUES
-    		('', '$idpost', '$nome', '$email', '$texto', '$data', '$ip', '$useragent')") or die(mysql_error());
-    	$mysql->desconecta();
-    	$email=($email)?$email:"contato@tiagomadeira.net";
-    	$mensagem="No post de id $idpost, o $nome ($email) comentou em ".date("d/m/Y", $time)." dizendo:";
-    	$mensagem.="nn";
-    	$mensagem.="$texto";
-    	mail("contato@tiagomadeira.net", "[tiagomadeira.net] Novo Comentário!", "$mensagem", "From: $nome <$email>");
-    }
+$ip=PegaIP();
+$useragent=$_SERVER["HTTP_USER_AGENT"];
+$nome=purifica($nome);
+$email=purifica($email);
+$texto=purifica($texto);
+$data=time();
+$mysql=new MySql();
+$mysql->conecta();
+  mysql_query("INSERT INTO comentario (id, idpost, nome, email, texto, data, ip, useragent) VALUES
+    ('', '$idpost', '$nome', '$email', '$texto', '$data', '$ip', '$useragent')") or die(mysql_error());
+  $mysql->desconecta();
+  $email=($email)?$email:"contato@tiagomadeira.net";
+  $mensagem="No post de id $idpost, o $nome ($email) comentou em ".date("d/m/Y", $time)." dizendo:";
+  $mensagem.="nn";
+  $mensagem.="$texto";
+  mail("contato@tiagomadeira.net", "[tiagomadeira.net] Novo Comentário!", "$mensagem", "From: $nome <$email>");
+}
 
-    // Função que cria escreve o título das seções
-    function titulo($titulo) {
-    	$tit="$titulo [tiagomadeira.net]";
-    	echo "n";
-    }
+// Função que cria escreve o título das seções
+function titulo($titulo) {
+  $tit="$titulo [tiagomadeira.net]";
+  echo "n";
+}
 
-    // Função para purificar os comentários depois do envio
-    function purifica($texto) {
-    	$t=ereg_replace("&", "&", $texto);
-    	$t=ereg_replace("%", "%", $t);
-    	$t=ereg_replace("<", "<", $t);
-    	$t=ereg_replace(">", ">", $t);
-    	$t=ereg_replace("[", "[", $t);
-    	$t=ereg_replace("]", "]", $t);
-    	$t=ereg_replace(""", """, $t);
-    	return $t;
-    }
+// Função para purificar os comentários depois do envio
+function purifica($texto) {
+  $t=ereg_replace("&", "&", $texto);
+  $t=ereg_replace("%", "%", $t);
+  $t=ereg_replace("<", "<", $t);
+  $t=ereg_replace(">", ">", $t);
+  $t=ereg_replace("[", "[", $t);
+  $t=ereg_replace("]", "]", $t);
+  $t=ereg_replace(""", """, $t);
+  return $t;
+}
 
-    // Função para editar artigos
-    function pra_textarea($texto) {
-    	$texto=ereg_replace("&", "&", $texto);
-    	$texto=ereg_replace("<", "<", $texto);
-    	$texto=ereg_replace(">", ">", $texto);
-    	$texto=ereg_replace(""", """, $texto);
-    	return $texto;
-    }
-
-    ?>
+// Função para editar artigos
+function pra_textarea($texto) {
+  $texto=ereg_replace("&", "&", $texto);
+  $texto=ereg_replace("<", "<", $texto);
+  $texto=ereg_replace(">", ">", $texto);
+  $texto=ereg_replace(""", """, $texto);
+  return $texto;
+}
+?>
 ```
 
+E os arquivos que usam essas funções e classes...
 
-    <p>
-      E os arquivos que usam essas funções e classes...
-    </p>
+#### /artigos (ou /blog)
 
-
-    <h4>
-      /artigos (ou /blog)
-    </h4>
-
-
-    ```php
+```php
 <?php
 	$artigosporpagina=10; //Artigos Por Página
 	$p=($_GET["pg"])?$_GET["pg"]:1; //Página Atual
@@ -485,9 +441,7 @@ function EscreveComentario($nome, $email, $texto, $idpost) {
 	echo $paginacao;
 
 	$artigos=new Artigos($artigosporpagina, ($p-1)*$artigosporpagina);
-	echo "
-
-<ul>
+	echo " <ul>
   n";
   	for ($i=0; $i<count($artigos->id); $i++) {
   		echo "
@@ -511,24 +465,17 @@ function EscreveComentario($nome, $email, $texto, $idpost) {
 ```
 
 
-    <h4>
-      / (ou /ultimos)
-    </h4>
+#### / (ou /ultimos)
 
-
-    ```php
+```php
 <?php
 	$artigos=new Artigos(5, 0, 1, 1, 1);
 ?>
 ```
 
+#### Para finalizar... .htaccess
 
-    <h4>
-      Para finalizar... .htaccess
-    </h4>
-
-
-    ```apache
+```apache
 RewriteEngine On
 
 #Diretórios

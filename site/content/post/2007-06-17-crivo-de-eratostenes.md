@@ -31,28 +31,26 @@ O algoritmo consiste em:
 
 Há várias maneiras de implementar este algoritmo. Eu _pseudocodaria_ (meu pseudocódigo é bem próximo de uma linguagem normal, porque acho que assim é mais fácil de entender e depois implementar) ele assim:
 
-```
-/* Primeiro passo */
+<pre><code>/* Primeiro passo */
 <strong>recebe</strong> valorLimite
 
 /* Segundo passo */
-raiz <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow&bg=T&fg=000000&s=0' alt='\leftarrow' title='\leftarrow' class='latex' /> <img src='https://s0.wp.com/latex.php?latex=%5Csqrt%7BvalorLimite%7D&bg=T&fg=000000&s=0' alt='\sqrt{valorLimite}' title='\sqrt{valorLimite}' class='latex' />
+raiz <span class="tex-render">\leftarrow</span> <span class="tex-render">\sqrt{valorLimite}</span>
 
 /* Terceiro passo */
-<strong>para</strong> <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow&bg=T&fg=000000&s=0' alt='\leftarrow' title='\leftarrow' class='latex' /> 2 <strong>até</strong> <em>valorLimite</em>
-    <em>vetor[i]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow&bg=T&fg=000000&s=0' alt='\leftarrow' title='\leftarrow' class='latex' /> <em>i</em>
+<strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow</span> 2 <strong>até</strong> <em>valorLimite</em>
+    <em>vetor[i]</em> <span class="tex-render">\leftarrow</span> <em>i</em>
 <strong>fim-para</strong>
 
 /* Quarto passo */
-<strong>para</strong> <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow&bg=T&fg=000000&s=0' alt='\leftarrow' title='\leftarrow' class='latex' /> 2 <strong>até</strong> <em>raiz</em>
+<strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow</span> 2 <strong>até</strong> <em>raiz</em>
     <strong>se</strong> <em>vetor[i] = i</em>
         <strong>imprima</strong> "O número " <em>i</em> " é primo."
-        <strong>para</strong> <em>j</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow&bg=T&fg=000000&s=0' alt='\leftarrow' title='\leftarrow' class='latex' /> <em>i+i</em> até <em>valorLimite</em>, de <em>i</em> e <em>i</em>
-            <em>vetor[j]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow&bg=T&fg=000000&s=0' alt='\leftarrow' title='\leftarrow' class='latex' /> 0
+        <strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow</span> <em>i+i</em> até <em>valorLimite</em>, de <em>i</em> e <em>i</em>
+            <em>vetor[j]</em> <span class="tex-render">\leftarrow</span> 0
         <strong>fim-para</strong>
     <strong>fim-se</strong>
-<strong>fim-para</strong>
-```
+<strong>fim-para</strong></code></pre>
 
 Vêem como é simples?
 

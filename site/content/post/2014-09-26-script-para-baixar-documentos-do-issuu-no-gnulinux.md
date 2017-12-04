@@ -64,34 +64,20 @@ title=$(cat $tmp/html | grep '
 ```
 
 
-    <p>
-      O script requer Bash, wget, GhostScript e ImageMagick. A maioria das distribuições de Linux já tem esses aplicativos, mas por via das dúvidas cheque se você tem o ImageMagick instalado.
-    </p>
+O script requer Bash, wget, GhostScript e ImageMagick. A maioria das distribuições de Linux já tem esses aplicativos, mas por via das dúvidas cheque se você tem o ImageMagick instalado.
 
+**Download do script:** <a href="http://tiagomadeira.com/wp-content/uploads/2014/09/issuu_download.sh">issuu_download.sh</a> (932 bytes)
 
-    <p>
-      <strong>Download do script:</strong> <a href="http://tiagomadeira.com/wp-content/uploads/2014/09/issuu_download.sh">issuu_download.sh</a> (932 bytes)
-    </p>
+Para instalar, é só baixar o arquivo, torná-lo executável e movê-lo para alguma pasta do seu $PATH:
 
-
-    <p>
-      Para instalar, é só baixar o arquivo, torná-lo executável e movê-lo para alguma pasta do seu $PATH:
-    </p>
-
-
-    ```
+```bash
 $ wget http://tiagomadeira.com/wp-content/uploads/2014/09/issuu_download.sh
 $ chmod +x issuu_download.sh
 $ sudo mv issuu_download.sh /bin
 ```
 
+Para usar, é só digitar:
 
-    <p>
-      Para usar, é só digitar:
-    </p>
-
-
-    ```
+```bash
 $ issuu_download.sh <endereco_do_documento>
 ```
-

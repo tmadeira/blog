@@ -32,7 +32,7 @@ O dia hoje serviu para “nivelar” os participantes e treinar um pouquinho a r
 
 Não é um problema muito complexo, mas eu usava um algoritmo muito demorado para determinar se dois números tinham ou não um fator comum, que não passava por tempo limite excedido. Então, o [Fábio Dias Moreira][4] nos passou uma propriedade bem interessante de **MDC** (Máximo Divisor Comum):
 
-```
+```c
 mdc(x, y) = mdc(x%y, y)
 ```
 

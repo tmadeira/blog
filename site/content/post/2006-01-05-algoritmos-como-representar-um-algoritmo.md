@@ -23,23 +23,21 @@ tags:
 ---
 No [primeiro artigo desta série][1], expliquei o que é um algoritmo e até citei exemplos do cotidiano, como **acordar** ou **falar com outra pessoa**. Talvez você nem tenha se dado conta, mas usando _listas numeradas_ eu representei os algoritmos ali presentes, inclusive destacando a **entrada** e a **saída** de cada situação-problema. Porém, não é sempre assim que representamos algoritmos.
 
-Não existe uma regra padrão para a representação de algoritmos. Cada pessoa escreve de forma diferente, mas o importante é ser legível e convencionado. Por exemplo, o livro **Algoritmos: Teoria e Prática*** traz nas páginas 14 e 15 convenções do [pseudocódigo][2] que utiliza no livro inteiro. Já eu, quando vou passar o mesmo algoritmo, utilizaria outro tipo de código, você pode utilizar outro, e por aí vai. Mas todos têm que ter o mesmo foco: legibilidade e fácil implementação para qualquer linguagem.
+Não existe uma regra padrão para a representação de algoritmos. Cada pessoa escreve de forma diferente, mas o importante é ser legível e convencionado. Por exemplo, o livro **Algoritmos: Teoria e Prática**\* traz nas páginas 14 e 15 convenções do [pseudocódigo][2] que utiliza no livro inteiro. Já eu, quando vou passar o mesmo algoritmo, utilizaria outro tipo de código, você pode utilizar outro, e por aí vai. Mas todos têm que ter o mesmo foco: legibilidade e fácil implementação para qualquer linguagem.
 
 * A partir deste artigo, sempre que eu falar “Cormen”, “CLRS”, “Introduction to Algorithms” ou “Algoritmos: Teoria e Prática” estarei me referindo a um livro que é referência essencial nessa área. A versão que tenho (de onde tiro o número das páginas) é a tradução da segunda edição americana publicada pela Elsevier em 2002.
 
 Os pseudocódigos costumam parecer um código em linguagem [Pascal][3] traduzido para a sua língua. :) Usam quase sempre estruturas que estamos acostumados a usar na programação, como **se**, **enquanto**, **para**, **arrays**, etc. Eles existem para que o algoritmo seja de fácil leitura para qualquer programador, que programe em qualquer linguagem _“normal”_. Veja o pseudocódigo do **Insertion Sort**, um algoritmo de ordenação de vetores bastante simples:
 
-```
-<strong>para</strong> <em>j</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> 2 <strong>até</strong> <em>comprimento do vetor</em>, <strong>faça</strong>
-    <em>elemento</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>vetor[j]</em>
-    <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>j</em> - 1
+<pre><code><strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 2 <strong>até</strong> <em>comprimento do vetor</em>, <strong>faça</strong>
+    <em>elemento</em> <span class="tex-render">\leftarrow{}</span> <em>vetor[j]</em>
+    <em>i</em> <span class="tex-render">\leftarrow{}</span> <em>j</em> - 1
     <strong>enquanto</strong> <em>i</em> > 0 e <em>vetor[i]</em> > <em>elemento</em>, <strong>faça</strong>
-        <em>vetor[i + 1]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>vetor[i]</em>
-        <em>i</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>i</em> - 1
+        <em>vetor[i + 1]</em> <span class="tex-render">\leftarrow{}</span> <em>vetor[i]</em>
+        <em>i</em> <span class="tex-render">\leftarrow{}</span> <em>i</em> - 1
     <strong>fim-enquanto</strong>
-    <em>vetor[i + 1]</em> <img src='https://s0.wp.com/latex.php?latex=%5Cleftarrow%7B%7D&bg=T&fg=000000&s=0' alt='\leftarrow{}' title='\leftarrow{}' class='latex' /> <em>elemento</em>
-<strong>fim-para</strong>
-```
+    <em>vetor[i + 1]</em> <span class="tex-render">\leftarrow{}</span> <em>elemento</em>
+<strong>fim-para</strong></code></pre>
 
 (Não se preocupe em entender o que ele faz, AINDA, pois veremos isso mais adiante)
 

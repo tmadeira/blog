@@ -27,7 +27,7 @@ Antes que reclamem nos comentários, há muitos programas mais simples que poder
 
 O vídeo que usarei como exemplo é o que aparece quando você clica na foto do Brasil (Organize a sua indignação) na reportagem [Alle Macht dem Volk?][6] Clique nessa imagem e deve aparecer uma tela como esta:
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/reportagem-650x365.jpg?resize=604%2C339" alt="reportagem" class="aligncenter size-large wp-image-2871" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/reportagem.jpg?resize=650%2C365&ssl=1 650w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/reportagem.jpg?resize=300%2C168&ssl=1 300w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/reportagem.jpg?w=941&ssl=1 941w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" />][7]
+{{< figure src="/wp-content/uploads/2013/10/reportagem-650x365.jpg" title="Tela que aparece ao clicar num vídeo numa reportagem do Deutsche Welle." >}}
 
 Neste momento, espere um pouco antes de clicar no botão _Play_ para começar a tocar o vídeo. Primeiro abra o Wireshark e comece a capturar na interface que você usa para acessar a Internet (ou escute em todas caso não saiba qual escolher). Para não ter que ficar vendo muitas coisas desnecessárias, filtre apenas mensagens do protocolo RTMP: escreva no campo _Filter_ o valor _rtmpt_ (não é erro de digitação, tem um “t” no final mesmo) e pressione _Enter_.
 
@@ -35,17 +35,17 @@ Agora você pode começar a tocar o vídeo. Porém, não é de seu interesse ass
 
 Se tudo correu bem, você pode parar a captura no Wireshark (clicando no ícone vermelho com um X lá no seu menu). Na sua tela, você deve estar vendo alguns pacotes RTMP filtrados:
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/wireshark-650x388.jpg?resize=604%2C361" alt="wireshark" class="aligncenter size-large wp-image-2874" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/wireshark.jpg?resize=650%2C388&ssl=1 650w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/wireshark.jpg?resize=300%2C180&ssl=1 300w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/wireshark.jpg?w=1083&ssl=1 1083w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" />][8]
+{{< figure src="/wp-content/uploads/2013/10/wireshark-650x388.jpg" title="Pacotes filtrados no Wireshark" >}}
 
 Lendo o conteúdo desses pacotes, você consegue descobrir qual é o endereço do vídeo no protocolo RTMP e então usar o RTMPDump para baixá-lo. Esse endereço está dividido em duas mensagens.
 
 Na mensagem _connect_ enviada pelo cliente ao servidor para iniciar o _handshake_, você encontra o parâmetro **tcUrl**, que neste caso aponta para `rtmp://tv-od.dw.de/flash/`:
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/tcurl-650x346.jpg?resize=604%2C322" alt="tcurl" class="aligncenter size-large wp-image-2878" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/tcurl.jpg?resize=650%2C346&ssl=1 650w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/tcurl.jpg?resize=300%2C160&ssl=1 300w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/tcurl.jpg?w=1076&ssl=1 1076w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" />][9]
+{{< figure src="/wp-content/uploads/2013/10/tcurl-650x346.jpg" title="Parâmetro tcUrl no Wireshark." >}}
 
 Um pouco abaixo, na mensagem _play_, você encontra o resto do endereço (neste caso, `vdt_de/2013/bdeu131028_004_rioprotest_01i_sd_avc.mp4`):
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/play-650x364.jpg?resize=604%2C338" alt="play" class="aligncenter size-large wp-image-2879" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/play.jpg?resize=650%2C364&ssl=1 650w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/play.jpg?resize=300%2C168&ssl=1 300w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/play.jpg?w=1078&ssl=1 1078w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" />][10]
+{{< figure src="/wp-content/uploads/2013/10/play-650x364.jpg" title="O resto do endereço do vídeo no corpo do RTMP." >}}
 
 Juntando as duas partes, temos o endereço completo: `rtmp://tv-od.dw.de/flash/vdt_de/2013/bdeu131028_004_rioprotest_01i_sd_avc.mp4`. Com ele, é hora de usarmos o RTMPDump. Essa parte é trivial. Basta abrir um terminal e digitar `rtmpdump` com os parâmetros `-r` (endereço) e `-o` (arquivo de saída). O resultado é este:
 
@@ -93,8 +93,3 @@ O vídeo usado no exemplo, para quem se interessar e entender alemão, foi parar
  [4]: https://www.wireshark.org/
  [5]: http://rtmpdump.mplayerhq.hu/
  [6]: http://www.dw.de/themen/alle-macht-dem-volk/s-32349
- [7]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/reportagem.jpg
- [8]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/wireshark.jpg
- [9]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/tcurl.jpg
- [10]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/10/play.jpg
-

@@ -21,7 +21,7 @@ Depois de ouvir esse improviso do André Mehmari sobre Odeon e Choro pro Zé, fi
 
 Procurando na rede, encontrei [um torrent][2] com um PDF com qualidade ruim e um [documento do Scribd][3] com qualidade boa. O problema é que o Scribd tem um [paywall][4] para não deixar as pessoas baixarem ou lerem os documentos que seus usuários colocam lá:
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/free-preview-650x468.png?resize=604%2C435" alt="free-preview" class="aligncenter size-large wp-image-2837" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/free-preview.png?resize=650%2C468&ssl=1 650w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/free-preview.png?resize=300%2C216&ssl=1 300w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/free-preview.png?w=855&ssl=1 855w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" />][5]
+{{< figure src="/wp-content/uploads/2013/08/free-preview-650x468.png" title="Paywall do Scribd." >}}
 
 Percebi que ele passa todas as imagens corretamente para o navegador e só no lado do cliente muda a opacidade das páginas para elas ficarem semitransparentes. Então escrevi um _userscript_ bem simples (usando [jQuery][6] por comodidade) para o [Greasemonkey][7] (uma dessas extensões indispensáveis do Firefox) para recuperar a opacidade das páginas do texto e, se necessário, remover essa mensagem “You’re reading a free preview”.
 
@@ -42,15 +42,13 @@ Percebi que ele passa todas as imagens corretamente para o navegador e só no la
 
 Para usar, é só instalar o Greasemonkey no Firefox e depois [baixar o userscript scribd.user.js][8]. Resultado:
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/choro-pro-ze-650x532.png?resize=604%2C494" alt="choro-pro-ze" class="aligncenter size-large wp-image-2841" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/choro-pro-ze.png?resize=650%2C532&ssl=1 650w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/choro-pro-ze.png?resize=300%2C245&ssl=1 300w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/choro-pro-ze.png?w=870&ssl=1 870w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" />][9]
+{{< figure src="/wp-content/uploads/2013/08/choro-pro-ze-650x532.png" title="Partitura da música Choro pro Zé no songbook do Guinga no Scribd." >}}
 
  [1]: http://www.violao.org/topic/6896-songbook-a-musica-de-guinga/
  [2]: https://torrentz.eu/efd777a6a64d1dd7e53f358e388a6409925f5af6
  [3]: http://pt.scribd.com/doc/47928303/Songbook-A-Musica-de-Guinga
  [4]: http://tiagomadeira.com/2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
- [5]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/free-preview.png
  [6]: http://jquery.com/
  [7]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
  [8]: http://tiagomadeira.com/wp-content/uploads/2013/08/scribd.user.js
- [9]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/08/choro-pro-ze.png
 

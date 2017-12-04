@@ -83,6 +83,21 @@
     vertical-align: 1px;
   }
 
+  figure {
+    @extend %wrap;
+    @extend %default-margin;
+    text-align: center;
+
+    h4 {
+      @extend %serif;
+      font-size: 16px;
+      font-style: italic;
+      font-weight: 400;
+      line-height: 19px;
+      margin: 0;
+    }
+  }
+
   h3 {
     @extend %wrap;
     @extend %default-margin;
@@ -128,6 +143,10 @@
     background: #eee;
     border: 0;
     height: 2px;
+  }
+
+  img {
+    max-width: 100%;
   }
 
   ol {

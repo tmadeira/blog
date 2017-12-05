@@ -13,9 +13,7 @@ tags:
   - prisão
 
 ---
-<p style="text-align:center;">
-  <img src='https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/05/arnold.jpg?w=604' alt='Arnold Schwazernegger' data-recalc-dims="1" /><br /><small>Governador da Califórnia</small>
-</p>
+{{< figure src="/wp-content/uploads/2007/05/arnold.jpg" title="Governador da Califórnia" >}}
 
 > Na terça-feira, Paris Hilton iniciou uma campanha na Internet pedindo a seus fãs que assinem uma carta de perdão a ser enviada ao governador da Califórnia, Arnold Schwarzenegger.
 

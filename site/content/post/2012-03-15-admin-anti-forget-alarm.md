@@ -18,7 +18,7 @@ tags:
 ---
 I wrote a small WordPress plugin to prevent users from publishing a post without excerpt or thumbnail, or with a too big excerpt, or with a too small thumbnail, or with an uppercase-only title.
 
-<a href="http://tiagomadeira.com/2012/03/admin-anti-forget-alarm/wordpress-2/" rel="attachment wp-att-1223"><img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/wordpress1-650x305.png?resize=604%2C283" alt="" title="wordpress" class="aligncenter size-large wp-image-1223" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/wordpress1.png?resize=650%2C305&ssl=1 650w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/wordpress1.png?resize=300%2C140&ssl=1 300w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/wordpress1.png?w=1267&ssl=1 1267w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/wordpress1.png?w=1208&ssl=1 1208w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" /></a>
+{{< figure src="/wp-content/uploads/2012/03/wordpress1.png" title="Screenshot do plugin" >}}
 
 _This screenshot is showing some of the messages the plugin displays in portuguese._
 

@@ -19,9 +19,7 @@ tags:
   - sociedade
 
 ---
-<p style="text-align:center;">
-  <img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/guantanamo.jpg?w=604" alt="Guantanamo" data-recalc-dims="1" /><br /><small>Prisão de Guantanamo</small>
-</p>
+{{< figure src="/wp-content/uploads/2007/01/guantanamo.jpg" title="Prisão de Guantanamo" >}}
 
 > NAÇÕES UNIDAS (Reuters) – O novo secretário-geral da ONU, Ban Ki-moon, acredita que a prisão norte-americana de Guantánamo, em Cuba, deveria ser desativada, disse ele em uma coletiva de imprensa na quinta-feira.
 >

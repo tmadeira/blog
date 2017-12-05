@@ -44,7 +44,8 @@ if (time() - $last > 3600) {
         die();
     }
     // Substitua o e-mail do calendário do Google CodeJam pelo e-mail do seu calendário (público)
-    $ch = curl_init("https://www.google.com/calendar/feeds/google.com_jqv7qt9iifsaj94cuknckrabd8%40group.calendar.google.com/public/full");
+    $ch = curl_init("https://www.google.com/calendar/feeds/" .
+      "google.com_jqv7qt9iifsaj94cuknckrabd8%40group.calendar.google.com/public/full");
     curl_setopt($ch, CURLOPT_TIMEOUT, 50);
     curl_setopt($ch, CURLOPT_FILE, $fp);
     curl_exec($ch);
@@ -111,37 +112,21 @@ if ($n > 0) {
             if ($i != 0) {
                 echo "</ul>\n\n";
             }
-            echo "
-
-<h3 class="day">
-  <span>$day</span>
-</h3>\n";
-            echo "
-
-<ul>
-  \n";
+            echo "<h3 class="day"><span>$day</span></h3>\n";
+            echo "<ul>\n";
           }
-          echo "\t
-
-  <li>
-    \n";
+          echo "\t<li>\n";
             if ($start != "") {
                 // Você pode modificar aqui para mostrar o horário de término ($end).
                 echo "tt<span class="time">{$start}</span>\n";
             }
             echo "\t\t<strong>{$title}</strong>\n";
-            echo "\t
-  </li>\n";
+            echo "\t</li>\n";
           $lastDay = $day;
       }
-      echo "
-</ul>\n";
+      echo "</ul>\n";
 } else {
-    echo "
-
-<p>
-  Nenhum evento cadastrado.
-</p>\n";
+    echo "<p>Nenhum evento cadastrado.</p>\n";
 }
 ?>
 ```

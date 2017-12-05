@@ -12,9 +12,7 @@ tags:
   - terrorismo poético
 
 ---
-<p style="text-align:center;">
-  <img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/bey-site.gif?w=604" alt="Hakim Bey" data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/01/bey-site.gif" title="Hakim Bey" >}}
 
 > Estranhas danças em saguões de bancos 24 horas. Espetáculos pirotécnicos não autorizados. “Land-art”, “earth-works” como bizarros artefatos alienígenas esparramados em parques do estado. Invada casas, mas ao invés de roubar deixe objetos Poético Terroristas. Seqüestre alguém e faça-o feliz.
 >

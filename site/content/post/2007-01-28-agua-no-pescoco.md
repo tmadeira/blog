@@ -23,9 +23,7 @@ A [ONU dobra previsão de aumento de temperatura][1] e enquanto isso os sábios 
 
 Achava-se que quando a água chegasse na bunda as pessoas começariam a cuidar do meio ambiente, mas a água já está quase no pescoço e nada. É uma ambição incontrolável! Não entendo o sentido disso tudo, a não ser o já conhecido efeito [Gollum][2].
 
-<p style="text-align:center;">
-  <img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/kyoto.jpg?w=604" alt="Kyoto" data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/01/kyoto.jpg" title="Aquecimento global" >}}
 
 > Em qualquer lugar onde encontro uma criatura viva, encontro desejo de poder.
 

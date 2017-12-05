@@ -17,9 +17,7 @@ tags:
   - sociedade
 
 ---
-<p style="text-align:center;">
-  <img src='https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2007/06/salaaula.jpg?w=604' alt='Sala de aula' data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/06/salaaula.jpg" title="Sala de aula" >}}
 
 > “Educai as crianças e não será necessário punir os homens.” (Pitágoras)
 

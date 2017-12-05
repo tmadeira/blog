@@ -15,8 +15,7 @@ Em primeiro lugar quero afirmar aos desavisados que o curso de Ciência da Compu
 
 Porém, eu acho que esse fato colaborou para esse bacharelado se transformar num reduto de _usuários_ de computador, pessoas que leram “Computação” no nome e pensaram: _“Eu gosto de mexer no computador, acho que este é o meu curso”_.
 
-<a href="http://www.flickr.com/photos/33609970@N06/3385172794/" title="Our new mobile lab" target="_blank"><img src="https://i1.wp.com/farm4.static.flickr.com/3616/3385172794_f1a5d0903c.jpg?w=604" alt="Our new mobile lab" border="0" data-recalc-dims="1" /></a>
-<small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="https://i0.wp.com/blog.tiagomadeira.com/wp-content/plugins/photo-dropper/images/cc.png?resize=16%2C16" alt="Creative Commons License" border="0" align="absmiddle" data-recalc-dims="1" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/33609970@N06/3385172794/" title="Christy Tvarok Green" target="_blank">Christy Tvarok Green</a></small>
+{{< figure src="https://i1.wp.com/farm4.static.flickr.com/3616/3385172794_f1a5d0903c.jpg" title="Crianças usando computador (crédito: Christy Tvarok Green/Flickr)" >}}
 
 #### Se já sabemos que funciona, pra que provar?
 
@@ -34,8 +33,7 @@ Edsger Dijkstra, um dos grandes cientistas da computação de nossa história, d
 
 > Ciência da Computação está tão relacionada aos computadores quanto a Astronomia aos telescópios, Biologia aos microscópios, ou Química aos tubos de ensaio. A Ciência não estuda ferramentas. Ela estuda como nós as utilizamos, e o que descobrimos com elas.
 
-<a href="http://www.flickr.com/photos/20408296@N00/3393286459/" title="Precision knob?" target="_blank"><img src="https://i1.wp.com/farm4.static.flickr.com/3541/3393286459_b8289fae69.jpg?w=604" alt="Precision knob?" border="0" data-recalc-dims="1" /></a>
-<small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="https://i0.wp.com/blog.tiagomadeira.com/wp-content/plugins/photo-dropper/images/cc.png?resize=16%2C16" alt="Creative Commons License" border="0" align="absmiddle" data-recalc-dims="1" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/20408296@N00/3393286459/" title="gogoninja" target="_blank">gogoninja</a></small>
+{{< figure src="https://i1.wp.com/farm4.static.flickr.com/3541/3393286459_b8289fae69.jpg" title="Telescópio (crédito: gogoninja/Flickr)" >}}
 
 É por tudo isso que abandono a sala ao ouvir que hoje em dia classes são mais importantes do que laços e nomear corretamente funções é mais importante do que conhecer algoritmos. (Sim, já ouvi isso de um professor dentro da universidade.)
 

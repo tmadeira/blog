@@ -15,9 +15,7 @@ tags:
   - sociedade
 
 ---
-<p style="text-align:center;">
-  <img src='https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/03/beirute-em-um-conversivel.jpg?w=604' alt='Garotas libanesas ricas' data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/03/beirute-em-um-conversivel.jpg" title="Garotas libanesas ricas" >}}
 
 Segundo o [Word Press Photo][1], um grupo de garotas libanesas ricas passeando com um carro conversível por um bairro destruído por um bombardeio israelense.
 

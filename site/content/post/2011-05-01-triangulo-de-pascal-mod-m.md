@@ -16,31 +16,19 @@ tags:
 ---
 _Este post possui intencionalmente apenas imagens e códigos._
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/screenshot.png?resize=463%2C521" alt="Uso do programa que gera triângulo de Pascal mod m" title="Uso do programa que gera triângulo de Pascal mod m" class="aligncenter size-full wp-image-803" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/screenshot.png?w=463&ssl=1 463w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/screenshot.png?resize=266%2C300&ssl=1 266w" sizes="(max-width: 463px) 100vw, 463px" data-recalc-dims="1" />][1]
+{{< figure src="/wp-content/uploads/2011/05/screenshot.png" title="Uso do programa que gera triângulo de Pascal mod m" >}}
 
-### mod 2
+{{< figure src="/wp-content/uploads/2011/05/mod21.png" title="Triângulo de Pascal mod 2" >}}
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod21.png?resize=410%2C410" alt="Pascal&#039;s Triangle mod 2" title="Pascal&#039;s Triangle mod 2" class="aligncenter size-full wp-image-795" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod21.png?w=410&ssl=1 410w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod21.png?resize=150%2C150&ssl=1 150w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod21.png?resize=300%2C300&ssl=1 300w" sizes="(max-width: 410px) 100vw, 410px" data-recalc-dims="1" />][2]
+{{< figure src="/wp-content/uploads/2011/05/mod3.png" title="Triângulo de Pascal mod 3" >}}
 
-### mod 3
+{{< figure src="/wp-content/uploads/2011/05/mod5.png" title="Triângulo de Pascal mod 5" >}}
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod3.png?resize=410%2C410" alt="Pascal&#039;s Triangle mod 3" title="Pascal&#039;s Triangle mod 3" class="aligncenter size-full wp-image-796" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod3.png?w=410&ssl=1 410w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod3.png?resize=150%2C150&ssl=1 150w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod3.png?resize=300%2C300&ssl=1 300w" sizes="(max-width: 410px) 100vw, 410px" data-recalc-dims="1" />][3]
+{{< figure src="/wp-content/uploads/2011/05/mod7.png" title="Triângulo de Pascal mod 7" >}}
 
-### mod 5
+{{< figure src="/wp-content/uploads/2011/05/mod121.png" title="Triângulo de Pascal mod 12" >}}
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod5.png?resize=410%2C410" alt="Pascal&#039;s Triangle mod 5" title="Pascal&#039;s Triangle mod 5" class="aligncenter size-full wp-image-797" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod5.png?w=410&ssl=1 410w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod5.png?resize=150%2C150&ssl=1 150w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod5.png?resize=300%2C300&ssl=1 300w" sizes="(max-width: 410px) 100vw, 410px" data-recalc-dims="1" />][4]
-
-### mod 7
-
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod7.png?resize=410%2C410" alt="Pascal&#039;s Triangle mod 7" title="Pascal&#039;s Triangle mod 7" class="aligncenter size-full wp-image-798" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod7.png?w=410&ssl=1 410w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod7.png?resize=150%2C150&ssl=1 150w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod7.png?resize=300%2C300&ssl=1 300w" sizes="(max-width: 410px) 100vw, 410px" data-recalc-dims="1" />][5]
-
-### mod 12
-
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod121.png?resize=410%2C410" alt="Pascal&#039;s Triangle mod 12" title="Pascal&#039;s Triangle mod 12" class="aligncenter size-full wp-image-818" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod121.png?w=410&ssl=1 410w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod121.png?resize=150%2C150&ssl=1 150w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod121.png?resize=300%2C300&ssl=1 300w" sizes="(max-width: 410px) 100vw, 410px" data-recalc-dims="1" />][6]
-
-### mod 23
-
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod23.png?resize=410%2C410" alt="Pascal&#039;s Triangle mod 23" title="Pascal&#039;s Triangle mod 23" class="aligncenter size-full wp-image-799" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod23.png?w=410&ssl=1 410w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod23.png?resize=150%2C150&ssl=1 150w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod23.png?resize=300%2C300&ssl=1 300w" sizes="(max-width: 410px) 100vw, 410px" data-recalc-dims="1" />][7]
+{{< figure src="/wp-content/uploads/2011/05/mod23.png" title="Triângulo de Pascal mod 23" >}}
 
 ### Código-fonte (com alguns bugs inofensivos — procure XXX)
 
@@ -249,13 +237,5 @@ int main(int argc, char **argv) {
 }
 ```
 
-<a href='http://tiagomadeira.com/wp-content/uploads/2011/05/pascal.c' title='Program written in C for generating colored Pascal's Triangles mod M'>(Download -- 5kb)</a>
-
- [1]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/screenshot.png
- [2]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod21.png
- [3]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod3.png
- [4]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod5.png
- [5]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod7.png
- [6]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod121.png
- [7]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/05/mod23.png
+<a href='/wp-content/uploads/2011/05/pascal.c' title='Program written in C for generating colored Pascal Triangles mod M'>(Download -- 5kb)</a>
 

@@ -23,10 +23,9 @@ Programei em PHP e em JavaScript (usando o [JQuery][2], que é uma mão na roda)
 
 **Visite:** [www.salesianoitajai.g12.br][3]
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/04/salesiano.png?resize=500%2C283" alt="Site do Colégio Salesiano Itajaí" title="Site do Colégio Salesiano Itajaí" class="alignnone size-full wp-image-223" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/04/salesiano.png?w=500&ssl=1 500w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/04/salesiano.png?resize=300%2C169&ssl=1 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" />][4]
+{{< figure src="/wp-content/uploads/2009/04/salesiano.png" title="Site do Colégio Salesiano Itajaí" >}}
 
  [1]: http://www.dreamhost.com/ "Dreamhost"
  [2]: http://www.jquery.com/
  [3]: http://www.salesianoitajai.g12.br/
- [4]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/04/salesiano.png
 

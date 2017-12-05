@@ -17,7 +17,7 @@ tags:
 ---
 Lembram daquela analogia clássica de software livre e culinária? Me lembrou que [felizmente] podemos usar, estudar, modificar e distribuir receitas. Eis aqui, portanto, minha primeira contribuição culinária aos leitores deste blog: a **receita do sorvete de creme belga com cobertura de chocolate**, que aprendi com minha tia no verão passado.
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/09/161568462.jpg?resize=600%2C450" alt="" title="Resultado" class="alignnone size-full wp-image-711" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/09/161568462.jpg?w=600&ssl=1 600w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/09/161568462.jpg?resize=300%2C225&ssl=1 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />][1]
+{{< figure src="/wp-content/uploads/2010/09/161568462.jpg" title="Resultado" >}}
 
 A forma ideal de preparar esta receita é com três pessoas. Como isso nem sempre é possível, recomendo criar três threads ou fazer uma coisa de cada vez (aparentemente as partes dessa receita são comutativas). Cada um dos itens abaixo é uma das três partes e no fim dou as instruções de como juntar tudo.
 
@@ -89,6 +89,4 @@ E agora vamos aos fatos:
   4. Ponha no freezer e espere algumas horas até ele ficar com consistência de sorvete e duro a ponto de poder desenformar.
 
 Quando o ponto chegar, desenforme e (se você fez tudo certo) bom apetite!
-
- [1]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/09/161568462.jpg
 

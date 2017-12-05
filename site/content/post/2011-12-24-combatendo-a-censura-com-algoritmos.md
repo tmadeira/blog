@@ -20,10 +20,10 @@ tags:
 
 ---
 <p style="text-align:right;">
-  <em>Mohammad Mahdian*</em> (tradução: Tiago Madeira)
+  <em>Mohammad Mahdian *</em> (tradução: Tiago Madeira)
 </p>
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/18.2_Mahdian_med.jpg?resize=440%2C286" alt="" title="18.2_Mahdian_med" class="aligncenter size-full wp-image-896" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/18.2_Mahdian_med.jpg?w=440&ssl=1 440w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/18.2_Mahdian_med.jpg?resize=300%2C194&ssl=1 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1" />][1]
+{{< figure src="/wp-content/uploads/2011/12/18.2_Mahdian_med.jpg" title="Mãos algemadas digitando num teclado de computador" >}}
 
 Os levantes recentes no Oriente Médio demonstraram a eficácia da internet em ajudar ativistas políticos e sociais a organizarem protestos, disseminarem informações para o público e enviarem notícias de prisões e repressões ao restante do mundo. Ameaçados por esse paradigma, regimes totalitários tentaram controlar e monitorar o acesso de seus cidadãos à web, desenvolvendo ou adquirindo tecnologias de censura e de vigilância da internet. Ao mesmo tempo, uma variedade de ferramentas de violação desses filtros foi desenvolvida para ajudar os usuários a contornarem o filtro da internet acessando sites bloqueados através de intermediários não-bloqueados (os chamados proxies). O artigo de Dan Boneh ([Recent Ideas for Circumventing Internet Filtering][2]) dá um ótimo resumo sobre novas e velhas técnicas para construir essas ferramentas.
 
@@ -53,7 +53,9 @@ O objetivo desse exercício era convencer o leitor de que existe um problema te�
 
 * * *
 
-* **Mohammad Mahdian** é um pesquisador senior do Yahoo Research Lab em Santa Clara, CA. É bacharel em Engenharia da Computação pela Universidade de Tecnologia de Sharif, [<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/18.2_Cover_crop-300x246.jpg?resize=300%2C246" alt="" title="18.2_Cover_crop" class="alignright size-medium wp-image-895" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/18.2_Cover_crop.jpg?resize=300%2C246&ssl=1 300w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/18.2_Cover_crop.jpg?w=584&ssl=1 584w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][3] mestre em Ciência da Computação pela Universidade de Toronto e PhD em Matemática pelo MIT. Seus interesses de pesquisa atuais incluem projeto de algoritmos, economia algorítmica e aplicações em publicidade online e redes sociais.
+\* **Mohammad Mahdian** é um pesquisador senior do Yahoo Research Lab em Santa Clara, CA. É bacharel em Engenharia da Computação pela Universidade de Tecnologia de Sharif, mestre em Ciência da Computação pela Universidade de Toronto e PhD em Matemática pelo MIT. Seus interesses de pesquisa atuais incluem projeto de algoritmos, economia algorítmica e aplicações em publicidade online e redes sociais.
+
+{{< figure src="/wp-content/uploads/2011/12/18.2_Cover_crop.jpg" title="Capa da XRDS" >}}
 
 Este texto foi publicado em inglês na última edição da [XRDS][4] (revista da ACM para estudantes), cujo [tema][5] é **Ciência da Computação a serviço da democracia**. No site do autor, há o [artigo “Fighting censorship with algorithms” completo em PDF][6] disponível para download gratuito. Ainda não li, mas parece interessante.
 

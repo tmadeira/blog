@@ -17,9 +17,7 @@ tags:
 ---
 Além de publicar [livros][1] com o tema parecido com o do **Mal Vicioso**, resolvemos publicar também sugestões de filmes. Para estrear a categoria, escreverei sobre o filme **Crash – No Limite**.
 
-<div class="imagemdireita">
-  <img id="image109" src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/crash.jpg?w=604" alt="Crash - No Limite" data-recalc-dims="1" />
-</div>
+{{< figure src="/wp-content/uploads/2007/01/crash.jpg" title="Crash - No Limite" >}}
 
   * **Nome original:** Crash
   * **Diretor:** Paul Haggis

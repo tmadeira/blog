@@ -68,7 +68,7 @@ Bus 003 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
 
 **Alice** (é o nome do laptop) veio com Windows Vista 64 bits e a primeira coisa que notei nela foi um estranho desligamento do nada (no seu primeiro dia de vida), antes mesmo de eu instalar Linux! (ou seja, nos seus primeiros minutos, pois obviamente a primeira coisa a fazer quando se recebe um computador com Windows é instalar um Linux)
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/1244.jpg?resize=300%2C225" alt="Compal JFT00" title="Compal JFT00" class="size-full wp-image-405" data-recalc-dims="1" />][3]
+{{< figure src="/wp-content/uploads/2009/08/1244.jpg" title="Compal JFT00" >}}
 
 Pensei ser problema do sistema operacional e não dei bola. Mas aí a coisa ficou estranha: coloquei um CD minimal do Gentoo amd64 e quando ele iniciava o computador desligava do nada.
 
@@ -82,7 +82,7 @@ Lá chegando o cara do suporte falou que tinha outros laptops da Amazon dando pr
 
 O laptop com 2GB de memória RAM não teve problema algum. Instalei Gentoo, pesquisei mais um pouco e encontrei a opção _mem=4000M_ que deveria passar para o Kernel só reconhecer 3 e com isso funcionar com 64 bits.
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/amazonPC.jpg?resize=239%2C114" alt="amazonPC" title="amazonPC" class="size-full wp-image-406" data-recalc-dims="1" />][7]
+{{< figure src="/wp-content/uploads/2009/08/amazonPC.jpg" title="Amazon PC" >}}
 
 Continuei pesquisando, entrei em contato com a Amazon (que não ajudou em nada a não ser sugerir [algo equivalente a mem=4000M pra Windows][8]) e troquei e-mails com o Wil (que prometeu passar minha queixa para a Amazon trocar minha placa-mãe e desde 9 de fevereiro não me respondeu). No fim, não tive opção senão ficar com o laptop e, como ele não dava problemas com 3GB, resolvi deixar pra lá.
 
@@ -92,7 +92,7 @@ Estranhando o comportamento, mas atribuindo-o a eu estar usando versões bleedin
 
 Nos primeiros dias de Ubuntu ele travava com frequência, mas acreditei que fosse por culpa da placa de vídeo (tinha duas opções no Ubuntu: usava Compiz — blacklisted pa minha placa de vídeo — ou tinha um lag infernal pra trocar de área de trabalho no Gnome. Fiquei com a primeira), então não dei bola. Curiosamente os problemas cessaram e continuei usando o Ubuntu [razoavelmente-]feliz por mais algum tempo. De vez em quando o computador desligava quando eu fazia operações bastante pesadas e eu estranhava, mas pensava que era coincidência.
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/funky.png?resize=496%2C154" alt="Funtoo" title="Funtoo" class="size-full wp-image-410" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/funky.png?w=496&ssl=1 496w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/funky.png?resize=300%2C93&ssl=1 300w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1" />][9]
+{{< figure src="/wp-content/uploads/2009/08/funky.png" title="Funtoo" >}}
 
 Nesse fim de semana ouvi falar do [Funtoo][10] e, mesmo com a agenda cheia, resolvi parar de usar Ubuntu de uma vez e fazer a Alice voltar a ter um sistema firme e forte. Baixei o stage 3 do <a href"http://dev.funtoo.org/linux/~funtoo/core2\_32/">~core2\_32</a>, caprichei nos arquivos de configuração e quando rodei um `emerge -DN world` **surpresa!** O laptop desligou.
 
@@ -102,7 +102,7 @@ Deixei-a desligada por um dia, coloquei-a com as pontas apoiadas em livro, super
 
 _Só pode ser o problema da BIOS_, pensei. Vou ver se tem uma versão nova… [E não é que tem?][11]
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/1195_540.jpg?resize=417%2C309" alt="Windows Vista = shit" title="Windows Vista = shit" class="size-full wp-image-411" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/1195_540.jpg?w=417&ssl=1 417w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/1195_540.jpg?resize=300%2C222&ssl=1 300w" sizes="(max-width: 417px) 100vw, 417px" data-recalc-dims="1" />][12]
+{{< figure src="/wp-content/uploads/2009/08/1195_540.jpg" title="Windows na privada" >}}
 
 Ótimo, sofro um pouco mas instalo o Vista, atualizo a BIOS e depois isso vai estar corrigido. Alterei minha tabela de partições, criei uma partição primária especialmente pro Windows (porque sei que ele é chato com isso), iniciei com enorme desgosto a instalação do Vista e depois de digitar a _product key_ mais de uma vez cheguei a conclusão que [não ia conseguir instalá-lo][13]. E depois ainda dizem que Linux é que é difícil…
 
@@ -149,7 +149,7 @@ Resignado, [ontem enviei e-mails][16] detalhados para quatro assistências técn
 
 Minha grande dificuldade é explicar isso pras assistências técnicas que, em geral, são compostas por pessoas que não entendem nada de Linux, nada de compilação e não compreendem nem mesmo o problema que tenho. Não que a última seja fácil, nem eu entendo esse problema (mas eu pelo menos sei que há algo errado). Elas testam deixando o computador ligado por algumas horas e, notando que ele não desliga, pensam que está tudo normal.
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/that-damntechsupportguy.gif?resize=476%2C383" alt="that-damntechsupportguy" title="that-damntechsupportguy" class="alignnone size-full wp-image-412" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/that-damntechsupportguy.gif?w=476&ssl=1 476w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/that-damntechsupportguy.gif?resize=300%2C241&ssl=1 300w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1" />][18]
+{{< figure src="/wp-content/uploads/2009/08/that-damntechsupportguy.gif" title="Computer Technical Support Hotline" >}}
 
 Creio inclusive que há outros Compal JFT00 (a Intelbras produziu vários desses, além da Amazon) com o mesmo defeito, mas usuários comuns de computador nem devem notar.
 
@@ -157,20 +157,15 @@ Solução? Amanhã telefonarei pra Amazon e incomodarei eles até eles consertar
 
  [1]: http://www.fnac.com.br/amz-pc-core-2-duo-t5750-4gb-250gb-dvdrw-tela-12-1-FNAC,,informatica-507195-8427.html
  [2]: http://www.amazonpc.com.br/portal/portal/Amazon-PC-Slim-12-L92-AMZL92T57216P2/D28/?PROD=17
- [3]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/1244.jpg
  [4]: https://bugs.launchpad.net/ubuntu/+source/linux/+bug/272530
  [5]: http://forum.notebookreview.com/showthread.php?t=252367
  [6]: http://orkutcidio.deliriocoletivo.org/
- [7]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/amazonPC.jpg
  [8]: http://tiagomadeira.com/wp-content/uploads/2009/08/Alteração-na-configuração-do-Vista-no-L92.doc
- [9]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/funky.png
  [10]: http://www.funtoo.org/
  [11]: http://www.compal.com/Download/NB/JFT00/BIOS/
- [12]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/1195_540.jpg
  [13]: http://twitter.com/tmadeira/status/3485974146
  [14]: http://dev.funtoo.org/linux/~funtoo/core2/
  [15]: http://bugs.gentoo.org/show_bug.cgi?id=20600
  [16]: http://twitter.com/tmadeira/status/3492868176
  [17]: http://twitter.com/tmadeira/status/3519985264
- [18]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2009/08/that-damntechsupportguy.gif
 

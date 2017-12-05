@@ -20,9 +20,7 @@ tags:
   * **Páginas:** 116
   * **Sinopse:** Este pequeno tratado, verdadeira pérola oculta nos escritos póstumos de Schopenhauer, foi elaborado “como uma dissecação limpa” para conferir uma sistematização formal aos “artifícios desonestos recorrentes nas disputas”. Schopenhauer apresenta 38 estratagemas, lícitos e ilícitos, aos quais é possível recorrer para “obter” razão: para defendê-la quando ela estiver do nosso lado, e para conquistá-la quanto estiver do lado do adversário. Leitura atraente e muito útil: com frieza classificatória, Schopenhauer nos indica “os caminhos oblíquos e os truques de que se serve a natureza humana em geral para ocultar seus defeitos”.
 
-<div class="imagemdireita">
-  <img src='https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/02/8533621124.jpg?w=604' alt='A arte de ter razão' data-recalc-dims="1" />
-</div>
+{{< figure src="/wp-content/uploads/2007/02/8533621124.jpg" title="A arte de ter razão" >}}
 
 Estou na página 23 desse livro fascinante. Schopenhauer sistematiza os relacionamentos humanos de maneira incrível. É uma leitura um pouco difícil, na qual são apresentados conceitos para o que nós fazemos em nossas disputas, mas tudo é bem explicado e exemplificado e entendemos algumas coisas que nós inconscientemente fazemos e falamos. Como diz Schopenhauer: na discussão não visamos a verdade, mas apenas defender a nossa opinião para satisfazer a nossa vaidade.
 

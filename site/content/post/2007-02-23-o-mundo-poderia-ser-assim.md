@@ -15,7 +15,7 @@ tags:
   - reflexão
 
 ---
-<a href="http://tiagomadeira.com/2007/02/o-mundo-poderia-ser-assim/mundoestranho/" rel="attachment wp-att-1649"><img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/02/mundoestranho.jpg?resize=324%2C298" alt="" title="mundoestranho" class="aligncenter size-full wp-image-1649" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/02/mundoestranho.jpg?w=324&ssl=1 324w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/02/mundoestranho.jpg?resize=300%2C275&ssl=1 300w" sizes="(max-width: 324px) 100vw, 324px" data-recalc-dims="1" /></a>
+{{< figure src="/wp-content/uploads/2007/02/mundoestranho.jpg" title="O mundo poderia ser assim..." >}}
 
 Talvez se a Alemanha tivesse vencido a guerra o nosso mundo fosse melhor atualmente. Já pensaram nisso?
 

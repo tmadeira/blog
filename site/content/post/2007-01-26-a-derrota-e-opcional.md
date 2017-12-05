@@ -18,13 +18,11 @@ tags:
 ---
 > Um senhor idoso vivia sozinho em sua casa. Ele queria virar a terra de seu jardim para plantar flores, mas era um trabalho muito pesado. Seu único filho, que sempre o ajudava nesta tarefa, estava na prisão. O homem então escreveu a seguinte carta ao filho:
 >
-> _“Querido Filho…</p>
+> _“Querido Filho…  
+> Estou triste pois não vou poder plantar meu jardim este ano. Detesto não poder fazê-lo porque sua mãe sempre adorava flores e está na época do plantio. Mas eu estou velho demais para cavar a terra. Se você estivesse aqui, eu não teria esse problema, mas sei que você não pode me ajudar, pois está na prisão._
 >
-> Estou triste pois não vou poder plantar meu jardim este ano. Detesto não poder fazê-lo porque sua mãe sempre adorava flores e está na época do plantio. Mas eu estou velho demais para cavar a terra. Se você estivesse aqui, eu não teria esse problema, mas sei que você não pode me ajudar, pois está na prisão.
->
-> Com amor,
-
-> Seu pai.”</em>
+> _Com amor,  
+> Seu pai.”_
 >
 > Pouco depois o pai recebeu o seguinte telegrama:
 >

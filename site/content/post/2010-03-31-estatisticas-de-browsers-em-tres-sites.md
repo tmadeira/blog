@@ -18,19 +18,17 @@ Fui ver como estavam as estatísticas de uso do Internet Explorer nos meus sites
 
 ### Um site com público nem um pouco nerd
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a1.png?resize=547%2C284" alt="Browser stats" title="Browser stats" class="alignnone size-full wp-image-555" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a1.png?w=547&ssl=1 547w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a1.png?resize=300%2C155&ssl=1 300w" sizes="(max-width: 547px) 100vw, 547px" data-recalc-dims="1" />][1]
-
-Quase dois terços da população (considero essa amostra aleatória) usa IE!
+{{< figure src="/wp-content/uploads/2010/03/a1.png" title="Quase dois terços da população (considero essa amostra aleatória) usa IE!" >}}
 
 ### Meu site de Algoritmos ([algoritmos.tiagomadeira.net][2])
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a2.png?resize=546%2C308" alt="Browser stats" title="Browser stats" class="alignnone size-full wp-image-556" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a2.png?w=546&ssl=1 546w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a2.png?resize=300%2C169&ssl=1 300w" sizes="(max-width: 546px) 100vw, 546px" data-recalc-dims="1" />][3]
+{{< figure src="/wp-content/uploads/2010/03/a2.png" title="Metade dos visitantes usa IE e metade usa coisa melhor." >}}
 
-Metade dos visitantes usa IE e metade usa coisa melhor. O site é de **algoritmos**, que é um objeto de estudo praticamente exclusivo de **cientistas da computação**. Não é uma estatística nojenta?
+O site é de **algoritmos**, que é um objeto de estudo praticamente exclusivo de **cientistas da computação**. Não é uma estatística nojenta?
 
 ### Este blog (um reduto?)
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a3.png?resize=544%2C252" alt="Browser stats" title="Browser stats" class="alignnone size-full wp-image-557" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a3.png?w=544&ssl=1 544w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a3.png?resize=300%2C138&ssl=1 300w" sizes="(max-width: 544px) 100vw, 544px" data-recalc-dims="1" />][4]
+{{< figure src="/wp-content/uploads/2010/03/a3.png" title="Estatísticas deste blog" >}}
 
 Tenho aqui a melhor estatística (o que é bem legal, porque mostra que gente inteligente ;P — independente de gostar de computação, já que a maioria de meus posts não é nerd — não usa mais IE), ainda assim 32.08% dentre meus visitantes não me permite usar HTML 5 e CSS 3 por aqui.
 
@@ -38,11 +36,11 @@ Tenho aqui a melhor estatística (o que é bem legal, porque mostra que gente in
 
 Aí os três sites apresentam resultados semelhantes. Uns 60% usam IE8, 25% IE7 e 15% IE6:
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b1.png?resize=545%2C145" alt="Browser stats" title="Browser stats" class="alignnone size-full wp-image-558" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b1.png?w=545&ssl=1 545w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b1.png?resize=300%2C79&ssl=1 300w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1" />][5]
+{{< figure src="/wp-content/uploads/2010/03/b1.png" title="Uso de IE no primeiro site" >}}
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b2.png?resize=545%2C176" alt="Browser stats" title="Browser stats" class="alignnone size-full wp-image-559" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b2.png?w=545&ssl=1 545w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b2.png?resize=300%2C96&ssl=1 300w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1" />][6]
+{{< figure src="/wp-content/uploads/2010/03/b2.png" title="Uso de IE no site de algoritmos" >}}
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b3.png?resize=544%2C117" alt="Browser stats" title="Browser stats" class="alignnone size-full wp-image-560" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b3.png?w=544&ssl=1 544w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b3.png?resize=300%2C64&ssl=1 300w" sizes="(max-width: 544px) 100vw, 544px" data-recalc-dims="1" />][7]
+{{< figure src="/wp-content/uploads/2010/03/b3.png" title="Uso de IE neste blog" >}}
 
 ### Ah, mas o IE 8 é bom…
 
@@ -55,13 +53,7 @@ Além disso, é de código fechado, é mantido pela Microsoft (que é uma empres
   * [Mozilla Firefox][9]
   * [Google Chrome][10]
 
- [1]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a1.png
  [2]: http://algoritmos.tiagomadeira.net/
- [3]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a2.png
- [4]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/a3.png
- [5]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b1.png
- [6]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b2.png
- [7]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/03/b3.png
  [8]: http://www.findmebyip.com/litmus/#target-selector
  [9]: http://www.getfirefox.com/
  [10]: http://www.google.com/chrome/

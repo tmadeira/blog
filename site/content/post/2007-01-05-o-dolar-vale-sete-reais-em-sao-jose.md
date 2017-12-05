@@ -22,7 +22,7 @@ Vejam bem: o laptop custou US$ 950. O conserto dele é 1,5x mais caro que ele in
 
 Com o dinheiro que eles querem, eu compro um Turion 64 X2, com o dobro de HD do meu e o dobro de memória RAM, e ainda [aqui em Floripa][3].
 
-<a href="http://tiagomadeira.com/2007/01/o-dolar-vale-sete-reais-em-sao-jose/saddam-enforcado/" rel="attachment wp-att-1420"><img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/saddam-enforcado.jpg?resize=306%2C245" alt="" title="saddam-enforcado" class="aligncenter size-full wp-image-1420" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/saddam-enforcado.jpg?w=306&ssl=1 306w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/saddam-enforcado.jpg?resize=300%2C240&ssl=1 300w" sizes="(max-width: 306px) 100vw, 306px" data-recalc-dims="1" /></a>
+{{< figure src="/wp-content/uploads/2007/01/saddam-enforcado.jpg" title="Saddam Hussein sendo enforcado" >}}
 
 **Conclusão:** Teobaldo condenado a morte.
 

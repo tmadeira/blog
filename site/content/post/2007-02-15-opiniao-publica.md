@@ -19,14 +19,12 @@ tags:
 ---
 Encontrei esta passagem de [Goethe][1] no estrategema 30 do excelente [“A arte de ter razão”][2].
 
-> _Dico ego, tu dicis, sed denique dixit et ille:
-
+> _Dico ego, tu dicis, sed denique dixit et ille:  
 > Dictaque post toties, nil nisi dicta vides._
 
 Ou para os ignorantes entre nós que não lêem latim:
 
-> _Eu o digo, tu o dizes, mas, ao final aquele também o diz:
-
+> _Eu o digo, tu o dizes, mas, ao final aquele também o diz:  
 > Depois que o disseram tantas vezes, não se vê outra coisa a não ser o que foi dito._
 
 <small>Lido durante a aula de matemática…</small>

@@ -18,9 +18,7 @@ tags:
   - violência
 
 ---
-<p style="text-align:center;">
-  <img src='https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/02/sl.jpg?w=604' alt='Second Life' data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/02/sl.jpg" title="Second Life" >}}
 
 O meu irmão [foi assaltado ontem][1] lá em Campinas. Um dia depois daqueles [caras me abordarem aqui em Itajaí][2], um cara ameaçou espancá-lo porque ele não seguiu o [meu conselho][2]: não saia de casa. Ou saia em gangues e faça uma cara de mau pro assaltante pensar que vocês é que vão assaltá-lo.
 

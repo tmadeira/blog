@@ -18,9 +18,7 @@ tags:
 ---
 Já faz algum tempo que o Facebook tem um bug nas listas de membros dos grupos. As listas não mostram todos os membros do grupo. Mais: os membros que não aparecem na lista nem mesmo podem ser encontrados pelo formulário de busca de nomes. Quando você é administrador de um grupo, isso pode ser um grande inconveniente, porque na interface padrão do Facebook a lista de membros é o único lugar onde é possível excluir usuários de um grupo. Ou seja, os usuários que não aparecem lá são indeletáveis!
 
-<p style="text-align:center;">
-  <a href="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/fb1.png"><img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/fb1.png?resize=523%2C106" alt="" title="Lista de membros de um grupo no Facebook" class="aligncenter size-full wp-image-921" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/fb1.png?w=523&ssl=1 523w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/fb1.png?resize=300%2C60&ssl=1 300w" sizes="(max-width: 523px) 100vw, 523px" data-recalc-dims="1" /></a><br /><small>Só ali na lista de membros aparece esse <strong>X</strong> para excluir os membros do grupo.</small>
-</p>
+{{< figure src="/wp-content/uploads/2011/12/fb1.png" title="Só ali na lista de membros aparece esses X para excluir os membros do grupo." >}}
 
 Há alguns meses, escrevi um _user script_ para o [GreaseMonkey][1] (extensão para o Firefox que permite que você crie esses pequenos scripts para serem rodados em páginas específicas) que busca ajudar os administradores de grupos a removerem esses membros fantasmas.
 
@@ -28,9 +26,7 @@ Não havia publicado até agora por vergonha (o script é bem feio, tanto o cód
 
 O funcionamento dele é muito simples: quando você entra num grupo (sendo ou não administrador — porque nem distingui isso no código), ele cria botões **X** do lado dos links para os perfis dos usuários que estão nessa página (e só nesses — outra coisa que nem me preocupei no script). Se você for administrador do grupo em questão, quando clica no **X** o Facebook abre aquela caixa perguntando se você quer mesmo excluir o membro em questão (e se quer baní-lo permanentemente).
 
-<p style="text-align:center;">
-  <a href="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/fb2.png"><img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/fb2.png?resize=492%2C409" alt="" title="Resultado da aplicação do userscript" class="aligncenter size-full wp-image-922" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/fb2.png?w=492&ssl=1 492w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/fb2.png?resize=300%2C249&ssl=1 300w" sizes="(max-width: 492px) 100vw, 492px" data-recalc-dims="1" /></a><br /><small>Com o script, tem <strong>X</strong> em todo o lugar! (até onde não deve… hehe)</small>
-</p>
+{{< figure src="/wp-content/uploads/2011/12/fb2.png" title="Com o script, tem X em todo o lugar! (até onde não deve… hehe)" >}}
 
 Sem mais enrolação, eis aqui **o código** para (des-)apreciação e aprimoramentos _(por favor! :))_:
 
@@ -53,7 +49,9 @@ Sem mais enrolação, eis aqui **o código** para (des-)apreciação e aprimoram
         if (hovercard != null && hovercard != "") {
             uid = hovercard.replace(/.*id=/, '');
             if (gid != "") {
-                var button = '<a class="mhm auxiliaryButton closeButton uiCloseButton" title="Remove" rel="dialog-post" href="/ajax/groups/members/remove.php?group_id=' + gid + '&uid=' + uid + '"></a>';
+                var button = '<a class="mhm auxiliaryButton closeButton uiCloseButton" ' +
+                    'title="Remove" rel="dialog-post" ' +
+                    'href="/ajax/groups/members/remove.php?group_id=' + gid + '&uid=' + uid + '"></a>';
                 a.innerHTML = a.innerHTML + " " + button;
             }
         }

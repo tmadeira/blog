@@ -18,9 +18,7 @@ tags:
   - youtube
 
 ---
-<p style="text-align:center;">
-  <img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/googlechina.jpg?w=604" alt="Google e China" data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/01/googlechina.jpg" title="Google e China" >}}
 
 > Colocam na nossa cabeça que o nosso mundo é perfeito e que só em contos de fada existem pessoas más, dizem que só na China existe ditadura, dizem que aqui somos livres… Temos que abrir os olhos!
 
@@ -28,9 +26,7 @@ Isso foi o que eu comentei no primeiro post do Mal Vicioso no dia 02 de dezembro
 
 Vivemos numa ilusão que recebe o nome de **democracia** = _poder do povo_. A atitude tomada pela justiça brasileira de bloquear o Youtube nos faz perceber como o nosso mundo é dominado e como não somos livres. É a prova de que existe o [Grande Irmão ou é a volta da ditadura][1].
 
-<p style="text-align:center;">
-  <img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/pic_youtubelogo_123x63.gif?w=604" alt="Youtube - Broadcast Yourself" data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/01/pic_youtubelogo_123x63.gif" title="Logo do YouTube" >}}
 
 Por causa de uma modelo, bloquearam [um site inteiro][2] aqui no Brasil… Uma modelo que foi filmada na Europa fez com que bloqueassem um site estado-unidense aqui no Brasil. Dá pra entender? Falou bem o [Cardoso][3], que sugere que o Brasil siga o exemplo do Iraque em relação ao vídeo de execução do Saddam Hussein:
 

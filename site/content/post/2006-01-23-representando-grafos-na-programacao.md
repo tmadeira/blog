@@ -24,7 +24,7 @@ tags:
 ---
 No último artigo, conhecemos a representação chamada “grafo” da seguinte maneira:
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo-225x300.jpg?resize=225%2C300" alt="" title="grafo" class="aligncenter size-medium wp-image-134" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg?resize=225%2C300&ssl=1 225w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg?resize=768%2C1024&ssl=1 768w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg?w=1208&ssl=1 1208w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg?w=1812&ssl=1 1812w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1" />][1]
+{{< figure src="/wp-content/uploads/2006/01/grafo-225x300.jpg" title="Grafo desenhado" >}}
 
 Como todos sabemos, seria bem difícil trabalhar uma árvore assim na programação! Por isso, existem várias maneiras de representar um grafo. Nesta série só vou usar as duas mais populares:
 
@@ -745,7 +745,6 @@ Isso depende totalmente do problema. Em alguns casos, o mais barato é usar as *
 
 Até maio do ano passado, eu não tinha aprendido isso direito e sempre usava a matriz de adjacências. Por isso muitos dos meus problemas estão resolvidos de forma pouco eficiente… e isso pode ser crucial numa prova. Por isso, saiba usar as duas formas!
 
- [1]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg
  [2]: #ex1
  [3]: http://tiagomadeira.net/script/ambulancia.c
  [4]: http://tiagomadeira.net/script/batuira.c

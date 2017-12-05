@@ -19,9 +19,7 @@ tags:
   - terrorismo
 
 ---
-<p style="text-align:center;">
-  <img src='https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2007/05/517692-8552-it2.jpg?w=604' alt='Religion is the root cause of all terrorism' data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/05/517692-8552-it2.jpg" title="Religion is the root cause of all terrorism" >}}
 
 > Os manifestantes acreditam que o museu trata a religião de uma forma extremista. Eles reclamam ainda que o local nega a ciência, pois classifica as histórias da Bíblia como uma verdade absoluta.
 >

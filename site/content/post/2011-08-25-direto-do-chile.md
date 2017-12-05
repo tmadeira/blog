@@ -27,7 +27,7 @@ tags:
 
 O exemplo foi pra vários países vizinhos, seguiu pra Europa (Espanha, Grécia, Islândia, Inglaterra, Portugal, entre outros), até pros Estados Unidos (grande mobilização em Wisconsin no primeiro semestre, que a mídia quase não mostrou) e há mais de dois meses tem grande expressão aqui perto, na América Latina: no Chile.
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/08/protestas-en-chile-de-estudiantes_note_principal.jpg?resize=475%2C316" alt="Protesto dos estudantes no Chile" title="Protesto dos estudantes no Chile" class="aligncenter size-full wp-image-883" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/08/protestas-en-chile-de-estudiantes_note_principal.jpg?w=475&ssl=1 475w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/08/protestas-en-chile-de-estudiantes_note_principal.jpg?resize=300%2C199&ssl=1 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1" />][3]
+{{< figure src="/wp-content/uploads/2011/08/protestas-en-chile-de-estudiantes_note_principal.jpg" title="Protestos no Chile" >}}
 
 Como o professor Vladimir Safatle [escreveu][4] há duas semanas na Folha de São Paulo: _Nessas horas, vale a lição de Maria Antonieta: aqueles que não percebem o fim de um mundo são destruídos com ele. Há momentos na história em que tudo parece acontecer de maneira muito acelerada. Já temos sinais demais de que nosso presente caminha nessa direção. Nada pior do que continuar a agir como se nada de decisivo e novo estivesse acontecendo._
 
@@ -35,17 +35,12 @@ No caso do Chile, a Folha continua agindo como se nada de novo estivesse acontec
 
 Nesse prospecto, e aproveitando a facilidade que a internet nos proporciona pra compartilhar em tempo real informações boicotadas por essa velha imprensa, o blog de uma revolucionária que acompanha por dentro tudo o que está acontecendo em Santiago tem um valor inestimável.
 
-<p style="text-align:center;">
-  <br />Thalie no Chile
-</p>
-
 O [Direto do Chile][5] é, nas palavras da Thalie: _uma espécie de diário de bordo da estada no Chile e do rumo das mobilizações. Trata de política, não apenas daquela dos profissionais de gabinete, mas principalmente de uma nova forma de se fazer política que tem despontado neste último período. É sobre a política que move mulheres e homens a tomar as ruas e as praças pelo mundo que trataremos aqui, mais especificamente daquela que está sendo criada e recriada com as mobilizações do Chile. Inspirada pelos dizeres dos niños ao longo das marchas “que se perca o ano letivo, mas não se deixe passar a educação de Pinochet”. Já basta! É tempo de construir o novo e ele está em nossas mãos._
 
 **Visita (e divulgação) obrigatória:** [diretodochile.juntos.org.br][5]
 
  [1]: http://diretodochile.juntos.org.br/ha-milhoes-tomando-as-ruas-de-santiago-hoje-o-chile-nao-vai-dormir/
  [2]: http://www.youtube.com/watch?v=o-6goilce04
- [3]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/08/protestas-en-chile-de-estudiantes_note_principal.jpg
  [4]: http://www.lucianagenro.com.br/2011/08/maria-antonieta/
  [5]: http://diretodochile.juntos.org.br/
 

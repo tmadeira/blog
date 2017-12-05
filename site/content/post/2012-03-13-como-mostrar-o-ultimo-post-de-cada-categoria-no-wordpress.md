@@ -155,7 +155,7 @@ Não ficou bonitinho? Se por um lado gostei da solução, por outro fiquei imagi
 
 Acho que as relações necessárias já ficaram explícitas na query que eu escrevi, mas segue o diagrama do banco de dados do WordPress pra quem precisar:
 
-<a href="http://tiagomadeira.com/2012/03/como-mostrar-o-ultimo-post-de-cada-categoria-no-wordpress/wp3-0-erd-2/" rel="attachment wp-att-1227"><img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/WP3.0-ERD1-644x650.png?resize=604%2C610" alt="" title="WP3.0-ERD" class="aligncenter size-large wp-image-1227" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/WP3.0-ERD1.png?resize=644%2C650&ssl=1 644w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/WP3.0-ERD1.png?resize=150%2C150&ssl=1 150w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/WP3.0-ERD1.png?resize=297%2C300&ssl=1 297w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2012/03/WP3.0-ERD1.png?w=1079&ssl=1 1079w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" /></a>
+{{< figure src="/wp-content/uploads/2012/03/WP3.0-ERD1.png" title="Diagrama do banco de dados do WordPress" >}}
 
  [1]: http://wordpress.org/
  [2]: http://tiagomadeira.com/2012/01/retrospective/

@@ -25,7 +25,7 @@ No [primeiro artigo desta série][1], expliquei o que é um algoritmo e até cit
 
 Não existe uma regra padrão para a representação de algoritmos. Cada pessoa escreve de forma diferente, mas o importante é ser legível e convencionado. Por exemplo, o livro **Algoritmos: Teoria e Prática**\* traz nas páginas 14 e 15 convenções do [pseudocódigo][2] que utiliza no livro inteiro. Já eu, quando vou passar o mesmo algoritmo, utilizaria outro tipo de código, você pode utilizar outro, e por aí vai. Mas todos têm que ter o mesmo foco: legibilidade e fácil implementação para qualquer linguagem.
 
-* A partir deste artigo, sempre que eu falar “Cormen”, “CLRS”, “Introduction to Algorithms” ou “Algoritmos: Teoria e Prática” estarei me referindo a um livro que é referência essencial nessa área. A versão que tenho (de onde tiro o número das páginas) é a tradução da segunda edição americana publicada pela Elsevier em 2002.
+\* A partir deste artigo, sempre que eu falar “Cormen”, “CLRS”, “Introduction to Algorithms” ou “Algoritmos: Teoria e Prática” estarei me referindo a um livro que é referência essencial nessa área. A versão que tenho (de onde tiro o número das páginas) é a tradução da segunda edição americana publicada pela Elsevier em 2002.
 
 Os pseudocódigos costumam parecer um código em linguagem [Pascal][3] traduzido para a sua língua. :) Usam quase sempre estruturas que estamos acostumados a usar na programação, como **se**, **enquanto**, **para**, **arrays**, etc. Eles existem para que o algoritmo seja de fácil leitura para qualquer programador, que programe em qualquer linguagem _“normal”_. Veja o pseudocódigo do **Insertion Sort**, um algoritmo de ordenação de vetores bastante simples:
 

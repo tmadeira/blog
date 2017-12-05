@@ -26,10 +26,6 @@ A maioria das pessoas que ouvem “software livre” ou “free software”, se 
 
 Enquanto isso, o bilionário Bill Gates é premiado e agraciado por ser o “cidadão solidário”: cobra um absurdo em seus programas falhos que não podem ser adaptados para uso especial e doa menos de 5% de sua fortuna para a sua fundação depois de anos de ganância e com uma grana que ele nunca conseguiria usar de qualquer maneira.
 
-<p style="text-align:center;">
-  <img id="image114" src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/billgates.jpg?w=604" alt="Bill Gates" data-recalc-dims="1" />
-</p>
-
 Ótimo… Eu não entendo mais nada.
 
  [1]: http://www.vim.org/

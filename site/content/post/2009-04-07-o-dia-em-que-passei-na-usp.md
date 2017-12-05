@@ -37,7 +37,7 @@ Assim que ele foi embora (era por volta das 15:00), resolvi dar uma olhada no [s
 
 Não cogitava a hipótese de eu ter sido aprovado, porque minha classificação na carreira de _“Engenharia Politécnica e Computação”_ foi **1322** (enquanto o último colocado da quarta chamada do ano passado tinha ficado com classificação **1181**).
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/04/fuv.jpg?resize=500%2C483" alt="Meu desempenho na Fuvest" title="Meu desempenho na Fuvest" class="alignnone size-full wp-image-203" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/04/fuv.jpg?w=500&ssl=1 500w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/04/fuv.jpg?resize=300%2C289&ssl=1 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1" />][2]
+{{< figure src="/wp-content/uploads/2009/04/fuv.jpg" title="Meu desempenho na Fuvest" >}}
 
 Porém, para minha surpresa, meu nome estava [na lista][3]. Minha primeira frase foi:
 
@@ -55,11 +55,9 @@ Conseguir a desmatrícula na UFSC foi difícil. Eu devia um real para a bibliote
 
 No dia seguinte acordei cedo novamente e, após mais uma aula para calouros e a desmatrícula na UFSC, almocei com meus amigos na Pizza Hut. Logo depois do almoço “de despedida”, num sol de rachar, saí de casa com tudo que consegui e peguei um ônibus para Itajaí, de onde no mesmo dia partiria para São Paulo e para uma nova vida.
 
-<a href="http://www.flickr.com/photos/96921035@N00/3417439301/" title="São Paulo - Consolação" target="_blank"><img src="https://i2.wp.com/farm4.static.flickr.com/3331/3417439301_a9e9182374.jpg?w=604" alt="São Paulo - Consolação" border="0" data-recalc-dims="1" /></a>
-<small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="https://i0.wp.com/blog.tiagomadeira.com/wp-content/plugins/photo-dropper/images/cc.png?resize=16%2C16" alt="Creative Commons License" border="0" align="absmiddle" data-recalc-dims="1" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/96921035@N00/3417439301/" title="Jefferson Breves" target="_blank">Jefferson Breves</a></small>
+{{< figure src="https://i2.wp.com/farm4.static.flickr.com/3331/3417439301_a9e9182374.jpg" title="São Paulo - Consolação (crédito: Jefferson Breves/flickr)" >}}
 
  [1]: http://www.fuvest.br/
- [2]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/04/fuv.jpg
  [3]: http://www.fuvest.br/vest2009/chamada4/62389409.stm
  [4]: http://maratona.ime.usp.br/resultados08/
 

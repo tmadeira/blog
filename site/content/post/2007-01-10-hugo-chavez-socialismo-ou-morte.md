@@ -22,9 +22,7 @@ tags:
   - venezuela
 
 ---
-<p style="text-align:center;">
-  <img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/442167-1648-cp.jpg?w=604" alt="Hugo Chávez: Pátria, socialismo ou morte, eu juro!" data-recalc-dims="1" /><br /><em>Pátria, socialismo ou morte, eu juro!</em>
-</p>
+{{< figure src="/wp-content/uploads/2007/01/442167-1648-cp.jpg" title="Hugo Chávez: Pátria, socialismo ou morte, eu juro!" >}}
 
 > Ao longo do discurso, ele deu alguns exemplos do que deve entender-se por socialismo do século XXI, quando indicou que é um sistema baseado nos princípios básicos do cristianismo, as idéias pré-socialistas de Simón Bolívar e a doutrina básica de Karl Marx.
 >

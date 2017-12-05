@@ -20,9 +20,7 @@ O primeiro que vamos sugerir é **A Viagem de Théo**.
   * **Páginas:** 614
   * **Sinopse:** Por que tantas pessoas se aproximam de uma religião ou sentem vontade de ter uma vivência espiritual qualquer? Por que não somos todos ateus? Foram perguntas assim que levaram Catherine Clément a escrever _A viagem de Théo_, um romance sobre os fundamentos das religiões mais praticadas no mundo: catolicismo, judaísmo, budismo, protestantismo, islamismo, etc. Com um conhecimento profundo do tema e um admirável equilíbio intelectual, ela nos faz viajar na companhia de Théo e Marthe – ele, um adolescente que vive enfiado nos livros e sofre de uma doença grave; ela, uma mulher cosmopolita que esbanja vitalidade. Juntos eles vão aos principais centros sagrados do mundo e, enquanto visitam os templos e participam das festas rituais, oferecem-nos a certeza de que as religiões são uma das maiores aventuras que a humanidade já pôde sonhar.
 
-<div class="imagemdireita">
-  <img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/theo0.jpg?w=604" alt="A Viagem de Théo" data-recalc-dims="1" /><br /><small>Capa do livro</small>
-</div>
+{{< figure src="/wp-content/uploads/2007/01/theo0.jpg" title="Capa do livro" >}}
 
 Gosto de livros que induzem a filosofar de uma maneira simples, por meio de uma história, tais quais **O Mundo de Sofia**, **Bíblia**, **Al Corão**, **Tudo depende de como você vê as coisas**, **Efeito Borboleta** (filme) e **Alice no País das Maravilhas**.
 

@@ -21,9 +21,7 @@ tags:
 ---
 > “Aquilo é terrorismo, aquilo não é bandido comum. Pegar um ônibus, tocar fogo e ver pessoas morrendo, tem que ser tratado como terrorismo de Estado, porque é uma provocação ao Estado brasileiro. Não tem meio termo nisso. Não é um bandido comum, é uma ação preparada de desacato ao Estado brasileiro e, portanto, nós temos que tratar assim e enfrentar.”
 
-<p style="text-align:center;">
-  <img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/foto5505.jpg?w=604" alt="Força Nacional" data-recalc-dims="1" /><br /><small>Força Nacional</small>
-</p>
+{{< figure src="/wp-content/uploads/2007/01/foto5505.jpg" title="Força Nacional" >}}
 
 Palmas ao governador Sérgio Cabral e ao presidente Lula! Eles mostraram que possuem uma vontade que eu achei que os políticos brasileiros não tivessem: acabar com o crime organizado. É claro que essa minha frase é utópica, porque não vamos conseguir acabar com tudo de uma vez. Porém, as ações da Força Nacional no Rio de Janeiro neste início de ano são uma luz no fim do túnel.
 
@@ -33,39 +31,24 @@ Os nossos amigos [sociais democratas][1], contraditórios até no nome, mais uma
 
 Minha mente esperançosa torce pra que esse plano dê certo. E que assim o Rio de Janeiro continue sendo como deveria ser…
 
-> Minha alma canta
-
-> Vejo o Rio de Janeiro
-
-> Estou morrendo de saudade
-
-> Rio, teu mar, praias sem fim
-
-> Rio, você foi feito pra mim.
-
-> Cristo Redentor
-
-> Braços abertos sobre a Guanabara
-
-> Este samba é só porque
-
-> Rio, eu gosto de você
-
-> A morena vai sambar
-
-> Seu corpo todo balançar
-
-> Rio de sol, de céu, de mar
-
-> Dentro de mais um minuto estaremos no Galeão
-
+> Minha alma canta  
+> Vejo o Rio de Janeiro  
+> Estou morrendo de saudade  
+> Rio, teu mar, praias sem fim  
+> Rio, você foi feito pra mim.  
+> Cristo Redentor  
+> Braços abertos sobre a Guanabara  
+> Este samba é só porque  
+> Rio, eu gosto de você  
+> A morena vai sambar  
+> Seu corpo todo balançar  
+> Rio de sol, de céu, de mar  
+> Dentro de mais um minuto estaremos no Galeão  
 > Rio de Janeiro, Rio de Janeiro…
 
 ([Tom Jobim][3], **Samba do Avião**)
 
-<p style="text-align:center;">
-  <img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/rio.jpg?w=604" alt="O Rio de Janeiro continua lindo..." data-recalc-dims="1" /><br /><small>E o Rio de Janeiro continua lindo…</small>
-</p>
+{{< figure src="/wp-content/uploads/2007/01/rio.jpg" title="E o Rio de Janeiro continua lindo..." >}}
 
  [1]: http://pt.wikipedia.org/wiki/Partido_da_Social_Democracia_Brasileira
  [2]: http://pt.wikipedia.org/wiki/Comando_Vermelho

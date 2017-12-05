@@ -20,9 +20,7 @@ tags:
 ---
 Cometi um pecado: não levei a sério o [bom conselho][1] do meu sábio amigo e reverendo discordiano: assisti _“O Segredo”_.
 
-<p style="text-align:center;">
-  <img src='https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2007/07/segredo_02_330.jpg?w=604' alt='O Segredo' data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/07/segredo_02_330.jpg" title="O Segredo" >}}
 
 Foi um filme difícil de ser visto até o final. Trata-se de uma série de repetições de uma mesma afirmação: “pense positivo e tudo de bom lhe acontecerá.”
 

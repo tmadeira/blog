@@ -51,7 +51,9 @@ Versão complicada:
 ```bash
 $ export CFLAGS=-O2 -march=native -msse4.1
 $ export CXXFLAGS=$CFLAGS
-$ ./configure --prefix=/usr --build=x86_64-pc-linux-gnu --host=x86_64-pc-linux-gnu --enable-nls --disable-xinerama --enable-xft --disable-gnome --enable-imlib2 --enable-slit --enable-toolbar --sysconfdir=/etc/X11/fluxbox
+$ ./configure --prefix=/usr --build=x86_64-pc-linux-gnu --host=x86_64-pc-linux-gnu \
+  --enable-nls --disable-xinerama --enable-xft --disable-gnome --enable-imlib2 \
+  --enable-slit --enable-toolbar --sysconfdir=/etc/X11/fluxbox
 $ make -j3
 $ make install
 ```
@@ -125,11 +127,11 @@ time_string_len+= strftime(&time_string[time_string_len], 255 - time_string_len,
 
 ### Screenshots
 
-<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2010/08/a1.png?resize=258%2C92" alt="Screenshot 0" class="screenshot alignnone size-full wp-image-692" data-recalc-dims="1" />
+{{< figure src="/wp-content/uploads/2010/08/a1.png" title="Screenshot 1" >}}
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/08/b.png?resize=247%2C83" alt="Screenshot 1" class="screenshot alignnone size-full wp-image-693" data-recalc-dims="1" />][8]
+{{< figure src="/wp-content/uploads/2010/08/b.png" title="Screenshot 2" >}}
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/08/c.png?resize=237%2C67" alt="Screenshot 2" class="screenshot alignnone size-full wp-image-694" data-recalc-dims="1" />][9]
+{{< figure src="/wp-content/uploads/2010/08/c.png" title="Screenshot 3" >}}
 
  [1]: http://www.cabaladada.org/discordiapedia/Calend%C3%A1rio_Santo-Discordiano
  [2]: http://tiagomadeira.com/wp-content/uploads/2010/08/fluxbox-ddate-1.1.1-0.tar.bz2
@@ -138,6 +140,4 @@ time_string_len+= strftime(&time_string[time_string_len], 255 - time_string_len,
  [5]: http://tiagomadeira.com/2010/08/fluxbox-ddate-no-gentoo/
  [6]: http://www.kernel.org/pub/linux/utils/util-linux-ng/
  [7]: http://www.cabaladada.org/discordiapedia/Horas_M%C3%A9tricas
- [8]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/08/b.png
- [9]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/08/c.png
 

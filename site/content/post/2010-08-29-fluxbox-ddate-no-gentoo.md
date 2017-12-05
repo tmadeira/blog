@@ -42,7 +42,7 @@ Depois disso é necessário rodar um `emerge --sync` (ou `eix-sync` se você usa
 
 ### ACCEPT_KEYWORDS e USE flag
 
-Marquei o pacote como instável. Para usar, se seu /etc/make.conf não tem _ACCEPT_KEYWORDS=”~amd64″_ (ou _~suaarquitetura_ se você não usa amd64), edite (criando, caso não exista) o arquivo `/etc/portage/package.keywords` adicionando:
+Marquei o pacote como instável. Para usar, se seu /etc/make.conf não tem `ACCEPT\_KEYWORDS=”~amd64″` (ou `~suaarquitetura` se você não usa amd64), edite (criando, caso não exista) o arquivo `/etc/portage/package.keywords` adicionando:
 
 ```
 =x11-wm/fluxbox-1.1.1-r10 ~amd64
@@ -72,9 +72,8 @@ Calculating dependencies... done!
 
 Ele não baixa o pacote inteiro do ddate, mas apenas aplica, além dos patches do Gentoo, um pequeno patch (de umas 40 linhas) que altera o ClockTool.cc.
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/08/a2.png?resize=483%2C338" alt="Screenshot do emerge" class="alignnone size-full wp-image-700" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/08/a2.png?w=483&ssl=1 483w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/08/a2.png?resize=300%2C209&ssl=1 300w" sizes="(max-width: 483px) 100vw, 483px" data-recalc-dims="1" />][2]
+{{< figure src="/wp-content/uploads/2010/08/a2.png" title="Screenshot do emerge" >}}
 
 Divirta-se!
 
  [1]: http://tiagomadeira.com/2010/08/calendario-santo-discordiano-no-fluxbox/
- [2]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2010/08/a2.png

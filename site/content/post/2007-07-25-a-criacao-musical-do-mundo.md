@@ -22,9 +22,7 @@ tags:
 
 Os movimentos celestes como música, a música como imitação de Deus, a música como divina… Este era um pensamento bastante comum na Idade Média que foi deixado de lado com o tempo. Hoje acho que ninguém pensa nisso quando dança funk nas festas por aí.
 
-<p style="text-align:center;">
-  <img src='https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2007/07/toda_musica.jpg?w=604' alt='Figura da música' data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/07/toda_musica.jpg" title="Figura da música" >}}
 
 Tolkien é um escritor que valorizo bastante. Não sou daqueles fãs incondicionais de Senhor dos Anéis, mas acho linda a maneira que ele tem para escrever. Vou colar aqui um trecho um pouco grande do início do livro “O Silmarillion”. Você não precisa ler até o final se não quiser, mas vale a pena ler como Tolkien falava da divindade de seu mundo e de como o mundo foi criado a partir da música.
 

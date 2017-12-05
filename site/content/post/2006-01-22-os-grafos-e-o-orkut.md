@@ -27,7 +27,7 @@ Neste primeiro artigo, só falarei sobre a definição do grafo e sua utilidade.
 
 A definição de **grafo** é muito simples. Segundo o [Professor Cid Carvalho de Souza][1]: _Uma forma de representar uma relação binária entre elementos de um conjunto._ Bom… É simplesmente uma representação de relações (que chamamos de **arestas**) entre objetos, que chamamos de **vértices**. Vamos logo ao exemplo: a **amizade** no [Orkut][2].
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo-225x300.jpg?resize=225%2C300" alt="" title="grafo" class="aligncenter size-medium wp-image-134" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg?resize=225%2C300&ssl=1 225w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg?resize=768%2C1024&ssl=1 768w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg?w=1208&ssl=1 1208w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg?w=1812&ssl=1 1812w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1" />][3]
+{{< figure src="/wp-content/uploads/2006/01/grafo-225x300.jpg" title="Um grafo de amizades" >}}
 
 Estão vendo esta árvore? Esta é a representação que chamamos de grafo. Vamos supor que este é o grafo das amizades do Orkut e as bolinhas nele são as seguintes pessoas:
 
@@ -67,7 +67,7 @@ Traduzindo os conceitos do Orkut para os grafos:
 
 Um grafo é _orientado_ quando eu sou seu amigo, mas você não é meu amigo. Você sabe que um grafo é _orientado_ através da representação quando ele tem “setinhas”, como o grafo abaixo.
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/orientado-300x225.jpg?resize=300%2C225" alt="" title="orientado" class="aligncenter size-medium wp-image-141" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/orientado.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/orientado.jpg?resize=1024%2C768&ssl=1 1024w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/orientado.jpg?w=1208&ssl=1 1208w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/orientado.jpg?w=1812&ssl=1 1812w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][4]
+{{< figure src="/wp-content/uploads/2006/01/orientado-300x225.jpg" title="Grafo orientado" >}}
 
 Vamos supor que isso aí é um mapa do Brasil. Ele despreza as cidades que não são importantes para o país, levando apenas em consideração portanto: **São Paulo**, **Florianópolis** e **Itajaí**.
 
@@ -120,7 +120,5 @@ A maioria das páginas que eu conheço sobre grafos são muito malignas porque a
 
  [1]: http://www.ic.unicamp.br/~cid/Welcome2.html
  [2]: http://www.orkut.com
- [3]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/grafo.jpg
- [4]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2006/01/orientado.jpg
  [5]: http://olimpiada.ic.unicamp.br
 

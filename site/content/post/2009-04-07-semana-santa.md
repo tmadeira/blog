@@ -22,8 +22,7 @@ Acordei às 06:30. Às terças eu tenho aula de Álgebra ás 08:00 e não queria
 
 Porém, observei que as salas estavam fechadas e não havia alunos. Vi apenas seguranças, moças da limpeza e um ou outro professor. Perguntei para um segurança _what the hell_ estava havendo. Ele informou que não tem aula na Semana Santa.
 
-<a href="http://www.flickr.com/photos/35798719@N02/3420324215/" title="Jesus on the Cross" target="_blank"><img src="https://i2.wp.com/farm4.static.flickr.com/3605/3420324215_28dc645ab4.jpg?w=604" alt="Jesus on the Cross" border="0" data-recalc-dims="1" /></a>
-<small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="https://i0.wp.com/blog.tiagomadeira.com/wp-content/plugins/photo-dropper/images/cc.png?resize=16%2C16" alt="Creative Commons License" border="0" align="absmiddle" data-recalc-dims="1" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/35798719@N02/3420324215/" title="DNQA" target="_blank">DNQA</a></small>
+{{< figure src="https://i2.wp.com/farm4.static.flickr.com/3605/3420324215_28dc645ab4.jpg" title="Jesus on the Cross (crédito: DNQA/Flickr)" >}}
 
 Lembrei-me que tinha ouvido algo sobre a Semana Santa na semana passada, mas não dei muita atenção. Acho que meu cérebro ignorou porque não viu sentido em emendar uma semana inteira por causa de um feriado na sexta. Pensei que deveria ter ido mais nas aulas semana passada que algum professor teria avisado. Mas tudo bem. Porque notei que felizmente a biblioteca estava aberta, logo minha ida ao IME não teria sido em vão.
 
@@ -51,8 +50,7 @@ Há ao menos duas maneiras de ir andando do IME pra minha casa. A primeira é o 
 
 Após três quilômetros e uns 30 minutos, cheguei (cansado) aqui (e, é claro, no meio do caminho outro circular passou por mim). Uma hora decididamente inútil. Acho que foi o meu trote.
 
-<a href="http://www.flickr.com/photos/13248177@N08/3267278675/" title="foto_206 green hair" target="_blank"><img src="https://i0.wp.com/farm4.static.flickr.com/3466/3267278675_6aceaa1994.jpg?w=604" alt="foto_206 green hair" border="0" data-recalc-dims="1" /></a>
-<small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="https://i0.wp.com/blog.tiagomadeira.com/wp-content/plugins/photo-dropper/images/cc.png?resize=16%2C16" alt="Creative Commons License" border="0" align="absmiddle" data-recalc-dims="1" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/13248177@N08/3267278675/" title="FADB" target="_blank">FADB</a><br /><em>Ok, menos, também não foi tão ruim quanto o dele.</em></small>
+{{< figure src="https://i0.wp.com/farm4.static.flickr.com/3466/3267278675_6aceaa1994.jpg" title="Ok, menos, também não foi tão ruim quanto o dele (crédito: FADB/Flickr)" >}}
 
 Ao menos nunca mais me esquecerei que na USP não tem aula na Semana Santa.
 

@@ -24,9 +24,7 @@ tags:
 
 (comentários de um homem de Deus no [Novo Mundo][1])
 
-<p style="text-align:center;">
-  <img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2007/01/fe_religiao01.jpg?w=604" alt="Fé e religião" data-recalc-dims="1" />
-</p>
+{{< figure src="/wp-content/uploads/2007/01/fe_religiao01.jpg" title="Fé e religião" >}}
 
 Ao ler estes discursos do “Irmão Henrique”, me perguntei: a partir de quando a religião deixa de ser uma coisa que motiva a viver para tornar-se apenas alienação? Eu não acredito na religião da mesma forma que não acredito na política – pra mim as duas são farinha do mesmo saco. Tenho um ódio especial por essas novas religiões que surgem todos os dias apenas para atrair fiéis e roubar seu dinheiro.
 
@@ -54,11 +52,6 @@ Dá pra fazer uma série sobre religião, falando sobre a grana da Igreja Catól
 
 Eu posso me contradizer se você me der um bom motivo pra acreditar em outra coisa, mas pra mim essas religiões tratam-se de _filosofia for dummies_. Relaxem religiosos, curtam a vida e sejam felizes!
 
-Pra finalizar, vai de bônus uma animação sobre a história das religiões que vi lá no [Sedentário e Hiperativo][8]:
-
-<div style="text-align:center;">
-</div>
-
  [1]: http://novo-mundo.org/log/2006/12/01/dono-da-renascer-vai-rezar-na-cadeia/
  [2]: http://www.youtube.com/results?search_query=itaja%C3%AD+francelino
  [3]: http://pt.wikipedia.org/wiki/Igreja_Bola_de_Neve
@@ -66,5 +59,4 @@ Pra finalizar, vai de bônus uma animação sobre a história das religiões que
  [5]: http://1001gatos.org/5/
  [6]: http://pt.wikipedia.org/wiki/O_C%C3%B3digo_da_Vinci
  [7]: http://1001gatos.org/
- [8]: http://www.sedentario.org/blog/?p=3515
 

@@ -16,7 +16,9 @@ _by **Peter Brown**, [FSF][1] Executive Director_
 
 _(Free Software Foundation Bulletin, Issue 16, May 2010)_
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2010/12/productimage-picture-lp-tshirt-77_t280.png?resize=280%2C156" alt="Camiseta LibrePlanet" title="Camiseta LibrePlanet" class="alignright size-full wp-image-750" data-recalc-dims="1" />][2] A few weeks ago, my six-year-old son Michael looked at my t-shirt from our LibrePlanet conference and started asking me to name each of the various characters and objects shown in the t-shirt design. These characters are the mascots of various well-known (ahem) free software projects. Shame-faced, my memory slipped on a few and I had to go look them up for him.
+{{< figure src="/wp-content/uploads/2010/12/productimage-picture-lp-tshirt-77_t280.png" title="Camiseta do Libre Planet" >}}
+
+A few weeks ago, my six-year-old son Michael looked at my t-shirt from our LibrePlanet conference and started asking me to name each of the various characters and objects shown in the t-shirt design. These characters are the mascots of various well-known (ahem) free software projects. Shame-faced, my memory slipped on a few and I had to go look them up for him.
 
 The symbolism of the t-shirt is reinforced by the tag line “Working Together for Free Software” and this is a theme that the Free Software Foundation is working to promote within the community — that we need to do a better job driving awareness and solidarity to the cause of software freedom.
 
@@ -37,5 +39,4 @@ Working Together for Free Software means:
 Please join us in promoting our Working Together for Free Software campaign.
 
  [1]: http://www.fsf.org/
- [2]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2010/12/productimage-picture-lp-tshirt-77_t280.png
 

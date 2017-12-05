@@ -19,9 +19,7 @@ tags:
   - valor
 
 ---
-<div class="imagemdireita">
-  <img src='https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2007/06/alem.jpg?w=604' alt='Além do bem e do mal' data-recalc-dims="1" />
-</div>
+{{< figure src="/wp-content/uploads/2007/06/alem.jpg" title="Além do bem e do mal" >}}
 
 **Mais uma sugestão de leitura do Mal Vicioso!** O livro da vez é: [Além do bem e do mal][1]
 

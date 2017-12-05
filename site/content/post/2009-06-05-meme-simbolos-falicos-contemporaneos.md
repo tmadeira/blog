@@ -19,7 +19,7 @@ A [Carol][1] me convidou para participar do [meme do Rev. Beraldo][2] que tem po
 
 De fato escolhi a primeira coisa que me veio a cabeça, sem pensar muito. E depois de um dia em que professores e estudantes entraram em greve na Universidade de São Paulo, a primeira coisa que me veio a cabeça foi a **Torre do Relógio**.
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/06/torre.jpg?resize=400%2C300" alt="Torre do Relógio" title="Torre do Relógio" class="alignnone size-full wp-image-378" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/06/torre.jpg?w=400&ssl=1 400w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/06/torre.jpg?resize=300%2C225&ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" />][3]
+{{< figure src="/wp-content/uploads/2009/06/torre.jpg" title="Torre do Relógio" >}}
 
 A Torre do Relógio é um dos principais símbolos da grandiosidade da USP e fica no centro de um campo ao lado da reitoria.
 
@@ -31,14 +31,12 @@ Segundo o [Gabinete <del>do Reitor</del> <add>da Reitora</add>][4],
 
 Hoje o topo da Torre do Relógio continha uma grande faixa **“FORA PM”**, mas não consegui achar uma foto em nenhum site de notícias. Uma pena. Então a foto clara dela fica mais pra mostrar o gramado ao lado:
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/06/praca_relogio-usp.jpg?resize=400%2C300" alt="Praça do Relógio - USP" title="Praça do Relógio - USP" class="alignnone size-full wp-image-379" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/06/praca_relogio-usp.jpg?w=400&ssl=1 400w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/06/praca_relogio-usp.jpg?resize=300%2C225&ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" />][6]
+{{< figure src="/wp-content/uploads/2009/06/praca_relogio-usp.jpg" title="Praça do Relógio (USP)" >}}
 
 Sinto muito, mas não convidarei ninguém pro meme porque ando com medo de coisas que crescem exponencialmente.
 
  [1]: http://carolinapeters.com/meme-simbolos-falicos-contemporaneos/
  [2]: http://cabaladada.wordpress.com/2009/05/31/meme-simbolos-falicos-contemporaneos/
- [3]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2009/06/torre.jpg
  [4]: http://www.usp.br/gr/torre.php
  [5]: http://www.usp.br/gr/torredet.php
- [6]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2009/06/praca_relogio-usp.jpg
 

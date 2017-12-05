@@ -43,8 +43,7 @@ Das 106 pessoas que foram convocadas para a matrícula no Bacharelado em Ciênci
   * **Minas Gerais:** 1
   * **Distrito Federal:** 1
 
-<a href="http://www.flickr.com/photos/50694521@N00/3474503026/" title="Mapa do Brasil (Brazil map)" target="_blank"><img src="https://i0.wp.com/farm4.static.flickr.com/3352/3474503026_2652267fd1.jpg?w=604" alt="Mapa do Brasil (Brazil map)" border="0" data-recalc-dims="1" /></a>
-<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="https://i0.wp.com/blog.tiagomadeira.com/wp-content/plugins/photo-dropper/images/cc.png?resize=16%2C16" alt="Creative Commons License" border="0" align="absmiddle" data-recalc-dims="1" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/50694521@N00/3474503026/" title="thejourney1972 (absent for some weeks)" target="_blank">thejourney1972 (absent for some weeks)</a></small>
+{{<figure src="https://i0.wp.com/farm4.static.flickr.com/3352/3474503026_2652267fd1.jpg" title="Mapa do Brasil (crédito: thejourney1972/flickr)" >}}
 
 Estou ainda sendo bondoso ao assumir que as pessoas dos outros estados moravam realmente nos outros estados (a família já não havia se mudado para cá).
 

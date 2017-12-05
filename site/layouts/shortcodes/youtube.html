@@ -1,0 +1,13 @@
+{{ if .IsNamedParams }}
+<div>
+  <div class="video">
+    <iframe src="//www.youtube.com/embed/{{ .Get "id" }}?{{ with .Get "autoplay" }}{{ if eq . "true" }}autoplay=1{{ end }}{{ end }}" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+  </div>
+</div>
+{{ else }}
+<div>
+  <div class="video">
+    <iframe src="//www.youtube.com/embed/{{ .Get 0 }}" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
+  </div>
+</div>
+{{ end }}

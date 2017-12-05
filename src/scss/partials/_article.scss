@@ -87,6 +87,11 @@
     vertical-align: 1px;
   }
 
+  div:not(.highlight) {
+    @extend %wrap;
+    @extend %default-margin;
+  }
+
   figure {
     @extend %wrap;
     @extend %default-margin;
@@ -149,6 +154,7 @@
     height: 2px;
   }
 
+  iframe,
   img {
     max-width: 100%;
   }
@@ -173,7 +179,7 @@
 
   pre {
     @extend %default-margin;
-    background: #333;
+    background: #333 !important;
     color: #fff;
     overflow: scroll;
     padding: 15px 0;
@@ -229,5 +235,20 @@
 
   .katex {
     font-size: 0.8em;
+  }
+}
+
+.video {
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25% !important;
+  position: relative;
+
+  > iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
   }
 }

@@ -23,6 +23,7 @@ html {
   opacity: 0.85;
   right: 0;
   white-space: nowrap;
+  z-index: 1;
 
   &-title {
     @extend %sans;

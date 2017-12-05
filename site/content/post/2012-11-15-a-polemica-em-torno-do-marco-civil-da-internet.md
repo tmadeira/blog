@@ -17,19 +17,17 @@ tags:
 ---
 O Marco Civil da Internet surgiu em oposição ao projeto de lei do então senador Eduardo Azeredo (PSDB/MG) conhecido como AI-5 Digital, que buscava vigiar e controlar o que nós fazemos na internet. O conteúdo original daquele projeto era bizarro, prevendo cadastro prévio e identificação de todos os usuários de internet, utilização dessa identificação para prender para quem baixa músicas online, censura de sites arbitrariamente sem aviso prévio e outros absurdos do tipo. Algo muito parecido com [a lei SOPA nos EUA][1].
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/430731-650x310.jpg?resize=604%2C288" alt="" title="430731" class="aligncenter size-large wp-image-2444" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/430731.jpg?resize=650%2C310&ssl=1 650w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/430731.jpg?resize=300%2C143&ssl=1 300w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/430731.jpg?w=1000&ssl=1 1000w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" />][2]
+{{< figure src="/wp-content/uploads/2012/11/430731.jpg" title="Charge do Latuff sobre violação de direitos autorais" >}}
 
 A proposta do Marco Civil foi a de criar uma lei no sentido contrário. Em vez de criar uma legislação para punir simples usuários da rede, vários ativistas do software livre e da internet livre se organizaram para escrever (mediando com governo e empresas) uma “constituição” para a internet, que respeitasse a liberdade de expressão e garantisse direitos jurídicos para os seus usuários.
 
 Seria um erro ser contra (por princípio) toda e qualquer legislação que verse sobre a internet. A internet é uma rede grande e descentralizada. Nós, usuários comuns, somos pontinhas nessa rede (folhas) conectados ao mundo por poucas empresas de telecomunicações (provedores), que possuem poder para fazerem o que quiserem com a nossa comunicação com essa grande rede.
 
-[<img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/ruswp_diag4.gif?resize=576%2C319" alt="" title="ruswp_diag4" class="aligncenter size-full wp-image-2439" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/ruswp_diag4.gif?w=576&ssl=1 576w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/ruswp_diag4.gif?resize=300%2C166&ssl=1 300w" sizes="(max-width: 576px) 100vw, 576px" data-recalc-dims="1" />][3]
+{{< figure src="/wp-content/uploads/2012/11/ruswp_diag4.gif" title="Nesse diagrama, um ISP é o seu provedor e você nem aparece, mas é uma pequena folha ligada apenas a ele." >}}
 
-<p style="text-align:center;">
-  <small>(nesse diagrama, um ISP é o seu provedor e você nem aparece, mas é uma pequena folha ligada apenas a ele)</small>
-</p>
+Os provedores de internet no mundo inteiro se aproveitam de seu poder para ganharem dinheiro. Isso se faz de várias formas, desde vendendo uma alta velocidade de internet e entregando apenas 20% dela (é essa a norma da Anatel pra banda larga!), até priorizando determinados tipos de comunicação.
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/387672_378772338871982_1642665586_n-300x182.jpg?resize=300%2C182" alt="" title="387672_378772338871982_1642665586_n" class="alignright size-medium wp-image-2440" srcset="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/387672_378772338871982_1642665586_n.jpg?resize=300%2C182&ssl=1 300w, https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/387672_378772338871982_1642665586_n.jpg?w=450&ssl=1 450w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />][4] Os provedores de internet no mundo inteiro se aproveitam de seu poder para ganharem dinheiro. Isso se faz de várias formas, desde vendendo uma alta velocidade de internet e entregando apenas 20% dela (é essa a norma da Anatel pra banda larga!), até priorizando determinados tipos de comunicação.
+{{< figure src="/wp-content/uploads/2012/11/387672_378772338871982_1642665586_n.jpg" title="Açougue inspirado pela Anatel" >}}
 
 Os exemplos dessa priorização são variados e, embora a gente às vezes não perceba, acontecem no mundo inteiro: de operadoras de celular que bloqueiam (ou limitam) comunicação através do protocolo UDP para impedir que seus usuários usem VoIP via 3G em vez de pagarem por ligações (conheci vários casos trabalhando com VoIP móvel no [imo][5]) até provedores que diminuem a velocidade de torrents ou jogos online. Isso pra não falar de denúncias sobre sites que abrem muito mais rápido do que outros (vamos supôr que você é o dono da Telefônica e o Google é seu parceiro — aí você pode dar uma forcinha pra o Google ser melhor que seu concorrente Yahoo fazendo o Yahoo demorar mais pra abrir para os seus usuários).
 
@@ -46,9 +44,6 @@ Já o segundo foi um dos pontos mais polêmicos dos projetos SOPA, PIPA e Azered
 Sem consenso sobre esses pontos (ainda bem), a votação do Marco Civil já foi adiada cinco vezes. Na última terça (13), foi adiada para a próxima terça (20). Fiquemos atentos, porque o texto que será votado e o resultado dessa regulamentação podem ter consequências muito importantes, para o bem ou para o mal, para a internet. De fato, o futuro da internet como a conhecemos hoje dependerá muito (embora não só) das decisões sobre neutralidade na rede que forem tomadas em legislações pelo mundo inteiro.
 
  [1]: http://juntos.org.br/2012/01/nao-a-lei-sopa/
- [2]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/430731.jpg
- [3]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/ruswp_diag4.gif
- [4]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/387672_378772338871982_1642665586_n.jpg
  [5]: https://imo.im/
  [6]: https://pt.wikipedia.org/wiki/Neutralidade_da_rede
  [7]: http://tiagomadeira.com/2005/09/nem-tao-livre-assim/

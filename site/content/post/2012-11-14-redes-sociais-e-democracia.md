@@ -28,7 +28,7 @@ Se o objetivo de fazer os posts de páginas serem menos visualizados era tornar 
 
 As contradições foram se acumulando e há cerca de um mês tivemos outra novidade: o Facebook [começou a liberar][3] o recurso de promover posts não só mais para páginas (empresas, anunciantes), mas também para usuários “normais” (eu e você). Nos últimos dias, [mais e mais usuários no Brasil][4] têm tido acesso ao botão _Promote_ nas suas atualizações de status. As atualizações promovidas certamente tomarão cada vez mais espaço das atualizações que você gostaria realmente de ver na sua rede social. Como fica aquela velha desculpa?
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/facebook_promoted_post.jpg.CROP_.article568-large.jpg?resize=568%2C545" alt="" title="facebook_promoted_post.jpg.CROP.article568-large" class="aligncenter size-full wp-image-2365" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/facebook_promoted_post.jpg.CROP_.article568-large.jpg?w=568&ssl=1 568w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/facebook_promoted_post.jpg.CROP_.article568-large.jpg?resize=300%2C287&ssl=1 300w" sizes="(max-width: 568px) 100vw, 568px" data-recalc-dims="1" />][5]
+{{< figure src="/wp-content/uploads/2012/11/facebook_promoted_post.jpg.CROP_.article568-large.jpg" title="Post de perfil individual promovido no Facebook" >}}
 
 ### Computação vs. Dinheiro
 
@@ -50,7 +50,6 @@ Posts promovidos podem parecer pequenos detalhes sem importância. Porém, pensa
  [2]: http://arstechnica.com/business/2012/11/is-facebook-broken-on-purpose-to-sell-promoted-posts/
  [3]: http://www.slate.com/blogs/future_tense/2012/10/03/facebook_promoted_posts_pay_7_to_make_sure_friends_see_your_status_update_.html
  [4]: http://rapidinhas.kauekgg.com.br/post/35699387981/promoted-posts-usuarios
- [5]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2012/11/facebook_promoted_post.jpg.CROP_.article568-large.jpg
  [6]: http://tiagomadeira.com/2006/01/algoritmos-o-que-e-um-algoritmo/
  [7]: http://www.marketingdigitalblog.com/como-funciona-o-edgerank-do-facebook
  [8]: http://whatisedgerank.com/

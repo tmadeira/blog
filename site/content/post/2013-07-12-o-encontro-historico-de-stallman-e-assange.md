@@ -43,7 +43,7 @@ Há uma tentativa constante de cooptar o movimento do software livre e separá-l
 
 Por isso o encontro de Assange com Stallman é tão importante. Mais do que o encontro de dois homens, simboliza o encontro de movimentos com ideias que combinam e são fundamentais para construir outro mundo, mais livre e mais igualitário, que depende de ativistas hackers e não-hackers para se tornar real. É tempo de nos juntarmos e atuarmos em todas as frentes.
 
-[<img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/789758853.jpg?resize=600%2C400" alt="789758853" class="aligncenter size-full wp-image-2760" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/789758853.jpg?w=600&ssl=1 600w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/789758853.jpg?resize=300%2C200&ssl=1 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />][7]
+{{< figure src="/wp-content/uploads/2013/07/789758853.jpg" title="Richard Stallman e Julian Assange" >}}
 
  [1]: https://www.gnu.org/gnu/manifesto.html
  [2]: http://www.fsf.org/
@@ -51,5 +51,4 @@ Por isso o encontro de Assange com Stallman é tão importante. Mais do que o en
  [4]: http://collateralmurder.com/
  [5]: http://tiagomadeira.com/2013/07/como-a-criptografia-e-uma-arma-fundamental-na-luta-contra-os-estados-do-imperio/
  [6]: https://twitter.com/wikileaks/status/355511749530759168
- [7]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/789758853.jpg
 

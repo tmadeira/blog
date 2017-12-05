@@ -21,7 +21,7 @@ tags:
 ---
 Me acostumei a usar o **legendas.tv** para baixar legendas de filmes e acabei nunca me perguntando se haveria um jeito mais fácil de baixá-las. Hoje fui assistir um filme e, ao entrar no navegador para baixar sua legenda, me deparei com a mensagem de que o site estava fora do ar:
 
-[<img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/06/legendas-650x180.png?resize=604%2C167" alt="legendas" class="alignright size-large wp-image-2696" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/06/legendas.png?resize=650%2C180&ssl=1 650w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/06/legendas.png?resize=300%2C83&ssl=1 300w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/06/legendas.png?w=1188&ssl=1 1188w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" />][1]
+{{< figure src="/wp-content/uploads/2013/06/legendas.png" title="Mensagem do legendas.tv fora do ar." >}}
 
 A situação me obrigou a procurar outros sites e outras formas de baixar legendas. Minha primeira ideia foi usar o **opensubtitles.org**, que já havia usado algumas outras vezes. Chegando lá e procurando pelo filme que eu desejava, vi muitas opções e não estava muito claro que legenda baixar para a versão do filme que eu tinha.
 
@@ -133,7 +133,6 @@ O programa ainda não está empacotado bonitinho (não tem nem Makefile ou instr
 
 Sugestões e correções são bem-vindas.
 
- [1]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/06/legendas.png
  [2]: http://trac.opensubtitles.org/projects/opensubtitles/wiki/HashSourceCodes
  [3]: https://github.com/tmadeira/downloadsubtitle
  [4]: https://github.com/tmadeira/downloadsubtitle/archive/master.zip

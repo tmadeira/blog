@@ -26,9 +26,11 @@ tags:
 
 A mídia tradicional mudou a forma como publica na internet. A regra agora é que sem cadastro você só pode acessar um determinado número (pequeno) de notícias. O nome do sistema é [paywall][2]. Ao chegar no limite, você recebe mensagens como as seguintes:
 
-<p style="text-align:center;">
-  <a href="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/folha.png"><img src="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/folha-150x150.png?resize=150%2C150" alt="folha" class="alignnone size-thumbnail wp-image-2782" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/folha.png?resize=150%2C150&ssl=1 150w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/folha.png?zoom=2&resize=150%2C150&ssl=1 300w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/folha.png?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" /></a> <a href="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/estadao.png"><img src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/estadao-150x150.png?resize=150%2C150" alt="estadao" class="alignnone size-thumbnail wp-image-2783" srcset="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/estadao.png?resize=150%2C150&ssl=1 150w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/estadao.png?zoom=2&resize=150%2C150&ssl=1 300w, https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/estadao.png?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" /></a> <a href="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/globo.png"><img src="https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/globo-150x150.png?resize=150%2C150" alt="globo" class="alignnone size-thumbnail wp-image-2784" srcset="https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/globo.png?resize=150%2C150&ssl=1 150w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/globo.png?zoom=2&resize=150%2C150&ssl=1 300w, https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2013/07/globo.png?zoom=3&resize=150%2C150&ssl=1 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" /></a><br /><small>Folha, Estadão e Globo quando você lê muitas reportagens</small>
-</p>
+{{< figure src="/wp-content/uploads/2013/07/folha.png" title="Paywall da Folha de São Paulo" >}}
+
+{{< figure src="/wp-content/uploads/2013/07/estadao.png" title="Paywall do Estado de São Paulo" >}}
+
+{{< figure src="/wp-content/uploads/2013/07/globo.png" title="Paywall do jornal O Globo" >}}
 
 No caso da Folha, só o cadastro pago dá acesso ilimitado. Nos outros, aparentemente um cadastro gratuito é suficiente. De qualquer forma, por que dar seus dados para esses sites saberem quem você é, como navega e o que gosta de ler? Para quem esses sites vão dar essas informações?
 

@@ -4,10 +4,15 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="/css/main.css" />
   <title>{{ block "title" . }}{{ if ne .Title .Site.Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-  <link rel="icon" sizes="100x100" href="/assets/favicon.png" />
+  <link rel="icon" sizes="128x128" href="/assets/favicon.png" />
+  <link rel="stylesheet" href="/css/main.css" />
   {{ .Hugo.Generator }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-266727-19"></script>
+  <script>
+    window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());gtag('config', 'UA-266727-19');
+  </script>
 </head>
 
 <body>

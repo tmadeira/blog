@@ -6,9 +6,20 @@ date: 2017-12-04T21:01:48-02:00
 ---
 
 <style>
-.entry {
-  font-size: 20px;
-  line-height: 24px;
+@media screen {
+  .entry {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+@media print {
+  html {
+    padding-top: 0;
+  }
+  .header,
+  .footer {
+    display: none;
+  }
 }
 .entry small {
   color: #999;

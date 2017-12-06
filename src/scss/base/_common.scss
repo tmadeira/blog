@@ -21,6 +21,12 @@ html {
     margin: 0;
     padding: 0;
   }
+
+  @media print {
+    font-size: 10pt;
+    line-height: 1.5em;
+    text-align: justify;
+  }
 }
 
 a {

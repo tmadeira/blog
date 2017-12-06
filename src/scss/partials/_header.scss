@@ -70,3 +70,14 @@ html {
     }
   }
 }
+
+@media print {
+  .header {
+    background: none;
+    color: #000;
+
+    &-menu {
+      display: none;
+    }
+  }
+}

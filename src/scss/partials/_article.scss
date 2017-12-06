@@ -57,13 +57,15 @@
 
 .entry {
   a {
-    box-shadow: inset 0 -4px 0 #bdf;
-    &:hover {
-      background: #bdf;
-    }
+    @media screen {
+      box-shadow: inset 0 -4px 0 #bdf;
+      &:hover {
+        background: #bdf;
+      }
 
-    @include breakpoint($big) {
-      box-shadow: inset 0 -5px 0 #bdf;
+      @include breakpoint($big) {
+        box-shadow: inset 0 -5px 0 #bdf;
+      }
     }
   }
 

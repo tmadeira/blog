@@ -34,7 +34,7 @@ O pior é que quando eu particionei e comecei a instalação do Slackware, eu pe
 
 Como sempre, perdi mais tempo personalizando o Windows do que o Slackware, até porque já tô mais acostumado com o Linux. Aí eu aproveitei um pouco as férias, instalando o **Age of Empires II** (um jogo de estratégia da Microsoft) e tentei emulá-lo no Linux, mas ainda não consegui fazer dar tudo certo.
 
-Pra completar, meu desktop deu pau no HD. Estamos rodando só lives, criei até [um script][1] para configurar rede, compartilhar internet e redirecionar algumas portas pro laptop.
+Pra completar, meu desktop deu pau no HD. Estamos rodando só lives, criei até um script para configurar rede, compartilhar internet e redirecionar algumas portas pro laptop.
 
 Ahh.. E chegaram meus 20 cds do Ubuntu que eu pedi há dois meses! :)
 
@@ -57,7 +57,6 @@ Se você quer muito me dar um presente, mas não sabe o que, essa é a solução
   * Máquina fotográfica digital
   * HD de 80gb+ para desktop ou laptop HP Pavilion ze4610us
 
- [1]: http://tiagomadeira.net/pub/internet.sh
  [2]: http://esportes.terra.com.br/futebol/mundialdeclubes2005
  [3]: http://brunomadeira.blogspot.com/2005/12/passei.html
  [4]: http://openmercury.blogspot.com/

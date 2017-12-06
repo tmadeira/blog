@@ -24,6 +24,6 @@ Antes que eu me alongue muito, peço desculpas porque meu português está terr�
 
 Sem mais delongas, seja bem-vindo e sinta-se em casa.
 
- [1]: http://tiagomadeira.net/
+ [1]: /
  [2]: http://1001gatos.org/ "1001 Gatos de Schrödinger"
 

@@ -31,6 +31,6 @@ Bom… As possibilidades são muitas. São coisas que há pouco tempo atrás nã
  [3]: http://en.wikipedia.org/wiki/Web_2.0
  [4]: http://www.google.com
  [5]: http://www.microsoft.com
- [6]: http://tiagomadeira.net/2005/10/30/mudanca-de-servidor/
+ [6]: /2005/10/mudanca-de-servidor/
  [7]: http://www.google.com/webhp?complete=1&hl=en
 

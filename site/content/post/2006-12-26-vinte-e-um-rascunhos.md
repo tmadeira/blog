@@ -13,7 +13,7 @@ tags:
 ---
 **Onze** rascunhos [aqui][1], **oito** no [Mal Vicioso][2] e **dois** no [Algoritmos Computacionais][3] esperando para serem terminados e publicados, além de outras idéias que têm aparecido na minha mente e idéias da Carol pro Mal Vicioso. Mesmo com tanta criatividade, **nenhum** _post_ novo hoje. Acho que é preguiça de escrever, ou de terminar. _Eu sou o único blogueiro que sofre disso?_
 
- [1]: http://tiagomadeira.net/
+ [1]: /
  [2]: http://malvicioso.com/
- [3]: http://algoritmos.tiagomadeira.net/
+ [3]: /categories/algoritmos/
 

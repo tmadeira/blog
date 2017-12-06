@@ -23,5 +23,5 @@ Ah… Falando nisso, lembrei do problema **Buracos de Minhoca** que caiu na [Sel
 
  [1]: http://en.wikipedia.org/wiki/Wormhole
  [2]: http://olimpiada.ic.unicamp.br
- [3]: http://algoritmos.tiagomadeira.net
+ [3]: /categories/algoritmos/
 

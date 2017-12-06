@@ -31,13 +31,13 @@ Será que comprar um laptop HP refurbished é um erro? É algo que eu já deveri
 
 As sugestões do [post anterior][9] foram um pouco caras pro meu bolso… Existe outra alternativa tão barata quanto os da HP, mas de outra marca? Eu tô querendo um laptop como esse último: hd grande, memória RAM razoável, 14 polegadas, compatível com Linux, barato. E o mais rápido possível… :-)
 
- [1]: http://tiagomadeira.net/2007/01/05/o-dolar-vale-sete-reais-em-sao-jose/
- [2]: http://tiagomadeira.net/2007/01/03/462-dolares/
- [3]: http://tiagomadeira.net/2006/12/28/teobaldo-no-medico/
+ [1]: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/
+ [2]: /2007/01/462-dolares/
+ [3]: /2006/12/teobaldo-no-medico/
  [4]: http://www.shopping.com/
  [5]: http://www.compuvest.com/Description.jsp;jsessionid=atJBFKlT-ElfDJWZ9-?iid=366005
- [6]: http://tiagomadeira.net/2007/01/05/o-dolar-vale-sete-reais-em-sao-jose/#comment-870
+ [6]: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/#comment-870
  [7]: http://www.compuvest.com/Description.jsp?iid=316929
  [8]: http://br-linux.org/linux/analise-ubuntu-breezy
- [9]: http://tiagomadeira.net/2007/01/05/o-dolar-vale-sete-reais-em-sao-jose/#comments
+ [9]: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/#comments
 

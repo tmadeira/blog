@@ -3,12 +3,6 @@ title: 'DNA2006: Desafio legal, mas mal planejado…'
 type: post
 date: 2006-06-11T00:44:30+00:00
 url: /2006/06/dna2006-desafio-legal-mas-mal-planejado/
-enclosure:
-  - |
-    http://tiagomadeira.net/pub/russian.mp3
-    81648
-    audio/mpeg
-
 categories:
   - Cotidiano
 tags:
@@ -33,7 +27,7 @@ Pô… A idéia dos caras foi ótima. As perguntas foram super criativas e as eq
 
 Entre vários desafios difíceis (de coisas que não se achava na internet ou que eram muito difíceis de serem encontradas – como por exemplo o nome da mãe de um marinheiro brasileiro pouco conhecido, que só aparece num PDF em francês pesquisando no Google), uns foram mais divertidos por causa do que tivemos que fazer para conseguir a resposta.
 
-Como exemplo, vou citar um desafio que era traduzir um arquivo de áudio (MP3) com quatro palavras em russo. Primeiro tinha o trabalho de identificar a linguagem… Mas vinha uma imagem junto que era de um astronauta russo, então fomos direto pro caminho certo. Aí depois de ligar para a embaixada russa (e descobrir que ninguém lá fala português) e pra mais um monte de gente, adicionar 40 contatos russos no ICQ (usando as _White Pages_) e perguntar para vários russos que estavam ausentes ou não queriam ajudar (teve um que ficou me criticando porque eu estava falando inglês ao invés da minha língua materna – reflexos da **Guerra Fria**?), encontramos **UM** que falava inglês (bem mal, mas pelo menos falava). Aí depois de eu explicar 100 vezes pra ele o que tinha que fazer e ele me xingar de **beach** (dá pra ver que o cara não fala inglês, né?) e eu quase desistir dele, vieram as quatro palavras [desse MP3][1]: _peixe água açúcar cozinha_. Aleluia!
+Como exemplo, vou citar um desafio que era traduzir um arquivo de áudio (MP3) com quatro palavras em russo. Primeiro tinha o trabalho de identificar a linguagem… Mas vinha uma imagem junto que era de um astronauta russo, então fomos direto pro caminho certo. Aí depois de ligar para a embaixada russa (e descobrir que ninguém lá fala português) e pra mais um monte de gente, adicionar 40 contatos russos no ICQ (usando as _White Pages_) e perguntar para vários russos que estavam ausentes ou não queriam ajudar (teve um que ficou me criticando porque eu estava falando inglês ao invés da minha língua materna – reflexos da **Guerra Fria**?), encontramos **UM** que falava inglês (bem mal, mas pelo menos falava). Aí depois de eu explicar 100 vezes pra ele o que tinha que fazer e ele me xingar de **beach** (dá pra ver que o cara não fala inglês, né?) e eu quase desistir dele, vieram as quatro palavras ~~desse MP3~~ (infelizmente, esse áudio foi perdido com o tempo): _peixe água açúcar cozinha_. Aleluia!
 
 > **Trecho da conversa cômica com o russo que nos ajudou no DNA**
 >
@@ -65,6 +59,5 @@ Ah, no fim o russo perguntou pra quê queríamos saber o que as palavras signifi
 
 **[editado de novo]** Se for fácil como parece, acho que descobrimos a resposta do desafio final (sem nem ter a pergunta)! Agora é só digitar rápido na quinta-feira… :) **[/editado de novo]**
 
- [1]: http://tiagomadeira.net/pub/russian.mp3
  [2]: http://www.dna2006.org
 

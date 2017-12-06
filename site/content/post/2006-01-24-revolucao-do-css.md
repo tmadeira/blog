@@ -16,7 +16,7 @@ tags:
 
 Desde que o projeto foi lançado eu queria criar um design pra pôr lá, mas por falta de tempo e, principalmente, idéias, não coloquei nada em prática.
 
-Hoje, finalmente tive uma “luz”. E esse design, que estou pretendendo chamar de _“Luz”_ está quase totalmente implementado aqui: [Implementação da “Luz” para o Revolução do CSS][4].
+Hoje, finalmente tive uma “luz”. E esse design, que estou pretendendo chamar de _“Luz”_ está quase totalmente implementado aqui: ~~Implementação da “Luz” para o Revolução do CSS~~ (infelizmente esse conteúdo foi perdido com o tempo).
 
 Enquanto vou acabando a parte lá embaixo (faltou, basicamente, a tabela e o formulário), vocês podiam me dar uma ajuda com duas coisas?
 
@@ -26,5 +26,4 @@ Enquanto vou acabando a parte lá embaixo (faltou, basicamente, a tabela e o for
  [1]: http://www.revolucao.etc.br
  [2]: http://www.csszengarden.com/
  [3]: http://www.google.com/search?q=revolução+do+css
- [4]: http://tiagomadeira.net/pub/rev/
 

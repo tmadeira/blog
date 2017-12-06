@@ -29,7 +29,7 @@ Rezem pelo laptop. Além da saudade da Carol, meu brinquedo preferido ainda tá 
  [3]: http://www.hp.com.br/
  [4]: http://1001gatos.org/
  [5]: http://1001gatos.org/ano2007/
- [6]: http://tiagomadeira.net/2006/12/27/cinco-evidencias-de-que-o-tiago-e-louco/#comments
+ [6]: /2006/12/cinco-evidencias-de-que-o-tiago-e-louco/#comments
  [7]: http://malvicioso.com/
  [8]: http://br.groups.yahoo.com/group/blogosfera/
 

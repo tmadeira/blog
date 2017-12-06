@@ -53,7 +53,7 @@ Além disso, é de código fechado, é mantido pela Microsoft (que é uma empres
   * [Mozilla Firefox][9]
   * [Google Chrome][10]
 
- [2]: http://algoritmos.tiagomadeira.net/
+ [2]: /categories/algoritmos/
  [8]: http://www.findmebyip.com/litmus/#target-selector
  [9]: http://www.getfirefox.com/
  [10]: http://www.google.com/chrome/

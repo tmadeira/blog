@@ -40,5 +40,5 @@ A classificação oficial e a lista de convocados para a seletiva da IOI deve se
 
  [1]: http://olimpiada.ic.unicamp.br/res_fase2_prog/programacao_n2/FormConsultaCorrecProg
  [2]: http://olimpiada.ic.unicamp.br/res_fase2_prog/programacao_n2/MostraLog?id=193
- [3]: http://tiagomadeira.net/2007/05/01/segunda-fase-da-obi2007/
+ [3]: /2007/05/segunda-fase-da-obi2007/
  [4]: http://olimpiada.ic.unicamp.br/

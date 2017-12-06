@@ -32,7 +32,7 @@ Neste ano não aconteceu a programação “normal” que tivemos nos últimos d
 
 Nos dois períodos nossas aulas foram no laboratório, com computadores, onde resolvemos uma porção de problemas do [treinamento para a ACM da Universidade de Valladollid][4].
 
-Criei uma pasta no meu servidor com todos os problemas que eu consegui resolver (alguns deles ficaram pela metade): <http://tiagomadeira.net/pub/uva/>.
+Criei uma pasta no meu servidor com todos os problemas que eu consegui resolver (alguns deles ficaram pela metade): ~~tiagomadeira.net/pub/uva/~~ (essa pasta infelizmente foi perdida com o tempo).
 
 ### Problemas sobre mais de um conteúdo
 
@@ -44,7 +44,7 @@ Uma característica interessante dos problemas desse ano (do treinamento e da pr
 
 [[Enunciado]][6] 30 minutos tentando pensar em algum tipo de recorrência, 1h implementando uma solução força bruta! No final, pensei que faria uns 50 pontos (perderia um pouco por causa do tempo), mas perdi alguns pontos por resposta errada, ainda não sei por quê!
 
-**Solução:** [romano.c][7]
+**Solução:** ~~romano.c~~ (infelizmente foi perdido com o tempo)
 
 **Pontos:** 10/100
 
@@ -58,7 +58,7 @@ Uma característica interessante dos problemas desse ano (do treinamento e da pr
 
 [[Enunciado]][5] Olhei o enunciado e já saquei o que o problema queria. Eu tenho uma boa noção de grafos (embora precise estudar fluxos) e o curso trabalhou bastante algoritmos geométricos, então sem maiores problemas fiz o algoritmo, testei várias vezes, achei que ia tirar 100. No fim, não sei o que houve, se foi falta de tempo ou resposta errada. Só vi que fiz 40 pontos…
 
-**Solução:** [labirinto.c][9]
+**Solução:** ~~labirinto.c~~ (infelizmente foi perdido com o tempo)
 
 **Pontos:** 40/100
 
@@ -66,7 +66,7 @@ Uma característica interessante dos problemas desse ano (do treinamento e da pr
 
 [[Caderno de Tarefas]][10] Li todos os problemas e achei que poderia ir bem na prova (o primeiro problema eu tinha certeza que não conseguiria, mas o segundo e o terceiro dava pra fazer). Então, fui direto para o segundo problema, acreditando que era o mais fácil. Mas depois de bolar vários algoritmos, ter respostas erradas e tempos muito altos, tive que ficar com uma solução precária, um **Floyd Warshall** para cada troca de vértices (resultado: [tex]O(n^{5})[/tex]!) Aí depois não deu tempo de fazer o terceiro problema, mesmo eu tendo esboçado sua solução.
 
-**Solução do Teletransporte:** [tele.c][11]
+**Solução do Teletransporte:** ~~tele.c~~ (infelizmente foi perdido com o tempo)
 
 **Pontos:** 40/300
 
@@ -93,11 +93,8 @@ O legal é que esse curso sempre dá vontade de estudar, além de ensinar bastan
  [4]: http://acm.uva.es/p/
  [5]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_d3.pdf
  [6]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_d1.pdf
- [7]: http://tiagomadeira.net/pub/seletiva-ioi-2006/romano.c
  [8]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_d2.pdf
- [9]: http://tiagomadeira.net/pub/seletiva-ioi-2006/labirinto.c
  [10]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_final.pdf
- [11]: http://tiagomadeira.net/pub/seletiva-ioi-2006/tele.c
  [12]: http://olympiads.win.tue.nl/ioi/
  [13]: http://orm.mtm.ufsc.br
 

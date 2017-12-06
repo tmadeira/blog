@@ -69,7 +69,7 @@ end;
 
 Linha por linha ela é exatamente igual! A única diferença é que o pseudocódigo é traduzido… Geralmente os pseudocódigos são parecidos sempre com essa base e suas implementações não são muito diferentes. E vai ser sempre dessa maneira que eu vou representar os algoritmos (usando pseudocódigos e alguns traduzindo para C para mostrar implementações). No entanto, qualquer dúvida sobre essa representação, fique a vontade para perguntar através dos comentários.
 
- [1]: http://algoritmos.tiagomadeira.net/algoritmos-o-que-e-um-algoritmo
+ [1]: /2006/01/algoritmos-o-que-e-um-algoritmo/
  [2]: http://pt.wikipedia.org/wiki/Pseudoc%C3%B3digo
  [3]: http://pt.wikipedia.org/wiki/Pascal_%28linguagem_de_programa%C3%A7%C3%A3o%29
 

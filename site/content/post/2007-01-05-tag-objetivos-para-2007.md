@@ -55,7 +55,7 @@ Meu quinto objetivo é os convidados aceitarem a tag e publicarem seus cinco obj
  [2]: http://felipecn.com/wp/
  [3]: http://1001gatos.org/tagobjetivos2007/
  [4]: http://felipecn.com/wp/2006/12/31/objetivos-para-2007/
- [5]: http://tiagomadeira.net/2006/12/11/minhas-previsoes-para-2007/
+ [5]: /2006/12/minhas-previsoes-para-2007/
  [6]: http://www.google.com/adsense/
  [7]: http://www.buscape.com.br/
  [8]: http://www.hsin.hr/ioi2007/

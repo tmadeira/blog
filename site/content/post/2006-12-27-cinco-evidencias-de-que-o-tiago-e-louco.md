@@ -27,9 +27,9 @@ Isso era um dos [21 rascunhos][6]… Enquanto eles estavam aqui na fila, dois (o
  [1]: http://www.johnchow.com/blog-tag-5-things-you-didnt-know-about-john-chow/
  [2]: http://www.problogger.net/archives/2006/12/24/five-things-you-may-not-know-about-this-little-problogger/
  [3]: http://www.chrisg.org/2006/12/22/five-things-tagging-update/
- [4]: http://tiagomadeira.net/2006/12/07/vamos-julgar-deus/
+ [4]: /2006/12/vamos-julgar-deus/
  [5]: http://malvicioso.com/2006/12/25/mundo-absurdo/
- [6]: http://tiagomadeira.net/2006/12/26/vinte-e-um-rascunhos/
+ [6]: /2006/12/vinte-e-um-rascunhos/
  [7]: http://novo-mundo.org/log/2006/12/26/5-coisas-que-voce-nao-sabe-de-mim/
  [8]: http://sarmento.org/janio/cinco-coisas-sobre-mim/
 

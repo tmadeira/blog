@@ -31,6 +31,6 @@ Eu achei que fosse impossível ganhar esse negócio, fiz mais pra ganhar um link
 
  [1]: http://problogger.net/
  [2]: http://www.problogger.net/archives/2006/12/22/group-writing-project-winners-2/
- [3]: http://tiagomadeira.net/2006/12/21/a-blogosfera-brasileira-de-2006/
+ [3]: /2006/12/a-blogosfera-brasileira-de-2006/
  [4]: http://www.problogger.net
 

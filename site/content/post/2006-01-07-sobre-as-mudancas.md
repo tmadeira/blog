@@ -34,6 +34,6 @@ Adicionei um link para meus **feeds** no Bloglines também e dei uma arrumada na
 
 Espero que estejam gostando das mudanças… Agora estou me preparando para mudanças mais radicais, como transformar o site inteiro em Ajax (o que não é difícil no WordPress, mas vou esperar no mínimo esperar a série de **algoritmos** pra não ficar atrasado com ela)
 
- [1]: http://tiagomadeira.net/categorias/serie-algoritmos
+ [1]: /categories/algoritmos/
  [2]: http://www.broobles.com/scripts/simpletags/
 

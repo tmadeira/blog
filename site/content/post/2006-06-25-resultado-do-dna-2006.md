@@ -10,10 +10,9 @@ tags:
   - resultado
 
 ---
-Saiu ontem o resultado do [Desafio Nacional Acadêmico][1]. Minha equipe, **2 Pi** ficou em 24º lugar no Brasil e em 2º lugar em Santa Catarina depois de acabarmos o desafio no dia 15 às 20h00 ([screenshot do término][2])
+Saiu ontem o resultado do [Desafio Nacional Acadêmico][1]. Minha equipe, **2 Pi** ficou em 24º lugar no Brasil e em 2º lugar em Santa Catarina depois de acabarmos o desafio no dia 15 às 20h00.
 
 Poderíamos ter ido melhor se a organização não tivesse mudado a data do desafio final (eu estava em Campinas, fazendo a seletiva para IOI e não pude participar do jeito que deveria) e um participante da nossa equipe priorizasse o desafio ao invés do download do **Missão Impossível III**. De qualquer maneira, valeu!
 
  [1]: http://www.dna2006.org
- [2]: http://tiagomadeira.net/pub/ss.png
 

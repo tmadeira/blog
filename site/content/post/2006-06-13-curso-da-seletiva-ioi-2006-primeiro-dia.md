@@ -100,12 +100,12 @@ Por enquanto é só. Se der tempo, pretendo colocar um _post_ por dia sobre o cu
 
  [1]: http://acm.uva.es/p/
  [2]: http://acm.uva.es/p/v4/412.html
- [3]: http://tiagomadeira.net/scripts/412.c
+ [3]: /wp-content/uploads/c/412.c
  [4]: http://dias.moreira.nom.br/
  [5]: http://acm.uva.es/p/v4/441.html
- [6]: http://tiagomadeira.net/scripts/441.c
+ [6]: /wp-content/uploads/c/441.c
  [7]: http://acm.uva.es/p/v5/543.html
- [8]: http://tiagomadeira.net/scripts/543.c
+ [8]: /wp-content/uploads/c/543.c
  [9]: http://pt.wikipedia.org/wiki/Conjectura_de_Goldbach
  [10]: http://pt.wikipedia.org/wiki/Erat%C3%B3stenes
  [11]: http://olympiads.win.tue.nl/ioi/

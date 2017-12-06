@@ -22,8 +22,10 @@ tags:
 ---
 Em primeiro lugar, publiquei dois projetos do colégio (dentro dos padrões web, um que não funciona direito no IE) sexta-feira. O pessoal tava reclamando que a página tava desatualizada e tinha gente procurando por “ginsal 2005” no Google e chegando aqui, então estou postando os links para o projeto **Ginsal 2005** e **Páginas Literárias** aqui mesmo:
 
-  * [GINSAL][1]
-  * [Páginas Literárias][2]
+  * ~`GINSAL~~
+  * ~~Páginas Literárias~~
+
+(links perdidos com o tempo)
 
 Eles não foram publicados antes porque tô com bastante coisa pra fazer lá no colégio, entre essas um site totalmente novo.
 
@@ -109,5 +111,3 @@ Eu nunca tinha feito nada tão evoluído no Bash e agora tô até começando a m
 
 No mais, não aconteceu nada de novo. Só tô decepcionado por ter errado um problema da OBI, cheio de trabalhos de escola mas desenvolvendo bastante coisa legal aqui agora que meus sistemas estão ficando estáveis.
 
- [1]: http://www.salesianoitajai.g12.br/pro2005/ginsal/
- [2]: http://www.tiagomadeira.net/paginas/

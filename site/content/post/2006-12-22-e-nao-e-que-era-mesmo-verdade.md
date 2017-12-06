@@ -20,14 +20,14 @@ Acho que foi uma conquista importante pra nossa blogosfera ter vários participa
 
  [1]: http://www.thebloggingtimes.com/
  [2]: http://www.paypal.com/
- [3]: http://tiagomadeira.net/2006/12/22/ganhei-100-dolares/
+ [3]: /2006/12/ganhei-100-dolares/
  [4]: http://www.problogger.net/archives/2006/12/22/group-writing-project-winners-2/
  [5]: http://www.problogger.net/
- [6]: http://tiagomadeira.net/2006/12/21/a-blogosfera-brasileira-de-2006/
+ [6]: /2006/12/a-blogosfera-brasileira-de-2006/
  [7]: http://www.blogajuda.com.br/
  [8]: http://www.blogajuda.com.br/2006/12/19/faca-uma-retrospectiva-ou-uma-analise-e-ganhe-premios/
  [9]: http://br.groups.yahoo.com/group/blogosfera/
- [10]: http://tiagomadeira.net/2006/12/22/ganhei-100-dolares/#comment-723
+ [10]: /2006/12/ganhei-100-dolares/#comment-723
  [11]: http://fabricio.wordpress.com/
  [12]: http://blog.fabioseixas.com.br/archives/2006/12/2007.html
 

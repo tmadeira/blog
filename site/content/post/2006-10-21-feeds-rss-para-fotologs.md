@@ -16,7 +16,7 @@ tags:
 ---
 Não tenho programado absolutamente nada, a não ser nos trabalhos remunerados. Eu vejo a programação como uma arte… Programar é como compôr uma música, pintar, atuar; é preciso haver inspiração. Eu não ando inspirado para programar, mas nesse caso a necessidade me levou a criação de um _script_ que pode ter utilidade para algum leitor perdido…
 
-No [ano passado][1], eu [escrevi um script][2] que gerava feeds RSS para fotologs do [fotolog.net][3]. O tempo passou, o meu usuário na UNICAMP foi deletado e nessa semana eu voltei a ter a necessidade de acompanhar um fotolog. Então, resolvi reescrever o _script_, agora com mais funcionalidades:
+No ano passado, eu [escrevi um script][2] que gerava feeds RSS para fotologs do [fotolog.net][3]. O tempo passou, o meu usuário na UNICAMP foi deletado e nessa semana eu voltei a ter a necessidade de acompanhar um fotolog. Então, resolvi reescrever o _script_, agora com mais funcionalidades:
 
   * Compatível com [Bloglines][4]
   * Tem como descrição o “título” que o usuário coloca no Fotolog.net.
@@ -36,8 +36,7 @@ Depois de acabar de criar o script, ainda lembrei que o [IE7][7] foi lançado ne
 
 Acompanhe os fotologs dos seus amigos no [Bloglines][8], divulgue aos seus amigos, comente sugerindo melhorias; aproveite enquanto eu ainda estou inspirado pra corrigir os defeitos! =)
 
- [1]: http://tiagomadeira.net/2005
- [2]: http://tiagomadeira.net/2005/11/11/fotolognet-feed/
+ [2]: /2005/11/fotolognet-feed/
  [3]: http://www.fotolog.net
  [4]: http://www.bloglines.com/
  [5]: http://www.dreamhost.com

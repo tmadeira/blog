@@ -23,7 +23,7 @@ Veio com um Windows XP que estou pra tirar; no mais, tudo parece funcionar perfe
 
 Inédito! [Fotos do recém-nascido!][3]
 
- [1]: http://tiagomadeira.net/2007/01/11/acer-aspire-5050-3205/
+ [1]: /2007/01/acer-aspire-5050-3205/
  [2]: http://www.slamd64.com/
  [3]: http://www.flickr.com/photos/madeira/tags/aspire
 

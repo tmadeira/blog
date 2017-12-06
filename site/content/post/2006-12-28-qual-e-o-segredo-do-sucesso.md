@@ -25,5 +25,5 @@ Pelo menos, as visitas de todos eles est√£o num movimento progressivo acelerado‚
  [2]: http://www.contraditorium.com/2006/12/28/se-bota-pra-fora-quer-se-mostrar-se-esconde-mascarado/
  [3]: http://novo-mundo.org/log/
  [4]: http://malvicioso.com/
- [5]: http://algoritmos.tiagomadeira.net/
+ [5]: /categories/algoritmos/
 

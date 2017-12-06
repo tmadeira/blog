@@ -54,6 +54,6 @@ Quero aproveitar o artigo para citar o excelente [Falcon Dark][3]:
 Tenho certeza que o Linux não decepcionará quem estiver disposto a perder um tempo pra aprender a dirigir. E para quem precisar de ajuda sempre haverá uma grande comunidade disposta a ajudar (eu inclusive). Vamos inovar! Vamos fazer o melhor sistema operacional do mundo, pra nós! _Usuários não-preguiçosos de todo mundo, uni-vos!_
 
  [1]: http://linux.oneandoneis2.org/LNW.htm
- [2]: http://tiagomadeira.net/2006/12/11/dialogo-entre-programas/
+ [2]: /2006/12/dialogo-entre-programas/
  [3]: http://falcon-dark.blogspot.com/2006/02/filosofia-e-o-sistema.html
 

@@ -34,7 +34,7 @@ Estou tentando projetar um _design_ pro meu site há algum tempo (quase desde qu
 
 Por último, me desculpem por ficar esse tempo todo sem escrever e começar com um relato sobre a minha vida pessoal que não deve importar muito para ninguém… =) Prometo que o próximo _post_ vai ser mais interessante!
 
- [1]: http://tiagomadeira.net/artigos/categorias/algoritmos/
+ [1]: /categories/algoritmos/
  [2]: http://www.bloglines.com/public/tmadeira/
  [3]: http://del.icio.us/tmadeira/
  [4]: http://del.icio.us

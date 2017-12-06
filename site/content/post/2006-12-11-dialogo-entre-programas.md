@@ -27,7 +27,7 @@ Eu acredito na filosofia do Linux, mas, se ele fosse uma merda, eu continuaria u
 
 E quem usa Windows… Por que usa Windows?
 
- [1]: http://tiagomadeira.net/2006/12/09/windows-e-mais-facil/
+ [1]: /2006/12/windows-e-mais-facil/
  [2]: http://blog.elcio.com.br/
  [3]: http://blog.elcio.com.br/streamming-e-download-ao-mesmo-tempo/
  [4]: http://falcon-dark.blogspot.com

@@ -47,6 +47,6 @@ Por enquanto é isso aí… Me ferrei, mas agora pelo menos nunca mais vou errar
  [1]: http://olimpiada.ic.unicamp.br/info_geral/regulamento
  [2]: http://olimpiada.ic.unicamp.br
  [3]: http://olimpiada.ic.unicamp.br/res_fase2_prog/programacao_n2/MostraLog?id=13
- [4]: http://tiagomadeira.net/2006/05/16/resumao/
+ [4]: /2006/05/resumao/
  [5]: http://olimpiada.ic.unicamp.br/res_fase2_prog/programacao_n2/gabaritos/lobo.zip
 

@@ -26,9 +26,9 @@ Bom… Eu me sinto como o Conan, embora enxergue a vida como Nietzsche ou Schope
  [1]: http://pt.wikipedia.org/wiki/Conan
  [2]: http://1001gatos.org/conan-vida/
  [3]: http://pt.wikipedia.org/wiki/Robert_E._Howard
- [4]: http://tiagomadeira.net/
+ [4]: /
  [5]: http://malvicioso.com/
  [6]: http://www.flickr.com/photos/madeira/tags/carol
- [7]: http://http://tiagomadeira.net/2007/01/18/cinco-coisas-que-me-irritam/
- [8]: http://tiagomadeira.net/2007/01/18/emerge-happiness/
- [9]: http://tiagomadeira.net/2007/01/16/dor-de-cabeca/
+ [7]: /2007/01/cinco-coisas-que-me-irritam/
+ [8]: /2007/01/emerge-happiness/
+ [9]: /2007/01/dor-de-cabeca/

@@ -140,5 +140,5 @@ Todo loop pode ser uma recursão e tem alguns que ficam bem mais fáceis se fore
   * Union/Find
   * … entre vários outros casos!
 
- [1]: http://algoritmos.tiagomadeira.net/analise-de-algoritmos
+ [1]: /2006/01/analise-de-algoritmos/
 

@@ -28,13 +28,11 @@ Não vou aumentar muito esse assunto, mas deixar aqui o link do artigo do Thobia
 
 A propósito… A página dele é muito legal! Você se sente usando Linux modo-texto… :lol:
 
-E já que falei sobre ERs e Funções ZZ, vou por último falar de um patch que eu fiz pra função ZZCalcula dar as respostas em notação científica e com precisão maior, o que é extremamente importante para eu não precisar ficar contando zeros no novo grupo de estudo de física (que fiz com o prof. Valdir, o Ivo e o John) onde estamos estudando principaplmente astronomia e ter respostas precisas. O patch está disponível aqui e serve para a última versão das ZZ (5.9): [Patch para Funções ZZ 5.9, para ZZCalcula resolver as operações com notações científicas e precisão mais alta][4]. Para quem já modificou muito seu arquivo das funções, ou não gosta de patches, publiquei também no meu servidor somente o código inteiro da nova função ZZCalcula com esse recurso: [zzcalcula.txt][5]
+E já que falei sobre ERs e Funções ZZ, vou por último falar de um patch que eu fiz pra função ZZCalcula dar as respostas em notação científica e com precisão maior, o que é extremamente importante para eu não precisar ficar contando zeros no novo grupo de estudo de física (que fiz com o prof. Valdir, o Ivo e o John) onde estamos estudando principaplmente astronomia e ter respostas precisas. O patch está disponível aqui e serve para a última versão das ZZ (5.9): ~~Patch para Funções ZZ 5.9, para ZZCalcula resolver as operações com notações científicas e precisão mais alta~~ (infelizmente esse patch foi perdido com o tempo). Para quem já modificou muito seu arquivo das funções, ou não gosta de patches, publiquei também no meu servidor somente o código inteiro da nova função ZZCalcula com esse recurso: ~~zzcalcula.txt~~ (infelizmente esse arquivo foi perdido com o tempo)
 
 Hmmm… Eu resolvi começar a floodar mais aqui no blog, isso é, usar a idéia de assuntos diferentes em posts diferentes… Espero que ninguém que recebe e-mails sempre que eu publico uma coisa nova se estresse muito; mas se tiver chato eu dou um jeito de fazer um cron (meu novo servidor tem suporte a cronjobs! E já que eu nunca usei, seria muito legal aprender…) ;)
 
  [1]: http://funcoeszz.net
  [2]: http://aurelio.net
  [3]: http://www.thobias.org/doc/er_c.html
- [4]: http://tiagomadeira.net/pub/patch_zzcalcula
- [5]: http://tiagomadeira.net/pub/zzcalcula.txt
 

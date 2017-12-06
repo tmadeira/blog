@@ -59,9 +59,9 @@ Eu não sei como se faz pra emular um subsistema de 32bits pra rodar Flash por e
 
 **Conclusão:** Pelo visto esse mês (no mínimo) vai ser só dor de cabeça. Mas o aprendizado com certeza vai ser grande. ;) Quem já tiver passado por esses problemas e quiser me ajudar nessa aventura será muito bem recompensado (por Deus ou algum cara assim que você acreditar, porque meu dinheiro acabou na compra desse laptop… hehehe).
 
- [1]: http://tiagomadeira.net/2007/01/13/ive-got-the-power/
+ [1]: /2007/01/ive-got-the-power/
  [2]: http://www.x.org
  [3]: http://www.ati.com/
  [4]: http://www.hlegius.pro.br/
- [5]: http://tiagomadeira.net/2007/01/13/ive-got-the-power/#comment-1012
+ [5]: /2007/01/ive-got-the-power/#comment-1012
 

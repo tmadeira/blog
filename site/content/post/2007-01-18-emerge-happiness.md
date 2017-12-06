@@ -67,5 +67,5 @@ Concluindo, falta uma coisa na portage do Gentoo para quem usa placas de vídeo 
 ```
 
  [1]: http://www.gentoo.org/
- [2]: http://tiagomadeira.net/2007/01/16/dor-de-cabeca/
+ [2]: /2007/01/dor-de-cabeca/
 

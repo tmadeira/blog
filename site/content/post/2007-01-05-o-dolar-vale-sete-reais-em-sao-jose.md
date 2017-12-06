@@ -28,7 +28,7 @@ Com o dinheiro que eles querem, eu compro um Turion 64 X2, com o dobro de HD do 
 
 Ainda não sei que laptop vou comprar e nem onde. Preciso de um laptop com todo o hardware compatível com Linux, com uma memória RAM alta e um HD grande. Coisas como processador excelente e 17 polegadas eu não necessito. Alguma sugestão?
 
- [1]: http://tiagomadeira.net/2007/01/03/462-dolares/
+ [1]: /2007/01/462-dolares/
  [2]: http://www.seprol.com.br/
  [3]: http://produto.mercadolivre.com.br/MLB-51300910-notebook-acer-aspire-as5100-3959-amd-turion-64-x2-20ghz-ati-_JM
 

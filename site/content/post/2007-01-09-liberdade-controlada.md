@@ -46,7 +46,7 @@ Esse controle de acesso à internet é ridículo. A internet é o que é porque 
  [2]: http://www.youtube.com/
  [3]: http://www.contraditorium.com/2007/01/09/iraque-um-exemplo-para-o-brasil/
  [4]: http://video.google.com/videosearch?q=cicarelli
- [5]: http://tiagomadeira.net/2007/01/09/como-entrar-no-youtube/
+ [5]: /2007/01/como-entrar-no-youtube/
  [6]: http://www.ataliba.eti.br/?section=blog&op=view&idBlog=470
  [7]: http://tiagomadeira.com/2006/10/defective-by-design/
 

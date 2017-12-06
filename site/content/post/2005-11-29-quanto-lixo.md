@@ -195,5 +195,5 @@ Quem costuma visitar meu blog perceberá que apareceu um ícone lá no canto inf
  [4]: /wp-content/uploads/c/batuira.c
  [5]: http://olimpiada.ic.unicamp.br/programacao/tarefas/dengue
  [6]: /wp-content/uploads/c/dengue.c
- [7]: http://tiagomadeira.net/scripts
+ [7]: /wp-content/uploads/c/
 

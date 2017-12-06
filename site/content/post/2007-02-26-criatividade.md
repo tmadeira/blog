@@ -36,6 +36,6 @@ Ahh.. E idéias são mais que bem-vindas.
  [2]: http://www.dreamhost.com/
  [3]: http://www.br-linux.org/
  [4]: http://olimpiada.ic.unicamp.br
- [5]: http://tiagomadeira.net/scripts
- [6]: http://algoritmos.tiagomadeira.net/
+ [5]: /wp-content/uploads/c/
+ [6]: /categories/algoritmos/
 

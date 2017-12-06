@@ -39,5 +39,5 @@ Outra utilidade do algoritmo é compartilhar idéias de problemas complexos. Tod
 Existe uma série de algoritmos comuns que todo programador deve conhecer (projetos prontos para muitas coisas complicadas que precisamos implementar no dia-a-dia) e isso é o que vamos começar a estudar no próximo artigo. :)
 
  [1]: http://www.hlegius.pro.br
- [2]: http://algoritmos.tiagomadeira.net/algoritmos-como-representar-um-algoritmo
+ [2]: /2006/01/algoritmos-como-representar-um-algoritmo/
 

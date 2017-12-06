@@ -51,7 +51,7 @@ Sei lá se a televisão a cabo é melhor. A que eu tenho aqui em casa é ridícu
   * [Wendel][12]
 
  [1]: http://www.ofimdavarzea.com/2007/01/17/cinco-coisas-irritantes/
- [2]: http://tiagomadeira.net/2007/01/18/emerge-happiness/
+ [2]: /2007/01/emerge-happiness/
  [3]: http://malvicioso.com/2007/01/12/almas-a-venda/
  [4]: http://www.ofimdavarzea.com/
  [5]: http://malvicioso.com/2007/01/15/mundo-machista-eh/

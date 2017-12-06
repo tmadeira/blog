@@ -20,7 +20,7 @@ Siga os passos abaixo para ter Fluxbox com suporte a ddate no seu Gentoo.
 ### Baixando o ebuild e colocando ele num overlay
 
 ```bash
-% wget https://tiagomadeira.com/wp-content/2010/08/portage-fluxbox-1.1.1-0.tar.bz2
+% wget https://tiagomadeira.com/wp-content/uploads/2010/08/portage-fluxbox-1.1.1-0.tar.bz2
 % su
 % mkdir -p /usr/local/portage/x11-wm
 % tar xjvf portage-fluxbox-1.1.1-0.tar.bz2 -C /usr/local/portage/x11-wm

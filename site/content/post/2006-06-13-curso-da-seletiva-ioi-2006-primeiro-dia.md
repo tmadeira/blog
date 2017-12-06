@@ -28,7 +28,7 @@ O dia hoje serviu para “nivelar” os participantes e treinar um pouquinho a r
 
 ### 412 – Pi
 
-[Enunciado][2] – [Minha Solução][3]
+[Enunciado][2] – ~~Minha Solução~~
 
 Não é um problema muito complexo, mas eu usava um algoritmo muito demorado para determinar se dois números tinham ou não um fator comum, que não passava por tempo limite excedido. Então, o [Fábio Dias Moreira][4] nos passou uma propriedade bem interessante de **MDC** (Máximo Divisor Comum):
 
@@ -42,13 +42,13 @@ Aí dá pra fazer uma função recursiva **mdc** bem rápida, que eu apliquei na
 
 ### 441 – Lotto
 
-[Enunciado][5] – [Minha Solução][6]
+[Enunciado][5] – ~~Minha Solução~~
 
 Esse problema nem tem muito o que comentar. Implementação de dois minutos… hehehe… Eu podia ter feito uma função recursiva pra ficar um pouco mais “decente” (e poder mudar de 6 para outro número no futuro), mas não tinha necessidade, então ficou assim mesmo (e passou de primeira no site).
 
 ### 543 – Goldbach’s Conjecture
 
-[Enunciado][7] – [Minha Solução][8]
+[Enunciado][7] – ~~Minha Solução~~
 
 O objetivo é provar a [Conjectura de Goldbach][9] para todos os pares menores que 1000000. Meu programa ainda não roda dentro do tempo, mas depois vou continuar a adapta-lo. Eu posso, por exemplo, ir fazendo a média entre o maior possível e o menor possível (aquele “algoritmo” que usamos quando alguém fala: “Pensei num número de 1 a 100. Tente advinhar…”) ao invés desses loops, o que já vai tornar o programa mais rápido (não sei se o suficiente).
 
@@ -100,12 +100,9 @@ Por enquanto é só. Se der tempo, pretendo colocar um _post_ por dia sobre o cu
 
  [1]: http://acm.uva.es/p/
  [2]: http://acm.uva.es/p/v4/412.html
- [3]: /wp-content/uploads/c/412.c
  [4]: http://dias.moreira.nom.br/
  [5]: http://acm.uva.es/p/v4/441.html
- [6]: /wp-content/uploads/c/441.c
  [7]: http://acm.uva.es/p/v5/543.html
- [8]: /wp-content/uploads/c/543.c
  [9]: http://pt.wikipedia.org/wiki/Conjectura_de_Goldbach
  [10]: http://pt.wikipedia.org/wiki/Erat%C3%B3stenes
  [11]: http://olympiads.win.tue.nl/ioi/

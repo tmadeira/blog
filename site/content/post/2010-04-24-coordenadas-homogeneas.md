@@ -149,9 +149,8 @@ for (map <reta,int>::iterator i = M.begin(); i != M.end(); i++) {
 }
 ```
 
-O código completo ficou com umas 90 linhas com comentários e linhas em branco e foi aceito na primeira submissão (ok, na verdade na segunda, mas não foi devido à geometria muito menos à precisão): [symmetry.cpp][3]. Não é lindo?
+O código completo ficou com umas 90 linhas com comentários e linhas em branco e foi aceito na primeira submissão (ok, na verdade na segunda, mas não foi devido à geometria muito menos à precisão): ~~symmetry.cpp~~ (infelizmente, esse arquivo foi perdido com o tempo). Não é lindo?
 
  [1]: http://www.ic.unicamp.br/~stolfi/EXPORT/bibliography/stolfi.html
  [2]: http://www.topcoder.com/stat?c=problem_statement&pm=924
- [3]: /wp-content/uploads/2010/04/symmetry.cpp
 

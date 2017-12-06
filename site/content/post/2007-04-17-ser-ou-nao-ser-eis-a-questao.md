@@ -50,7 +50,7 @@ O fato é que essa história de um ser outro está muito popular na blogosfera. 
 
 O fato é que eu posso afirmar que esse cara, totalmente eclético e genial (na real é um dos caras mais fodas que eu conheço, embora eu não o conheça na vida real), é mesmo real. Queria dividir isso com vocês pra acabarem os rumores na blogosfera, no GTalk, no mundo inteiro: Ibrahim Cesar é real. Abaixo você pode ver duas provas disso, que retirei do [site dele][3]:
 
-{{< figure src="/wp-content/uploads/2007/04/existo.jpg" title="Provas de que Ibrahim Cesar existe" >}}
+_infelizmente, essa foto foi perdida com o tempo_
 
 Em breve o mundo poderá ver uma obra-prima que ele está bolando e que eu estou tentando ajudar a fazer acontecer (se tudo der certo, no dia 23/05). No momento não posso dar mais informações.
 

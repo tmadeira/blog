@@ -25,7 +25,7 @@ Ontem, pela primeira vez, desenvolvi um sistema em Ajax. Já vinha estudando há
 
 Não vou colocar o código aqui agora, ainda queria ajustar algumas coisas porque ontem fiz na pressa, mas confiram um screenshot! (o SS mais legal seria o do “Voto Confirmado”, quando um div com fundo PNG alpha aparece em cima de tudo, mas eu fiz um sistema de segurança para só quem tá dentro do Lab. de Informática poder votar – testando IPs – e agora estou em casa).
 
-[<img src="https://i0.wp.com/static.flickr.com/28/50181099_82979ab12d.jpg?w=604"  style="border:0;" alt="Screenshot da Votação do Grêmio" data-recalc-dims="1" />][1]
+{{< figure src="https://farm1.staticflickr.com/28/50181099_82979ab12d.jpg" title="Screenshot da votação do Grêmio" >}}
 
 Ajax é muito power. Desenvolvendo com ele dá pra fazer umas coisas que antes eu nem imaginava… Agora tô estudando bastante JavaScript, porque com a parte de servidor/PHP não há problemas, mas nunca estudei muito o lado client-side (estudei tableless, mas não DOM/JavaScript!). Já li dois artigos do [Elcio][2], do Tableless.com.br: Um sobre [DHTML Crossbrowser][3] e outro que é o conhecido [Ajax para quem só ouviu falar][4]. Agora estou acabando o segundo artigo dele sobre Ajax, [Ajax: Encarando o Mundo Real][5]. O bom é que a sintaxe das coisas no JavaScript são bem parecidas com as do PHP…
 
@@ -33,7 +33,6 @@ Ajax é muito power. Desenvolvendo com ele dá pra fazer umas coisas que antes e
 
 Tenho lido umas coisas [desse cara][6] e tô achando muito bom. Sugiro que quem goste de software livre ou quem quer aprender mais sobre ele, leia os artigos também. :)
 
- [1]: http://www.flickr.com/photos/tiago/50181099/ "Ver screenshot no Flickr"
  [2]: http://www.elcio.com.br
  [3]: http://elcio.com.br/crossbrowser/
  [4]: http://www.tableless.com.br/ajaxdemo

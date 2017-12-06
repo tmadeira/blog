@@ -21,9 +21,8 @@ tags:
   - xdirectfb
 
 ---
-[
 
-<img src="https://i1.wp.com/static.flickr.com/26/44020730_e9246b13ef_o.png?w=604" alt="Resultado do Superprime Rib" data-recalc-dims="1" />][1]
+{{< figure src="https://farm1.staticflickr.com/26/44020730_e9246b13ef_o.png" title="Resultado do Superprime Rib" >}}
 
 Hoje, depois de umas férias de dois meses, resolvi um problema lógico do **USACO Training Gateway**: o **Superprime Rib** é um problema bem simples em que precisa-se determinar os primos de N dígitos (com N máximo = 8 ) que, tirando o último dígito, continuam sendo primos. A solução é trivial, uma função recursiva bastante simples que se auto-explica no meu código:
 

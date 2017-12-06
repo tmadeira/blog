@@ -29,5 +29,5 @@ Surpreendi-me porque, de fato, desde que entramos na matéria de _Probabilidade_
 
 Muito interessante. A probabilidade é uma área que eu desconhecia completamente (e discriminava em pensamento por andar sempre junto com _Estatística_), mas que é muito mais legal (em nível matemático) do que eu pensava.
 
-{{< figure src="https://i1.wp.com/farm4.static.flickr.com/3023/3249101355_bcf4aa50cb.jpg" title="Probability and Measure (crédito: John Morgan/Flickr)" >}}
+{{< figure src="https://farm4.static.flickr.com/3023/3249101355_bcf4aa50cb.jpg" title="Probability and Measure (crédito: John Morgan/Flickr)" >}}
 

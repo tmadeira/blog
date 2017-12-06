@@ -18,19 +18,16 @@ Finalmente de HD novo, já intalei WinXP e Slackware (aliás, coloquei umas foto
 
   * hda1 – 10gb, Linux ext3, Slackware
   * hda2 – 7,5gb, NTFS, Windows XP
-  * hda3 – 7,5gb, FAT32, Windows 98*
-  * hda5 – 5gb, Linux, **
+  * hda3 – 7,5gb, FAT32, Windows 98\*
+  * hda5 – 5gb, Linux, \*\*
   * hda6 – 1gb, Linux Swap
-  * hda7 – 5gb, FAT32, \***
-  * hda8 – 4gb, Linux ext3, homes\****
+  * hda7 – 5gb, FAT32, \*\*\*
+  * hda8 – 4gb, Linux ext3, homes\*\*\*\*
 
-* – Ainda não instalei o Windows 98 nela, mas farei-o em breve. “Por que você quer ter um Win98 aí?” Porque eu gosto do DOS e quero fazer uns testes lá.
-
-** – É uma partição que eu criei pra instalar outros sistemas para testar. O hda1 sempre vai ser alguma coisa mais estável, como esse Slackware que eu tô usando agora.
-
-\*\\*\* – Uma FAT para passar dados do NTFS para o Linux e vice-versa. “Por que não uso o do Win98?” Pelo mesmo motivo que eu separo o home do sistema (veja abaixo o \*\***)
-
-\**** – Resolvi deixar as Home fora dos sistemas, porque além de poder acessar das duas partições o mesmo home (os mesmos arquivos de configuração, por exemplo), quando eu quero formatar um sistema ou reinstalar, fico mais tranquilo.
+\* – Ainda não instalei o Windows 98 nela, mas farei-o em breve. “Por que você quer ter um Win98 aí?” Porque eu gosto do DOS e quero fazer uns testes lá.  
+\*\* – É uma partição que eu criei pra instalar outros sistemas para testar. O hda1 sempre vai ser alguma coisa mais estável, como esse Slackware que eu tô usando agora.  
+\*\*\* – Uma FAT para passar dados do NTFS para o Linux e vice-versa. “Por que não uso o do Win98?” Pelo mesmo motivo que eu separo o home do sistema (veja abaixo o \*\*\*\*)  
+\*\*\*\* – Resolvi deixar as Home fora dos sistemas, porque além de poder acessar das duas partições o mesmo home (os mesmos arquivos de configuração, por exemplo), quando eu quero formatar um sistema ou reinstalar, fico mais tranquilo.
 
 Ficou legal, né?
 

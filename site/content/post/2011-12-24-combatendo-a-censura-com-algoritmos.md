@@ -59,9 +59,7 @@ O objetivo desse exercício era convencer o leitor de que existe um problema te�
 
 Este texto foi publicado em inglês na última edição da [XRDS][4] (revista da ACM para estudantes), cujo [tema][5] é **Ciência da Computação a serviço da democracia**. No site do autor, há o [artigo “Fighting censorship with algorithms” completo em PDF][6] disponível para download gratuito. Ainda não li, mas parece interessante.
 
- [1]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/18.2_Mahdian_med.jpg
  [2]: http://dl.acm.org/citation.cfm?id=2043250
- [3]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2011/12/18.2_Cover_crop.jpg
  [4]: http://xrds.acm.org/
  [5]: http://xrds.acm.org/images/DLImages/18.2_Cover_crop.jpg
  [6]: http://www.mahdian.org/censorship.pdf

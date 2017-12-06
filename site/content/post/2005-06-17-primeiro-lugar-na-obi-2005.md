@@ -14,7 +14,7 @@ tags:
   - resultado
 
 ---
-[<img src="https://i0.wp.com/farm1.staticflickr.com/15/20324573_9a04423e14.jpg?resize=500%2C340&ssl=1" alt="Quadro de Mérito OBI2005 Programação Nível 1" data-recalc-dims="1" />][1]
+{{< figure src="https://farm1.staticflickr.com/15/20324573_9a04423e14.jpg" title="Quadro de Mérito OBI2005 Programação Nível 1" >}}
 
 Esse post é uma edição do **395 pontos!**
 
@@ -57,7 +57,8 @@ Este programa verifica quando o site é atualizado. Quando a música tocou, o na
 action=""
 logurl=""
 
-echo "compet_type=3&school_name=&school_city=&school_state=choose&compet_name=&order=compet_id&batch_size=10000&show=Consulta" | lynx -source -post-data "$action" > .t
+echo "compet_type=3&school_name=&school_city=&school_state=choose&compet_name=&order=compet_id&batch_size=10000&show=Consulta" \
+  | lynx -source -post-data "$action" > .t
 
 grep "MostraLog" .t > .t2 #sim, eu sei que não precisava de tantos arquivos
 
@@ -86,7 +87,6 @@ Este foi bastante modificado depois e fiz várias versões melhores dele para pe
   * [Escol@24Horas.com.br][4]
   * [Quadro de Mérito no site da OBI][5]
 
- [1]: http://www.flickr.com/photos/tiago/20324573/ "Quadro de Mérito OBI2005 Programação Nível 1 por Tiago Madeira, no Flickr"
  [2]: http://www.portalsalesianas.com.br/noticiasinst/noticias_fma292.asp
  [3]: http://www.dombosco.net/index.asp?SECAO=4&SUBSECAO=16&EDITORIA=379
  [4]: http://www4.escola24h.com.br/cf/patio/aco-popup.cfm?ac_codigo=43012&status=55505F5F46

@@ -17,7 +17,7 @@ tags:
   - Software Livre
 
 ---
-[<img src="https://i1.wp.com/static.flickr.com/33/40987282_8060b9dd63_m.jpg?w=604" alt="Sérgio Amadeu da Silveira" data-recalc-dims="1" />][1]
+{{< figure src="https://static.flickr.com/33/40987282_8060b9dd63_m.jpg" title="Sérgio Amadeu da Silveira" >}}
 
 A Istoé publicou uma [matéria sobre a saída de **Sérgio Amadeu** do ITI][2], com o nome [_“Nem tão livre assim”_][2].
 
@@ -31,17 +31,10 @@ Estou participando do Festival de Música de Itajaí e também do projeto Banho 
 
 Hoje meu grupo de choro tocou na Hora da Sineta. O show não foi muito bom, mas tudo bem… :D Também toquei na Sessão Cívica; essa apresentação foi um pouco melhor… Minhas aulas com o Michel Freidenson estão bem legais, embora ele esteja repetindo algumas coisas que eu já sei. Paralelamente, estou pegando o arranjo do Leandro Braga da música _Naquele Tempo_. É um choro bem legal do Pixinguinha e Benedito Lacerda, que no CD dele ficou bem interessante… Aliás, mandei um e-mail para ele pra ver se ele não escreveu a partitura.
 
-Depois de amanhã vai sair o primeiro beta do Firefox
+Depois de amanhã vai sair o primeiro beta do Firefox 1.5! :P
 
-1.5! :P
+<small>PS1: Agora eu estou sabendo de “todas as notícias” porque tô finalmente usando os feeds dos sites de notícias do mundo, de informática e até as notícias do São Paulo! E, olha… Vale a pena usar esses feeds XML… Facilitam bastante a vida!</small>
 
-<p style="font-size:11px; font-style:italic;">
-  PS1: Agora eu estou sabendo de “todas as notícias” porque tô finalmente usando os feeds dos sites de notícias do mundo, de informática e até as notícias do São Paulo! E, olha… Vale a pena usar esses feeds XML… Facilitam bastante a vida!
-</p>
+<small>PS2: Coloquei ali nos botões ao lado direito um botão do Opera. Cada vez que alguém clica eu ganho um ponto e juntando 250 pontos, eu ganho o registro dele… Bom… Eu não uso Opera, a não ser para testar os sites que eu faço, mas sempre quis vez um Opera registrado pra ver se ele é bom sem aquelas ads feias! Então, quem quiser colaborar que fique a vontade! Hehehe…</small>
 
-<p style="font-size:11px; font-style:italic;">
-  PS2: Coloquei ali nos botões ao lado direito um botão do Opera. Cada vez que alguém clica eu ganho um ponto e juntando 250 pontos, eu ganho o registro dele… Bom… Eu não uso Opera, a não ser para testar os sites que eu faço, mas sempre quis vez um Opera registrado pra ver se ele é bom sem aquelas ads feias! Então, quem quiser colaborar que fique a vontade! Hehehe…
-</p>
-
- [1]: http://www.flickr.com/photos/tiago/40987282/ "Sérgio Amadeu da Silveira"
  [2]: http://www.terra.com.br/istoe/1873/economia/1873_nem_tao_livre_assim.htm

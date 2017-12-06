@@ -55,7 +55,7 @@ Conseguir a desmatrícula na UFSC foi difícil. Eu devia um real para a bibliote
 
 No dia seguinte acordei cedo novamente e, após mais uma aula para calouros e a desmatrícula na UFSC, almocei com meus amigos na Pizza Hut. Logo depois do almoço “de despedida”, num sol de rachar, saí de casa com tudo que consegui e peguei um ônibus para Itajaí, de onde no mesmo dia partiria para São Paulo e para uma nova vida.
 
-{{< figure src="https://i2.wp.com/farm4.static.flickr.com/3331/3417439301_a9e9182374.jpg" title="São Paulo - Consolação (crédito: Jefferson Breves/flickr)" >}}
+{{< figure src="https://farm4.static.flickr.com/3331/3417439301_a9e9182374.jpg" title="São Paulo - Consolação (crédito: Jefferson Breves/flickr)" >}}
 
  [1]: http://www.fuvest.br/
  [3]: http://www.fuvest.br/vest2009/chamada4/62389409.stm

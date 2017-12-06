@@ -14,7 +14,7 @@ tags:
   - xdirectfb
 
 ---
-<span class="dirimg"><br /> <a href="http://www.flickr.com/photos/tiago/37710529/" title="Screenshot do XDirectFB e Wine"><img src="https://i2.wp.com/static.flickr.com/28/37710529_0e2c9ad60e_m.jpg?w=604" alt="Flash e transparencias XDirectFB" data-recalc-dims="1" /></a><br /> </span>
+{{< figure src="https://static.flickr.com/28/37710529_0e2c9ad60e_m.jpg" title="Flash e transparencias XDirectFB" >}}
 
 Por dica do **Paulo Matias** (um amigo que conheci no Curso de Programação da OBI deste ano), instalei um CVS do XDirectFB no meu Linux (_patchando_ o Xorg) e estou curtindo bastante! É um sistema bem rápido (mais rápido que o X normal) e que tem transparências nativas muito legais (e instantâneas). O site é [directfb.org][1] e para instalar só precisa do DirectFB e do XDirectFB (tem vários outros pacotes lá, mas que não servem para isso). Coloquei alguns screenshots no [Flickr][2]. :) O único ponto fraco do XDirectFB (talvez só a versão CVS) é que eu não consegui configurar o teclado (habilitando Xkb e fazendo tudo “direitinho”, o layout do meu teclado US internacional até funciona, mas aí as teclas direcionais param de funcionar!) e tem um bug um pouco esquisito… (aliás, não sei se é um bug ou eles fazem isso por querer): Quando iniciamos uma seção (startx/xinit) ele continua no console 1 e precisamos dar um CTRL+ALT+F7 para ir para o modo gráfico que ele está abrindo… :blink:
 

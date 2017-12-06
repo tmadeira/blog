@@ -18,7 +18,7 @@ tags:
   - vigilância
 
 ---
-{{< figure src="https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2016/12/citizenfour.jpg" title="Cartaz do filme Citizenfour." >}}
+{{< figure src="/wp-content/uploads/2016/12/citizenfour.jpg" title="Cartaz do filme Citizenfour." >}}
 
 Citizenfour, o filme de Laura Poitras sobre Edward Snowden, ganhou o Oscar de melhor documentário de 2014. O filme é um registro cuidadoso de tudo o que aconteceu desde que Laura recebeu um e-mail anônimo pedindo que ela usasse criptografia, passando pela viagem a Hong Kong para encontrar seu interlocutor junto com o jornalista Glenn Greenwald, até a repercussão dos vazamentos nos jornais de todo o mundo.
 

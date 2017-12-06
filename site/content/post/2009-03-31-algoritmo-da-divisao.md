@@ -20,4 +20,4 @@ _Naquela época as pessoas não usavam roupas. Roupas eram caras, era privilégi
 
 A turma do Bacharelado em Matemática Pura, assustada, fingiu que não ouviu. E de repente percebeu pela primeira vez que é compreensível o povo achar que matemática é coisa de gente maluca…
 
-{{< figure src="https://i2.wp.com/farm4.static.flickr.com/3080/2298566624_cf7fd661a6.jpg" title="Quadro (crédito: bourgeoisbee/Flickr)" >}}
+{{< figure src="https://farm4.static.flickr.com/3080/2298566624_cf7fd661a6.jpg" title="Quadro (crédito: bourgeoisbee/Flickr)" >}}

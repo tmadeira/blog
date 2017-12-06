@@ -415,55 +415,43 @@ E os arquivos que usam essas funções e classes...
 
 ```php
 <?php
-	$artigosporpagina=10; //Artigos Por Página
-	$p=($_GET["pg"])?$_GET["pg"]:1; //Página Atual
+  $artigosporpagina=10; //Artigos Por Página
+  $p=($_GET["pg"])?$_GET["pg"]:1; //Página Atual
 
-	$mysql=new MySql();
-	$mysql->conecta();
-	$query=mysql_query("SELECT count(id) FROM artigos");
-	$row=mysql_fetch_row($query);
-	$np=ceil($row[0]/$artigosporpagina);
-	$mysql->desconecta();
+  $mysql=new MySql();
+  $mysql->conecta();
+  $query=mysql_query("SELECT count(id) FROM artigos");
+  $row=mysql_fetch_row($query);
+  $np=ceil($row[0]/$artigosporpagina);
+  $mysql->desconecta();
 
-	$paginacao="";
-	for ($i=1; $i<=$np; $i++) {
-		$paginacao.="<a href="/artigos/$i"";
-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001
-		if ($i==$p) $paginacao.=" style="font-weight:bold; color:#c00;"";
-		$paginacao.=">$i</a> ";
-	}
-	$paginacao="nn
+  $paginacao="";
+  for ($i=1; $i<=$np; $i++) {
+    $paginacao.="<a href="/artigos/$i"";
+    if ($i==$p) $paginacao.=" style="font-weight:bold; color:#c00;"";
+    $paginacao.=">$i</a> ";
+  }
+  $paginacao="\n\n<p style=\"text-align:center;\"><span style=\"color:#aaa; font-size:11px;\">";
+  $paginacao.="Ir para página:</span> $paginacao</p>\n\n";
 
-<p style="text-align:center;">
-  <span style="color:#aaa; font-size:11px;">Ir para página:</span> $paginacao
-</p>nn";
+  echo $paginacao;
 
-	echo $paginacao;
-
-	$artigos=new Artigos($artigosporpagina, ($p-1)*$artigosporpagina);
-	echo " <ul>
-  n";
-  	for ($i=0; $i<count($artigos->id); $i++) {
-  		echo "
-
-  <li>
-    <a href="/post/{$artigos-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>permalink[$i]}">{$artigos->titulo[$i]}</a><br />";
-    		echo "<small>{$artigos->data[$i]} ";
-    		echo "<a class="comentarios" href="/post/{$artigos-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>permalink[$i]}#comentarios">{$artigos->comentarios[$i]} comentário(s)</a>";
-    		if ($_SESSION["tiagomadeira"]) {
-    			echo " <a href="/admin-edita&id={$artigos-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>id[$i]}">[editar]</a>";
-    			echo " <a href="/admin-exclui&id={$artigos-?PHPSESSID=9ec34c96b02b3755051aa682d1e02001>id[$i]}">[excluir]</a>";
-    		}
-    		echo "</small>
-  </li>n";
-  	}
-  	echo "
-</ul>n";
-
-	echo $paginacao;
+  $artigos=new Artigos($artigosporpagina, ($p-1)*$artigosporpagina);
+  echo " <ul>\n";
+  for ($i=0; $i<count($artigos->id); $i++) {
+      echo "<li><a href=\"{$artigos->permalink[$i]}\">{$artigos->titulo[$i]}</a><br />";
+      echo "<small>{$artigos->data[$i]} ";
+      echo "<a class=\"comentarios\" href=\"/post/{$artigos->permalink[$i]}#comentarios\">{$artigos->comentarios[$i]} comentário(s)</a>";
+      if ($_SESSION["tiagomadeira"]) {
+        echo " <a href="/admin-edita&id={$artigos->id[$i]}">[editar]</a>";
+        echo " <a href="/admin-exclui&id={$artigos->id[$i]}">[excluir]</a>";
+      }
+      echo "</small></li>\n";
+  }
+  echo "</ul>n";
+  echo $paginacao;
 ?>
 ```
-
 
 #### / (ou /ultimos)
 

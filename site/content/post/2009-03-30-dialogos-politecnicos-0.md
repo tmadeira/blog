@@ -20,5 +20,5 @@ Dois futuros engenheiros estavam estudando para a primeira prova de Cálculo I:
 
 — Isso é fácil. — responde o segundo, cheio de moral — A função é limitada quando ela tem limite.
 
-{{< figure src="https://i0.wp.com/farm4.static.flickr.com/3427/3393259139_c621008ec1.jpg" title="Criança estudando com o pai" >}}
+{{< figure src="https://farm4.static.flickr.com/3427/3393259139_c621008ec1.jpg" title="Criança estudando com o pai" >}}
 

@@ -22,7 +22,7 @@ Acordei às 06:30. Às terças eu tenho aula de Álgebra ás 08:00 e não queria
 
 Porém, observei que as salas estavam fechadas e não havia alunos. Vi apenas seguranças, moças da limpeza e um ou outro professor. Perguntei para um segurança _what the hell_ estava havendo. Ele informou que não tem aula na Semana Santa.
 
-{{< figure src="https://i2.wp.com/farm4.static.flickr.com/3605/3420324215_28dc645ab4.jpg" title="Jesus on the Cross (crédito: DNQA/Flickr)" >}}
+{{< figure src="https://farm4.static.flickr.com/3605/3420324215_28dc645ab4.jpg" title="Jesus on the Cross (crédito: DNQA/Flickr)" >}}
 
 Lembrei-me que tinha ouvido algo sobre a Semana Santa na semana passada, mas não dei muita atenção. Acho que meu cérebro ignorou porque não viu sentido em emendar uma semana inteira por causa de um feriado na sexta. Pensei que deveria ter ido mais nas aulas semana passada que algum professor teria avisado. Mas tudo bem. Porque notei que felizmente a biblioteca estava aberta, logo minha ida ao IME não teria sido em vão.
 
@@ -50,7 +50,7 @@ Há ao menos duas maneiras de ir andando do IME pra minha casa. A primeira é o 
 
 Após três quilômetros e uns 30 minutos, cheguei (cansado) aqui (e, é claro, no meio do caminho outro circular passou por mim). Uma hora decididamente inútil. Acho que foi o meu trote.
 
-{{< figure src="https://i0.wp.com/farm4.static.flickr.com/3466/3267278675_6aceaa1994.jpg" title="Ok, menos, também não foi tão ruim quanto o dele (crédito: FADB/Flickr)" >}}
+{{< figure src="https://farm4.static.flickr.com/3466/3267278675_6aceaa1994.jpg" title="Ok, menos, também não foi tão ruim quanto o dele (crédito: FADB/Flickr)" >}}
 
 Ao menos nunca mais me esquecerei que na USP não tem aula na Semana Santa.
 

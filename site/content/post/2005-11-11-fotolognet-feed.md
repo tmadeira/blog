@@ -22,8 +22,6 @@ tags:
 
 Não sei se isso já não existe; Não sei se ninguém nunca sentiu falta. Afim de valorizar [feeds][2] [RSS][3] e acompanhar **fotos** de amigos, resolvi criar um feed para [fotologs][4] do [Fotolog.net][5].
 
-<span class="esqimg"><a href="http://www.flickr.com/photos/tiago/62188052/" title="Screenshot no Flickr"><img src="https://i0.wp.com/static.flickr.com/28/62188052_1cbb645929_m.jpg?w=604" alt="Fotolog.net Feed" data-recalc-dims="1" /></a></span>
-
 Eu disponibilizei o código aqui: [ff.phps][6] mas o script para uso coloquei no _“meu servidor super-poderoso” na UNICAMP_: [ff.php][7], por um motivo óbvio: **economia de banda**. Só que os caras da UNICAMP devem excluir o meu usuário algum dia, por isso sugiro que você pegue o código e coloque no seu servidor. Só precisa ter **fopen_wrappers** (quem que já programou em PHP e nunca viu aquela mensagem no manual: _Tip: You can use a URL as a filename with this function if the fopen wrappers have been enabled_? :D )
 
 Hmmm… Talvez esse código tenha algum bug. Não sei o porquê de nenhum dos meus feeds funcionarem no [Google Reader][8]. Quem tiver afim de corrigir, me manda o novo arquivo que arrumarei com enorme satisfação (e aproveita pra me ensinar onde foi que eu errei!). Além disso, tenho dúvidas sobre se a foto pode ser aberta de fora do Fotolog.net. No [Bloglines][9], só consegui visualizar as fotos que eu já tinha no cache do navegador. Pra mim isso não faz muita diferença, já que eu gosto de feeds na barra de favoritos do [Firefox][10].

@@ -18,5 +18,5 @@ tags:
 
 — É verdade, não dá nem pra usar regra da cadeia!
 
-{{< figure src="https://i2.wp.com/farm4.static.flickr.com/3049/3051132930_c5630f3659.jpg" title="Dor e sofrimento (crédito: austins_irish_pirate/Flickr)" >}}
+{{< figure src="https://farm4.static.flickr.com/3049/3051132930_c5630f3659.jpg" title="Dor e sofrimento (crédito: austins_irish_pirate/Flickr)" >}}
 

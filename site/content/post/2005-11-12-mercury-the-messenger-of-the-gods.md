@@ -18,11 +18,7 @@ Continuando com os programas para imigrantes (mas não só pra eles), aí está 
 
 Conheci hoje um cliente para a rede do [MSN Messenger][1] chamado [Mercury][2]. Foi feito em [Java][3], é multi-plataforma e tem **todas** as funcionalidades do cliente proprietário da [Microsoft][4].
 
-<span class="dirimg"><a href="http://www.flickr.com/photos/tiago/62614080/" title="Janela de Conversa no Flickr"><img src="https://i0.wp.com/static.flickr.com/32/62614080_74e52bb62e_m.jpg?w=604" alt="Janela de Conversa no Mercury" data-recalc-dims="1" /></a></span>
-
 O cliente [permite que você use winks, emoticons personalizados, mensagens particulares, webcam, “o que você está ouvindo” na mensagem particular, etc e ainda uma série de exclusividades, como a personalização da lista de contatos (usando HTML), mensagem de away, saber quem te excluiu da lista, skins, plugins, aliases (apelidos), conversação em abas e vários outros frufrus][5].
-
-<span class="esqimg"><a href="http://www.flickr.com/photos/tiago/62614082/" title="Photo Sharing"><img src="https://i2.wp.com/static.flickr.com/26/62614082_0ecb10e1ae_m.jpg?w=604" alt="Lista de Contatos no Mercury" data-recalc-dims="1" /></a></span>
 
 Descobri ele quando meu irmão estava tendo problemas com o aMSN CVS no desktop de casa e fiquei de boca aberta. Como é que eu não conhecia isso antes?
 

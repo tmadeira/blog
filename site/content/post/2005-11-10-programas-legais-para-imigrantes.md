@@ -22,11 +22,7 @@ tags:
 ---
 Esta semana testei dois programas bastante interessantes principalmente para quem está migrando do Windows. São eles: [AmaroK][1] e [aMSN CVS][2] (o aMSN estável eu já tinha usado, só que esse tá bem mais legal). Me senti na obrigação de fazer propaganda desses dois excelentes programas (softwares livres) que eu conheci…
 
-<span class="esqimg"><a href="http://www.flickr.com/photos/tiago/61969356/" title="AmaroK no Flickr"><img src="https://i2.wp.com/static.flickr.com/31/61969356_3ebf527060_m.jpg?w=604" alt="AmaroK tocando Chico Buarque" data-recalc-dims="1" /></a></span>
-
 O AmaroK é uma espécie de [iTunes][3] rodando em [Qt][4]. Tem vários recursos interessantes e organiza a biblioteca de várias maneiras interessantes. É leve e, mesmo não tendo recursos como as _“Smart Playlists”_ e baixar podcasts de feeds RSS é bem legal. Uma excelente idéia pra quem usa Linux! E com certeza é bem melhor que o [Windows Media Player][5] (para player, tem recursos semelhantes, e é bem mais leve).
-
-<span class="dirimg"><a href="http://www.flickr.com/photos/tiago/61972944/" title="aMSN CVS no Flickr"><img src="https://i2.wp.com/static.flickr.com/33/61972944_3fc8552209_m.jpg?w=604" alt="aMSN CVS rulez!" data-recalc-dims="1" /></a></span>
 
 O **aMSN** está também em constante evolução. Há algum tempo, ele era uma coisa bem limitada em relação ao [MSN Messenger][6] da [Microsoft][7], mas agora já conta com vários recursos legais como _webcams_ (talvez o recurso mais interessante), _pedidos de atenção_, _emoticons personalizados_ e tem recursos que o próprio mensageiro da Microsoft não tem, como: _nome usado apenas na conversa_, _estados personalizados_, _saber na lista de quem você está e na de quem você não está_, _saber quando o usuário abre/fecha a janela_, _usar quebras de linha no nome_, _pegar avatar de seus amigos_, _vários skins_, _plugins adicionais_, além de ser **software livre** e você poder modificar o que você quiser!
 

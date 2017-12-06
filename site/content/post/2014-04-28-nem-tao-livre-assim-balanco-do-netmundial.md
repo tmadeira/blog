@@ -88,15 +88,11 @@ Segue o manifesto que apresentamos na ArenaNETmundial (em português e inglês).
 <small>Publicado originalmente no <a href="https://juntos.org.br/2014/04/nem-tao-livre-assim-balanco-do-netmundial/">Juntos</a>.</small>
 
  [1]: http://www.istoe.com.br/reportagens/detalhePrint.htm?idReportagem=10069&txPrint=completo
- [2]: https://i0.wp.com/tiagomadeira.com/wp-content/uploads/2016/12/Dilma-na-net-SÉRGIO-CASTRO-ESTADÃO-CONTEÚDO.jpg?ssl=1
  [3]: http://www.huffingtonpost.com/jeanchristophe-nothias/for-more-internet-and-mor_b_5175698.html?ncid=txtlnkusaolp00000592
  [4]: http://juntos.org.br/2014/03/pela-aprovacao-do-marco-civil-da-internet-com-o-principio-da-neutralidade/
  [5]: http://juntos.org.br/2014/03/um-passo-a-frente-na-disputa-pela-internet/
  [6]: http://www.camara.gov.br/proposicoesWeb/prop_mostrarintegra?codteor=1238705&filename=Tramitacao-PL+2126/2011
  [7]: https://netmundial.net/
- [8]: https://i1.wp.com/tiagomadeira.com/wp-content/uploads/2016/12/10287734_782706865087932_1883987884_o.jpg?ssl=1
  [9]: http://juntos.org.br/2014/04/natalia-viana-nao-falar-sobre-asilo-a-snowden-e-como-nao-ver-o-elefante-branco-na-sala/
  [10]: http://netmundial.br/wp-content/uploads/2014/04/NETmundial-Multistakeholder-Document.pdf
  [11]: http://www.wired.co.uk/news/archive/2014-04/28/internet-diplomacy-netmundial
- [12]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2016/12/10287994_782706868421265_441593671_o.jpg?ssl=1
- [13]: https://i2.wp.com/tiagomadeira.com/wp-content/uploads/2016/12/1622553_10202982212175072_1296402295_o-1.jpg?ssl=1

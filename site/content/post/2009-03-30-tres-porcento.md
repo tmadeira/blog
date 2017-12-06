@@ -18,4 +18,4 @@ _As estatísticas mostram que apenas 3% de vocês vai aproveitar este curso. Ah,
 
 Fica a dica: Se você leciona ou for lecionar um dia e não aguentar a turma, esqueça os 97% e concentre-se em dar uma boa aula para os 3%. Você pode não vê-los, mas eles estão lá.
 
-{{< figure src="https://i2.wp.com/farm4.static.flickr.com/3387/3177438373_b2ca42713f.jpg" title="Mesa do professor numa sala de aula (crédito: bjmcdonald/Flickr)" >}}
+{{< figure src="https://farm4.static.flickr.com/3387/3177438373_b2ca42713f.jpg" title="Mesa do professor numa sala de aula (crédito: bjmcdonald/Flickr)" >}}

@@ -37,5 +37,5 @@ Ahh.. E idéias são mais que bem-vindas.
  [3]: http://www.br-linux.org/
  [4]: http://olimpiada.ic.unicamp.br
  [5]: /wp-content/uploads/c/
- [6]: /categories/algoritmos/
+ [6]: /tags/algoritmos/
 

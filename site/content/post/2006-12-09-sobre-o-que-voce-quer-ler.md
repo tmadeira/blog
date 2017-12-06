@@ -26,7 +26,7 @@ _Filosofia e temas aleatórios_ não interessam muito, mas eu estou escrevendo u
 
 [Veja aqui o resultado parcial][4]
 
- [1]: /categories/algoritmos/
+ [1]: /tags/algoritmos/
  [2]: http://www.bloglines.com/public/tmadeira
  [3]: http://malvicioso.com/
  [4]: http://www.enquetes.com.br/enquete.asp?id=704785&origem=http://tiagomadeira.net

@@ -53,5 +53,5 @@ Tenho estudado bastante matemática e física… pras olimpíadas, pro vestibula
 De qualquer maneira, a pausa foi boa para uma reflexão pessoal e político-filosófica. Essas mudanças meus leitores provavelmente perceberão nos próximos artigos [ou talvez não].
 
  [1]: http://olimpiada.ic.unicamp.br/
- [2]: /categories/algoritmos/
+ [2]: /tags/algoritmos/
 

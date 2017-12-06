@@ -15,5 +15,5 @@ tags:
 
  [1]: /
  [2]: http://malvicioso.com/
- [3]: /categories/algoritmos/
+ [3]: /tags/algoritmos/
 

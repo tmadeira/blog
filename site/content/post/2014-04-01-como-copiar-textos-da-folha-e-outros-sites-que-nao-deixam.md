@@ -105,10 +105,10 @@ Viva a Internet!
 
  [1]: http://bavotasan.com/2010/add-a-copyright-notice-to-copied-text/
  [2]: http://desculpeanossafalha.com.br/
- [3]: http://tiagomadeira.com/2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
+ [3]: /2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
  [4]: http://rodomundo.juntos.org.br/
  [5]: http://addons.mozilla.org/en-us/firefox/addon/nocopypaste/
  [6]: https://addons.opera.com/en-gb/extensions/details/clipboard-event-blocker/?display=en
  [7]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
  [8]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
- [9]: http://tiagomadeira.com/wp-content/uploads/2014/04/falha.user.js
+ [9]: /wp-content/uploads/2014/04/falha.user.js

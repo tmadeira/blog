@@ -60,12 +60,12 @@ echo "-> Pronto: '${title}.pdf'"
 
 O script requer Bash, wget, GhostScript e ImageMagick. A maioria das distribuições de Linux já tem esses aplicativos, mas por via das dúvidas cheque se você tem o ImageMagick instalado.
 
-**Download do script:** <a href="http://tiagomadeira.com/wp-content/uploads/2014/09/issuu_download.sh">issuu_download.sh</a> (932 bytes)
+**Download do script:** <a href="/wp-content/uploads/2014/09/issuu_download.sh">issuu_download.sh</a> (932 bytes)
 
 Para instalar, é só baixar o arquivo, torná-lo executável e movê-lo para alguma pasta do seu $PATH:
 
 ```bash
-$ wget http://tiagomadeira.com/wp-content/uploads/2014/09/issuu_download.sh
+$ wget https://tiagomadeira.com/wp-content/uploads/2014/09/issuu_download.sh
 $ chmod +x issuu_download.sh
 $ sudo mv issuu_download.sh /bin
 ```

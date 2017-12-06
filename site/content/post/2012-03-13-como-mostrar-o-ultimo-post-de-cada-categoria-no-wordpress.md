@@ -158,7 +158,7 @@ Acho que as relações necessárias já ficaram explícitas na query que eu escr
 {{< figure src="/wp-content/uploads/2012/03/WP3.0-ERD1.png" title="Diagrama do banco de dados do WordPress" >}}
 
  [1]: http://wordpress.org/
- [2]: http://tiagomadeira.com/2012/01/retrospective/
+ [2]: /2012/01/retrospective/
  [3]: http://w3techs.com/technologies/overview/content_management/all
  [4]: http://www.pblog.com.br/2007/12/03/camisas-do-wordpress-de-graca-quem-vai-querer/
  [5]: https://codex.wordpress.org/Function_Reference/get_categories

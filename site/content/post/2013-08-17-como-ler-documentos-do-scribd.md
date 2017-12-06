@@ -47,8 +47,8 @@ Para usar, é só instalar o Greasemonkey no Firefox e depois [baixar o userscri
  [1]: http://www.violao.org/topic/6896-songbook-a-musica-de-guinga/
  [2]: https://torrentz.eu/efd777a6a64d1dd7e53f358e388a6409925f5af6
  [3]: http://pt.scribd.com/doc/47928303/Songbook-A-Musica-de-Guinga
- [4]: http://tiagomadeira.com/2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
+ [4]: /2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
  [6]: http://jquery.com/
  [7]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
- [8]: http://tiagomadeira.com/wp-content/uploads/2013/08/scribd.user.js
+ [8]: /wp-content/uploads/2013/08/scribd.user.js
 

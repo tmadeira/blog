@@ -50,10 +50,10 @@ Posts promovidos podem parecer pequenos detalhes sem importância. Porém, pensa
  [2]: http://arstechnica.com/business/2012/11/is-facebook-broken-on-purpose-to-sell-promoted-posts/
  [3]: http://www.slate.com/blogs/future_tense/2012/10/03/facebook_promoted_posts_pay_7_to_make_sure_friends_see_your_status_update_.html
  [4]: http://rapidinhas.kauekgg.com.br/post/35699387981/promoted-posts-usuarios
- [6]: http://tiagomadeira.com/2006/01/algoritmos-o-que-e-um-algoritmo/
+ [6]: /2006/01/algoritmos-o-que-e-um-algoritmo/
  [7]: http://www.marketingdigitalblog.com/como-funciona-o-edgerank-do-facebook
  [8]: http://whatisedgerank.com/
  [9]: http://techcrunch.com/2012/02/29/facebook-post-reach-16-friends/
  [10]: http://newsroom.fb.com/News/Testing-Promoted-Posts-for-People-in-the-U-S-1c6.aspx
- [11]: http://tiagomadeira.com/2012/10/escreva-um-blog-e-compartilhe-suas-ideias/
+ [11]: /2012/10/escreva-um-blog-e-compartilhe-suas-ideias/
 

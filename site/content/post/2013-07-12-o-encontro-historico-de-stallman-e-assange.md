@@ -49,6 +49,6 @@ Por isso o encontro de Assange com Stallman é tão importante. Mais do que o en
  [2]: http://www.fsf.org/
  [3]: http://wikileaks.org/
  [4]: http://collateralmurder.com/
- [5]: http://tiagomadeira.com/2013/07/como-a-criptografia-e-uma-arma-fundamental-na-luta-contra-os-estados-do-imperio/
+ [5]: /2013/07/como-a-criptografia-e-uma-arma-fundamental-na-luta-contra-os-estados-do-imperio/
  [6]: https://twitter.com/wikileaks/status/355511749530759168
 

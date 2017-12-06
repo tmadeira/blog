@@ -30,6 +30,6 @@ Achava-se que quando a água chegasse na bunda as pessoas começariam a cuidar d
 ([Nietzsche][3])
 
  [1]: http://noticias.terra.com.br/ciencia/interna/0,,OI1374877-EI299,00.html
- [2]: http://tiagomadeira.com/2007/01/gollum-gollum/
+ [2]: /2007/01/gollum-gollum/
  [3]: http://pt.wikipedia.org/wiki/Nietzsche
 

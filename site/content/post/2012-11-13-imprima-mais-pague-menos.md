@@ -205,4 +205,4 @@ O gráfico monótono (e bonito) comprova:
 
 {{< figure src="/wp-content/uploads/2012/11/grafico6.png" title="Gráfico final (monótono)" >}}
 
- [1]: http://tiagomadeira.com/2012/10/o-predio-e-as-bolas/
+ [1]: /2012/10/o-predio-e-as-bolas/

@@ -112,5 +112,5 @@ O Paulo Matias (Thotypous) me convidou para fazer parte da equipe de desenvolvim
 Dia 24 é a segunda fase da **Olimpíada Regional de Matemática**. Essa semana fiz a folhinha de treinamento e dos seis problemas, consegui fazer cinco (na verdade, alguns problemas - ou todos - eram repetidos do ano anterior e por isso fica mais fácil, porque eu já lembrava o caminho).
 
  [1]: http://www.flickr.com/photos/tiago/44020730/ "Resultado do Problema"
- [2]: http://tiagomadeira.com/2005/08/linux-xdirectfb-e-wine/
+ [2]: /2005/08/linux-xdirectfb-e-wine/
 

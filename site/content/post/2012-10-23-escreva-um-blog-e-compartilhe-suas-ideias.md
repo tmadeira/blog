@@ -49,7 +49,7 @@ Tenho uma rede de amigos que escreve coisas muito legais nas redes sociais. Deba
 
 Tem um blog? Compartilhe um link dele nos comentários.
 
- [1]: http://tiagomadeira.com/2011/08/em-defesa-dos-pseudonimos/
+ [1]: /2011/08/em-defesa-dos-pseudonimos/
  [2]: http://juntos.org.br/2011/04/o-que-aprendemos-com-o-wikileaks/
  [3]: http://juntos.org.br/2012/08/assange-livre/
  [4]: http://juntos.org.br/2012/01/nao-a-lei-sopa/

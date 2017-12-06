@@ -48,5 +48,5 @@ Esse controle de acesso à internet é ridículo. A internet é o que é porque 
  [4]: http://video.google.com/videosearch?q=cicarelli
  [5]: /2007/01/como-entrar-no-youtube/
  [6]: http://www.ataliba.eti.br/?section=blog&op=view&idBlog=470
- [7]: http://tiagomadeira.com/2006/10/defective-by-design/
+ [7]: /2006/10/defective-by-design/
 

@@ -42,8 +42,8 @@ Estou inaugurando este blog com textos dos últimos oito anos, ou seja, que regi
 
 Acabei motivado a continuar escrevendo aqui para contar o que ando pensando e para que no futuro eu continue me divertindo com meus velhos projetos. Ansioso para ver se a motivação vai vingar.
 
- [1]: http://tiagomadeira.com/2005/06/novo-site/
- [2]: http://tiagomadeira.com/2006/01/algoritmos-o-que-e-um-algoritmo/
- [3]: http://tiagomadeira.com/2009/02/conteudo-perdido/
- [4]: http://tiagomadeira.com/2009/03/sobre-o-blog/
+ [1]: /2005/06/novo-site/
+ [2]: /2006/01/algoritmos-o-que-e-um-algoritmo/
+ [3]: /2009/02/conteudo-perdido/
+ [4]: /2009/03/sobre-o-blog/
 

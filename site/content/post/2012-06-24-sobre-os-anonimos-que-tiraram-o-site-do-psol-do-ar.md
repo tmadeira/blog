@@ -48,5 +48,5 @@ _(e um abraço a todos que me mandaram mensagens me xingando por eu ter cometido
  [2]: http://juntos.org.br/
  [3]: http://jornalismob.com/
  [4]: http://tsavkko.com.br/
- [5]: http://tiagomadeira.com/wp-content/uploads/2012/06/548895_3657547996118_1909347703_o.jpg
+ [5]: /wp-content/uploads/2012/06/548895_3657547996118_1909347703_o.jpg
  [6]: http://twitter.com/PSOLMESDF

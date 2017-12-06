@@ -33,6 +33,6 @@ Que situação ridícula. Sinto-me como se estivesse proclamando: _“Burgueses 
  [1]: http://blog.brunomadeira.com/vou-te-espancar-mano
  [2]: http://malvicioso.com/2007/02/20/nao-saia-de-casa/
  [3]: http://novo-mundo.org/log/
- [4]: http://tiagomadeira.com/2007/02/20/nao-saia-de-casa/#comment-471
+ [4]: /2007/02/20/nao-saia-de-casa/#comment-471
  [5]: http://www.secondlife.com/
 

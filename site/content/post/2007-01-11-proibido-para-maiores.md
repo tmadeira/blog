@@ -29,6 +29,6 @@ O **Mal Vicioso** não tem distinção de idade, porque nós não gostamos de xi
 
 Se não abandonar, você _há de viver eternamente sendo escravo dessa gente que cultiva a hipocrisia_.
 
- [1]: http://tiagomadeira.com/2006/12/maieutica/
+ [1]: /2006/12/maieutica/
  [2]: http://pt.wikipedia.org/wiki/Peter_Pan
 

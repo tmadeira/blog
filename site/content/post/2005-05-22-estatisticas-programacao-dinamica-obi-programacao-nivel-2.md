@@ -267,4 +267,4 @@ int main() {
 
 Saiu o gabarito da iniciação... Meu irmão, Lucas, acertou 14 no nível de quintas e sextas séries (ele tá na quinta) e ganhou **Menção Honrosa**. E o nosso, não vai sair não?
 
- [1]: http://tiagomadeira.com/2005/04/desafios-logicos-e-sites/
+ [1]: /2005/04/desafios-logicos-e-sites/

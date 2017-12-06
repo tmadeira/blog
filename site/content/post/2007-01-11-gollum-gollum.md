@@ -47,8 +47,8 @@ Independente da opinião da ONU, das ONGs, de toda a diplomacia mundial, Bush de
  [2]: http://pt.wikipedia.org/wiki/Conven%C3%A7%C3%A3o_de_Genebra
  [3]: http://www.bloomberg.com/apps/news?pid=20601087&sid=ad0o2Ib7CN7Q
  [4]: http://http://pt.wikipedia.org/wiki/Um_Anel
- [5]: http://tiagomadeira.com/2006/12/progresso-irracional/
- [6]: http://tiagomadeira.com/2006/12/fronteiras-mercados-enfim-globalizacao/
- [7]: http://tiagomadeira.com/2006/12/reserva-moral-da-nacao/
- [8]: http://tiagomadeira.com/2006/12/a-necessidade-de-ter-dinheiro/
+ [5]: /2006/12/progresso-irracional/
+ [6]: /2006/12/fronteiras-mercados-enfim-globalizacao/
+ [7]: /2006/12/reserva-moral-da-nacao/
+ [8]: /2006/12/a-necessidade-de-ter-dinheiro/
 

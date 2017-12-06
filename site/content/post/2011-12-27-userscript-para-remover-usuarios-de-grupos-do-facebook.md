@@ -66,7 +66,7 @@ Sem mais enrolação, eis aqui **o código** para (des-)apreciação e aprimoram
 Ou o **link direto para download (ou instalação no GreaseMonkey)**:
 
 <p style="text-align:center; font-size:1.4em;">
-  <a href="http://tiagomadeira.com/wp-content/uploads/2011/12/fb.group.remove.user.js">fb.group.remove.user.js</a> (1.08kb)
+  <a href="/wp-content/uploads/2011/12/fb.group.remove.user.js">fb.group.remove.user.js</a> (1.08kb)
 </p>
 
  [1]: http://www.greasespot.net/

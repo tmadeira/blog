@@ -28,5 +28,5 @@ Não vejo nossos políticos como pessoas de coragem, nem a nossa esquerda como e
 
 Por isso, o que resta ao povo fazer é apenas dizer: [yankee imperialist go home!][1]
 
- [1]: http://tiagomadeira.com/2007/02/yankee-imperialist-go-home/
+ [1]: /2007/02/yankee-imperialist-go-home/
 

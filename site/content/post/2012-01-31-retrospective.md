@@ -136,10 +136,10 @@ I hope you enjoy it. Have fun and please let me have your feedback! :)
 
  [1]: https://wordpress.org/extend/plugins/add/
  [2]: https://wordpress.org/extend/plugins/retrospective/
- [3]: http://tiagomadeira.com/wp-content/uploads/2012/01/estadao.jpg
+ [3]: /wp-content/uploads/2012/01/estadao.jpg
  [4]: http://www.estadao.com.br/especiais/choque-nas-ruas,158638.htm
  [5]: http://php.net/date
  [6]: http://juntos.org.br/juntos/internet/
  [7]: https://codex.wordpress.org/Function_Reference/add_image_size
- [8]: http://tiagomadeira.com/wp-content/uploads/2012/01/retrospective.zip
+ [8]: /wp-content/uploads/2012/01/retrospective.zip
 

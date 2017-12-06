@@ -108,5 +108,5 @@ Qual é a solução? Um comunismo? Não sei, acho que não, mas também não ten
 
  [1]: http://pt.wikipedia.org/wiki/Chico_Buarque
  [2]: http://www.marxists.org/portugues/marx/1847/11/principios-comunismo-oe.htm
- [3]: http://tiagomadeira.com/2006/12/a-necessidade-de-ter-dinheiro/
+ [3]: /2006/12/a-necessidade-de-ter-dinheiro/
  [4]: http://pt.wikipedia.org/wiki/Hakim_Bey

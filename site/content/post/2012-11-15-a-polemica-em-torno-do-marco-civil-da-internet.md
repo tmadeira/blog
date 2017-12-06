@@ -46,5 +46,5 @@ Sem consenso sobre esses pontos (ainda bem), a votação do Marco Civil já foi 
  [1]: http://juntos.org.br/2012/01/nao-a-lei-sopa/
  [5]: https://imo.im/
  [6]: https://pt.wikipedia.org/wiki/Neutralidade_da_rede
- [7]: http://tiagomadeira.com/2005/09/nem-tao-livre-assim/
+ [7]: /2005/09/nem-tao-livre-assim/
 

@@ -28,8 +28,8 @@ No [Brasil inteiro][6], canta-se e dança-se o samba. O samba nasceu aqui na Bah
 
 É possível viver sem nada dessa cultura estrangeira, da mesma maneira que é possível também viver sem a nossa. É importante preservar a nossa cultura? Até que ponto a globalização é boa para nós?
 
- [1]: http://tiagomadeira.com/2006/12/progresso-irracional/
- [2]: http://tiagomadeira.com/2006/12/fronteiras-mercados-enfim-globalizacao/
+ [1]: /2006/12/progresso-irracional/
+ [2]: /2006/12/fronteiras-mercados-enfim-globalizacao/
  [3]: http://malvicioso.com/2006/12/barbien-burca/
  [4]: http://malvicioso.com/2006/12/24/diferenca-cultural/
  [5]: http://malvicioso.com/2006/12/a-necessidade-de-ter-dinheiro/

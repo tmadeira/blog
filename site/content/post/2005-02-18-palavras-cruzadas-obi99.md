@@ -146,4 +146,4 @@ Consegui convencer dois amigos a usarem Firefox mostrando o meu post sobre o Fot
 
 No mais, nada...
 
- [1]: http://tiagomadeira.com/2005/02/falha-no-fotolognet/
+ [1]: /2005/02/falha-no-fotolognet/

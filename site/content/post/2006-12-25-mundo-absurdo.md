@@ -43,5 +43,5 @@ Ainda do Rubem Alves:
 > Anote isso: _é a ciência e não o senso comum que parece ser o mais absurdo._
 
  [1]: http://pt.wikipedia.org/wiki/Rubem_Alves
- [2]: http://tiagomadeira.com/2006/12/maieutica/
+ [2]: /2006/12/maieutica/
 

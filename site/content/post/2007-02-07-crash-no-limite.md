@@ -32,7 +32,7 @@ A temática é um pouco pesada, abordando de maneira muito interessante alguns a
 
 Sem dúvidas um dos melhores filmes que eu já assisti! Vale a pena comprar ou locar. ;-)
 
- [1]: http://tiagomadeira.com/categorias/mal-vicioso/livros
+ [1]: /categorias/mal-vicioso/livros
  [2]: http://www.imdb.com/title/tt0375679/
  [3]: http://www.imdb.com/title/tt0289879/
 

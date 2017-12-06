@@ -127,7 +127,7 @@ Não use o que eu escrevi neste artigo para baixar ilegalmente filmes, livros e 
  [4]: http://www.deluge-torrent.org/
  [5]: http://www.mininova.org/
  [6]: http://www.mininova.org/search/harry+potter+and+the+order+of+the+phoenix/4
- [7]: http://tiagomadeira.com/2007/07/como-baixar-harry-potter-7/
+ [7]: /2007/07/como-baixar-harry-potter-7/
  [8]: http://www.opensubtitles.org/pt
  [9]: http://www.legendas.tv/
  [10]: http://cinecombo.blogspot.com/

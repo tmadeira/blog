@@ -98,5 +98,5 @@ Há inúmeras soluções mais nerds, mas quis manter a lista com sugestões fác
 
  [1]: http://educacao.uol.com.br/album/2012/04/04/protesto-de-professores-da-rede-municipal-de-sao-paulo.htm
  [2]: javascript:document.getElementById("setaEsq").style.width=document.getElementById("setaDir").style.width="50px";void(0);
- [3]: http://tiagomadeira.com/wp-content/uploads/2012/04/fotosuol.user.js
+ [3]: /wp-content/uploads/2012/04/fotosuol.user.js
 

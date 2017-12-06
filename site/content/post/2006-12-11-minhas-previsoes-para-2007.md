@@ -54,9 +54,9 @@ Leia também [as previsões de outros blogueiros][14].
 
  [1]: http://www.contraditorium.com/
  [2]: http://brunomadeira.blogspot.com
- [3]: http://tiagomadeira.com/2006/12/tiago-e-seo/
- [4]: http://tiagomadeira.com/2006/12/teoria-da-conspiracao-ou-hail-eris/
- [5]: http://tiagomadeira.com/2006/12/vamos-julgar-deus/
+ [3]: /2006/12/tiago-e-seo/
+ [4]: /2006/12/teoria-da-conspiracao-ou-hail-eris/
+ [5]: /2006/12/vamos-julgar-deus/
  [6]: http://english.aljazeera.net/HomePage
  [7]: http://malvicioso.com
  [8]: http://olimpiada.ic.unicamp.br

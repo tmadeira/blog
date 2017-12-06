@@ -32,5 +32,5 @@ Saiu [no Omelete][1] e [no Cabala 1001 Gatos de Schrödinger][2]. Um vídeo do p
  [1]: http://www.omelete.com.br/games/news/base_para_news.asp?artigo=20963
  [2]: http://1001gatos.org/ps3/
  [3]: mms://a1630.v297839.c29783.g.vm.akamaistream.net/7/1630/29783/v0001/cchannel.download.akamai.com/29783/movie/ps3stunts.wmv
- [4]: http://tiagomadeira.com/2006/12/a-necessidade-de-ter-dinheiro/
+ [4]: /2006/12/a-necessidade-de-ter-dinheiro/
 

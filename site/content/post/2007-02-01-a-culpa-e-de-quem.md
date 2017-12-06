@@ -43,5 +43,5 @@ A minha bicicleta foi roubada por uma série de erros, uma série de problemas s
 
 E afinal… o que importa de quem é a culpa?
 
- [1]: http://tiagomadeira.com/2007/02/bicicleta-roubada/
+ [1]: /2007/02/bicicleta-roubada/
 

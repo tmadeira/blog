@@ -30,5 +30,5 @@ Ou para os ignorantes entre nós que não lêem latim:
 <small>Lido durante a aula de matemática…</small>
 
  [1]: http://pt.wikipedia.org/wiki/Goethe
- [2]: http://tiagomadeira.com/2007/02/01/a-arte-de-ter-razao/
+ [2]: /2007/02/01/a-arte-de-ter-razao/
 

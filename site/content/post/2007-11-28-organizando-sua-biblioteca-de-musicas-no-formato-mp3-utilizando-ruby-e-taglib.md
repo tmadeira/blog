@@ -48,6 +48,6 @@ require "taglib"
 end
 ```
 
- [1]: http://tiagomadeira.com/2008/07/howto-como-baixar-filmes-com-legenda-na-internet/
+ [1]: /2008/07/howto-como-baixar-filmes-com-legenda-na-internet/
  [2]: http://www.mininova.org/tor/982312
  [3]: http://www.hakubi.us/ruby-taglib/

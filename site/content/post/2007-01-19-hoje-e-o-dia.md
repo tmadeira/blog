@@ -56,9 +56,9 @@ Olha… Se você chegou aqui procurando por esse laptop e sua compatibilidade co
 
  [1]: http://ubuntuforums.org/showthread.php?t=24557&page=29
  [2]: http://www.driverheaven.net/archive/index.php/t-119932.html
- [3]: http://tiagomadeira.com/2007/01/acer-aspire-5050-3205/
- [4]: http://tiagomadeira.com/2007/01/ive-got-the-power/
- [5]: http://tiagomadeira.com/2007/01/pontinho-verde/
- [6]: http://tiagomadeira.com/2007/01/dor-de-cabeca/
- [7]: http://tiagomadeira.com/2007/01/emerge-happiness/
+ [3]: /2007/01/acer-aspire-5050-3205/
+ [4]: /2007/01/ive-got-the-power/
+ [5]: /2007/01/pontinho-verde/
+ [6]: /2007/01/dor-de-cabeca/
+ [7]: /2007/01/emerge-happiness/
  [8]: http://google.com/

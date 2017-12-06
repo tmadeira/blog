@@ -160,7 +160,7 @@ Solução? Amanhã telefonarei pra Amazon e incomodarei eles até eles consertar
  [4]: https://bugs.launchpad.net/ubuntu/+source/linux/+bug/272530
  [5]: http://forum.notebookreview.com/showthread.php?t=252367
  [6]: http://orkutcidio.deliriocoletivo.org/
- [8]: http://tiagomadeira.com/wp-content/uploads/2009/08/Alteração-na-configuração-do-Vista-no-L92.doc
+ [8]: /wp-content/uploads/2009/08/Alteração-na-configuração-do-Vista-no-L92.doc
  [10]: http://www.funtoo.org/
  [11]: http://www.compal.com/Download/NB/JFT00/BIOS/
  [13]: http://twitter.com/tmadeira/status/3485974146

@@ -31,7 +31,7 @@ Se você usa **Gentoo**, não precisa baixar e compilar manualmente. Basta coloc
 Como você faria com qualquer outro pacote .tar.bz2…
 
 ```bash
-$ wget http://tiagomadeira.com/wp-content/uploads/2010/08/fluxbox-ddate-1.1.1-0.tar.bz2
+$ wget https://tiagomadeira.com/wp-content/uploads/2010/08/fluxbox-ddate-1.1.1-0.tar.bz2
 $ tar xjvf fluxbox-ddate-1.1.1-0.tar.bz2
 $ cd fluxbox-ddate-1.1.1-0
 ```
@@ -134,10 +134,10 @@ time_string_len+= strftime(&time_string[time_string_len], 255 - time_string_len,
 {{< figure src="/wp-content/uploads/2010/08/c.png" title="Screenshot 3" >}}
 
  [1]: http://www.cabaladada.org/discordiapedia/Calend%C3%A1rio_Santo-Discordiano
- [2]: http://tiagomadeira.com/wp-content/uploads/2010/08/fluxbox-ddate-1.1.1-0.tar.bz2
+ [2]: /wp-content/uploads/2010/08/fluxbox-ddate-1.1.1-0.tar.bz2
  [3]: http://www.cabaladada.org/
  [4]: http://aur.archlinux.org/packages.php?ID=40364
- [5]: http://tiagomadeira.com/2010/08/fluxbox-ddate-no-gentoo/
+ [5]: /2010/08/fluxbox-ddate-no-gentoo/
  [6]: http://www.kernel.org/pub/linux/utils/util-linux-ng/
  [7]: http://www.cabaladada.org/discordiapedia/Horas_M%C3%A9tricas
 

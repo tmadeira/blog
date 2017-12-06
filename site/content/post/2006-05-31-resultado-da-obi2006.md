@@ -35,7 +35,7 @@ No [último _post_][4] eu mencionei que estava mal no dia da prova e nem fiz o �
 Se eu não tivesse trocado esses caracteres, tiraria 30 pontos a mais do que eu já devo tirar com a solicitação das quebras de linha: **110** pontos, o suficiente para participar do curso e da prova **Seletiva para IOI**.
 
 <p style="font-size:85%;">
-  * Minha solução para o problema <strong>Lobo Mau</strong>: <a href="http://tiagomadeira.net/script/lobo.c">lobo.c</a>
+  * Minha solução para o problema <strong>Lobo Mau</strong>: <a href="/wp-content/uploads/c/lobo.c">lobo.c</a>
 </p>
 
 Bom… Já que é a lógica do problema que é o desafio na OBI, vocês não acham que erros de digitação deveriam poder ser corrigidos? Além disso, acho que eles podiam somar essa nota com a nota da primeira fase (mesmo que ela tivesse um peso bem menor).

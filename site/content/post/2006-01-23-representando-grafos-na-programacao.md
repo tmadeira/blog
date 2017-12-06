@@ -746,16 +746,16 @@ Isso depende totalmente do problema. Em alguns casos, o mais barato é usar as *
 Até maio do ano passado, eu não tinha aprendido isso direito e sempre usava a matriz de adjacências. Por isso muitos dos meus problemas estão resolvidos de forma pouco eficiente… e isso pode ser crucial numa prova. Por isso, saiba usar as duas formas!
 
  [2]: #ex1
- [3]: http://tiagomadeira.net/script/ambulancia.c
- [4]: http://tiagomadeira.net/script/batuira.c
- [5]: http://tiagomadeira.net/script/carga.c
- [6]: http://tiagomadeira.net/script/dengue.c
- [7]: http://tiagomadeira.net/script/domino.c
- [8]: http://tiagomadeira.net/script/manutencao.c
- [9]: http://tiagomadeira.net/script/numeroerdos.c
- [10]: http://tiagomadeira.net/script/orkut.c
- [11]: http://tiagomadeira.net/script/pedagio.c
- [12]: http://tiagomadeira.net/script/redeotica.c
+ [3]: /wp-content/uploads/c/ambulancia.c
+ [4]: /wp-content/uploads/c/batuira.c
+ [5]: /wp-content/uploads/c/carga.c
+ [6]: /wp-content/uploads/c/dengue.c
+ [7]: /wp-content/uploads/c/domino.c
+ [8]: /wp-content/uploads/c/manutencao.c
+ [9]: /wp-content/uploads/c/numeroerdos.c
+ [10]: /wp-content/uploads/c/orkut.c
+ [11]: /wp-content/uploads/c/pedagio.c
+ [12]: /wp-content/uploads/c/redeotica.c
  [13]: http://www.orkut.com
  [14]: #probma
  [15]: #vantagensl

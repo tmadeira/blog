@@ -57,8 +57,8 @@ Quase duas semanas depois da prova, meu chute para a nota da primeira fase é 42
  [1]: http://olimpiada.ic.unicamp.br
  [2]: http://www.salesianoitajai.g12.br
  [3]: http://tiagomadeira.net/scripts/
- [4]: http://tiagomadeira.net/script/truco.c
- [5]: http://tiagomadeira.net/script/caju.c
- [6]: http://tiagomadeira.net/script/museu.c
- [7]: http://tiagomadeira.net/script/cartas.c
- [8]: http://tiagomadeira.net/script/escada.c
+ [4]: /wp-content/uploads/c/truco.c
+ [5]: /wp-content/uploads/c/caju.c
+ [6]: /wp-content/uploads/c/museu.c
+ [7]: /wp-content/uploads/c/cartas.c
+ [8]: /wp-content/uploads/c/escada.c

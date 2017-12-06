@@ -192,8 +192,8 @@ Quem costuma visitar meu blog perceberá que apareceu um ícone lá no canto inf
  [1]: http://olimpiada.ic.unicamp.br
  [2]: http://olimpiada.ic.unicamp.br/programacao/tarefas/aeroporto
  [3]: http://olimpiada.ic.unicamp.br/programacao/tarefas/batuira
- [4]: http://tiagomadeira.net/script/batuira.c
+ [4]: /wp-content/uploads/c/batuira.c
  [5]: http://olimpiada.ic.unicamp.br/programacao/tarefas/dengue
- [6]: http://tiagomadeira.net/script/dengue.c
+ [6]: /wp-content/uploads/c/dengue.c
  [7]: http://tiagomadeira.net/scripts
 

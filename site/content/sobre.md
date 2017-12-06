@@ -36,6 +36,7 @@ Meus perfis nas redes sociais: [Twitter](https://twitter.com/tmadeira/), [GitHub
 
 _Computadores:_ ThinkPad x240 (Arch Linux) e MacBook Pro 2015 (OS X)  
 _Shell preferido:_ zsh  
+_Editor de texto:_ vim  
 _Linguagem preferida:_ Go  
 _Biblioteca preferida:_ React  
 

@@ -153,5 +153,5 @@ O código completo ficou com umas 90 linhas com comentários e linhas em branco 
 
  [1]: http://www.ic.unicamp.br/~stolfi/EXPORT/bibliography/stolfi.html
  [2]: http://www.topcoder.com/stat?c=problem_statement&pm=924
- [3]: http://blog.tiagomadeira.com/wp-content/uploads/2010/04/symmetry.cpp
+ [3]: /wp-content/uploads/2010/04/symmetry.cpp
 

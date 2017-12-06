@@ -33,4 +33,4 @@ Chris concluiu agradecendo e incentivando os presentes a continuar espalhando o 
   4. Foi bastante interessante a palestra do Deivi Lopes Kuhn sobre software livre no governo federal. Anotei algumas coisas e vou deixar pra sistematizar e publicar comentários em breve, num post a parte (devido à densidade do conteúdo).
 
  [1]: http://www.fsf.org/
- [2]: http://blog.tiagomadeira.com/destaques-do-1º-dia-do-12º-forum-internacional-do-software-livre/
+ [2]: /2011/06/destaques-do-1º-dia-do-12º-forum-internacional-do-software-livre/

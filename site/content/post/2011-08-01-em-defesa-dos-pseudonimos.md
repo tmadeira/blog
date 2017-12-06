@@ -51,7 +51,7 @@ No entanto, políticas que requerem nomes “reais” são quase impossíveis de
 
 É direito das empresas — Google, Facebook ou outra qualquer — criar políticas como acharem melhor para seus serviços. Mas é uma visão curta dessas empresas sugerir que uma política de “nomes reais” cria maior potencial para a civilidade, quando elas a fazem às custas da diversidade e da liberdade de expressão. De fato, esse giro para a elaboração de políticas que requerem nomes “reais” vai ter um efeito inibidor sobre a liberdade de expressão online.
 
- [1]: http://blog.tiagomadeira.com/em-defesa-dos-pseudonimos/
+ [1]: /2011/08/em-defesa-dos-pseudonimos/
  [2]: https://www.eff.org/deeplinks/2011/07/case-pseudonyms
  [3]: https://www.eff.org/about/staff/jillian
  [4]: https://www.eff.org/

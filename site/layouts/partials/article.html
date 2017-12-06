@@ -1,15 +1,17 @@
 <!-- vim: set syntax=gohtmltmpl: -->
-<article class="article">
-	<h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
+<article class="article" itemscope itemtype="http://schema.org/Article">
+  <h2 itemprop="headline"><a href="{{ .URL }}">{{ .Title }}</a></h2>
 
   {{ if ne .Type "page" }}
     <div class="article-meta">
-      <span class="article-date">{{ .Date.Local.Format "02/01/2006 15:04" }}</span>
+      <time class="article-date" itemprop="datePublished">
+        {{ .Date.Local.Format "02/01/2006 15:04" }}
+      </time>
 
       |
 
       {{ with .Params.categories }}
-        <span class="article-cats">
+        <span class="article-cats" itemProp="articleSection">
           {{ range . }}
             <a href="/categories/{{ . | urlize }}">{{ . }}</a>
           {{ end }}
@@ -18,7 +20,7 @@
     </div>
   {{ end }}
 
-  <div class="entry">
+  <div class="entry" itemprop="articleBody">
     {{ .Content }}
   </div>
 

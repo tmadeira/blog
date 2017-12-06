@@ -64,7 +64,7 @@ O site do Colégio tá quase pronto, estou precisando da biblioteca GD para trab
 
 Estou tentando fazer um Linux simples e acessível para minha família usar no computador que compartilha internet com o meu laptop, mas ainda não consegui nem instalar Linux (eu vivo instalando e desinstalando Linux aqui do lado… Esses caras não entendem como Linux é bom, a filosofia é linda e devemos parar de usar MSN e programas da Microsoft!). A mesma coisa eu quero fazer no Colégio depois que acabar de fazer o site. O Laboratório de Informática deveria ser só Linux. O KDE tem programas educativos tão legais, fora outros que podemos achar na internet… E tem programas para Ensino Médio que o nosso Lab. nem tem nem semelhantes. O problema é que ele tem uma grande quantidade de programas para a pré-escola e acho difícil encontrar bons clones para Linux. Eu acho que instalar Linux na escola é uma coisa indispensável e não pretendo sair de lá antes que esta missão esteja cumprida. Quero fazer ainda um esquema bem legal com um servidor e clientes usando NFS/NIS e com os clientes loggando no servidor e facilitando a vida da profa. de informática.
 
-Fiz uma alteração nas Funções ZZ adicionando uma senha ao zzss (proteção de tela para console). O patch está disponível aqui no meu servidor: [patch.zz][1] e para patchar basta usar **patch -p1** apontando para ele o arquivo do patch **(patch.zz)** e colocar no **File to patch** a localização do seu arquivo funcoeszz (tem que ser a última versão).
+Fiz uma alteração nas Funções ZZ adicionando uma senha ao zzss (proteção de tela para console). O patch está disponível aqui no meu servidor: ~~patch.zz~~ (esse patch foi perdido pelo tempo) e para patchar basta usar **patch -p1** apontando para ele o arquivo do patch **(patch.zz)** e colocar no **File to patch** a localização do seu arquivo funcoeszz (tem que ser a última versão).
 
 Para finalizar, não tenho produzido muitos códigos / solucionado problemas lógicos, mas tenho pensado bastante logicamente e até ando vendo alguns grafos no pensamento e criando quase inconscientemente uns algoritmos… Embora não esteja implementando ou escrevendo os algoritmos, acho que estou desenvolvendo-os… Hehehe… (parece que eu sou louco, né?)
 
@@ -72,4 +72,3 @@ Para finalizar, não tenho produzido muitos códigos / solucionado problemas ló
   Coloquei várias imagens aí em cima pro post não ficar muito sem graça, já que ficou um pouco grande… A maioria delas não é tão importante, mas são boas pra saber em que pedaço do texto estamos… :)
 </p>
 
- [1]: http://tableless.tiagomadeira.net/patch.zz

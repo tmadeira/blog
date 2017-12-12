@@ -5,3 +5,6 @@ pygmentsCodeFences = true
 
 [blackfriday]
   fractions = false
+
+[params]
+  description = "Um blog com pensamentos aleatórios principalmente sobre ciência da computação."

@@ -1,14 +1,12 @@
 <!-- vim: set syntax=gohtmltmpl: -->
-{{ if ne .Paginator.TotalPages 0 }}
+{{- if ne .Paginator.TotalPages 0 -}}
   <div class="paginator">
-    {{ if .Paginator.HasPrev }}
-      <a href="{{ .Paginator.Prev.URL }}" class="newer">&laquo; Posts mais novos</a>
-    {{ end }}
-
-    <span>&nbsp;</span>
-
-    {{ if .Paginator.HasNext }}
-      <a href="{{ .Paginator.Next.URL }}" class="older">Posts mais antigos &raquo;</a>
-    {{ end }}
+    {{- if .Paginator.HasPrev -}}
+      <a href="{{- .Paginator.Prev.URL -}}" class="newer">&laquo; Posts mais novos</a>
+    {{- end -}}
+    <span> &nbsp; </span>
+    {{- if .Paginator.HasNext -}}
+      <a href="{{- .Paginator.Next.URL -}}" class="older">Posts mais antigos &raquo;</a>
+    {{- end -}}
   </div>
-{{ end }}
+{{- end -}}

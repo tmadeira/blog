@@ -2,38 +2,36 @@
 <article class="article" itemscope itemtype="http://schema.org/Article">
   <h2 itemprop="headline"><a href="{{ .URL }}">{{ .Title }}</a></h2>
 
-  {{ if ne .Type "page" }}
+  {{- if ne .Type "page" -}}
     <div class="article-meta">
       <time class="article-date" itemprop="datePublished">
-        {{ .Date.Local.Format "02/01/2006 15:04" }}
+        {{- .Date.Local.Format "02/01/2006 15:04" -}}
       </time>
-
       |
-
-      {{ with .Params.categories }}
+      {{ with .Params.categories -}}
         <span class="article-cats" itemProp="articleSection">
-          {{ range . }}
+          {{- range . }}
             <a href="/categories/{{ . | urlize }}">{{ . }}</a>
-          {{ end }}
+          {{- end -}}
         </span>
-      {{ end }}
+      {{- end }}
     </div>
-  {{ end }}
+  {{- end -}}
 
   <div class="entry" itemprop="articleBody">
-    {{ .Content }}
+    {{- .Content -}}
   </div>
 
-  {{ if ne .Type "page" }}
+  {{- if ne .Type "page" -}}
     <div class="article-meta">
-      {{ with .Params.tags }}
+      {{- with .Params.tags -}}
         <span class="article-tags">
           <strong>Tags:</strong>
-          {{ range . }}
+          {{- range . }}
             <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-          {{ end }}
+          {{- end -}}
         </span>
-      {{ end }}
+      {{- end -}}
     </div>
-  {{ end }}
+  {{- end -}}
 </article>

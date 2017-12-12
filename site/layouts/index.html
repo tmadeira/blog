@@ -2,12 +2,12 @@
   <!-- vim: set syntax=gohtmltmpl: -->
   {{ $paginator := .Paginate (where .Data.Pages "Type" "ne" "page") 5 }}
   <ul class="index-list">
-    {{ range  where .Paginator.Pages "Type" "ne" "page" }}
+    {{- range  where .Paginator.Pages "Type" "ne" "page" -}}
       <li>
-        {{ partial "article" . }}
+        {{- partial "article" . -}}
       </li>
-    {{ end }}
+    {{- end -}}
   </ul>
 
-  {{ partial "paginator" . }}
+  {{- partial "paginator" . -}}
 {{ end }}

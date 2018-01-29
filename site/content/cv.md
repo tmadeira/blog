@@ -26,17 +26,20 @@ date: 2017-12-04T21:01:48-02:00
 }
 </style>
 
-Software engineer  
-<small>Last update: December 2nd, 2016</small>
+Software Engineer  
+<small>Last update: January 28th, 2018</small>
 
 ### Contact information
 
 _E-mail:_ <tmadeira@gmail.com>  
-_Phone:_ +55 21 98959-3718  
+_Phone:_ +55 11 98609-1233  
 _Skype:_ tiago-madeira  
-_Location:_ Rio de Janeiro, Brazil
+_Location:_ São Paulo, Brazil
 
 ### Education
+
+* **M.S. Computer Science** <small>[University of São Paulo, 2018 -- in progress]</small>  
+  Institute of Mathematics and Statistics (IME)
 
 * **B.S. Computer Science** <small>[University of São Paulo, 2016]</small>  
   _Final project:_ [Uniform sampling of _k-trees_ for learning Bayesian networks](https://github.com/tmadeira/tcc/)  
@@ -45,63 +48,53 @@ _Location:_ Rio de Janeiro, Brazil
 
 ### Professional Experience
 
+* **GEMTE** <small>[2012 -- current]</small>  
+  _Owner, Manager & Software Engineer_  
+  Development of several clients' internal systems, web platforms, mobile applications, and social media strategies.  
+  Management of communication and social media teams.  
+  <small>Clients include Nexo Jornal, Luciana Genro, Marcelo Freixo, and Repórter Brasil, among many others.</small>
+
 * **Google** <small>[Belo Horizonte, MG, Brazil | 3 months | December, 2015 -- March, 2016]</small>  
   _Software Engineering Intern_ (30 hours/week)  
   _Supervisor:_ Tony Lopes  
-  Development of anti-abuse technology  
-  Some experience with Go, protocol buffers, and Google infra-structure and tools
+  Development of anti-abuse technology.  
+  Some experience with Go, protocol buffers, and Google infra-structure and tools.
 
 * **Dropbox** <small>[San Francisco, CA, USA | 3 months | May, 2015 -- July, 2015]</small>  
   _Software Engineering Intern_ (40 hours/week)  
   _Supervisor:_ Li Haoyi  
-  Development of continuous integration tools, focus on handling flaky tests  
-  Some experience with Python, Postgres/SQL, Jenkins, Puppet, UNIX shell scripting
+  Development of continuous integration tools, focus on handling flaky tests.  
+  Some experience with Python, Postgres/SQL, Jenkins, Puppet, UNIX shell scripting.
 
 * **Facebook** <small>[London, UK | 3 months | January, 2015 -- April, 2015]</small>  
   _Software Engineering Intern_ (40 hours/week)  
   _Supervisor:_ Dolapo Falola  
-  Development of Facebook applications, focus on products for teenagers  
-  Some experience with mobile and web development, tests, Android, React, Hack, Parse and other tools
+  Development of Facebook applications, focus on products for teenagers.  
+  Some experience with mobile and web development, tests, Android, React, Hack, Parse and other tools.
 
 * **imo.im** <small>[Palo Alto, CA, USA | 3 months | December, 2013 -- March, 2014]</small>  
   _Software Engineering Intern_ (40 hours/week)  
   _Supervisor:_ Iskren Chernev  
-  Development of imo web application  
-  Some experience with client-side web development, CoffeeScript, AngularJS, SASS, Bower, Grunt, NPM and other tools
+  Development of imo web application.  
+  Some experience with client-side web development, CoffeeScript, AngularJS, SASS, Bower, Grunt, NPM and other tools.
 
 * **imo.im** <small>[Palo Alto, CA, USA | 5 months | February, 2012 -- July, 2012]</small>  
   _Software Engineering Intern_ (40 hours/week)  
   _Supervisor:_ Patrick Horn  
-  Development of audio calls for mobile devices  
-  Some experience with network programming, streaming, mobile development, cryptography, C, C++, OpenSSL, Android and iPhone (Objective C)
+  Development of audio calls for mobile devices.  
+  Some experience with network programming, streaming, mobile development, cryptography, C, C++, OpenSSL, Android and iPhone (Objective C).
 
 * **upLexis** <small>[São Paulo, SP, Brazil | 16 months | April, 2010 -- August, 2011]</small>  
   _Software Engineering Intern_ (15 hours/week)  
   _Supervisor:_ Daniel Creao  
-  Development of a named entity recognizer for a specific kind of documents  
-  Some experience with large amounts of data, information retrieval, natural language processing, machine learning, Java and Python
+  Development of a named entity recognizer for a specific kind of documents.  
+  Some experience with large amounts of data, information retrieval, natural language processing, machine learning, Java and Python.
 
 * **Colégio Salesiano Itajaí** <small>[Itajaí, SC, Brazil | 33 months | February, 2005 -- November, 2007]</small>  
   _Trainee programmer_ (10 hours/week)  
-  Development of institutional website, server administration  
-  Voluntary creation and implementation of an online contest with teams from three schools  
-  Some experience with PHP, MySql, JavaScript, HTML, CSS
-
-#### Independent work
-
-**Web development and infrastructure management**
-
-* Marcelo Freixo
-* Luciana Genro
-* Repórter Brasil
-* Se a cidade fosse nossa
-* Juntos
-* Fundação Lauro Campos
-* 3M Comunicação Visual
-* Eureka Click
-* Química Geral do Nordeste
-* Ari Pine Research & Trading  
-<small>(among many others...)</small>
+  Development of institutional website, server administration.  
+  Voluntary creation and implementation of an online contest with teams from three schools.  
+  Some experience with PHP, MySql, JavaScript, HTML, CSS.
 
 ### Awards
 

@@ -14,19 +14,23 @@ Sou membro do PSOL e da [Revista Movimento](https://movimentorevista.com.br/).
 
 Este blog reúne coisas que eu escrevo desde o início de 2005, quando eu tinha 14 anos. Mantenho tudo pelo aspecto histórico, mas naturalmente mudei bastante nesse período e não concordo com tudo o que está escrito. Além das opiniões, muitos códigos não funcionam e projetos não existem mais.
 
-O conteúdo aqui disponível já passou por diferentes plataformas e servidores. Inicialmente as postagens eram publicadas por sistemas que eu mesmo criava quando comecei a programar. Alguns meses depois, [migrei](/2005/10/mudanca-de-servidor/) tudo para o WordPress --- antes mesmo do lançamento de sua primeira versão não-beta. O blog acompanhou mais de 10 anos de transformações desse CMS, até que em 2017 resolvi simplificar a vida migrando para o [Hugo](https://gohugo.io/). Neste momento, o site é estático e está hospedado no GitHub Pages ([código-fonte](https://github.com/tmadeira/tmadeira.github.io/)).
+O conteúdo aqui disponível já passou por diferentes plataformas e servidores. Inicialmente as postagens eram publicadas por sistemas que eu mesmo criava quando começava a programar. Alguns meses depois, [migrei](/2005/10/mudanca-de-servidor/) tudo para o WordPress  --- antes mesmo do lançamento de sua primeira versão não-beta. De lá pra cá, o WordPress passou por inúmeras transformações (até se tornar o CMS mais usado do mundo!). Em 2017, resolvi simplificar a vida migrando para o [Hugo](https://gohugo.io/). Neste momento, o site é estático, está hospedado no GitHub ([código-fonte](https://github.com/tmadeira/tiagomadeira.com/)) e é servido pelo Netlify.
 
 ### Profissional
 
-Durante a graduação, fiz estágios como engenheiro de software em Google, Facebook, Dropbox, imo.im e upLexis. Nos últimos anos, tenho trabalhado autonomamente.
+Durante a graduação, fiz estágios como engenheiro de software em Google, Facebook, Dropbox, imo.im e upLexis.
 
-Meu currículo está disponível em [tiagomadeira.com/cv](/cv/) e estou no LinkedIn como [/in/tmadeira](https://linkedin.com/in/tmadeira/).
+Desde 2012 tenho uma empresa que presta serviços de comunicação digital.
+
+Meu currículo está disponível em [tiagomadeira.com/cv](/cv/) (em inglês) e estou no LinkedIn como [/in/tmadeira](https://linkedin.com/in/tmadeira/).
 
 ### Acadêmico
 
-Me formei como Bacharel em Ciência da Computação no Instituto de Matemática e Estatística da USP em 2016 e meu Lattes está disponível em [lattes.cnpq.br/3937411702518704](http://lattes.cnpq.br/3937411702518704).
+Me formei (bacharel em Ciência da Computação) em 2016 na USP. Meu trabalho de conclusão de curso da graduação, sobre geração uniforme de _k-trees_ para aprendizado de redes bayesianas, está disponível numa [página hospedada no IME-USP](https://linux.ime.usp.br/~tmadeira/mac0499/).
 
-Meu trabalho de conclusão de curso da graduação, sobre geração uniforme de _k-trees_ para aprendizado de redes bayesianas, está disponível numa [página hospedada no IME-USP](https://linux.ime.usp.br/~tmadeira/mac0499/).
+Neste momento, estou fazendo Mestrado em Ciência da Computação, também na USP, sob orientação do Prof. Denis D. Mauá.
+
+Meu Lattes está disponível em [lattes.cnpq.br/3937411702518704](http://lattes.cnpq.br/3937411702518704).
 
 ### Redes sociais
 

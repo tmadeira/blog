@@ -16,7 +16,7 @@ import webpackConfig from "./webpack.conf";
 const browserSync = BrowserSync.create();
 
 // Hugo arguments
-const hugoArgsDefault = ["-d", "../docs", "-s", "site", "-v"];
+const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
 const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 
 // Development tasks
@@ -37,7 +37,7 @@ gulp.task("css", () => (
     }))
     .pipe(postcss([ autoprefixer() ]))
     .pipe(cssNano())
-    .pipe(gulp.dest("./docs/css"))
+    .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
 
@@ -60,7 +60,7 @@ gulp.task("js", (cb) => {
 gulp.task("server", ["hugo", "css", "js"], () => {
   browserSync.init({
     server: {
-      baseDir: "./docs"
+      baseDir: "./dist"
     }
   });
   watch("./src/js/**/*.js", () => { gulp.start(["js"]) });

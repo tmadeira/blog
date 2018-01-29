@@ -1,3 +1,4 @@
+dist/
 node_modules/
 
 [._]*.s[a-v][a-z]

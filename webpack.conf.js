@@ -32,7 +32,7 @@ export default {
     app: ["./js/app"]
   },
   output: {
-    path: path.join(__dirname, "docs"),
+    path: path.join(__dirname, "dist"),
     publicPath: "/",
     filename: "[name].js"
   },

@@ -1,0 +1,20 @@
+comments:
+  allowedFields: ["name", "email", "body", "reply_to"]
+  allowedOrigins: ["localhost", "tiagomadeira.com", "tmadeira.netlify.com"]
+  branch: "master"
+  commitMessage: "New comment: {@id}"
+  generatedFields:
+    date:
+      type: date
+  format: "yaml"
+  moderation: true
+  name: "tiagomadeira.com"
+  path: "site/data/comments/{options.entryId}"
+  filename: "{@id}"
+  requiredFields: ["name", "body"]
+  notifications:
+    enabled: true
+    apiKey: "iNuRd5fdzqnJ/AWqncNErgUkp8ceCk9f2VeSv4sabbR9TzxNoJZk5SJq4yfpJalGwZdLlSEOBoza/n6ZKnVASko2YT1DqrqoglGOpumFcjFZijBOYD+unV+g/III2ywNLGXpVypwL9rbX4n+/OkWUJymTW9p3jzgIuH4arKbm2g="
+    domain: "wJhsj+V8hSIZcVqpk84JuDRtRLxwnwyorrYGliZ7JoQ9f+OfYrrswOYNvnviUWLkGljYt7+KPLUoEJN3G5w6z2nhzt62WbQGN9FkRzX5Pn2q2QL07/fVU5+cg/6wYZroI9EBw4jMyY/p3RLbosfqLyPk0EYZe1PsF9EYHWyOy8U="
+  transforms:
+    email: md5

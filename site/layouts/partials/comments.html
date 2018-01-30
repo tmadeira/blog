@@ -1,0 +1,73 @@
+<section id="comments" class="comments">
+  <!-- vim: set syntax=gohtmltmpl: -->
+  <h3 class="comments-title">Comentários</h3>
+
+  <div class="comments-list">
+    {{ $.Scratch.Add "hasComments" 0 }}
+    {{ $entryId := .File.BaseFileName }}
+
+    {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
+      {{ $.Scratch.Add "hasComments" 1 }}
+      {{ if not .reply_to }}
+        <div class="comment">
+          <div class="comment-header">
+            <img class="comment-avatar" src="//gravatar.com/avatar/{{ .email }}?s=80&d=retro" />
+            <p class="comment-info">
+              <strong>{{ .name }}</strong><br />
+              <time class="comment-time">{{ dateFormat "02/01/2006 15:04" .date }}</time>
+            </p>
+          </div>
+          <div class="comment-body entry">
+            {{ $markdown := .body | markdownify }}
+            {{ if not ( strings.Contains $markdown "<p>" ) }}
+              <p>{{ $markdown }}</p>
+            {{ else }}
+              {{ $markdown }}
+            {{ end }}
+          </div>
+        </div>
+        <div class="comment-buttons">
+          <a class="reply-button" href="#comment-form" rel="{{ ._id }}">Responder</a>
+          <a class="reply-cancel" href="#" rel="{{ ._id }}">Cancelar resposta</a>
+        </div>
+        {{ partial "comment-replies" (dict "entryId_parent" $entryId "SiteDataComments_parent" $.Site.Data.comments "parentId" ._id "parentName" .name "context" .) }}
+      {{ end }}
+    {{ end }}
+
+    {{ if eq ($.Scratch.Get "hasComments") 0 }}
+      <p>Nenhum comentário ainda.</p>
+    {{ end }}
+  </div>
+</section>
+
+<form class="form" id="comment-form" action="https://api.staticman.net/v2/entry/tmadeira/tiagomadeira.com/master/comments" method="post">
+  <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted" />
+  <input type="hidden" name="options[redirectError]" value="{{ .Permalink }}#comment-error" />
+  <input type="hidden" name="options[entryId]" value="{{ .File.BaseFileName }}" />
+  <input type="hidden" name="options[slug]" value="{{ .Permalink }}" />
+  <input type="hidden" name="options[origin]" value="{{ .Permalink }}" />
+  <input type="hidden" name="options[parent]" value="{{ .File.BaseFileName }}" />
+  <input id="replyTo" type="hidden" name="fields[reply_to]" value="" />
+
+  <fieldset class="form-fieldset">
+    <ul class="form-fields">
+      <li>
+        <label class="form-label" for="name">Nome<span class="required">*</span></label>
+        <input class="form-input" id="name" placeholder="Digite seu nome" type="text" name="fields[name]" />
+      </li>
+      <li>
+        <label class="form-label" for="email">E-mail</label>
+        <input class="form-input" id="email" placeholder="Digite seu e-mail" type="email" name="fields[email]" />
+      </li>
+      <li>
+        <label class="form-label" for="body">Comentário<span class="required">*</span></label>
+        <textarea class="form-text" id="body" placeholder="Digite seu comentário" name="fields[body]"></textarea>
+      </li>
+      <li>
+        <input class="form-checkbox" id="notify" type="checkbox" name="options[subscribe]" value="email" />
+        <label for="notify">Quero ser notificado sobre novos comentários por e-mail.</label>
+    </ul>
+
+    <button class="form-button" type="submit">Enviar comentário</button>
+  </fieldset>
+</form>

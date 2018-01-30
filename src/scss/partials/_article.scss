@@ -72,7 +72,7 @@
   blockquote {
     @extend %wrap;
     @extend %default-margin;
-    border-left: solid 30px #eee;
+    border-left: solid 30px rgba(0, 0, 0, 0.1);
     font-size: 0.85em;
     line-height: 1.4em;
 
@@ -109,7 +109,7 @@
     }
   }
 
-  h3 {
+  h1, h2, h3 {
     @extend %wrap;
     @extend %default-margin;
     @extend %sans;
@@ -151,7 +151,7 @@
 
   hr {
     @extend %default-margin;
-    background: #eee;
+    background: rgba(0, 0, 0, 0.1);
     border: 0;
     height: 2px;
   }
@@ -222,9 +222,9 @@
   }
 
   tr {
-    background: #ddd;
+    background: rgba(0, 0, 0, 0.2);
     &:nth-child(2n+1) {
-      background: #eee;
+      background: rgba(0, 0, 0, 0.1);
     }
   }
 

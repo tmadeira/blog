@@ -1,5 +1,5 @@
+<!-- vim: set syntax=gohtmltmpl: -->
 <section id="comments" class="comments">
-  <!-- vim: set syntax=gohtmltmpl: -->
   <h3 class="comments-title">Comentários</h3>
 
   <div class="comments-list">
@@ -17,7 +17,7 @@
               <time class="comment-time">{{ dateFormat "02/01/2006 15:04" .date }}</time>
             </p>
           </div>
-          <div class="comment-body entry">
+          <div class="entry">
             {{ $markdown := .body | markdownify }}
             {{ if not ( strings.Contains $markdown "<p>" ) }}
               <p>{{ $markdown }}</p>

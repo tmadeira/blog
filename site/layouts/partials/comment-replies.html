@@ -9,7 +9,7 @@
           <time class="comment-time">{{ dateFormat "02/01/2006 15:04" .date }}</time>
         </p>
       </div>
-      <div class="comment-body entry">
+      <div class="entry">
         {{ $markdown := .body | markdownify }}
         {{ if not ( strings.Contains $markdown "<p>" ) }}
           <p>{{ $markdown }}</p>

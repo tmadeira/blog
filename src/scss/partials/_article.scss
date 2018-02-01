@@ -183,7 +183,7 @@
     @extend %default-margin;
     background: #333 !important;
     color: #fff;
-    overflow: scroll;
+    overflow: auto;
     padding: 15px 0;
 
     code {

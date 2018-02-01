@@ -129,3 +129,13 @@
     padding-left: 20px;
   }
 }
+
+.comment, .reply {
+  .entry {
+    pre code {
+      @include breakpoint($big) {
+        min-width: 100%;
+      }
+    }
+  }
+}

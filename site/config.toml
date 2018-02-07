@@ -2,6 +2,8 @@ baseURL = "https://tiagomadeira.com/"
 languageCode = "pt-br"
 title = "Tiago Madeira"
 pygmentsCodeFences = true
+RemovePathAccents = true
+PreserveTaxonomyNames = true
 
 [blackfriday]
   fractions = false
@@ -11,3 +13,4 @@ pygmentsCodeFences = true
 
 [taxonomies]
   categoria = "categorias"
+  tag = "tags"

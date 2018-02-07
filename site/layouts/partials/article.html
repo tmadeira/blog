@@ -11,7 +11,7 @@
       {{ with .Params.categorias -}}
         <span class="article-cats" itemProp="articleSection">
           {{- range . }}
-            <a href="/categorias/{{ . | urlize }}">{{ . }}</a>
+            <a href="/categorias/{{ . | urlize }}/">{{ . }}</a>
           {{- end -}}
         </span>
       {{- end }}
@@ -28,7 +28,7 @@
         <span class="article-tags">
           <strong>Tags:</strong>
           {{- range . }}
-            <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+            <a href="/tags/{{ . | urlize }}/">{{ . }}</a>
           {{- end -}}
         </span>
       {{- end -}}

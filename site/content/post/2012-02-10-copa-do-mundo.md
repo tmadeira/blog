@@ -3,7 +3,7 @@ title: Copa do Mundo
 type: post
 date: 2012-02-10T04:48:49+00:00
 url: /2012/02/copa-do-mundo/
-categories:
+categorias:
   - Cotidiano
 tags:
   - brazil 2014

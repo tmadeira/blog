@@ -3,7 +3,7 @@ title: Escreva um blog e compartilhe suas ideias
 type: post
 date: 2012-10-23T16:00:40+00:00
 url: /2012/10/escreva-um-blog-e-compartilhe-suas-ideias/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - blogosfera

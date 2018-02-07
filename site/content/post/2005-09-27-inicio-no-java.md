@@ -4,7 +4,7 @@ type: post
 date: 2005-09-27T19:26:03+00:00
 excerpt: Nesse final de semana, comecei a estudar Programação Orientada a Objetos. Agora, seguindo o conselho do Zé, comecei a aprender Java.
 url: /2005/09/inicio-no-java/
-categories:
+categorias:
   - Cotidiano
 tags:
   - c

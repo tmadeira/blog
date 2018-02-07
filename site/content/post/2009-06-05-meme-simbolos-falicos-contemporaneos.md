@@ -5,7 +5,7 @@ date: 2009-06-06T02:56:41+00:00
 url: /2009/06/meme-simbolos-falicos-contemporaneos/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Futilidades
 tags:
   - falo

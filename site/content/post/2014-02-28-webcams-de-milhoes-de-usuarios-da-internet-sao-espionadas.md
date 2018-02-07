@@ -3,7 +3,7 @@ title: Webcams de milhões de usuários da Internet são espionadas
 type: post
 date: 2014-02-28T09:02:17+00:00
 url: /2014/02/webcams-de-milhoes-de-usuarios-da-internet-sao-espionadas/
-categories:
+categorias:
   - Política
 tags:
   - asilo

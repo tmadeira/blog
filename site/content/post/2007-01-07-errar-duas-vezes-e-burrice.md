@@ -3,7 +3,7 @@ title: Errar duas vezes é burrice?
 type: post
 date: 2007-01-07T19:24:02+00:00
 url: /2007/01/errar-duas-vezes-e-burrice/
-categories:
+categorias:
   - Cotidiano
 tags:
   - hardware

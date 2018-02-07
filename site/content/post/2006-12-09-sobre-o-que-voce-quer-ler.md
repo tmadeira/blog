@@ -3,7 +3,7 @@ title: Sobre o que você quer ler?
 type: post
 date: 2006-12-09T19:37:40+00:00
 url: /2006/12/sobre-o-que-voce-quer-ler/
-categories:
+categorias:
   - Metablogagem
 tags:
   - enquete

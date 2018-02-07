@@ -3,7 +3,7 @@ title: O que aprendemos com o WikiLeaks?
 type: post
 date: 2011-04-15T02:17:22+00:00
 url: /2011/04/o-que-aprendemos-com-o-wikileaks/
-categories:
+categorias:
   - Política
 tags:
   - eua

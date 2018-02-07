@@ -4,7 +4,7 @@ type: post
 date: 2011-06-30T02:49:10+00:00
 url: /2011/06/destaques-do-1º-dia-do-12º-forum-internacional-do-software-livre/
 featured_image: /wp-content/uploads/2011/06/fisl12_palestra-300x180.jpg
-categories:
+categorias:
   - Software Livre
 tags:
   - autonomia

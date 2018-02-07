@@ -3,7 +3,7 @@ title: Por que não comentam?
 type: post
 date: 2006-12-08T12:53:53+00:00
 url: /2006/12/por-que-nao-comentam/
-categories:
+categorias:
   - Cotidiano
 tags:
   - analytics

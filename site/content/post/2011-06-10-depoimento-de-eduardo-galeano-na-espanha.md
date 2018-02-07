@@ -3,7 +3,7 @@ title: Depoimento de Eduardo Galeano na Espanha
 type: post
 date: 2011-06-10T17:29:24+00:00
 url: /2011/06/depoimento-de-eduardo-galeano-na-espanha/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - democracia

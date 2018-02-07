@@ -3,7 +3,7 @@ title: Resultado da OBI2006
 type: post
 date: 2006-05-31T18:32:03+00:00
 url: /2006/05/resultado-da-obi2006/
-categories:
+categorias:
   - Cotidiano
 tags:
   - c

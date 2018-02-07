@@ -3,7 +3,7 @@ title: Qual é o segredo do sucesso?
 type: post
 date: 2006-12-28T21:31:01+00:00
 url: /2006/12/qual-e-o-segredo-do-sucesso/
-categories:
+categorias:
   - Cotidiano
 tags:
   - blogosfera

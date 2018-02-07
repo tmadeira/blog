@@ -3,7 +3,7 @@ title: Alguém não sabe quem manda nos morros?
 type: post
 date: 2007-01-22T10:56:49+00:00
 url: /2007/01/alguem-nao-sabe-quem-manda-nos-morros/
-categories:
+categorias:
   - Política
 tags:
   - brasil

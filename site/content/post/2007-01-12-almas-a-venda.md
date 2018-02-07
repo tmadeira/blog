@@ -3,7 +3,7 @@ title: Almas à venda
 type: post
 date: 2007-01-12T21:48:48+00:00
 url: /2007/01/almas-a-venda/
-categories:
+categorias:
   - Religião
 tags:
   - cristianismo

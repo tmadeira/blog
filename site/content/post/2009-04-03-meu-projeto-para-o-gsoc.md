@@ -5,7 +5,7 @@ date: 2009-04-03T15:06:33+00:00
 url: /2009/04/meu-projeto-para-o-gsoc/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Software Livre
 tags:
   - free software

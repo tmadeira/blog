@@ -3,7 +3,7 @@ title: Assembleia na FAU
 type: post
 date: 2009-10-20T02:29:35+00:00
 url: /2009/10/assembleia-na-fau/
-categories:
+categorias:
   - Cotidiano
 tags:
   - "2009"

@@ -6,7 +6,7 @@ excerpt: Também conhecida como Insertion Sort, a Ordenação por Inserção con
 url: /2006/01/ordenacao-por-insercao/
 ordem:
   - eeekk
-categories:
+categorias:
   - Ordenação
 tags:
   - algoritmos

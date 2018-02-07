@@ -4,7 +4,7 @@ type: post
 date: 2005-08-31T22:45:55+00:00
 excerpt: Implementei o feed RSS que faltava na minha página; entrei no programa Google Adsense; sábado é a segunda fase da OBM!
 url: /2005/08/feed-rss-google-e-obm/
-categories:
+categorias:
   - Cotidiano
 tags:
   - feeds

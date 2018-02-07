@@ -4,7 +4,7 @@ type: post
 date: 2012-05-06T06:14:07+00:00
 url: /2012/05/mostrando-uma-agenda-do-google-calendar-no-seu-site/
 featured_image: /wp-content/uploads/2012/05/cal.jpg
-categories:
+categorias:
   - Códigos aleatórios
   - Dicas
 tags:

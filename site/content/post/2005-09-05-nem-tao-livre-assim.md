@@ -4,7 +4,7 @@ type: post
 date: 2005-09-05T17:40:19+00:00
 excerpt: A Istoé publicou uma matéria sobre a saída de Sérgio Amadeu da Silveira do ITI...
 url: /2005/09/nem-tao-livre-assim/
-categories:
+categorias:
   - Software Livre
 tags:
   - festival de música

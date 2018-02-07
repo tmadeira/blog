@@ -4,7 +4,7 @@ type: post
 date: 2005-04-01T15:59:52+00:00
 excerpt: O título já descreve tudo!
 url: /2005/04/demonstracoes-matematicas-ie-7-bash-geshi/
-categories:
+categorias:
   - Cotidiano
 tags:
   - bash

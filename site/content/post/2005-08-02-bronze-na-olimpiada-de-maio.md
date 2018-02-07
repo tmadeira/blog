@@ -4,7 +4,7 @@ type: post
 date: 2005-08-02T20:11:08+00:00
 excerpt: Ontem saiu lá no site da OBM o resultado do Brasil na Olimpíada de Maio! Ganhei bronze com 30 pontos!
 url: /2005/08/bronze-na-olimpiada-de-maio/
-categories:
+categorias:
   - Cotidiano
 tags:
   - Matemática

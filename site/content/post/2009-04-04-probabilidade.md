@@ -5,7 +5,7 @@ date: 2009-04-05T01:43:40+00:00
 url: /2009/04/probabilidade/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Matemática
 tags:
   - aulas

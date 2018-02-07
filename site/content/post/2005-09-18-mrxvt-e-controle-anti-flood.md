@@ -4,7 +4,7 @@ type: post
 date: 2005-09-18T17:39:38+00:00
 excerpt: Conheci um terminal bem legal e bem leve!
 url: /2005/09/mrxvt-e-controle-anti-flood/
-categories:
+categorias:
   - Cotidiano
 tags:
   - bbcode

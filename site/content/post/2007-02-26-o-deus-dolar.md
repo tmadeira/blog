@@ -3,7 +3,7 @@ title: O deus dólar
 type: post
 date: 2007-02-26T23:02:51+00:00
 url: /2007/02/o-deus-dolar/
-categories:
+categorias:
   - Dinheiro
 tags:
   - américa

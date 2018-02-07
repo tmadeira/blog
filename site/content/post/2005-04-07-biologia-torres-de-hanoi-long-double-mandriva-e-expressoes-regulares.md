@@ -4,7 +4,7 @@ type: post
 date: 2005-04-07T23:17:30+00:00
 excerpt: São muitos assuntos pra descrever em tão pouco espaço! Leia logo o artigo completo!
 url: /2005/04/biologia-torres-de-hanoi-long-double-mandriva-e-expressoes-regulares/
-categories:
+categorias:
   - Cotidiano
 tags:
   - biologia

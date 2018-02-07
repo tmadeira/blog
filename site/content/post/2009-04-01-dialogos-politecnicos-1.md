@@ -5,7 +5,7 @@ date: 2009-04-01T12:42:22+00:00
 url: /2009/04/dialogos-politecnicos-1/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Futilidades
 tags:
   - engenharia

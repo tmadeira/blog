@@ -3,7 +3,7 @@ title: Algoritmo da Divisão
 type: post
 date: 2009-03-31T11:58:09+00:00
 url: /2009/03/algoritmo-da-divisao/
-categories:
+categorias:
   - Futilidades
 tags:
   - divisão

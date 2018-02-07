@@ -3,7 +3,7 @@ title: Provisoriamente 2^4
 type: post
 date: 2007-05-05T00:15:19+00:00
 url: /2007/05/provisoriamente-24/
-categories:
+categorias:
   - Cotidiano
 tags:
   - computação

@@ -4,7 +4,7 @@ type: post
 date: 2005-03-12T18:10:44+00:00
 excerpt: Neste fim de semana, andei tentando utilizar o QEMU e o Wine para usar aplicativos Windows no meu Slack 10.1 (que diga-se de passagem, é um sistema muiiiiiito melhor que esse troço que eu tive tanto trabalho pra emular). Qual a utilidade disso? Praticamente nenhuma, só pra aprender mesmo e "mesmo sem se livrar das drogas, pelo menos não precisar sair de casa pra usá-las".
 url: /2005/03/windows-no-linux-qemu-e-wine/
-categories:
+categorias:
   - Cotidiano
 tags:
   - c

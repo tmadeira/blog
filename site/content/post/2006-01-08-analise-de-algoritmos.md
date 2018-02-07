@@ -6,7 +6,7 @@ excerpt: Analisar um algoritmo é prever o que o algoritmo irá precisar. Com es
 url: /2006/01/analise-de-algoritmos/
 ordem:
   - eeehh
-categories:
+categorias:
   - Básico
 tags:
   - algoritmos

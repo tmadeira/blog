@@ -4,7 +4,7 @@ type: post
 date: 2005-08-31T16:48:55+00:00
 excerpt: Por dica do Paulo Matias, instalei um CVS do XDirectFB no meu Linux e estou curtindo bastante!
 url: /2005/08/linux-xdirectfb-e-wine/
-categories:
+categorias:
   - Cotidiano
 tags:
   - flash

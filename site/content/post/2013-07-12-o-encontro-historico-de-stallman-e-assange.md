@@ -4,7 +4,7 @@ type: post
 date: 2013-07-12T15:57:50+00:00
 url: /2013/07/o-encontro-historico-de-stallman-e-assange/
 featured_image: /wp-content/uploads/2013/07/789758853-300x180.jpg
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - bradley manning

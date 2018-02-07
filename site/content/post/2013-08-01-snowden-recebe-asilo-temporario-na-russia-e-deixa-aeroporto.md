@@ -3,7 +3,7 @@ title: Snowden recebe asilo temporário na Rússia e deixa aeroporto
 type: post
 date: 2013-08-01T11:52:57+00:00
 url: /2013/08/snowden-recebe-asilo-temporario-na-russia-e-deixa-aeroporto/
-categories:
+categorias:
   - Política
 tags:
   - aeroporto

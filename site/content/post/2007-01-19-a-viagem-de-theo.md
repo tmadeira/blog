@@ -3,7 +3,7 @@ title: A Viagem de Théo
 type: post
 date: 2007-01-20T01:29:55+00:00
 url: /2007/01/a-viagem-de-theo/
-categories:
+categorias:
   - Livros
 tags:
   - filosofia

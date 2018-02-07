@@ -3,7 +3,7 @@ title: Excerto de Illich sobre o transporte em 1973
 type: post
 date: 2010-03-30T23:33:14+00:00
 url: /2010/03/excerto-de-illich-sobre-o-transporte-em-1973/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - automóvel

@@ -5,7 +5,7 @@ date: 2009-04-08T00:05:52+00:00
 url: /2009/04/o-dia-em-que-passei-na-usp/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Cotidiano
 tags:
   - estória

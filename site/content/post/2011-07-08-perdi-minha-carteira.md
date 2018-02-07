@@ -3,7 +3,7 @@ title: Perdi minha carteira
 type: post
 date: 2011-07-08T15:50:21+00:00
 url: /2011/07/perdi-minha-carteira/
-categories:
+categorias:
   - Cotidiano
 tags:
   - carteira

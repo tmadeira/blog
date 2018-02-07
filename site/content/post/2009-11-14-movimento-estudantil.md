@@ -3,7 +3,7 @@ title: Movimento Estudantil
 type: post
 date: 2009-11-14T17:21:05+00:00
 url: /2009/11/movimento-estudantil/
-categories:
+categorias:
   - Política
 tags:
   - dce

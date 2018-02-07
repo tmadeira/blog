@@ -3,7 +3,7 @@ title: Enredo de Mr. Robot
 type: post
 date: 2017-05-12T18:46:20+00:00
 url: /2017/05/enredo-de-mr-robot/
-categories:
+categorias:
   - Cotidiano
 tags:
   - eternalblue

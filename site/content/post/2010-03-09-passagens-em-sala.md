@@ -3,7 +3,7 @@ title: Passagens em sala
 type: post
 date: 2010-03-09T13:50:09+00:00
 url: /2010/03/passagens-em-sala/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - dce

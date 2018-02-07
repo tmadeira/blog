@@ -3,7 +3,7 @@ title: O prédio e as bolas
 type: post
 date: 2012-10-27T13:49:44+00:00
 url: /2012/10/o-predio-e-as-bolas/
-categories:
+categorias:
   - Matemática
 tags:
   - algoritmos

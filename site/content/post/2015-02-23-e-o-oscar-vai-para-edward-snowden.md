@@ -3,7 +3,7 @@ title: E o Oscar vai para… Edward Snowden!
 type: post
 date: 2015-02-23T11:03:58+00:00
 url: /2015/02/e-o-oscar-vai-para-edward-snowden/
-categories:
+categorias:
   - Política
 tags:
   - citizenfour

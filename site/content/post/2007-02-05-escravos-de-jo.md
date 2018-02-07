@@ -3,7 +3,7 @@ title: Escravos de Jó
 type: post
 date: 2007-02-05T12:31:14+00:00
 url: /2007/02/escravos-de-jo/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - escravos de jó

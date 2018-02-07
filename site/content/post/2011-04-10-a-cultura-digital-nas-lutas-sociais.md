@@ -3,7 +3,7 @@ title: A cultura digital nas lutas sociais
 type: post
 date: 2011-04-10T02:11:32+00:00
 url: /2011/04/a-cultura-digital-nas-lutas-sociais/
-categories:
+categorias:
   - Política
 tags:
   - cultura digital

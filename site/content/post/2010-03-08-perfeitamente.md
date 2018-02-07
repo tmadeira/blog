@@ -3,7 +3,7 @@ title: Perfeitamente
 type: post
 date: 2010-03-08T20:26:19+00:00
 url: /2010/03/perfeitamente/
-categories:
+categorias:
   - Cotidiano
 tags:
   - cartaz

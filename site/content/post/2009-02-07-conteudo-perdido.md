@@ -3,7 +3,7 @@ title: Conteúdo perdido
 type: post
 date: 2009-02-07T22:00:20+00:00
 url: /2009/02/conteudo-perdido/
-categories:
+categorias:
   - Metablogagem
 tags:
   - conteúdo

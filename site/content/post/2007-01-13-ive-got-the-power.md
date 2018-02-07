@@ -3,7 +3,7 @@ title: I’ve got the power!
 type: post
 date: 2007-01-13T21:52:27+00:00
 url: /2007/01/ive-got-the-power/
-categories:
+categorias:
   - Cotidiano
 tags:
   - 64 bits

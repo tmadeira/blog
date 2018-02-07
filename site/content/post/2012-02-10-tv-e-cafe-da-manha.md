@@ -3,7 +3,7 @@ title: TV e café da manhã
 type: post
 date: 2012-02-10T04:47:45+00:00
 url: /2012/02/tv-e-cafe-da-manha/
-categories:
+categorias:
   - Cotidiano
 tags:
   - café da manhã

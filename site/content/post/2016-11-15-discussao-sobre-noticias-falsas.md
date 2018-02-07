@@ -3,7 +3,7 @@ title: Discussão sobre notícias falsas
 type: post
 date: 2016-11-15T20:13:11+00:00
 url: /2016/11/discussao-sobre-noticias-falsas/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - boatos

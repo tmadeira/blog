@@ -3,7 +3,7 @@ title: Crueldade com os animais
 type: post
 date: 2007-03-22T22:42:35+00:00
 url: /2007/03/crueldade-com-os-animais/
-categories:
+categorias:
   - Futilidades
 tags:
   - animais

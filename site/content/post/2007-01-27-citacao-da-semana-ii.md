@@ -3,7 +3,7 @@ title: Citação da Semana II
 type: post
 date: 2007-01-27T12:22:56+00:00
 url: /2007/01/citacao-da-semana-ii/
-categories:
+categorias:
   - Citações
 tags:
   - citação

@@ -3,7 +3,7 @@ title: A necessidade de ter dinheiro
 type: post
 date: 2006-12-04T17:17:42+00:00
 url: /2006/12/a-necessidade-de-ter-dinheiro/
-categories:
+categorias:
   - Dinheiro
 tags:
   - ambição

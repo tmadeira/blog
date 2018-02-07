@@ -4,7 +4,7 @@ type: post
 date: 2006-01-15T22:11:10+00:00
 excerpt: 'Estava me perguntando hoje: "O que é a lógica da programação?" E não consegui obter nenhuma resposta com exatidão... Afinal, o que é esse negócio que "todo programador tem que saber" e que até cursos existem para o profissional aprender?'
 url: /2006/01/saber-programar/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - computação

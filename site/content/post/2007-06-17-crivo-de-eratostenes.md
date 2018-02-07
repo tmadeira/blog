@@ -5,7 +5,7 @@ date: 2007-06-17T13:40:53+00:00
 url: /2007/06/crivo-de-eratostenes/
 ordem:
   - eeenn
-categories:
+categorias:
   - Curiosidades
 tags:
   - algoritmos

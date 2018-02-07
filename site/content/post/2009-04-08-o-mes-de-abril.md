@@ -5,7 +5,7 @@ date: 2009-04-08T21:10:41+00:00
 url: /2009/04/o-mes-de-abril/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Cotidiano
 tags:
   - aulas

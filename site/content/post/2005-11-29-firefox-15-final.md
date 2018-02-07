@@ -4,7 +4,7 @@ type: post
 date: 2005-11-30T00:49:32+00:00
 excerpt: Acaba de sair o Firefox 1.5, versão final!
 url: /2005/11/firefox-15-final/
-categories:
+categorias:
   - Cotidiano
 tags:
   - computação

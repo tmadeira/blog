@@ -3,7 +3,7 @@ title: Redes sociais e democracia
 type: post
 date: 2012-11-14T19:58:33+00:00
 url: /2012/11/redes-sociais-e-democracia/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - empresas

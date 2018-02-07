@@ -3,7 +3,7 @@ title: Windows é mais fácil?
 type: post
 date: 2006-12-09T17:59:31+00:00
 url: /2006/12/windows-e-mais-facil/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - dicas

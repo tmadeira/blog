@@ -4,7 +4,7 @@ type: post
 date: 2012-03-15T06:11:03+00:00
 url: /2012/03/admin-anti-forget-alarm/
 featured_image: /wp-content/uploads/2012/03/wordpress-plugin.jpg
-categories:
+categorias:
   - WordPress
 tags:
   - códigos

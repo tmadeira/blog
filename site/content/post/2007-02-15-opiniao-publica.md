@@ -3,7 +3,7 @@ title: Opinião pública
 type: post
 date: 2007-02-15T21:32:26+00:00
 url: /2007/02/opiniao-publica/
-categories:
+categorias:
   - Citações
   - Sociedade
 tags:

@@ -3,7 +3,7 @@ title: Sobre o blog
 type: post
 date: 2009-03-30T00:15:15+00:00
 url: /2009/03/sobre-o-blog/
-categories:
+categorias:
   - Metablogagem
 tags:
   - história

@@ -4,7 +4,7 @@ type: post
 date: 2005-11-07T18:19:01+00:00
 excerpt: A medida que família e amigos conhecem o Ubuntu, o Linux vem ganhando cada vez mais espaço nos computadores por aqui...
 url: /2005/11/linux-ganhando-espaco/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - gparted

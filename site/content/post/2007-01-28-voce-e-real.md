@@ -3,7 +3,7 @@ title: Você é real?
 type: post
 date: 2007-01-28T23:42:45+00:00
 url: /2007/01/voce-e-real/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - filosofia

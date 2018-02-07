@@ -3,7 +3,7 @@ title: Como a criptografia é uma arma fundamental na luta contra os estados do 
 type: post
 date: 2013-07-09T19:22:25+00:00
 url: /2013/07/como-a-criptografia-e-uma-arma-fundamental-na-luta-contra-os-estados-do-imperio/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - américa latina

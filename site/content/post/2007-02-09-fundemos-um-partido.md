@@ -3,7 +3,7 @@ title: Fundemos um partido!
 type: post
 date: 2007-02-09T16:47:11+00:00
 url: /2007/02/fundemos-um-partido/
-categories:
+categorias:
   - Política
 tags:
   - brasil

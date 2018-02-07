@@ -4,7 +4,7 @@ type: post
 date: 2005-02-01T13:59:57+00:00
 excerpt: Comecei a usar o Shortstat para acompanhar as estatísticas do meu site. Ele é muito bom, mas tive alguns probleminhas com ele. Aqui explico soluções legais para estes problemas.
 url: /2005/02/estatisticas-de-visita-com-shortstat/
-categories:
+categorias:
   - Dicas
   - Metablogagem
 tags:

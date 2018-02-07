@@ -3,7 +3,7 @@ title: 'for (d=hoje; d<=17/03; d++) { Estude – OBI }'
 type: post
 date: 2007-01-24T13:33:13+00:00
 url: /2007/01/for-arrays-c-obi/
-categories:
+categorias:
   - Cotidiano
 tags:
   - c

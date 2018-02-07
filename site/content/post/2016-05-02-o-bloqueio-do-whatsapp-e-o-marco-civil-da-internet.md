@@ -3,7 +3,7 @@ title: O bloqueio do WhatsApp e o Marco Civil da Internet
 type: post
 date: 2016-05-02T18:46:52+00:00
 url: /2016/05/o-bloqueio-do-whatsapp-e-o-marco-civil-da-internet/
-categories:
+categorias:
   - Política
 tags:
   - bloqueio

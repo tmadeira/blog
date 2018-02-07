@@ -3,7 +3,7 @@ title: Acer Orbicam
 type: post
 date: 2007-01-26T17:57:34+00:00
 url: /2007/01/acer-orbicam/
-categories:
+categorias:
   - Cotidiano
 tags:
   - acer

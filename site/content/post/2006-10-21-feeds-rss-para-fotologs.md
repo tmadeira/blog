@@ -3,7 +3,7 @@ title: Feeds RSS para fotologs
 type: post
 date: 2006-10-21T18:56:55+00:00
 url: /2006/10/feeds-rss-para-fotologs/
-categories:
+categorias:
   - Códigos aleatórios
 tags:
   - bloglines

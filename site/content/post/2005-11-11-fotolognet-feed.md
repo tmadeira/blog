@@ -4,7 +4,7 @@ type: post
 date: 2005-11-11T19:06:26+00:00
 excerpt: Não sei se isso já não existe; não sei se ninguém nunca sentiu falta. Afim de valorizar feeds RSS e acompanhar fotos de amigos, resolvi criar um feed para fotologs do Fotolog.net.
 url: /2005/11/fotolognet-feed/
-categories:
+categorias:
   - Códigos aleatórios
 tags:
   - bloglines

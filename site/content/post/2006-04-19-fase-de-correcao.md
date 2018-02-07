@@ -4,7 +4,7 @@ type: post
 date: 2006-04-19T23:50:32+00:00
 excerpt: As tarefas da modalidade Programação estão sendo corrigidas. Já que acabou o período de submissão da modalidade de Programação, aqui também exponho minhas soluções.
 url: /2006/04/fase-de-correcao/
-categories:
+categorias:
   - Cotidiano
 tags:
   - códigos

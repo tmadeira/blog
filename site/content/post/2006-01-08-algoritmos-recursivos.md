@@ -6,7 +6,7 @@ excerpt: A "recursão" é uma das técnicas mais simples e úteis que existem pa
 url: /2006/01/algoritmos-recursivos/
 ordem:
   - eeeii
-categories:
+categorias:
   - Básico
 tags:
   - algoritmos

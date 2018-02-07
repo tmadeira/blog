@@ -3,7 +3,7 @@ title: Sobre matrizes e mulheres
 type: post
 date: 2009-03-30T23:54:34+00:00
 url: /2009/03/sobre-matrizes-e-mulheres/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - álgebra linear

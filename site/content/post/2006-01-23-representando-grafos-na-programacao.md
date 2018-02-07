@@ -6,7 +6,7 @@ excerpt: Como representar relações binárias na programação? Qual a estrutur
 url: /2006/01/representando-grafos-na-programacao/
 ordem:
   - eeeqq
-categories:
+categorias:
   - Grafos
 tags:
   - adjacência

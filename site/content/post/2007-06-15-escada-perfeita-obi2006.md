@@ -5,7 +5,7 @@ date: 2007-06-15T12:38:30+00:00
 url: /2007/06/escada-perfeita-obi2006/
 ordem:
   - eeess
-categories:
+categorias:
   - Algoritmos gulosos
 tags:
   - algoritmos

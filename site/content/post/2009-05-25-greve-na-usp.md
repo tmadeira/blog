@@ -5,7 +5,7 @@ date: 2009-05-25T22:14:31+00:00
 url: /2009/05/greve-na-usp/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Cotidiano
   - Política
 tags:

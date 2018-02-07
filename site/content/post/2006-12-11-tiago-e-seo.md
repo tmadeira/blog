@@ -3,7 +3,7 @@ title: Tiago e SEO
 type: post
 date: 2006-12-11T11:43:00+00:00
 url: /2006/12/tiago-e-seo/
-categories:
+categorias:
   - Cotidiano
 tags:
   - google

@@ -5,7 +5,7 @@ date: 2009-04-14T22:34:27+00:00
 url: /2009/04/refeicao-especial/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Futilidades
 tags:
   - avião

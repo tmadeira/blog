@@ -8,3 +8,6 @@ pygmentsCodeFences = true
 
 [params]
   description = "Um blog com pensamentos aleatórios principalmente sobre ciência da computação."
+
+[taxonomies]
+  categoria = "categorias"

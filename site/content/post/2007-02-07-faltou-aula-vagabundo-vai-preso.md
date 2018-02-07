@@ -3,7 +3,7 @@ title: Faltou aula, vagabundo? Vai preso!
 type: post
 date: 2007-02-07T23:55:42+00:00
 url: /2007/02/faltou-aula-vagabundo-vai-preso/
-categories:
+categorias:
   - Política
   - Sociedade
 tags:

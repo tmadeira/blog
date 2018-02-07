@@ -4,7 +4,7 @@ type: post
 date: 2005-12-06T13:41:30+00:00
 excerpt: Meu Flickr tá estourando e por isso resolvi criar um álbum de fotos pessoal que disponibilizarei como software livre. Estou desenvolvendo em PHP, com um banco de dados MySql e estou criando bastante recursos Ajax para exercitar um pouco e para o negócio ficar bem dinâmico.
 url: /2005/12/album-de-fotos/
-categories:
+categorias:
   - Códigos aleatórios
 tags:
   - ajax

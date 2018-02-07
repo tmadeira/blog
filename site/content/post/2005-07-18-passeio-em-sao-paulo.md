@@ -4,7 +4,7 @@ type: post
 date: 2005-07-18T16:37:30+00:00
 excerpt: Acabou o Curso de Programação da Olimpíada Brasileira de Informática em Campinas e agora eu e o Bruno (meu irmão) estamos em São Paulo.
 url: /2005/07/passeio-em-sao-paulo/
-categories:
+categorias:
   - Cotidiano
 tags:
   - livrarias

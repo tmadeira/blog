@@ -5,7 +5,7 @@ date: 2005-11-12T01:44:34+00:00
 excerpt: |
   Eles foram ligar o sistema como de costume e deu uma telinha azul do Windows NT dizendo que o HD deveria estar corrompido...! Na hora, com olhos brilhantes, pensei: 'Graças a Deus'. Sou agnóstico, não ateu; mas acho que depois dessa até que desenvolvi uma certa gnose!
 url: /2005/11/o-windows-quebrou/
-categories:
+categorias:
   - Cotidiano
 tags:
   - computador

@@ -4,7 +4,7 @@ type: post
 date: 2011-07-01T05:15:23+00:00
 url: /2011/07/a-palestra-do-chris-hofmann-mozilla-e-outros-destaques-do-2º-dia-do-12º-fisl/
 featured_image: /wp-content/uploads/2011/07/2628097518_79a44f167e_o-300x180.jpg
-categories:
+categorias:
   - Software Livre
 tags:
   - compartilhamento

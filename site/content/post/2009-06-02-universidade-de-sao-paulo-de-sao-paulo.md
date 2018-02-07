@@ -5,7 +5,7 @@ date: 2009-06-02T14:19:17+00:00
 url: /2009/06/universidade-de-sao-paulo-de-sao-paulo/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - fuvest

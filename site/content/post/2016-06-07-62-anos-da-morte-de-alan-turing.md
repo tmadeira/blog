@@ -3,7 +3,7 @@ title: 62 anos da morte de Alan Turing
 type: post
 date: 2016-06-07T19:07:00+00:00
 url: /2016/06/62-anos-da-morte-de-alan-turing/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - alan turing

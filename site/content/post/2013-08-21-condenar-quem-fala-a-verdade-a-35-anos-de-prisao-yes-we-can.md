@@ -3,7 +3,7 @@ title: 'Condenar quem fala a verdade a 35 anos de prisão: Yes, we can'
 type: post
 date: 2013-08-21T14:39:50+00:00
 url: /2013/08/condenar-quem-fala-a-verdade-a-35-anos-de-prisao-yes-we-can/
-categories:
+categorias:
   - Política
 tags:
   - assange

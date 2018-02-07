@@ -3,7 +3,7 @@ title: Publicidade gratuita
 type: post
 date: 2007-02-08T13:50:39+00:00
 url: /2007/02/publicidade-gratuita/
-categories:
+categorias:
   - Cotidiano
 tags:
   - enem

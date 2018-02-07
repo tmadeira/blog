@@ -4,7 +4,7 @@ type: post
 date: 2005-11-29T13:27:11+00:00
 excerpt: Impressionante a quantidade de besteiras que todo programador faz... Às vezes, uma semana depois de fazer um programa ou um site, eu já sinto raiva do script que acabei de fazer e me sinto obrigado a refazê-lo.
 url: /2005/11/quanto-lixo/
-categories:
+categorias:
   - Cotidiano
 tags:
   - aeroporto

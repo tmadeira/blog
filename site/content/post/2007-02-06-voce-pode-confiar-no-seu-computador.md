@@ -3,7 +3,7 @@ title: Você pode confiar no seu computador?
 type: post
 date: 2007-02-07T00:24:26+00:00
 url: /2007/02/voce-pode-confiar-no-seu-computador/
-categories:
+categorias:
   - Software Livre
 tags:
   - can you trust your computer

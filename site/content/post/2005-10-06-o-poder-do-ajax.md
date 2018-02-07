@@ -4,7 +4,7 @@ type: post
 date: 2005-10-06T21:57:23+00:00
 excerpt: Ajax é a sigla de Asynchronous JavaScript and XML. Não é uma linguagem, nem uma tecnologia; como eu antes pensava. É simplesmente uma maneira de trabalhar com o cliente e o servidor juntos, usando XmlHttpRequest do JavaScript.
 url: /2005/10/o-poder-do-ajax/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - ajax

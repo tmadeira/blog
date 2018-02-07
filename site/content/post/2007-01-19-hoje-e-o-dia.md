@@ -3,7 +3,7 @@ title: Hoje é o dia!
 type: post
 date: 2007-01-19T15:47:09+00:00
 url: /2007/01/hoje-e-o-dia/
-categories:
+categorias:
   - Cotidiano
 tags:
   - acer

@@ -3,7 +3,7 @@ title: emerge happiness
 type: post
 date: 2007-01-18T12:38:34+00:00
 url: /2007/01/emerge-happiness/
-categories:
+categorias:
   - Cotidiano
 tags:
   - alsa

@@ -3,7 +3,7 @@ title: Novo site da Revista Movimento
 type: post
 date: 2017-07-26T13:08:54+00:00
 url: /2017/07/novo-site-da-revista-movimento/
-categories:
+categorias:
   - Política
 tags:
   - mes

@@ -4,7 +4,7 @@ type: post
 date: 2011-02-02T12:29:16+00:00
 url: /2011/02/as-vantagens-do-software-livre/
 featured_image: /wp-content/uploads/2011/02/stallman.jpg
-categories:
+categorias:
   - Software Livre
 tags:
   - free software

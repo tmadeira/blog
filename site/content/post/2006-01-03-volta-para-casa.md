@@ -4,7 +4,7 @@ type: post
 date: 2006-01-03T15:15:16+00:00
 excerpt: Depois de uma semana em Florianópolis, estou novamente em Itajaí. Voltei anteontem no final da tarde e o motivo de não ter postado nada é que eu tinha que acabar um trabalho...
 url: /2006/01/volta-para-casa/
-categories:
+categorias:
   - Cotidiano
 tags:
   - algoritmos

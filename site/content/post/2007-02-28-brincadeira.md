@@ -3,7 +3,7 @@ title: Brincadeira
 type: post
 date: 2007-02-28T23:50:29+00:00
 url: /2007/02/brincadeira/
-categories:
+categorias:
   - Política
 tags:
   - américa

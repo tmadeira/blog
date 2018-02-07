@@ -3,7 +3,7 @@ title: A decisão da juíza que bloqueou o acesso de todo país ao WhatsApp
 type: post
 date: 2016-07-19T18:31:37+00:00
 url: /2016/07/a-decisao-da-juiza-que-bloqueou-o-acesso-de-todo-pais-ao-whatsapp/
-categories:
+categorias:
   - Cotidiano
   - Política
 tags:

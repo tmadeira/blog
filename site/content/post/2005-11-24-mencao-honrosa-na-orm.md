@@ -4,7 +4,7 @@ type: post
 date: 2005-11-24T18:30:45+00:00
 excerpt: Saiu o resultado da Olimpíada Regional de Matemática!
 url: /2005/11/mencao-honrosa-na-orm/
-categories:
+categorias:
   - Cotidiano
 tags:
   - Matemática

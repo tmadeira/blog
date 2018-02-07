@@ -3,7 +3,7 @@ title: Automonarquia
 type: post
 date: 2007-03-21T23:10:32+00:00
 url: /2007/03/automonarquia/
-categories:
+categorias:
   - Citações
   - Política
 tags:

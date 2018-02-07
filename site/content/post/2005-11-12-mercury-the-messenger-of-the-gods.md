@@ -4,7 +4,7 @@ type: post
 date: 2005-11-13T02:10:50+00:00
 excerpt: 'Continuando com os programas para imigrantes (mas não só pra eles), aí está mais um excelente programa para Linux (e em Windows também funciona!): Mercury.'
 url: /2005/11/mercury-the-messenger-of-the-gods/
-categories:
+categorias:
   - Dicas
 tags:
   - java

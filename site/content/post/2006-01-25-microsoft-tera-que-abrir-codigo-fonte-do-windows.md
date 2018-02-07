@@ -4,7 +4,7 @@ type: post
 date: 2006-01-26T00:25:07+00:00
 excerpt: A Microsoft anunciou, nesta quarta-feira, que vai abrir o código-fonte do sistema operacional Windows. A decisão cumpre uma das exigências da União Européia, que ameaçou multar a empresa por práticas monopolistas.
 url: /2006/01/microsoft-tera-que-abrir-codigo-fonte-do-windows/
-categories:
+categorias:
   - Software Livre
 tags:
   - microsoft

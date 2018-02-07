@@ -4,7 +4,7 @@ type: post
 date: 2005-09-16T19:31:00+00:00
 excerpt: Instalei o PHP 5.0.5 e para minha surpresa recebi vários erros! Que história é essa de "Only variables can be passed by reference"?
 url: /2005/09/only-variables-can-be-passed-by-reference/
-categories:
+categorias:
   - Futilidades
 tags:
   - bug

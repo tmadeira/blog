@@ -3,7 +3,7 @@ title: Como recuperar a inicialização do Linux depois de instalar Windows
 type: post
 date: 2008-06-20T20:59:28+00:00
 url: /2008/06/como-recuperar-o-boot-do-linux-depois-de-instalar-o-windows/
-categories:
+categorias:
   - Dicas
 tags:
   - boot

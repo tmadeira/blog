@@ -6,7 +6,7 @@ excerpt: 'Uma pausa nos algoritmos de ordenação para usar nossos conhecimentos
 url: /2006/01/mini-poker/
 ordem:
   - eeemn
-categories:
+categorias:
   - Básico
 tags:
   - algoritmos

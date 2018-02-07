@@ -3,7 +3,7 @@ title: Lan house e sorvete expresso
 type: post
 date: 2007-01-03T21:38:58+00:00
 url: /2007/01/lan-house-e-sorvete-expresso/
-categories:
+categorias:
   - Cotidiano
 tags:
   - "2007"

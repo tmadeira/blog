@@ -3,7 +3,7 @@ title: Bram Mooleenar vs. Bill Gates
 type: post
 date: 2007-01-28T01:58:53+00:00
 url: /2007/01/bram-moleenar-vs-bill-gates/
-categories:
+categorias:
   - Dinheiro
 tags:
   - bill gates

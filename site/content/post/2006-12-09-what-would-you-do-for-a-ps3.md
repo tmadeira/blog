@@ -3,7 +3,7 @@ title: What would you do for a PS3?
 type: post
 date: 2006-12-09T02:02:35+00:00
 url: /2006/12/what-would-you-do-for-a-ps3/
-categories:
+categorias:
   - Dinheiro
   - Sociedade
 tags:

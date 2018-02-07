@@ -4,7 +4,7 @@ type: post
 date: 2010-08-29T03:00:55+00:00
 url: /2010/08/calendario-santo-discordiano-no-fluxbox/
 featured_image: /wp-content/uploads/2010/08/eris.jpg
-categories:
+categorias:
   - Códigos aleatórios
   - Software Livre
 tags:

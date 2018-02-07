@@ -3,7 +3,7 @@ title: Como usar SSH quando seu roteador bloqueia que você faça conexões à p
 type: post
 date: 2017-11-25T20:35:00+00:00
 url: /2017/11/como-usar-ssh-quando-seu-roteador-bloqueia-que-voce-faca-conexoes-a-porta-22/
-categories:
+categorias:
   - Dicas
 tags:
   - bitbucket

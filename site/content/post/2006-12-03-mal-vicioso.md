@@ -3,7 +3,7 @@ title: Mal Vicioso
 type: post
 date: 2006-12-03T17:31:21+00:00
 url: /2006/12/mal-vicioso/
-categories:
+categorias:
   - Metablogagem
 tags:
   - carol

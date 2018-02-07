@@ -3,7 +3,7 @@ title: Eu conheço o segredo
 type: post
 date: 2007-07-23T01:21:57+00:00
 url: /2007/07/eu-conheco-o-segredo/
-categories:
+categorias:
   - Filmes
 tags:
   - auto-ajuda

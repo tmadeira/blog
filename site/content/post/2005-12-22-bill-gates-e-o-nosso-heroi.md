@@ -4,7 +4,7 @@ type: post
 date: 2005-12-22T13:31:20+00:00
 excerpt: É engraçado a imagem do Bill Gates que a mídia tem feito com algumas notícias... Não sei se é ele que realmente está se tornando um ser humano ou ele está sendo pressionado assim e está tendo que se fazer pra brigar com o Google e o Yahoo (claro que esse segundo motivo é bem mais provável e, quem conhece o Bill Gates, sabe muito bem disso).
 url: /2005/12/bill-gates-e-o-nosso-heroi/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - bill gates

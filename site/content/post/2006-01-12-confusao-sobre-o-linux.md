@@ -4,7 +4,7 @@ type: post
 date: 2006-01-12T19:25:13+00:00
 excerpt: Excelente artigo de Falcon Dark sobre a confusão sobre o Linux para usuários leigos. Questiona a mastigação de informações que a Microsoft faz e traz novas idéias.
 url: /2006/01/confusao-sobre-o-linux/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - linux

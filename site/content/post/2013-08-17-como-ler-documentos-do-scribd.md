@@ -3,7 +3,7 @@ title: Como ler documentos do Scribd
 type: post
 date: 2013-08-17T15:33:04+00:00
 url: /2013/08/como-ler-documentos-do-scribd/
-categories:
+categorias:
   - Dicas
 tags:
   - códigos

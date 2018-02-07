@@ -4,7 +4,7 @@ type: post
 date: 2005-06-17T20:05:32+00:00
 excerpt: Para minha surpresa, fiz 395 dos 400 pontos possíveis!
 url: /2005/06/primeiro-lugar-na-obi-2005/
-categories:
+categorias:
   - Cotidiano
 tags:
   - computação

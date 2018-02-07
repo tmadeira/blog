@@ -4,7 +4,7 @@ type: post
 date: 2005-03-15T19:34:00+00:00
 excerpt: Novos programinhas lógicos simples...
 url: /2005/03/funcao-para-mmc-e-gerador-de-graficos-em-setores/
-categories:
+categorias:
   - Cotidiano
 tags:
   - c

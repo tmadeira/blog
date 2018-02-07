@@ -4,7 +4,7 @@ type: post
 date: 2005-08-26T18:51:52+00:00
 excerpt: 'Em primeiro lugar, venho comunicar que não uso mais MSN Messenger. Cheguei a conclusão de quem quer falar comigo deve usar o que eu uso e não ao contrário, por um motivo óbvio: o meu é melhor que o deles.'
 url: /2005/08/mensageiros-instantaneos-obm-novos-programas-musica/
-categories:
+categorias:
   - Cotidiano
 tags:
   - algoritmos

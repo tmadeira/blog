@@ -3,7 +3,7 @@ title: udev e suas regras maravilhosas
 type: post
 date: 2006-09-12T20:17:49+00:00
 url: /2006/09/udev-e-suas-regras-maravilhosas/
-categories:
+categorias:
   - Dicas
 tags:
   - dicas

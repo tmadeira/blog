@@ -3,7 +3,7 @@ title: Sobre forma e conteúdo
 type: post
 date: 2009-03-30T15:04:06+00:00
 url: /2009/03/sobre-forma-e-conteudo/
-categories:
+categorias:
   - Metablogagem
 tags:
   - conteúdo

@@ -3,7 +3,7 @@ title: O utente da indústria do transporte (mais Illich)
 type: post
 date: 2010-03-31T00:11:09+00:00
 url: /2010/03/o-utente-da-industria-do-transporte-mais-illich/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - "1973"

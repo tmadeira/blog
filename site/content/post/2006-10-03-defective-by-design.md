@@ -3,7 +3,7 @@ title: Defective by Design
 type: post
 date: 2006-10-03T21:59:11+00:00
 url: /2006/10/defective-by-design/
-categories:
+categorias:
   - Software Livre
 tags:
   - defective by design

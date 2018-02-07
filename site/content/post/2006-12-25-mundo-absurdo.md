@@ -3,7 +3,7 @@ title: Mundo absurdo
 type: post
 date: 2006-12-25T12:58:54+00:00
 url: /2006/12/mundo-absurdo/
-categories:
+categorias:
   - Religião
 tags:
   - astronomia

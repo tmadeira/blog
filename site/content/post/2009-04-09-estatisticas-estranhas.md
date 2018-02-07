@@ -5,7 +5,7 @@ date: 2009-04-09T11:46:27+00:00
 url: /2009/04/estatisticas-estranhas/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Metablogagem
 tags:
   - estatiśtica

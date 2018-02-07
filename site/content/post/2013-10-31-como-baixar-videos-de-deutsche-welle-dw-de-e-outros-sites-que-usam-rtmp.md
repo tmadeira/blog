@@ -3,7 +3,7 @@ title: Como baixar vídeos de Deutsche Welle (dw.de) e outros sites que usam RTM
 type: post
 date: 2013-11-01T02:49:51+00:00
 url: /2013/10/como-baixar-videos-de-deutsche-welle-dw-de-e-outros-sites-que-usam-rtmp/
-categories:
+categorias:
   - Dicas
 
 ---

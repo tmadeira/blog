@@ -3,7 +3,7 @@ title: O dia em que o Brasil foi invadido
 type: post
 date: 2007-01-12T14:40:17+00:00
 url: /2007/01/o-dia-em-que-o-brasil-foi-invadido/
-categories:
+categorias:
   - Política
 tags:
   - brasil

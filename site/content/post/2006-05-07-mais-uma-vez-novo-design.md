@@ -3,7 +3,7 @@ title: Mais uma vez, novo design!
 type: post
 date: 2006-05-07T12:47:21+00:00
 url: /2006/05/mais-uma-vez-novo-design/
-categories:
+categorias:
   - Metablogagem
 tags:
   - a list apart

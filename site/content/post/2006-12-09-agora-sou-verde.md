@@ -3,7 +3,7 @@ title: Agora sou verde
 type: post
 date: 2006-12-09T15:15:17+00:00
 url: /2006/12/agora-sou-verde/
-categories:
+categorias:
   - Metablogagem
 tags:
   - criatividade

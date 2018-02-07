@@ -3,7 +3,7 @@ title: Dor de cabeça
 type: post
 date: 2007-01-16T13:46:14+00:00
 url: /2007/01/dor-de-cabeca/
-categories:
+categorias:
   - Cotidiano
 tags:
   - 64 bits

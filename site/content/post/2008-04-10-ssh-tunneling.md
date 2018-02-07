@@ -3,7 +3,7 @@ title: 'HOWTO: Como usar Pandora Radio no Brasil'
 type: post
 date: 2008-04-10T20:47:58+00:00
 url: /2008/04/ssh-tunneling/
-categories:
+categorias:
   - Dicas
 tags:
   - brasil

@@ -3,7 +3,7 @@ title: Chorinho para um rei
 type: post
 date: 2006-10-02T22:24:48+00:00
 url: /2006/10/chorinho-para-um-rei/
-categories:
+categorias:
   - Cotidiano
 tags:
   - choro

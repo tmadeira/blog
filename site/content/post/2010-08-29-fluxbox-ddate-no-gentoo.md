@@ -4,7 +4,7 @@ type: post
 date: 2010-08-29T14:05:07+00:00
 url: /2010/08/fluxbox-ddate-no-gentoo/
 featured_image: /wp-content/uploads/2010/08/a21.png
-categories:
+categorias:
   - Software Livre
 tags:
   - ddate

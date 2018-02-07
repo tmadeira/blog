@@ -4,7 +4,7 @@ type: post
 date: 2005-02-17T16:22:47+00:00
 excerpt: A descrição de como descobri que consegui pegar o cookie do Fotolog.net de qualquer pessoa que entra no meu profile num Fotolog.net
 url: /2005/02/falha-no-fotolognet/
-categories:
+categorias:
   - Dicas
 tags:
   - cookies

@@ -4,7 +4,7 @@ type: post
 date: 2005-07-24T23:34:09+00:00
 excerpt: Saiu o resultado da seletiva desse ano... Fiquei em quinto lugar!
 url: /2005/07/resultado-da-seletiva-ioi/
-categories:
+categorias:
   - Cotidiano
 tags:
   - ioi

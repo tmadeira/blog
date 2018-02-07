@@ -3,7 +3,7 @@ title: Além do bem e do mal
 type: post
 date: 2007-06-17T01:41:09+00:00
 url: /2007/06/alem-do-bem-e-do-mal/
-categories:
+categorias:
   - Filosofia
   - Livros
 tags:

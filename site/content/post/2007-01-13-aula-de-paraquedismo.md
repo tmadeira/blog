@@ -3,7 +3,7 @@ title: Aula de paraquedismo
 type: post
 date: 2007-01-13T17:32:38+00:00
 url: /2007/01/aula-de-paraquedismo/
-categories:
+categorias:
   - Futilidades
 tags:
   - daniela cicarelli

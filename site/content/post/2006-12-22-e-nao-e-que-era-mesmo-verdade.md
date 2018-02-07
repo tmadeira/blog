@@ -3,7 +3,7 @@ title: E não é que era mesmo verdade?
 type: post
 date: 2006-12-22T20:49:50+00:00
 url: /2006/12/e-nao-e-que-era-mesmo-verdade/
-categories:
+categorias:
   - Cotidiano
 tags:
   - blogosfera

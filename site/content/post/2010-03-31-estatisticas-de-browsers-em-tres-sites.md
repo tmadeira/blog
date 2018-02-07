@@ -3,7 +3,7 @@ title: Estatísticas de browsers em três sites
 type: post
 date: 2010-03-31T15:46:56+00:00
 url: /2010/03/estatisticas-de-browsers-em-tres-sites/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - browsers

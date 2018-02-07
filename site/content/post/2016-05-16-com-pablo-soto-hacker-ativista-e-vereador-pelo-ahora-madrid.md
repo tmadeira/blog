@@ -3,7 +3,7 @@ title: 'Com Pablo Soto: hacker, ativista e vereador pelo Ahora Madrid'
 type: post
 date: 2016-05-16T19:29:06+00:00
 url: /2016/05/com-pablo-soto-hacker-ativista-e-vereador-pelo-ahora-madrid/
-categories:
+categorias:
   - Cotidiano
 tags:
   - ahora madrid

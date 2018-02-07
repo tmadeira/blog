@@ -4,7 +4,7 @@ type: post
 date: 2005-09-02T16:43:32+00:00
 excerpt: Só pra dar o recado... =)
 url: /2005/09/firefox-15-em-breve/
-categories:
+categorias:
   - Cotidiano
 tags:
   - firefox

@@ -4,7 +4,7 @@ type: post
 date: 2010-05-01T16:55:32+00:00
 url: /2010/05/parceria-usp-microsoft/
 featured_image: /wp-content/uploads/2010/05/bill-gates.jpg
-categories:
+categorias:
   - Software Livre
 tags:
   - ballmer

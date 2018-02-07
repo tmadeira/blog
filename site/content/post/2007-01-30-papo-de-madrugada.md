@@ -3,7 +3,7 @@ title: Papo de madrugada
 type: post
 date: 2007-01-31T02:39:17+00:00
 url: /2007/01/papo-de-madrugada/
-categories:
+categorias:
   - Cotidiano
 tags:
   - conversa

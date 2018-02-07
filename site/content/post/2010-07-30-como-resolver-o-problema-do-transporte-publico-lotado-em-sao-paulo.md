@@ -3,7 +3,7 @@ title: Como resolver o problema do transporte público lotado em São Paulo
 type: post
 date: 2010-07-30T22:21:03+00:00
 url: /2010/07/como-resolver-o-problema-do-transporte-publico-lotado-em-sao-paulo/
-categories:
+categorias:
   - Cotidiano
 tags:
   - Cotidiano

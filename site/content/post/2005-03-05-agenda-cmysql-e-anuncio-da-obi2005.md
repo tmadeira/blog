@@ -4,7 +4,7 @@ type: post
 date: 2005-03-05T22:19:41+00:00
 excerpt: Aprendendo a usar MySql com C, leitura do anúncio da OBI 2005 e descoberta de falhas no Orkut.
 url: /2005/03/agenda-cmysql-e-anuncio-da-obi2005/
-categories:
+categorias:
   - Cotidiano
 tags:
   - agenda

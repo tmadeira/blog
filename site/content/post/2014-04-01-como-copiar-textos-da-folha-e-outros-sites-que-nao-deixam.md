@@ -4,7 +4,7 @@ type: post
 date: 2014-04-01T16:51:59+00:00
 url: /2014/04/como-copiar-textos-da-folha-e-outros-sites-que-nao-deixam/
 featured_image: /wp-content/uploads/2014/04/folha-300x180.jpg
-categories:
+categorias:
   - Dicas
 tags:
   - códigos

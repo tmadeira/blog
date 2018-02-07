@@ -3,7 +3,7 @@ title: Alguém conhece um wormhole?
 type: post
 date: 2006-12-12T23:05:34+00:00
 url: /2006/12/alguem-conhece-um-wormhole/
-categories:
+categorias:
   - Cotidiano
 tags:
   - algoritmos

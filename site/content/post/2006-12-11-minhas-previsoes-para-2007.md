@@ -3,7 +3,7 @@ title: Minhas previsões para 2007
 type: post
 date: 2006-12-11T12:31:09+00:00
 url: /2006/12/minhas-previsoes-para-2007/
-categories:
+categorias:
   - Cotidiano
 tags:
   - "2007"

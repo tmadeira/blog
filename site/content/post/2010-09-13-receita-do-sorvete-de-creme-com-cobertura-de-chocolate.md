@@ -3,7 +3,7 @@ title: Receita do sorvete de creme com cobertura de chocolate
 type: post
 date: 2010-09-14T00:23:02+00:00
 url: /2010/09/receita-do-sorvete-de-creme-com-cobertura-de-chocolate/
-categories:
+categorias:
   - Cotidiano
 tags:
   - chocolate

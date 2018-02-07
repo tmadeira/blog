@@ -6,7 +6,7 @@ excerpt: O projeto antes de colocar a mão na massa é indispensável. O que ser
 url: /2006/01/algoritmos-qual-a-utilidade-do-algoritmo/
 ordem:
   - eeegg
-categories:
+categorias:
   - Básico
 tags:
   - algoritmo

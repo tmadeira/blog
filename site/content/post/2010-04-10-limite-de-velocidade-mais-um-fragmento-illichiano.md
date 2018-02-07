@@ -3,7 +3,7 @@ title: Limite de velocidade (mais um fragmento illichiano)
 type: post
 date: 2010-04-11T00:17:36+00:00
 url: /2010/04/limite-de-velocidade-mais-um-fragmento-illichiano/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - energia e equidade

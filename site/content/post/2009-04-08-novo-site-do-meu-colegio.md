@@ -5,7 +5,7 @@ date: 2009-04-08T19:30:56+00:00
 url: /2009/04/novo-site-do-meu-colegio/
 sociableoff:
   - 'false'
-categories:
+categorias:
   - Cotidiano
 tags:
   - colégio

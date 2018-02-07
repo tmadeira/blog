@@ -3,7 +3,7 @@ title: Em que Deus você acredita?
 type: post
 date: 2007-05-06T13:20:58+00:00
 url: /2007/05/em-que-deus-voce-acredita/
-categories:
+categorias:
   - Religião
 tags:
   - catolicismo

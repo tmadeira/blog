@@ -6,7 +6,7 @@ excerpt: 'Grafo: uma forma de representar uma relação binária entre elementos
 url: /2006/01/os-grafos-e-o-orkut/
 ordem:
   - eeepp
-categories:
+categorias:
   - Grafos
 tags:
   - algoritmos

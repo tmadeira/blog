@@ -6,7 +6,7 @@ excerpt: No primeiro artigo, expliquei o que é um algoritmo e até citei exempl
 url: /2006/01/algoritmos-como-representar-um-algoritmo/
 ordem:
   - eeeff
-categories:
+categorias:
   - Básico
 tags:
   - algoritmo

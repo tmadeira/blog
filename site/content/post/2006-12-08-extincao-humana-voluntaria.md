@@ -3,7 +3,7 @@ title: Extinção humana voluntária
 type: post
 date: 2006-12-08T11:06:48+00:00
 url: /2006/12/extincao-humana-voluntaria/
-categories:
+categorias:
   - Sociedade
 tags:
   - animal

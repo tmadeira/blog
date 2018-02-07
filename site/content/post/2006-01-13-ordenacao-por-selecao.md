@@ -6,7 +6,7 @@ excerpt: Este é o segundo algoritmo de ordenação que estudamos e talvez seja 
 url: /2006/01/ordenacao-por-selecao/
 ordem:
   - eeell
-categories:
+categorias:
   - Ordenação
 tags:
   - algoritmos

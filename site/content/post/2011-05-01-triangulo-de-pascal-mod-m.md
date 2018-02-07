@@ -3,7 +3,7 @@ title: Triângulo de Pascal mod m
 type: post
 date: 2011-05-01T17:05:09+00:00
 url: /2011/05/triangulo-de-pascal-mod-m/
-categories:
+categorias:
   - Códigos aleatórios
 tags:
   - c

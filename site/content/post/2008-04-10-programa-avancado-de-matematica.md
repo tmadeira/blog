@@ -3,7 +3,7 @@ title: Programa Avançado de Matemática
 type: post
 date: 2008-04-10T14:35:10+00:00
 url: /2008/04/programa-avancado-de-matematica/
-categories:
+categorias:
   - Cotidiano
 tags:
   - cfm

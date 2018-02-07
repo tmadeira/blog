@@ -3,7 +3,7 @@ title: Lavagem cerebral
 type: post
 date: 2007-02-11T12:23:30+00:00
 url: /2007/02/lavagem-cerebral/
-categories:
+categorias:
   - Cotidiano
 tags:
   - amor

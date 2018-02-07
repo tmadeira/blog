@@ -4,7 +4,7 @@ type: post
 date: 2005-09-24T22:33:45+00:00
 excerpt: Estou finalmente começando a aprender orientação a objetos!
 url: /2005/09/programacao-orientada-a-objetos/
-categories:
+categorias:
   - Cotidiano
 tags:
   - c

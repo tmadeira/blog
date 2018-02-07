@@ -3,7 +3,7 @@ title: Como se adquire criatividade?
 type: post
 date: 2006-12-09T13:30:52+00:00
 url: /2006/12/como-se-adquire-criatividade/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - criatividade

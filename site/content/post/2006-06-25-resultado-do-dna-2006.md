@@ -3,7 +3,7 @@ title: Resultado do DNA 2006
 type: post
 date: 2006-06-25T12:45:24+00:00
 url: /2006/06/resultado-do-dna-2006/
-categories:
+categorias:
   - Cotidiano
 tags:
   - dna

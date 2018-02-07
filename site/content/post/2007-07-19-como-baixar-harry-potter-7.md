@@ -3,7 +3,7 @@ title: Como baixar Harry Potter 7
 type: post
 date: 2007-07-19T03:03:02+00:00
 url: /2007/07/como-baixar-harry-potter-7/
-categories:
+categorias:
   - Futilidades
 tags:
   - deathly hallows

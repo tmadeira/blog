@@ -4,7 +4,7 @@ type: post
 date: 2005-08-19T23:55:15+00:00
 excerpt: Finalmente chegou o HD novo... De volta a toda com o laptop!
 url: /2005/08/o-hd-chegou/
-categories:
+categorias:
   - Cotidiano
 tags:
   - hardware

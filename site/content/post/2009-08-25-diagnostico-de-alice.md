@@ -3,7 +3,7 @@ title: Diagnóstico de Alice
 type: post
 date: 2009-08-25T16:14:16+00:00
 url: /2009/08/diagnostico-de-alice/
-categories:
+categorias:
   - Cotidiano
 tags:
   - alice

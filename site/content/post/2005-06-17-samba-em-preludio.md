@@ -4,7 +4,7 @@ type: post
 date: 2005-06-17T23:13:27+00:00
 excerpt: GeSHi Highlight funcionando! Página "oficial" de testes...
 url: /2005/06/samba-em-preludio/
-categories:
+categorias:
   - Metablogagem
 tags:
   - códigos

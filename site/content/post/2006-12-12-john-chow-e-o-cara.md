@@ -3,7 +3,7 @@ title: John Chow é O Cara!
 type: post
 date: 2006-12-12T18:32:10+00:00
 url: /2006/12/john-chow-e-o-cara/
-categories:
+categorias:
   - Dinheiro
 tags:
   - capitalismo

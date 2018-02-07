@@ -3,7 +3,7 @@ title: Blog pagão
 type: post
 date: 2006-10-13T16:38:30+00:00
 url: /2006/10/blog-pagao/
-categories:
+categorias:
   - Futilidades
 tags:
   - Metablogagem

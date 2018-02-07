@@ -4,7 +4,7 @@ type: post
 date: 2005-06-24T18:45:50+00:00
 excerpt: Fiquei um bom tempo sem fazer o treinamento da USACO porque há algum tempo tinha parado no programa "Prime Palindromes", cujo objetivo é listar todos os palíndromos primos entre dois números (limites 5, 10.000.000). Agora consegui prosseguir com o treinamento!
 url: /2005/06/palindromos-primos/
-categories:
+categorias:
   - Cotidiano
 tags:
   - algoritmos

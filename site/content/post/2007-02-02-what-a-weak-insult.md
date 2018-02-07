@@ -3,7 +3,7 @@ title: What a weak insult!
 type: post
 date: 2007-02-02T12:09:33+00:00
 url: /2007/02/what-a-weak-insult/
-categories:
+categorias:
   - Cotidiano
 tags:
   - encarta

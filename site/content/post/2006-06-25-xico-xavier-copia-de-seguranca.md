@@ -3,7 +3,7 @@ title: Xico Xavier (cópia de segurança)
 type: post
 date: 2006-06-25T12:45:42+00:00
 url: /2006/06/xico-xavier-copia-de-seguranca/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - computação

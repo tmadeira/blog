@@ -8,10 +8,10 @@
         {{- .Date.Local.Format "02/01/2006 15:04" -}}
       </time>
       |
-      {{ with .Params.categories -}}
+      {{ with .Params.categorias -}}
         <span class="article-cats" itemProp="articleSection">
           {{- range . }}
-            <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+            <a href="/categorias/{{ . | urlize }}">{{ . }}</a>
           {{- end -}}
         </span>
       {{- end }}

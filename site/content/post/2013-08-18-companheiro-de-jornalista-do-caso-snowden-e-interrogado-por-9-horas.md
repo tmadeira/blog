@@ -3,7 +3,7 @@ title: Companheiro de jornalista do caso Snowden é interrogado por 9 horas
 type: post
 date: 2013-08-19T00:51:55+00:00
 url: /2013/08/companheiro-de-jornalista-do-caso-snowden-e-interrogado-por-9-horas/
-categories:
+categorias:
   - Política
 tags:
   - david miranda

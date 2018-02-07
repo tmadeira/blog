@@ -6,7 +6,7 @@ excerpt: Um grafo é ponderado quando suas arestas possuem um peso, quando há u
 url: /2006/01/grafos-ponderados/
 ordem:
   - eeerr
-categories:
+categorias:
   - Grafos
 tags:
   - algoritmos

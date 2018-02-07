@@ -3,7 +3,7 @@ title: Illich sobre a bicicleta
 type: post
 date: 2010-04-13T19:09:14+00:00
 url: /2010/04/illich-sobre-a-bicicleta/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - bicicleta

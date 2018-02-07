@@ -4,7 +4,7 @@ type: post
 date: 2005-05-20T13:32:47+00:00
 excerpt: O título já descreve perfeitamente o que eu digo nesse post...
 url: /2005/05/projetos-do-salesiano-sedbash-programacao-nivel-2/
-categories:
+categorias:
   - Cotidiano
 tags:
   - bash

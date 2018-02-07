@@ -3,7 +3,7 @@ title: Como ler notícias ilimitadas de Folha, Estadão e Globo sem cadastro
 type: post
 date: 2013-07-20T22:15:18+00:00
 url: /2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
-categories:
+categorias:
   - Dicas
 tags:
   - códigos

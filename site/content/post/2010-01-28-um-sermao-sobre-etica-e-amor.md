@@ -3,7 +3,7 @@ title: Um sermão sobre ética e amor
 type: post
 date: 2010-01-28T18:10:46+00:00
 url: /2010/01/um-sermao-sobre-etica-e-amor/
-categories:
+categorias:
   - Futilidades
 tags:
   - discordia

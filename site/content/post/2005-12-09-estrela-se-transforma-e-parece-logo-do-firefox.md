@@ -4,7 +4,7 @@ type: post
 date: 2005-12-10T01:39:35+00:00
 excerpt: É, parece que a hora se aproxima... Até o universo está se preparando para a nova era...
 url: /2005/12/estrela-se-transforma-e-parece-logo-do-firefox/
-categories:
+categorias:
   - Futilidades
 tags:
   - firefox

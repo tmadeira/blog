@@ -3,7 +3,7 @@ title: Vai trabalhar, vagabundo!
 type: post
 date: 2007-01-01T21:41:35+00:00
 url: /2007/01/vai-trabalhar-vagabundo/
-categories:
+categorias:
   - Sociedade
 tags:
   - capitalismo

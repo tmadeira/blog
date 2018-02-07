@@ -3,7 +3,7 @@ title: Coordenadas homogêneas
 type: post
 date: 2010-04-24T03:49:43+00:00
 url: /2010/04/coordenadas-homogeneas/
-categories:
+categorias:
   - Algoritmos geométricos
 tags:
   - acm icpc

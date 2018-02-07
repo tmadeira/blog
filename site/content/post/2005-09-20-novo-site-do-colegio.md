@@ -4,7 +4,7 @@ type: post
 date: 2005-09-20T21:36:28+00:00
 excerpt: Publiquei hoje o novo site do Colégio Salesiano, um site tableless totalmente administrável que usa a linguagem PHP e o banco de dados MySql.
 url: /2005/09/novo-site-do-colegio/
-categories:
+categorias:
   - Cotidiano
 tags:
   - expressões regulares

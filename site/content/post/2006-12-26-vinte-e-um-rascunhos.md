@@ -3,7 +3,7 @@ title: Vinte e um rascunhos
 type: post
 date: 2006-12-26T17:59:25+00:00
 url: /2006/12/vinte-e-um-rascunhos/
-categories:
+categorias:
   - Cotidiano
 tags:
   - Metablogagem

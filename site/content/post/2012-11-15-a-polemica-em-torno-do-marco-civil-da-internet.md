@@ -3,7 +3,7 @@ title: A polêmica em torno do Marco Civil da Internet
 type: post
 date: 2012-11-15T13:09:27+00:00
 url: /2012/11/a-polemica-em-torno-do-marco-civil-da-internet/
-categories:
+categorias:
   - Política
 tags:
   - democracia

@@ -3,7 +3,7 @@ title: Então é natal… Que frio!
 type: post
 date: 2006-12-21T02:43:34+00:00
 url: /2006/12/entao-e-natal-que-frio/
-categories:
+categorias:
   - Sociedade
 tags:
   - brasil

@@ -3,7 +3,7 @@ title: Teobaldo no médico
 type: post
 date: 2006-12-28T21:24:11+00:00
 url: /2006/12/teobaldo-no-medico/
-categories:
+categorias:
   - Cotidiano
 tags:
   - hardware

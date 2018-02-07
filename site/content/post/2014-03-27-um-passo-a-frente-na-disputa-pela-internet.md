@@ -3,7 +3,7 @@ title: Um passo à frente na disputa pela Internet
 type: post
 date: 2014-03-27T20:11:59+00:00
 url: /2014/03/um-passo-a-frente-na-disputa-pela-internet/
-categories:
+categorias:
   - Política
 tags:
   - asilo

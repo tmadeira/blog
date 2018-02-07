@@ -3,7 +3,7 @@ title: Flick com XGL e Beryl
 type: post
 date: 2007-01-30T13:08:57+00:00
 url: /2007/01/flick-com-xgl-e-beryl/
-categories:
+categorias:
   - Cotidiano
 tags:
   - 3D

@@ -3,7 +3,7 @@ title: Luciana Genro é a mais citada pelas redes sociais durante o debate da R�
 type: post
 date: 2016-08-16T14:24:05+00:00
 url: /2016/08/luciana-genro-e-a-mais-citada-pelas-redes-sociais-durante-o-debate-da-radio-gaucha/
-categories:
+categorias:
   - Política
 tags:
   - dataviz

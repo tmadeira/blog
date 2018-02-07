@@ -3,7 +3,7 @@ title: Crepúsculo
 type: post
 date: 2009-11-22T18:00:43+00:00
 url: /2009/11/crepusculo/
-categories:
+categorias:
   - Pensamentos aleatórios
 tags:
   - bestseller

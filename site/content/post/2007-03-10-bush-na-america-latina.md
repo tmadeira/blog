@@ -3,7 +3,7 @@ title: Bush na América Latina
 type: post
 date: 2007-03-10T18:27:34+00:00
 url: /2007/03/bush-na-america-latina/
-categories:
+categorias:
   - Política
 tags:
   - américa

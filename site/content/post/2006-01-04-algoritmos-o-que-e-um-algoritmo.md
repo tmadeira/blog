@@ -6,7 +6,7 @@ excerpt: Um algoritmo é um procedimento computacional definido que recebe um ou
 url: /2006/01/algoritmos-o-que-e-um-algoritmo/
 ordem:
   - eeeee
-categories:
+categorias:
   - Básico
 tags:
   - algoritmo

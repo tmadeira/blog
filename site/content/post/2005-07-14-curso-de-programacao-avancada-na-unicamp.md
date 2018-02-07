@@ -4,7 +4,7 @@ type: post
 date: 2005-07-14T16:39:30+00:00
 excerpt: Hoje chega ao fim o Curso de Programação Avnaçada dos premiados na OBI2005 aqui na UNICAMP, em Campinas-SP. Durante essa semana, aprendi bastante mas não tive tempo para fóruns, e-mail e IMs. Se você foi um dos caras que "ficou no vácuo", saiba que não tive a intenção... Mas vamos ao que interessa!
 url: /2005/07/curso-de-programacao-avancada-na-unicamp/
-categories:
+categorias:
   - Cotidiano
 tags:
   - campinas

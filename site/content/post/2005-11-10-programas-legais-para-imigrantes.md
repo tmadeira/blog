@@ -4,7 +4,7 @@ type: post
 date: 2005-11-10T23:11:49+00:00
 excerpt: 'Esta semana testei dois programas bastante interessantes principalmente para quem está migrando do Windows. São eles: AmaroK e aMSN (versão CVS). Me senti na obrigação de fazer propaganda desses dois excelentes programas que acabo de conhecer!'
 url: /2005/11/programas-legais-para-imigrantes/
-categories:
+categorias:
   - Dicas
 tags:
   - amarok

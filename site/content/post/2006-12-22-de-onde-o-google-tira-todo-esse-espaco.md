@@ -3,7 +3,7 @@ title: De onde o Google tira todo esse espaço?
 type: post
 date: 2006-12-22T19:39:16+00:00
 url: /2006/12/de-onde-o-google-tira-todo-esse-espaco/
-categories:
+categorias:
   - Futilidades
 tags:
   - dreamhost

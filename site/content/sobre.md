@@ -12,9 +12,9 @@ Sou membro do PSOL e da [Revista Movimento](https://movimentorevista.com.br/).
 
 ### Sobre o blog
 
-Este blog reúne coisas que eu escrevo desde o início de 2005, quando eu tinha 14 anos. Mantenho tudo pelo aspecto histórico, mas naturalmente mudei bastante nesse período e não concordo com tudo o que está escrito. Além das opiniões, muitos códigos não funcionam e projetos não existem mais.
+Este blog reúne coisas que eu escrevo desde o início de 2005, quando eu tinha 14 anos. Os temas são diversos. Mantenho tudo pelo aspecto histórico, mas naturalmente mudei bastante nesse período e não concordo com tudo o que está escrito. Além das opiniões, muitos códigos não funcionam e projetos não existem mais.
 
-O conteúdo aqui disponível já passou por diferentes plataformas e servidores. Inicialmente as postagens eram publicadas por sistemas que eu mesmo criava quando começava a programar. Alguns meses depois, [migrei](/2005/10/mudanca-de-servidor/) tudo para o WordPress  --- antes mesmo do lançamento de sua primeira versão não-beta. De lá pra cá, o WordPress passou por inúmeras transformações (até se tornar o CMS mais usado do mundo!). Em 2017, resolvi simplificar a vida migrando para o [Hugo](https://gohugo.io/). Neste momento, o site é estático, está hospedado no GitHub ([código-fonte](https://github.com/tmadeira/tiagomadeira.com/)) e é servido pelo Netlify.
+O conteúdo aqui disponível já passou por diferentes plataformas e servidores. Inicialmente as postagens eram publicadas por sistemas que eu mesmo criava quando estava começando a programar. Alguns meses depois, [migrei](/2005/10/mudanca-de-servidor/) tudo para o WordPress. Em 2018, resolvi simplificar a vida migrando para o [Hugo](https://gohugo.io/). Você pode ver o [código-fonte](https://github.com/tmadeira/tiagomadeira.com/) que gera este site no GitHub.
 
 ### Profissional
 
@@ -28,21 +28,13 @@ Meu currículo está disponível em [tiagomadeira.com/cv](/cv/) (em inglês) e e
 
 Me formei (bacharel em Ciência da Computação) em 2016 na USP. Meu trabalho de conclusão de curso da graduação, sobre geração uniforme de _k-trees_ para aprendizado de redes bayesianas, está disponível numa [página hospedada no IME-USP](https://linux.ime.usp.br/~tmadeira/mac0499/).
 
-Neste momento, estou fazendo Mestrado em Ciência da Computação, também na USP, sob orientação do Prof. Denis D. Mauá.
+Neste momento, estou fazendo Mestrado em Ciência da Computação, também na USP, na área de Inteligência Artificial sob orientação do Prof. Denis D. Mauá.
 
 Meu Lattes está disponível em [lattes.cnpq.br/3937411702518704](http://lattes.cnpq.br/3937411702518704).
 
 ### Redes sociais
 
 Meus perfis nas redes sociais: [Twitter](https://twitter.com/tmadeira/), [GitHub](https://github.com/tmadeira/), [Facebook](https://facebook.com/timadeira/), [Instagram](https://instagram.com/tiagomadeira/).
-
-### O que uso no momento
-
-_Computadores:_ ThinkPad x240 (Arch Linux) e MacBook Pro 2015 (OS X)  
-_Shell preferido:_ Zsh  
-_Editor de texto:_ Vim  
-_Linguagem preferida:_ Go  
-_Biblioteca preferida:_ React
 
 ### Para entrar em contato
 

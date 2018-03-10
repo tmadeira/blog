@@ -208,8 +208,15 @@
   table {
     @extend %default-margin;
     @extend %wrap;
+    display: block;
     font-size: 0.85em;
+    overflow-x: auto;
     width: 100%;
+
+    @include breakpoint($big) {
+      display: table;
+      overflow-x: none;
+    }
   }
 
   td,
@@ -218,14 +225,20 @@
   }
 
   th {
-    font-weight: 700;
+    font-weight: 400;
+    text-align: center;
   }
 
-  tr {
+  tbody tr {
     background: rgba(0, 0, 0, 0.2);
     &:nth-child(2n+1) {
       background: rgba(0, 0, 0, 0.1);
     }
+  }
+
+  thead tr {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
   }
 
   ul {

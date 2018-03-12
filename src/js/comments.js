@@ -36,4 +36,12 @@ export default function setupComments() {
   for (let i = 0; i < cancelButtons.length; i++) {
     cancelButtons[i].addEventListener('click', cancel);
   }
+
+  if (window.location.hash.match(/^#comment-/)) {
+    const id = window.location.hash.replace(/^#/, '');
+    document.getElementById(id).classList.add('show');
+    window.setTimeout(() => {
+      document.getElementById(id).classList.remove('show');
+    }, 3000);
+  }
 }

@@ -53,7 +53,7 @@
     <ul class="form-fields">
       <li>
         <label class="form-label" for="name">Nome<span class="required">*</span></label>
-        <input class="form-input" id="name" placeholder="Digite seu nome" type="text" name="fields[name]" />
+        <input class="form-input" id="name" placeholder="Digite seu nome" type="text" name="fields[name]" required="required" />
       </li>
       <li>
         <label class="form-label" for="email">E-mail</label>
@@ -61,7 +61,7 @@
       </li>
       <li>
         <label class="form-label" for="body">Comentário<span class="required">*</span></label>
-        <textarea class="form-text" id="body" placeholder="Digite seu comentário" name="fields[body]"></textarea>
+        <textarea class="form-text" id="body" placeholder="Digite seu comentário" name="fields[body]" required="required"></textarea>
       </li>
       <li>
         <input class="form-checkbox" id="notify" type="checkbox" name="options[subscribe]" value="email" />
@@ -71,3 +71,11 @@
     <button class="form-button" type="submit">Enviar comentário</button>
   </fieldset>
 </form>
+
+<div id="comment-submitted" class="comment-feedback">
+  <p>Obrigado! Seu comentário foi enviado e será publicado quando for aprovado.</p>
+</div>
+
+<div id="comment-error" class="comment-feedback">
+  <p>Infelizmente ocorreu um erro ao enviar seu comentário.</p>
+</div>

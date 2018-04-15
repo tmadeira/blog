@@ -26,6 +26,21 @@
     }
   }
 
+  &-cats {
+    @extend %wrap;
+    @extend %default-margin;
+    @extend %mono;
+    font-size: 14px;
+    line-height: 18px;
+
+    a {
+      background: #C94C22;
+      color: #fff;
+      display: inline-block;
+      padding: 4px 6px;
+    }
+  }
+
   &-meta {
     @extend %wrap;
     @extend %default-margin;
@@ -36,15 +51,6 @@
 
   &-date {
     text-transform: lowercase;
-  }
-
-  &-cats {
-    a {
-      background: #333;
-      color: #fff;
-      display: inline-block;
-      padding: 0 4px;
-    }
   }
 
   &-tags {
@@ -151,7 +157,8 @@
 
   hr {
     @extend %default-margin;
-    background: rgba(0, 0, 0, 0.1);
+    @extend %wrap;
+    background: #C94C22;
     border: 0;
     height: 2px;
   }
@@ -181,7 +188,7 @@
 
   pre {
     @extend %default-margin;
-    background: #333 !important;
+    background: #0A3641 !important;
     color: #fff;
     overflow: auto;
     padding: 15px 0;

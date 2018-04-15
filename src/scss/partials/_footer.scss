@@ -3,14 +3,16 @@
 
 .footer {
   @extend %sans;
-  background: #ddd;
+  background: #C94C22;
+  color: #fff;
   font-size: 14px;
   line-height: 18px;
   padding: 15px 0;
 
   a {
-    background: #fff;
+    background: rgba(255, 255, 255, 0.2);
     color: inherit;
+    padding: 0 3px;
     text-decoration: none;
   }
 

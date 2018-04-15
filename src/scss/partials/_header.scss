@@ -1,10 +1,10 @@
 @import '../base/breaks';
 
 $header-line-height: 48px;
-$header-font-size: 24px;
+$header-font-size: 20px;
 
 $big-header-line-height: 64px;
-$big-header-font-size: 32px;
+$big-header-font-size: 28px;
 
 html {
   padding-top: $header-line-height;
@@ -15,7 +15,7 @@ html {
 }
 
 .header {
-  background: #000;
+  background: #0A3641;
   color: #fff;
   position: fixed;
   top: 0;

@@ -1,20 +1,22 @@
 <!-- vim: set syntax=gohtmltmpl: -->
 <article class="article" itemscope itemtype="http://schema.org/Article">
+  {{- if ne .Type "page" -}}
+    {{ with .Params.categorias -}}
+      <div class="article-cats" itemProp="articleSection">
+        {{- range . }}
+          <a href="/categorias/{{ . | urlize }}/">{{ . }}</a>
+        {{- end -}}
+      </div>
+    {{- end -}}
+  {{- end -}}
+
   <h2 itemprop="headline"><a href="{{ .URL }}">{{ .Title }}</a></h2>
 
   {{- if ne .Type "page" -}}
     <div class="article-meta">
       <time class="article-date" itemprop="datePublished">
-        {{- .Date.Local.Format "02/01/2006 15:04" -}}
+        {{- .Date.Local.Format "📅 Publicado em 02/01/2006 às 15:04" -}}
       </time>
-      |
-      {{ with .Params.categorias -}}
-        <span class="article-cats" itemProp="articleSection">
-          {{- range . }}
-            <a href="/categorias/{{ . | urlize }}/">{{ . }}</a>
-          {{- end -}}
-        </span>
-      {{- end }}
     </div>
   {{- end -}}
 

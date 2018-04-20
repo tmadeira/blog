@@ -3,38 +3,36 @@
   <h3 class="comments-title">Comentários</h3>
 
   <div class="comments-list">
-    {{ $.Scratch.Add "hasComments" 0 }}
     {{ $entryId := .File.BaseFileName }}
 
-    {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
-      {{ $.Scratch.Add "hasComments" 1 }}
-      {{ if not .reply_to }}
-        <div class="comment">
-          <div class="comment-header">
-            <img class="comment-avatar" src="//gravatar.com/avatar/{{ .email }}?s=80&d=retro" />
-            <p class="comment-info">
-              <strong>{{ .name }}</strong><br />
-              <time class="comment-time">{{ dateFormat "02/01/2006 15:04" .date }}</time>
-            </p>
+    {{ with (index $.Site.Data.comments $entryId) }}
+      {{ range sort . "timestamp" }}
+        {{ if not .reply_to }}
+          <div class="comment">
+            <div class="comment-header">
+              <img class="comment-avatar" src="//gravatar.com/avatar/{{ .email }}?s=80&d=retro" />
+              <p class="comment-info">
+                <strong>{{ .name }}</strong><br />
+                <time class="comment-time">{{ dateFormat "02/01/2006 15:04" .date }}</time>
+              </p>
+            </div>
+            <div class="entry">
+              {{ $markdown := .body | markdownify }}
+              {{ if not ( strings.Contains $markdown "<p>" ) }}
+                <p>{{ $markdown }}</p>
+              {{ else }}
+                {{ $markdown }}
+              {{ end }}
+            </div>
           </div>
-          <div class="entry">
-            {{ $markdown := .body | markdownify }}
-            {{ if not ( strings.Contains $markdown "<p>" ) }}
-              <p>{{ $markdown }}</p>
-            {{ else }}
-              {{ $markdown }}
-            {{ end }}
+          <div class="comment-buttons">
+            <a class="reply-button" href="#comment-form" rel="{{ ._id }}">Responder</a>
+            <a class="reply-cancel" href="#" rel="{{ ._id }}">Cancelar resposta</a>
           </div>
-        </div>
-        <div class="comment-buttons">
-          <a class="reply-button" href="#comment-form" rel="{{ ._id }}">Responder</a>
-          <a class="reply-cancel" href="#" rel="{{ ._id }}">Cancelar resposta</a>
-        </div>
-        {{ partial "comment-replies" (dict "entryId_parent" $entryId "SiteDataComments_parent" $.Site.Data.comments "parentId" ._id "parentName" .name "context" .) }}
+          {{ partial "comment-replies" (dict "entryId_parent" $entryId "SiteDataComments_parent" $.Site.Data.comments "parentId" ._id "parentName" .name "context" .) }}
+        {{ end }}
       {{ end }}
-    {{ end }}
-
-    {{ if eq ($.Scratch.Get "hasComments") 0 }}
+    {{ else }}
       <p>Nenhum comentário ainda.</p>
     {{ end }}
   </div>

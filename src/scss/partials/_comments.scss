@@ -25,11 +25,17 @@
     width: 40px;
   }
 
+  &-header {
+    font-size: 0;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
   &-info {
     display: inline-block;
     font-size: 17px;
     line-height: 1em;
-    margin-left: 5px;
+    margin-left: 10px;
     vertical-align: middle;
   }
 
@@ -39,8 +45,10 @@
   }
 
   &-buttons {
-    font-size: 16px;
+    @extend %default-margin;
+    font-size: 13px;
     line-height: normal;
+    margin-left: 50px;
 
     > a {
       @extend %sans;
@@ -132,6 +140,10 @@
 
 .comment, .reply {
   .entry {
+    font-size: 0.9em;
+    line-height: 1.3em;
+    margin-left: 35px;
+
     pre code {
       @include breakpoint($big) {
         min-width: 100%;

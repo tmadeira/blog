@@ -1,0 +1,8 @@
+_id: cf6b97ab-47f5-4904-9796-8bca7f965b83
+_parent: 2007-01-24-aspire-5050-3205-e-pop
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'O único problema que eu estou agora com o som HDA-Intel via Alsa é que ele não carrega configurações (alsactl store e restore não funcionam). Pra fazer funcionar, basta desativar o Alsa do Kernel e instalar alsa-drivers, alsa-lib, alsa-headers e alsa-tools versão 1.0.14-rc2 via Emerge, rodar o alsaconf e modificar o arquivo de configuração para que ele não salve e abra as configurações de volume do mixer.'
+date: '2007-02-15T08:38:40.000Z'
+timestamp: 1171528720

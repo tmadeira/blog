@@ -1,0 +1,8 @@
+_id: 6352a57f-45e5-4fe0-a8a5-24b45b21c803
+_parent: 2006-01-04-algoritmos-o-que-e-um-algoritmo
+reply_to: ''
+name: ROMERO
+email: 108af318014da8983520b4d0939c99f8
+body: 'Olá Tiago tenho um problema nas mãos : Uma demanda (D) sobre quatro periodos sobre um determinado produto é D1=8; D2=11; D3=18; D4=23. O custo unitário de produção (Ct) varia com o tempo . O custo de armazenagem é linear com h sendo função do tempo: h1=1; h2=2; h3=1 onde St é o estoque remanescente no periodo t . Calcule o programa que minimize os custos totais. \*Supor que só possam ser produzidos multiplos de dez \*Estoque inicial nulo \*Estoque final nulo'
+date: '2010-02-26T03:10:56.000Z'
+timestamp: 1267153856

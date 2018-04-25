@@ -1,0 +1,8 @@
+_id: cddf4fbb-e27e-43c6-bd20-716f3e666f2a
+_parent: 2010-08-29-calendario-santo-discordiano-no-fluxbox
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'Depende do <tt>--prefix</tt> que você colocar no ./configure. Seu Fluxbox provavelmente está instalado em /usr, então colocar <tt>--prefix=/usr/local</tt> deve instalar num lugar diferente, por exemplo. Aqui eu usei <tt>--prefix=/tmp/fluxbox/build</tt> e iniciei com <tt>startx /tmp/fluxbox/build/bin/fluxbox -- :1</tt> (vou instalar de verdade depois que escrever um ebuild pra não sujar o Gentoo :))'
+date: '2010-08-29T12:44:59.000Z'
+timestamp: 1283085899

@@ -1,0 +1,8 @@
+_id: 0c4dc969-6c65-49b8-b4ea-93a1202aa947
+_parent: 2006-01-04-algoritmos-o-que-e-um-algoritmo
+reply_to: ''
+name: juliana
+email: 1cbd1acd571ae3822b873f4c023c0983
+body: 'Dado um grafo qualquer, o programa deverá calcular as seguintes informações: a. para cada vértice: • grau de entrada, • grau de saída b. para o grafo como um todo: • a soma dos graus de entrada • a soma dos graus de saída • o número de arcos/arestas A saída deverá conter n linhas, uma para cada vértice, em que cada linha contém, nesta ordem, o grau de entrada e o grau de saída do vértice respectivo. Na última linha (linha n+1), o programa deverá imprimir sem espaços, nesta ordem, a soma dos graus de entrada, a soma dos graus de saída e o número de arestas. Estou usando em lista de adjacencia. Voce pode me ajudar a fazer em linguagem C? Espero anciosamente.'
+date: '2007-09-23T21:32:07.000Z'
+timestamp: 1190583127

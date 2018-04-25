@@ -1,0 +1,8 @@
+_id: 095d028f-9540-4038-b8cd-b362081b22d0
+_parent: 2007-01-24-aspire-5050-3205-e-pop
+reply_to: ''
+name: Alexandre
+email: b8a06de7f45622f76781cbd5fad99fcb
+body: 'Oi Tiago, Estou tendo um problema de som com um Aspire 5050-3205 rodando OpenSuse 10.2. O som funciona ok exceto porque quando conecto o fone de ouvido na saida o som sai tanto pelo fone quanto pelas caixinhas. Quando o linux inicia esperneia por causa do ALSA. Acho que o seu post pode ser a solução pro meu problema (?) O problema é que eu nunca mexi no Kernel assim, você poderia aprofundar um pouco mais as dicas? (tipo "alsa for dummies") Entrei no projeto do alsa e achei as últimas versões dos pacotes que você indicou: ftp://ftp.alsa-project.org/pub/driver/alsa-driver-1.0.14rc3.tar.bz2 ftp://ftp.alsa-project.org/pub/lib/alsa-lib-1.0.14rc3.tar.bz2 ftp://ftp.alsa-project.org/pub/tools/alsa-tools-1.0.14rc3.tar.bz2 mas não achei os headers. (1) Como eu desativo o Alsa do Kernel? (2) A instalação dos pacotes tem algum truque (ou algo fora do usual)? (3) Como modifico o arquivo de configuração pra ele não abrir as configurações do volume do mixer? Valeu, Alexandre'
+date: '2007-03-16T12:01:29.000Z'
+timestamp: 1174046489

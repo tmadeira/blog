@@ -1,0 +1,8 @@
+_id: 112e8fb0-1324-4e1b-861c-8b1571b2a901
+_parent: 2009-08-24-sobre-os-meus-5%c2%b2%c2%b3-problemas-com-meu-laptop
+reply_to: ''
+name: 'Jorge Flávio'
+email: 8e5b4809bba7cabad288a1387d857805
+body: 'Tiago, Esse é um problema de BIOS mesmo, mais especificamente da tabela de ACPI que é bugada, ou seja, feita exclusivamente para Windows. E os seus travamentos não são decorrentes dos 4 GB, e sim da proteção de super aquecimento da CPU. Com o meu i25 acontece a mesma coisa: funciona apenas com o Ubuntu 8.04. Nas versões do 9.04 de 32 e 64 bits, ocorre o desligamento após alguns minutos de processamente intensivo. Seria interessante entrarmos em contato com a Compal e exigirmos uma atualização dessa BIOS.'
+date: '2009-09-17T01:11:41.000Z'
+timestamp: 1253149901

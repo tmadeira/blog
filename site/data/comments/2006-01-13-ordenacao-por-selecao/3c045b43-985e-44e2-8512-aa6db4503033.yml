@@ -1,0 +1,8 @@
+_id: 3c045b43-985e-44e2-8512-aa6db4503033
+_parent: 2006-01-13-ordenacao-por-selecao
+reply_to: ''
+name: fabio
+email: ce60a1b541048c7b1efa4de2e0473a61
+body: 'ta ai embaixo o que consegui fazer, espero ter ajudado, tchau program insercao2; uses crt; var vetor: array\[0..10\] of integer; i, j, chave,y, a,b:integer; BEGIN clrscr; {programa principal} for y:=1 to 10 do begin writeln(''Digite o, '',y,'' elemento: ''); readln(vetor\[y\]); end; for j:= 2 to 10 do begin chave:= vetor\[j\]; y:= j - 1; while (y > 0) and (vetor\[y\] > chave ) do begin vetor\[y + 1\]:= vetor\[y\]; y:= y - 1; end; vetor\[y + 1\]:= chave; end; For y:= 1 to 10 do writeln (vetor\[y\]); readkey; end.'
+date: '2009-11-27T19:17:16.000Z'
+timestamp: 1259349436

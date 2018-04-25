@@ -1,0 +1,8 @@
+_id: 235d21a9-cd42-4867-b343-f5ad61ec6cb6
+_parent: 2012-01-31-retrospective
+reply_to: c2fe9f74-8410-49f0-b82d-d820dfdf497a
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'Hi Peter! Thanks for your feedback. Do you have experience with PHP? You can modify the Retrospective code to add an extra parameter in the shortcode function (retrospective\_shortcode, line 49 of retrospective.php) and then change the query we are using to fetch the posts. Good luck! Tiago'
+date: '2012-10-03T15:31:57.000Z'
+timestamp: 1349278317

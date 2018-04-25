@@ -1,0 +1,8 @@
+_id: 15df7415-2da4-4f9c-b0f6-7bf0b81cdc39
+_parent: 2012-01-31-retrospective
+reply_to: ''
+name: Nick
+email: b0fb1bdb21a77813e360d481c186ac85
+body: 'Hi Tiago, Apologies for the delayed response. Family takes up weekend times. The server this site is on runs PHP 5.2.17. The only way I could think for you to reproduce the bug is to create posts and tag them with a specific category. Before publishing or after publishing the posts, set the publish date field to before 1900. Then insert the shortcode utilising the category parameters. The shortcode I am using looks like this: \[retrospective count=30 cat=151 width=1000 image\_width=150 image\_border\_size=2 image\_border\_color=EFE374\] In my case, when I set the publish date to be before 1970 it automatically reverts to the current date. I am not quite sure how to answer your questions about "Output date" and "strtotime" php is not a strong skill for me at all. All I know is that your code in line 30 defines the following; define(''DEFAULT\_DATE\_FORMAT'', ''d/m/Y''); then lines 78 & 79 fetch the following; $timeU = get\_the\_time("U", $id); $timeD = get\_the\_time($date\_format, $id); I don''t actually think there is a problem with your code. I think the issue is php or the server configuration but because I am no good or have the permissions to alter either of these at a server level, I was wandering if you would know a work round. Perhaps something like a custom field or seperate field for ''Date'' on your Posts / Pages interface? I hope this makes sense. Nick'
+date: '2013-04-08T11:42:25.000Z'
+timestamp: 1365421345

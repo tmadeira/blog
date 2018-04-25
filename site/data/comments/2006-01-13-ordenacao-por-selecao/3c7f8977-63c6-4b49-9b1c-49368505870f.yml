@@ -1,0 +1,8 @@
+_id: 3c7f8977-63c6-4b49-9b1c-49368505870f
+_parent: 2006-01-13-ordenacao-por-selecao
+reply_to: ''
+name: 'bruce william'
+email: e6c921c10f03edc97e9d08fce275d98a
+body: 'bom seu algoritmo estora o metodo propostos a algoritmos de seleção, implementei uma solução melhor para a mesma : void selecao (int vetor\[\], int tam){ int cont, mini, aux, tmp; for(cont=0;cont<tam;cont++){ mini = cont; for(aux = cont+1; aux vetor\[aux\]){ mini = aux; } } if(cont!=mini){ tmp = vetor\[cont\]; vetor\[cont\] = vetor\[mini\]; vetor\[mini\] = tmp; } } }'
+date: '2011-08-19T12:24:49.000Z'
+timestamp: 1313756689

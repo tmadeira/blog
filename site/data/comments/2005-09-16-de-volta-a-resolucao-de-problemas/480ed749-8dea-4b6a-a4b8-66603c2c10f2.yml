@@ -1,0 +1,8 @@
+_id: 480ed749-8dea-4b6a-a4b8-66603c2c10f2
+_parent: 2005-09-16-de-volta-a-resolucao-de-problemas
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'Hey... I used a simple recursive function. The solution, implemented in C, is here: [sprime.c](http://tiagomadeira.net/script/sprime.c)The logic is the following: 1. The function receives "n". 2. If n is greater than 1, we do function(n-1) 3. If n=1, we just return the four only primes with one digit: 2, 3, 5 and 7. 4. We have an array called **cont**, that keep the value of numbers with each number of digits (its index). 5. After do function(n-1), when n is greater than 1, I do the following loop: for i=0 until cont\[n-1\]; do for j=1 until 9, increasing 2; do num=prime\[n-1\]\[i\]\*10+j; if (is\_prime(num)) { prime\[n\]\[cont\[n\]++\]=num; } } } This function, only make num=prime\[n-1\]\[i\]\*10+j, where prime\[n-1\]\[i\] is a prime with less one algarism and we do it times 10 because we are on decimal system. We do plus "j" because "j" is a odd value that can be the unit of a prime. So, we formed all the primes with each n. :) Understood? Sorry my bad english, i''m trying to improve it... lol Any problem, answer me!'
+date: '2006-01-17T16:01:39.000Z'
+timestamp: 1137513699

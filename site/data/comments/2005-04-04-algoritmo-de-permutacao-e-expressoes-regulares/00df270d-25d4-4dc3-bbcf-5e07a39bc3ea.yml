@@ -1,0 +1,8 @@
+_id: 00df270d-25d4-4dc3-bbcf-5e07a39bc3ea
+_parent: 2005-04-04-algoritmo-de-permutacao-e-expressoes-regulares
+reply_to: ''
+name: nicolas
+email: 99de1713540337ffd3f89e067df0fef2
+body: 'Eu testei esse seu algoritimo, ele na verdade exerce a funcao de um contador da base numerica definida por NUMEROS, com NIVELMAX algarismos. Por exemplo: NUMEROS = 2; NIVELMAX = 5 -> nSaidas = 32 = 2^5 NUMEROS = 2; NIVELMAX = 4 -> nSaidas = 16 = 2^4 NUMEROS = 3; NIVELMAX = 3 -> nSaidas = 27 = 3^3'
+date: '2015-04-20T18:43:12.000Z'
+timestamp: 1429555392

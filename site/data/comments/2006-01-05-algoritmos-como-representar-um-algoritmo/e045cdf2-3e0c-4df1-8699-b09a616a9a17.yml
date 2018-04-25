@@ -1,0 +1,8 @@
+_id: e045cdf2-3e0c-4df1-8699-b09a616a9a17
+_parent: 2006-01-05-algoritmos-como-representar-um-algoritmo
+reply_to: ''
+name: pindio
+email: a2c0602186a537c3ce2e21e8fccf7bc1
+body: 'Pessoal, em relação ao ano bissexto, segue Se ano módulo 400 é 0 então bissexto Senão se ano módulo 100 é 0 então não\_bissexto Senão se ano módulo 4 é 0 então bissexto Senão não\_bissexto [](http://pt.wikipedia.org/wiki/Ano_bissexto "Ano bissexto")'
+date: '2008-04-15T03:01:41.000Z'
+timestamp: 1208228501

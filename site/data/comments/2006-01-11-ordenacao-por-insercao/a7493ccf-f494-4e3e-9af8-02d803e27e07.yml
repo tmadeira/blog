@@ -1,0 +1,8 @@
+_id: a7493ccf-f494-4e3e-9af8-02d803e27e07
+_parent: 2006-01-11-ordenacao-por-insercao
+reply_to: ''
+name: Reginaldo
+email: 983189ae59ad662ace462ce027fad85d
+body: 'Estou tentando criar um algoritmo de Ordenação por Inserção mas não consigo fazer mostrar o vetor ordenado, como faço? Segue o algoritmo para análise. Desde já agradeço. { int i, j, chave; const qtd=10; int v\[qtd\]; srand(time(NULL)); printf("VETOR DESORDENADO\\n"); for(i=0; i<qtd; i++) { v\[i\]=rand()%101; printf("\\t%d \\n", v\[i\]); } for(i=0; i<qtd; i++) { for(j=1; j<qtd-1; j++) { chave=v\[j\]; v\[j\]=v\[j-1\]; } while(chave = 0) { v\[j+1\]=v\[j\]; v\[j\]=v\[j-1\]; } v\[j+1\]=chave; } printf("\\n VETOR ORDENADO \\n"); for(i=0; i<qtd; i++) printf("\\t\\%d \\n", v\[i\]); system("PAUSE"); return 0; } Aguardo resposta.'
+date: '2013-11-15T14:45:08.000Z'
+timestamp: 1384526708

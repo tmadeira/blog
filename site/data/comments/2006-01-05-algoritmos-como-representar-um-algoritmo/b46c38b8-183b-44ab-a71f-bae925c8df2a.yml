@@ -1,0 +1,8 @@
+_id: b46c38b8-183b-44ab-a71f-bae925c8df2a
+_parent: 2006-01-05-algoritmos-como-representar-um-algoritmo
+reply_to: ''
+name: Ivan
+email: e92ccc9eb19308c8ba97d61070791d53
+body: 'Oi to fazendo curso de TI e na parte de algoritimos eu to boiando. Tenho um trabalho pra entregar amanha e nem sei por onde começar. Cinco DELEGAÇÕES que participam das Olimpiadas querem verificar: Qual é seu atleta mais alto. Faça um algoritimo para armazenar o nome e a rescpectiva altura de DEZ atletas de cada DELEGAÇÃO e em seguida, ele deverá exibir o nome do maior atleta de cada DELEGAÇÃO. Obs. Cada Delegação é composta por DEZ atletas e o nome da Delegação também deverá ser exibido junto do nome do atleta. Eu fiz assim INICIO | M: MATRIZ\[1..50, 1..2\] CARACATERE OU LITERAL | N: MATRIZ\[1..50, 1..2\] CARACTERE OU LITERAL | V: VEOR\[1..50\] INTEIRO OU NUMERICO | B, C, V: INTEIRO OU NUMERICO para B de 1 até 50 faça para C de 1 até 50 faça Ai eu travei aqui. ME AJUDE, POR VAVOR!!!!!!!!!!!!'
+date: '2011-02-18T02:40:38.000Z'
+timestamp: 1297996838

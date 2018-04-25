@@ -1,0 +1,8 @@
+_id: 40a372ef-cc47-4409-97ac-9926a5ff5802
+_parent: 2007-01-16-dor-de-cabeca
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: "> Deixa eu falar. Instale sem subir o X, ou seja, antes de iniciar o X, faça no console mesmo ;) O da Nvidia não funciona se o X estiver rodando!\n\nMeu laptop antigo tinha uma Radeon 320IGP M e eu instalei os drivers proprietários da ATI, e com o X ligado. ;) Mas vou tentar pra ver se ele não tem alguma instalação de modo texto... > Problema do vídeo: Você baixou o driver para 64bits ? =)\n\nSim... :-) veja até pelo nome do arquivo: ...x86\\_64.run ;)\n\nO que eu tô vendo no FAQ do site da ATI é que precisa ter um monte de biblioteca, algumas especificamente a 64bits, pra esse fglrx funcionar. Vou ter que checar uma por uma e quem sabe isso funciona...\n\nValeu hlegius!"
+date: '2007-01-16T19:27:38.000Z'
+timestamp: 1168975658

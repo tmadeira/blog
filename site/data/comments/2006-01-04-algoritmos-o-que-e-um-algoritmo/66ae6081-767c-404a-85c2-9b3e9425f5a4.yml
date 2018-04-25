@@ -1,0 +1,8 @@
+_id: 66ae6081-767c-404a-85c2-9b3e9425f5a4
+_parent: 2006-01-04-algoritmos-o-que-e-um-algoritmo
+reply_to: ''
+name: 'aline silva'
+email: 3fc0d6ef266f421cd8171a0dc07c92e1
+body: 'gostaria de saber qual o modelo desse algoritimo e o que cada linha deste se propõe a fazer se alguem puder me ajudar agradeo. Algorítmo de Pesquisa e Alteração P:= COMEÇO; enquanto COMEÇO # Λ e COMEÇO↑.INFO # Y faça COMEÇO := COMEÇO↑.PROX; fim enquanto; se COMEÇO # Λ então COMEÇO↑.INFO := X; SUCESSO; senão FRACASSO; fim se; COMEÇO:=P;'
+date: '2010-04-24T01:47:06.000Z'
+timestamp: 1272073626

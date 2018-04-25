@@ -1,0 +1,8 @@
+_id: 9b2cd76c-d9b3-44e3-90b7-57850ef4f199
+_parent: 2006-01-04-algoritmos-o-que-e-um-algoritmo
+reply_to: ''
+name: 'Rafael Santos Nascimento'
+email: 0c5fca8556e3eba454bcca86d2c59558
+body: 'Estou precisando de ajuda nesse algoritmo. tenho que comentar linha por linha. Por favor me ajudem. Comente as linhas do algoritmo abaixo: algoritmo "modifica-LC" var SAIDA, AUX, FIM, COMECO, N : inteiro Y, X : literal V : vetor \[1..4\] de literal inicio N := 4 para AUX de 1 ate 4 passo 1 faca escreval("Informe um nome para a ", AUX, " posicao do vetor: ") leia (V\[AUX\]) fimpara escreva("Informe um nome para pesquisar na fila ''Y'': ") leia (Y) escreva("Informe um nome para alterar na fila ''X'': ") leia (X) escreva("Informe nro para FIM: ") leia (FIM) escreva("Informe nro para COMECO: ") leia (COMECO) escreva("") se COMECO = FIM entao escreval ("UNDERFLOW") senao AUX := COMECO SAIDA := 0 enquanto SAIDA = 0 faca se COMECO = N entao COMECO := 1 senao COMECO := COMECO + 1 fimse escreval(V\[COMECO\], " é igual ", Y, "?") escreval("") se V\[COMECO\] = Y entao SAIDA := 1 fimse escreval(SAIDA, " = 0 E ", COMECO, " = ",FIM, " ?") escreval("") se SAIDA = 0 entao se COMECO = FIM entao SAIDA := 2 fimse fimse fimenquanto se SAIDA = 1 entao V\[COMECO\] := X escreval ("SUCESSO") senao escreval ("FRACASSO") fimse escreval("O conteúdo de Y ", Y, " foi encontrado na ", COMECO, " do nosso vetor - fila") escreval("") COMECO := AUX fimse escreval("Valor de FIM é: ", FIM) escreval("Valor de COMECO é: ", COMECO) fimalgoritmo'
+date: '2010-06-22T22:38:11.000Z'
+timestamp: 1277246291

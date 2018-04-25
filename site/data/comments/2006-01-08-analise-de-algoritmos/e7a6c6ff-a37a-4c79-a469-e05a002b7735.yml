@@ -1,0 +1,8 @@
+_id: e7a6c6ff-a37a-4c79-a469-e05a002b7735
+_parent: 2006-01-08-analise-de-algoritmos
+reply_to: ''
+name: 'Pedro D'
+email: 2803e0d2cf27b997f57b16ce959cc150
+body: 'Excelente artigo! Já agora acho que encontrei um pequeno erro no primeiro exemplo do Algoritmo 1), em que a linha 2 deveria de ser n+SUM\_i=1\_ate\_n (i) e não n\*SUM\_i=1\_ate\_n (1) + n. Deixo aqui um codigo exemplo que demonstra o meu ponto de vista: http://ideone.com/qziSQ Abraço!'
+date: '2012-03-31T17:29:08.000Z'
+timestamp: 1333214948

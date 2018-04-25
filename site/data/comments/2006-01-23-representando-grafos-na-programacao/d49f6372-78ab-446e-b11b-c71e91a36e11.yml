@@ -1,0 +1,8 @@
+_id: d49f6372-78ab-446e-b11b-c71e91a36e11
+_parent: 2006-01-23-representando-grafos-na-programacao
+reply_to: ''
+name: Claudio
+email: 77ee2bb6e849593703fd0acf3c151906
+body: 'eu gostaria de saber este algoritmo: faça um algoritmo que determine, para um digrafo, a quantidade de vertice que não possuem aresta saindo, considere que são fornecida as matrizes de incidencia e adjacencia do digrafo. entrada : matriz de incidencia MI\[20,30\] matriz de adjacencia - MA\[20,20\] saida quantidade de vertice - QV 2) um algoritmo que determina quais vertices são adjacentes a todos os vertices de um digrafo, considere que são fornecidas as matrizes de incidencia e adjacencia do grafo. entrada matriz incidencia - MI\[20,30} matriz adjacencia - MA\[20,20\] vertice de origem - VO saida vetor de vertice - VVI\[20\]'
+date: '2008-06-18T14:52:09.000Z'
+timestamp: 1213800729

@@ -1,0 +1,8 @@
+_id: fdcf5527-06ed-4c1d-a4b2-cb83b54c6257
+_parent: 2007-02-08-publicidade-gratuita
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: "OK, comparar só com as de Santa Catarina é sacanagem... Top 10 da Região Sul:\n\n```\nmysql> select id, nome, media from enem order by media desc limit 10;\n+------+---------------------------------------------+-------+\n| id   | nome                                        | media |\n+------+---------------------------------------------+-------+\n| 2358 | UNIVERSIDADE TECNOLÓGICA FEDERAL DO PR      |  6915 | \n| 2610 | COLEGIO ISRAELITA BRASILEIRO                |  6805 | \n|  893 | ALFA DE UMUARAMA. COL ENS MED - SUBSEDE II  |  6727 | \n| 2969 | ESC EDUC BASICA DA URI SANTIAGO             |  6665 | \n| 2599 | COLEGIO FARROUPILHA                         |  6663 | \n| 1821 | MARISTA DE LONDRINA.COL  ED INF E FUN E MED |  6662 | \n| 2660 | COLEGIO MILITAR DE PORTO ALEGRE             |  6631 | \n| 2621 | COLEGIO LEONARDO DA VINCI-ALFA              |  6575 | \n| 2752 | COLEGIO SINODAL                             |  6530 | \n|  185 | COLEGIO SALESIANO ITAJAI                    |  6456 | \n+------+---------------------------------------------+-------+\n10 rows in set (0,01 sec)\n```"
+date: '2007-02-08T14:01:18.000Z'
+timestamp: 1170943278

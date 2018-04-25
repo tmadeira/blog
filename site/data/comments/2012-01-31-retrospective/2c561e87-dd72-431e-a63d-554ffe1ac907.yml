@@ -1,0 +1,8 @@
+_id: 2c561e87-dd72-431e-a63d-554ffe1ac907
+_parent: 2012-01-31-retrospective
+reply_to: ''
+name: Nick
+email: b0fb1bdb21a77813e360d481c186ac85
+body: 'Hi Tiago, I have been playing with this plugin and love it. It does a good job where others have failed. Just one problem at the moment, the date will not display any dates before 01/01/1970. Having done some research this looks like a php issue as opposed to wordpress issue. 1 useful resource I have found is this http://studiohyperset.com/wordpress-old-dates-historical-pre-1969-pre-1970-timestamp-function/3102 but I am no good with php and I am unable to implement this solution. Basically, all i want to do is use the standard wordpress "Published on" field as provided in the post admin interface. Would you be able to help me with this. Any assistance would be greatly appreciated. Kind Regards Nick'
+date: '2013-04-05T14:22:32.000Z'
+timestamp: 1365171752

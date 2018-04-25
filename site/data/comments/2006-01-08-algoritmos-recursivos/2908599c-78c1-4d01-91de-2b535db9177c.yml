@@ -1,0 +1,8 @@
+_id: 2908599c-78c1-4d01-91de-2b535db9177c
+_parent: 2006-01-08-algoritmos-recursivos
+reply_to: ''
+name: 'Júlio Kamizato'
+email: 710818edfb862a1aef89445fec5d5aba
+body: 'Não tenho certeza, mas acho que a recursão do Fibonacci está errada, o if tem que ser n>=2 e não >=3. Abraço'
+date: '2008-09-18T09:52:30.000Z'
+timestamp: 1221731550

@@ -1,0 +1,8 @@
+_id: 55329ba6-2390-4c5a-9eb2-87eb38ecd9c2
+_parent: 2006-01-08-analise-de-algoritmos
+reply_to: ''
+name: breno
+email: 313c96f5b798b346e0ef0e9eaa0088dc
+body: 'preciso fazer um programa para preencher uma matriz 3x5, mostrar a soma de cada linha e mostrar qual linha tem o maior valor somado preciso de ajuda #include int main() { int mtrx \[3\]\[5\]; int a, b; float Maior, soma=0; for (a=0; a<3; a++) { for(b=0; b<5; b++) { cout<> mtrx \[a\]\[b\]; Maior = mtrx \[0\] \[0\]; soma=Maior; { Maior=mtrx \[a\]\[b\]; } } } for (a=0; a<3; a++) { cout<<"\\n"; for(b=0; b<5; b++) { cout<<mtrx \[a\]\[b\]<<" "; } } for (a=0; a<3; a++) { for(b=0; b<5; b++) { cout<<"\\n"; mtrx\[a\]\[b\]=Maior; soma=a+b; } } cout<<"\\n\\t\\tFim do Programa\\n"; cout<<"\\n A soma e:"<<soma; system("PAUSE"); return 0; }'
+date: '2012-11-12T22:14:58.000Z'
+timestamp: 1352758498

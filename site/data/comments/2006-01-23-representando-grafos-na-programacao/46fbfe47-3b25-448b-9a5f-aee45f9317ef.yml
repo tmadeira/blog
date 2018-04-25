@@ -1,0 +1,8 @@
+_id: 46fbfe47-3b25-448b-9a5f-aee45f9317ef
+_parent: 2006-01-23-representando-grafos-na-programacao
+reply_to: ''
+name: Ricardo
+email: bf951316d5c0032ce9cab52130d15531
+body: 'Olá, tudo bem? Estou apanhando um pouco em escrever uma classe em java que produza a seguinte solicitação: 1. Construa uma classe Java que armazene um grafo através da representação por matriz de adjacência. Implemente um método que permita a leitura de um grafo armazenado em um arquivo texto. Construa outro método para armazenar em um arquivo um grafo armazenado na memória. Grafo a = new Grafo(); a.carregar(“arquivo.txt”); // Carrega o grafo do disco. ... a.salvar(“arquivo.txt”); // Armazena o grafo no disco.'
+date: '2007-06-11T23:32:55.000Z'
+timestamp: 1181604775

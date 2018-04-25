@@ -1,0 +1,8 @@
+_id: 64c39cd4-315e-43da-8444-2966bed4e97e
+_parent: 2006-01-05-algoritmos-como-representar-um-algoritmo
+reply_to: ''
+name: 'claudia cirlene miranda'
+email: 08b1a6b42418cfa9c9e6d47dd2b5bda4
+body: 'Elabore um algoritmo para o professor João, com base nas respostas definidas • Permita o lançamento do nome do professor; • Permita o lançamento do nome da disciplina; • Permita o lançamento do nome de um aluno; • Permita o lançamento das notas de um aluno - o professor deve digitar via teclado todas as notas; • Efetue o cálculo da média das notas de um aluno; • Efetue a divulgação do resultado final, informando a média final e o resultado (aprovado ou reprovado – use vetor de caracteres).'
+date: '2011-12-01T13:43:31.000Z'
+timestamp: 1322747011

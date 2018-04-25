@@ -1,0 +1,8 @@
+_id: 74ef4f59-7463-4f27-8c16-92a044bdedf3
+_parent: 2006-01-08-analise-de-algoritmos
+reply_to: ''
+name: Francisco
+email: 74b415a82ee073a5b29d19a616191eae
+body: 'Patrícia, olha se isso te ajuda... 1) algoritmo var v: vetor \[1..10\] de real Soma: real i: inteiro inicio para i de 1 ate 10 faca escreva ("Digite o", i, "º número: ") leia (v\[i\]) Soma <- Soma + v\[i\] fimpara escreva ("Soma dos números: ", Soma) fimalgoritmo 2) algoritmo var v: vetor \[1..20\] de inteiro i, j, Resto, Total\_Resto, Valor, Soma\_Primos: inteiro inicio para i de 1 ate 20 faca escreva ("Digite o", i, "º número: ") leia (Valor) Total\_Resto <- 0 para j de 1 ate Valor faca Resto <- Valor % j se Resto = 0 entao Total\_Resto <- Total\_Resto + 1 fimse fimpara se Total\_Resto = 2 entao v\[i\] <- Valor fimse fimpara escreva ("Primos :") para i de 1 ate 20 faca se v\[i\] 0 entao escreva (v\[i\], ",") Soma\_Primos <- Soma\_Primos + v\[i\] fimse se i = 20 entao escreval("") escreval ("Soma dos primos:", Soma\_Primos) fimse fimpara fimalgoritmo'
+date: '2009-08-10T13:28:26.000Z'
+timestamp: 1249910906

@@ -1,0 +1,8 @@
+_id: 8f91d7e3-3ba0-467d-b581-8ac77eea5e24
+_parent: 2006-01-05-algoritmos-como-representar-um-algoritmo
+reply_to: ''
+name: 'Carlos Rafael Andrata'
+email: 1b45fd98c24faa7ef88c62fbaca05298
+body: 'Por favor, vcs podem me solucionar este pequeno problema? Espero que sim! Dado o seguinte vetor: 3 2 4 1 2 5 8 3 VET 1 2 3 4 5 6 7 8, qual será a sua configuração depois de executados os comandos: para i de 8 ate 5 passo -1 faça inicio AUX := VET{ i }; VET { i } := VET { 8-i+1 }; VET { 8-i+1} := AUX; fim\_para; VET { 3 } := VET { 1 }; VET { VET { 3 } } := VET{ VET { 2 } }; agradeço deste já a atenção!!!'
+date: '2009-03-28T02:52:49.000Z'
+timestamp: 1238208769

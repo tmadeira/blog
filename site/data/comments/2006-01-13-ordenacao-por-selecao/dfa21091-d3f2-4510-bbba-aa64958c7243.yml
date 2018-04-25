@@ -1,0 +1,8 @@
+_id: dfa21091-d3f2-4510-bbba-aa64958c7243
+_parent: 2006-01-13-ordenacao-por-selecao
+reply_to: ''
+name: Jaciara
+email: 9d6af545eda48a9964672f2bd7bc88a5
+body: 'Só uma ressalva sobre o "para i <- 1" e o pessoal comentando que deve ser "para i <- 0": realmente na implementação deve-se inicializar a partir de zero (vetores possuem o primeiro índice igual a 0), mas como tenho visto muito pseudocódigos eles realmente exemplificam dessa maneira. Não é erro no pseudocódigo, ele apenas ilustra o que o i deve inicializar no primeiro índice do vetor.. Espero que entendam'
+date: '2014-03-21T05:35:47.000Z'
+timestamp: 1395380147

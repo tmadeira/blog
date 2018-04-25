@@ -1,0 +1,8 @@
+_id: a54cedf6-0ea7-403b-ad5e-bed047b5b06f
+_parent: 2006-01-04-algoritmos-o-que-e-um-algoritmo
+reply_to: ''
+name: Bruno
+email: 7ed2ddd327ee5347555fe80c7a9dd97f
+body: 'A sua definição de Algoritmo está equivocada, ela é muito mais genérica do que o publicado. Algoritmo não recebe um ou mais valores e retorna um ou mais valores. Um algoritmo pode não ter nenhuma entrada e várias saídas, ou o contrario. e não necessariamente ele é computacional, e se for mesmo assim não se aplica a sua definição.'
+date: '2007-03-21T13:36:58.000Z'
+timestamp: 1174484218

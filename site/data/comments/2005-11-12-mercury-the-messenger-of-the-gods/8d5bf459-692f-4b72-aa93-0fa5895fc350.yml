@@ -1,0 +1,8 @@
+_id: 8d5bf459-692f-4b72-aa93-0fa5895fc350
+_parent: 2005-11-12-mercury-the-messenger-of-the-gods
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'Oi Sérgio! Você tem que criar um arquivo, executável, que irá dizer que música está tocando. Crie um arquivo, em qualquer lugar, com o nome "tocando.sh". Então, cole o conteúdo que eu escrevi no post (naquela parte - amaroK - What''s playing). Você precisa permitir que ele seja executado. Para isso, no terminal, na pasta do arquivo, escreva **chmod +x tocando.sh**. Depois, no amaroK, na opções de configurações gerais (acho que são nas Global Settings), clique em "Advanced View" e lá na opção mais de cima, onde você escolhe nome, mensagem pessoal, etc. vai ter um local para você escolher vários programas de música **ou** um programa que retorne que música está tocando. Então, marque essa box de um programa que retorne o que está tocando e escreva: **/pasta/tocando.sh** (onde pasta é o caminho para o arquivo). E então, estará tudo funcionando! Tente fazer e qualquer coisa retorne o comentário... :) Um abraço, Tiago.'
+date: '2006-04-03T10:07:44.000Z'
+timestamp: 1144058864

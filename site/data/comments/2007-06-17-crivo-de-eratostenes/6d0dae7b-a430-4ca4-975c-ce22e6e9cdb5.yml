@@ -1,0 +1,8 @@
+_id: 6d0dae7b-a430-4ca4-975c-ce22e6e9cdb5
+_parent: 2007-06-17-crivo-de-eratostenes
+reply_to: ''
+name: 'Gustavo Felisberto'
+email: e40207c60ef1192b263ec384fff4cb01
+body: 'Isto está mal. Como se pode facilmente verificar ao correr este algoritmo ele apenas testa até sqrt(MAX), se MAX for primo, não vai ser testado e não será indicado. QED. http://en.wikipedia.org/wiki/Sieve\_of\_Eratosthenes'
+date: '2007-12-17T16:22:17.000Z'
+timestamp: 1197908537

@@ -1,0 +1,8 @@
+_id: 1e1cf895-e317-4634-8f6a-8a0d874474fb
+_parent: 2006-01-08-algoritmos-recursivos
+reply_to: ''
+name: Moacir
+email: 6444733dcafe8b648cff1f5abd294e9e
+body: 'A informação "função linear, o tipo de algoritmo mais simples que podemos encontrar, com excessão dos que são uma função constante." está errada. Existem algoritmos que são caracterizados, por exemplo, por uma função de complexidade \*logarítmica\*, que possui maior eficiência assintótica do que a linear.'
+date: '2010-08-10T20:41:12.000Z'
+timestamp: 1281472872

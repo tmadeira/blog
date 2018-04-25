@@ -1,0 +1,8 @@
+_id: 81f3b75d-6f17-40a4-ab17-8306ff302363
+_parent: 2005-09-16-only-variables-can-be-passed-by-reference
+reply_to: ''
+name: 'Bruno P. Gonçalves'
+email: caaa32d00dba8588b541feb16b210b8d
+body: 'Boa noite, Estou comentando só pra registrar que o erro não ocorre por conta da função, e que uma função não é uma variável. O erro ocorre por que você precisa passar a referencia da variável, e passando a função diretamente, a variável ainda não existe, e não tem uma referencia, ela só esta registrada nos registradores temporários (local "protegido" pelo interpretador PHP) Também estou com este problema, tentando passar uma variável variável ($$variavel). Assim que achar a solução volto a comentar =) Bruno P. Gonçalves'
+date: '2012-06-12T00:40:53.000Z'
+timestamp: 1339461653

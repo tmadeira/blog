@@ -1,0 +1,8 @@
+_id: 83616555-ed4c-4d28-a2df-37ba34e75ccd
+_parent: 2007-01-30-flash-9-no-firefox-a-64-bits
+reply_to: ''
+name: Jansen
+email: 4a08ee44f8aa5c2ab192bb04b1103c52
+body: 'echo net-www/nspluginwrapper ~arch >> /etc/portage/package.keywords da um erro aqui bash: /etc/portage/package.keywords: Arquivo ou diretório inexistente'
+date: '2007-04-07T12:30:53.000Z'
+timestamp: 1175949053

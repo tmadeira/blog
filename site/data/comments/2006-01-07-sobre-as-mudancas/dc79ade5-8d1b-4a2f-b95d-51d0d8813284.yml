@@ -1,0 +1,8 @@
+_id: dc79ade5-8d1b-4a2f-b95d-51d0d8813284
+_parent: 2006-01-07-sobre-as-mudancas
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'Não cheguei a testar outros não... É que a única funcionalidade que eu quero é essa mesmo, então não tenho necessidade de nada a mais do que o "SimpleTags". A idéia é super simples, é só uma função PHP que separa as vírgulas (um explode) e com cada string da array resultante escreve o link. Aliás, o esquema do Technorati é muito simples. Falou!'
+date: '2006-01-08T14:36:22.000Z'
+timestamp: 1136730982

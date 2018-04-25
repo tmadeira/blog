@@ -1,0 +1,8 @@
+_id: a2f5df80-bb3a-4dd1-8708-429e34232bcc
+_parent: 2007-01-16-dor-de-cabeca
+reply_to: ''
+name: hlegius
+email: 5503c44858bf8f940adbd0ee98a44507
+body: 'Salve Tiago! Pessimista, não, realista! hehehe... Problema do vídeo: Você baixou o driver para 64bits ? =) Problema 2: Sim, teria que baixar vários pacotes que seriam emuladores para fazer seu bash suportar 32bits, para daí baixar emulador para: libc, glibc, bash e Firefox, para depois sim, baixar o FF e fazer ele rodar. O Gentoo resolve, pois ele tem todos esses caras que eu falei nos repositórios deles. basta dar um emege (alguma coisa que eu não me lembro) firefox-bin que ele baixa a versão 32bits. Dá para fazer na mão, mas eu não tive essa coragem =) Quando ao Ubuntu, não curti ele... ele vem com FF 64bits, logo, não adianta de nada sem falar que eu particularmente odeio apt\[..\] Problema 3: Não é problema, é um aprendizado ;) Tu vai apanhar ? Sim, um bocado! Mas no fim tudo funfa... dica ? Canal IRC. #slackware-br em freenode, ou #slackware na brasnet ;) Problema 4: Nunca passei por algo assim, ainda! Problema 5: hmm... meu som é intel8x0 . Quanto ao comentário acima: Felipe, estou usando os drivers proprietários da Nvidia no meu 64bits e funciona de boa. Se seu sistema for 32, baixe para 32, se for 64 baixe para 64. Aí, Tiago, qualquer coisa só dá um toque ... tô lá pelo GTalk direto! Boa sorte aí!'
+date: '2007-01-16T19:16:20.000Z'
+timestamp: 1168974980

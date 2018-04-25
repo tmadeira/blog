@@ -1,0 +1,8 @@
+_id: 8753af7c-e2d3-414f-8d60-9f33aa9da72c
+_parent: 2006-01-08-algoritmos-recursivos
+reply_to: ''
+name: Andrea
+email: 4bd1d117781a35410f13467a36c551a2
+body: 'Kamizato, você certamente se esqueceu de ler a linha abaixo do algoritmo, que definia o domínio da função para n >= 1. Com isso, o primeiro elemento é 1, o segundo é 2, e, claramente, neste caso utiliza-se o if n >= 3... Se os elementos tivessem se iniciado do zero, seu comentário estaria correto.'
+date: '2010-06-18T17:59:13.000Z'
+timestamp: 1276883953

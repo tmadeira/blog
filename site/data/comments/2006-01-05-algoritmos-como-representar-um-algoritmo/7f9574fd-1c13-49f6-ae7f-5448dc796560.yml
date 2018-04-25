@@ -1,0 +1,8 @@
+_id: 7f9574fd-1c13-49f6-ae7f-5448dc796560
+_parent: 2006-01-05-algoritmos-como-representar-um-algoritmo
+reply_to: ''
+name: luana
+email: 29bfcd18c04404742234187115aa13e5
+body: 'Estou precisando de ajuda neste trabalho de Algoritimo. alguem pode me ajudar? A empresa Site & Sites Co., conhecida mundialmente pela eficiência em produção de aplicações Internet, recebeu um grande desafio: catalogar todo o acervo de uma grande biblioteca particular de aproximadamente 50.000 livros, de tal forma que uma ou mais obras possam ser localizadas por uma das informações do cadastro. Os bibliotecários disponibilizaram uma lista do acervo em uma planilha eletrônica contendo: nome da obra, nome do autor, editora, ano de publicação, edição e quantidade de páginas. Esta planilha será convertida para um banco de dados, que estará ordenado pelo nome do autor. A Site & Sites Co. deverá então apresentar a elaboração de um algoritmo (passo a passo em forma de texto) para cada um dos problemas a seguir: 1)Localizar os livros de um determinado autor e listar o título de cada um. 2)Localizar um determinado título e exibir as informações da obra. Grato dede já,'
+date: '2010-06-11T22:36:43.000Z'
+timestamp: 1276295803

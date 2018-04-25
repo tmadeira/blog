@@ -1,0 +1,8 @@
+_id: c038db28-8502-4e9d-a799-910134133de1
+_parent: 2006-01-05-algoritmos-como-representar-um-algoritmo
+reply_to: ''
+name: thay
+email: 145eac20438a853508752a42228737fb
+body: 'Defina uma matriz como estrutura para guardar as informações das cotações diárias de cada moeda, sendo que as linhas deverão corresponder à moeda e as colunas aos dias do mês. Para identificação de cada moeda, usem um vetor, sendo que a posição do vetor em que uma moeda está alocada corresponda à linha da matriz que contém suas cotações diárias. A equipe deverá apresentar: 1. especificar os novos dados a serem incorporados no algoritmo; 2. definir o processamento necessário para encontrar o valor médio, o menor e o maior valor da cotação dentro de um mês; 3. apresentar o pseudocódigo do algoritmo alterado'
+date: '2011-10-31T16:30:45.000Z'
+timestamp: 1320078645

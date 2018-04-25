@@ -1,0 +1,8 @@
+_id: acb8308d-10ea-4d08-9d46-b75356697381
+_parent: 2009-08-24-sobre-os-meus-5%c2%b2%c2%b3-problemas-com-meu-laptop
+reply_to: ''
+name: 'Symp Silva'
+email: 90c282f399e462ac425f2e19d0e16cbc
+body: 'Bom dia, Thiago. Eis o meu relato: Tenho um L92 exatamente igual ao seu, só que tenho dual boot (Sempre preciso do Vista Home 64 bits pra rodar algum joguinho ou plugin que só funciona lá. Ainda tem muito disso na Net). Ele está funconando OK, mas o tal hack dos 4000MB (no Vista) que você mencionou. Eu o levei à Assitência Técnica a 1 semana de a garantia acabar, e trocaram placa-mãe e memórias. Conseguiram reinstalar o Vista 64 bits com muita dificuldade (e me exigiram os CDs originais do micro. Acharam que eu tinha o de 32 bits... hahahaha!), mas ele tá lá, e funcionando sem problemas. Lembro que colocaram o tal limite de 4000MB como no seu anexo. Botei um Kubuntu 9.10 (32 bits, acho) nele, que reconhece 4012MB (via free), e nunca travou. Alias, nunca tive travamentos no Linux, mas no Vista eram frequentes e insuportáveis. E ainda vou testar o Linux 64 bits. E, claro, vou aproveitar os 30 dias de garantia extendida restantes pra perturbar a Amazon PC pra darem uma solução decente (ou conserta de verdade ou devolvem o dinheiro). Pois embora finalmente eu tenha uma solução, se ela insistir em esconder o problema, será a ÚLTIMA VEZ que comprarei algo deles. Melhor comprar da Intelbras, que pelo menos consertaram os JFT00 deles. Um porém: Eu não consigo fazer o Kubuntu voltar da hibernação. Se ele carrega pra RAM ou pro disco, ele não volta ao apertar o POWER. No Vista, isso funciona. Alguém tem alguma dica?'
+date: '2010-01-04T15:38:19.000Z'
+timestamp: 1262619499

@@ -1,0 +1,8 @@
+_id: c11dd11a-b616-49cf-bbac-d11e199d2384
+_parent: 2014-04-01-como-copiar-textos-da-folha-e-outros-sites-que-nao-deixam
+reply_to: ''
+name: Jef
+email: dd04f864c42d8a42c92000abb84c636a
+body: 'Somente Firefox: usando about:config Se você usa Firefox, pode desabilitar os clipboard events digitando, na barra de endereços, em about:config. Talvez ele diga que é perigoso e peça para você clicar num botão dizendo que sabe o que está fazendo. Pode confiar. Em seguida, procure a chave dom.event.clipboardevents.enabled e clique duas vezes nela para mudar seu valor para false. Reiniciando o navegador, o recurso copiar/colar estará funcionando normalmente (ou talvez nem precise reiniciá-lo). NÃO FUNCIONA !!!'
+date: '2017-05-23T16:33:31.000Z'
+timestamp: 1495557211

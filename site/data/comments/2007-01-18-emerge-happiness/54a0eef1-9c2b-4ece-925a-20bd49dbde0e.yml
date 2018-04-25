@@ -1,0 +1,8 @@
+_id: 54a0eef1-9c2b-4ece-925a-20bd49dbde0e
+_parent: 2007-01-18-emerge-happiness
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'É. O _emerge_ é muito legal, seu único problema é a demora pra fazer o **emerge --sync** que é tipo o **apt-get update**. Você escreve **emerge kde**, por exemplo, e ele baixa tudo dos repositórios do KDE as sources e compila tudo, pegando as dependências antes; você não tem trabalho nenhum. :-) Eu achei que seria mais complicado, mas me surpreendi com a facilidade. Ele é bem simples, a não ser que você comece a instalação com o cd "minimal". Eu instalei a partir do _livecd_. Ah... Um contra dele é que a instalação demora horas (eu tava acostumado com o Slackware que eu já instalei em menos de 10min), porque ele compila os pacotes no emerge. Mas vale a pena, principalmente em 64 bits! :-) Abraço, Tiago.'
+date: '2007-01-19T11:05:34.000Z'
+timestamp: 1169204734

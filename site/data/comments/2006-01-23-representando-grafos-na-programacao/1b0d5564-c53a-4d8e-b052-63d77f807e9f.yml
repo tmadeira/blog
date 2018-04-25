@@ -1,0 +1,8 @@
+_id: 1b0d5564-c53a-4d8e-b052-63d77f807e9f
+_parent: 2006-01-23-representando-grafos-na-programacao
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: "Oi Peter! Eu nunca implementei um problema de grafos partindo de um grafo pronto! :S Hehehe... Por isso você não encontrou... =) Mas é o seguinte: Você pode usar ou a **matriz de adjacências** ou a **lista de adjacências**. Vamos usar a **matriz de adjacências**. Ela é a primeira que eu falo no artigo, onde toda relação entre dois caras é representada com um 1 (ex.: João é amigo de Maria).\n\n`grafo[João][Maria]=1`Onde não tem relação, colocamos 0 (ex.: João e Carlos não se conhecem) `grafo[João][Carlos]=0`**Como implementar isso?**Para fazer um grafo pronto de 5x5, você teria que fazer o seguinte (é em C que você programa, né?) ```\nint grafo[6][6];\nmemset(grafo, 0, sizeof(grafo)); //zerando tudo! (apagando as relações)\ngrafo[1][2]=1; //1 é amigo de 2\ngrafo[2][5]=1; //2 é amigo de 5\n// e assim vai\n```Entendeu? Aí depois para contar o grau do vértice (ver quantos amigos tem cada cara) você usa aquele algoritmo que eu proponho logo após o texto _\"Descobrir o grau de cada vértice_. Em C, ficaria assim: ```\nfor (i=1; i\n\nEspero que dê tudo certo! Qualquer coisa, pode contar comigo.\n\nUm abraço,\nTiago.\n```"
+date: '2006-02-21T21:08:25.000Z'
+timestamp: 1140556105

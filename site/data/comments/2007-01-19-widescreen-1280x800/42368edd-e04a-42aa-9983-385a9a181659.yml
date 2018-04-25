@@ -1,0 +1,8 @@
+_id: 42368edd-e04a-42aa-9983-385a9a181659
+_parent: 2007-01-19-widescreen-1280x800
+reply_to: ''
+name: 'José Luís'
+email: 1545f91437e2576b910dbd1023a44756
+body: 'O teclado do meu notebook tem o mesmo problema (interrogação e w compartilhando a mesma tecla). Veja a solução que usei no Ubuntu 5.10: http://www.jlcarneiro.com/2006/04/teclado-de-notebook-no-ubuntu-510/ Agora, usando o Ubuntu 6.10, não precisei mais. O teclado foi reconhecido corretamente. A propósito, resolveu o problema da HDA-Intel? ;)'
+date: '2007-02-03T04:23:04.000Z'
+timestamp: 1170476584

@@ -1,0 +1,8 @@
+_id: b8f8a0d9-2935-4f83-b130-12a185e903ca
+_parent: 2007-01-19-widescreen-1280x800
+reply_to: ''
+name: Vitor
+email: ccc07244bb6cc73d531c8451e838f2a1
+body: 'Para resolver o problema do altgr+w, eu editei o arquivo /etc/X11/xkb/symbols/br achei a linha onde tem key ..... e adicionei logo acima uma linha com key { \[ w, W, question, question \] } e xorg.conf as opcoes de teclado ficaram : Option "XkbModel" "abnt2" Option "XkbVariant" "br" boa sorte :)'
+date: '2007-01-24T20:52:54.000Z'
+timestamp: 1169671974

@@ -1,0 +1,8 @@
+_id: d1a66a1b-8281-492e-8a74-6337edd7c603
+_parent: 2009-08-24-sobre-os-meus-5%c2%b2%c2%b3-problemas-com-meu-laptop
+reply_to: ''
+name: Alex
+email: bab4de011caf37e74d05ea5edefec3dc
+body: 'Caro Tiago, comprei um Intelbras i59, ou seja um jft00 compal... Os problemas que vc tem são identicos aos meus, uso o Vista Ultimate 64 e o Ubuntu 9.04 em dual boot. Mas o computador só funciona com até três Gb de memória, se coloco 4 Gb ele começa arebootar feito louco do nada e em condições completamente aleatórias. Acredito que a solução não seja a troca da CPU apesar de ter lido em alguns foruns que isso resolvesse, em minhas pesquisas descobri que para funcionar com 4Gb com sops de 64 bits o note deveria ter a possibilidade de fazer remapeamento de memória. Algo inexistente nas bios do jft00 até a versão 1.06A que já uso e não corrigiu também o problema. A troca da cpu inclusive em outros foruns é desaconselhada por não haver suporte aos PENRYN, veja o comentário a seguir: WARNING...the Compal (I)FL90/91, (I)FT00/01 and JFT00 DO NOT SUPPORT PENRYN no matter what BIOS they have...try it and fry it! Consegui configurar meu note para 3 Gb bem, mas também fiquei P... da vida com esse problema e para piorar em comprei memória fora e quando cheguei instalei no micro pois trabalho com isso a alguns bons anos, rompi os lacres e perdi a garantia. Fica apenas o meu alerta para aqueles que querem comprar um micro barato, o barato as vezes tarz esse tipo de problema... Boa sorte e se vc conseguir uma solução me mande um email...'
+date: '2009-08-26T13:16:14.000Z'
+timestamp: 1251292574

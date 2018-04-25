@@ -1,0 +1,8 @@
+_id: 8538f67a-32e9-4df3-9318-d29a0f98ddbc
+_parent: 2006-01-04-algoritmos-o-que-e-um-algoritmo
+reply_to: ''
+name: juliana
+email: 1cbd1acd571ae3822b873f4c023c0983
+body: 'Dado um grafo qualquer, o programa deverá calcular as seguintes informações: a. para cada vértice: • grau de entrada, • grau de saída b. para o grafo como um todo: • a soma dos graus de entrada • a soma dos graus de saída • o número de arcos/arestas Voce pode me ajudar a fazer em linguagem C? Espero anciosamente.'
+date: '2007-09-23T21:31:11.000Z'
+timestamp: 1190583071

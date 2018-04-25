@@ -1,0 +1,8 @@
+_id: 8f607059-5ae8-482b-afe7-e568ce321110
+_parent: 2014-04-01-como-copiar-textos-da-folha-e-outros-sites-que-nao-deixam
+reply_to: ''
+name: Felipe
+email: e6d3a28b63f5fece46aa3f009fd7d553
+body: 'Aqui no meu Chrome não funcionou o USERSCRIPT nem o BOOKMARLET, de jeito nenhum. Depois de muito sofrer, consegui achar uma solução definitiva: desabilitar o JavaScript para o domínio folha.uol.com.br nas funções avançadas do Chrome. Segue o passo a passo: Configurações > Mostrar configurações avançadas... > Configurações de Conteúdo > JavaScript > Gerenciar exceções... > Bloquear \[\*.\]folha.uol.com.br > Concluído!'
+date: '2014-05-16T23:47:38.000Z'
+timestamp: 1400284058

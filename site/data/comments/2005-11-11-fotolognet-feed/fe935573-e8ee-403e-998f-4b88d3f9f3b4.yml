@@ -1,0 +1,8 @@
+_id: fe935573-e8ee-403e-998f-4b88d3f9f3b4
+_parent: 2005-11-11-fotolognet-feed
+reply_to: ''
+name: 'Leandro N. Camargo'
+email: 52d200b4472ee0198870ead08f6a7501
+body: 'Curti a idéia. Parabéns. Mas a idéia que vou complementar aqui é pura perfumaria. Porque em vez de você forçar a pessoa ter que digitar a variável ''usuario'' na url vc simplesmente não requisita o username direto? tipo: ff.php?blabla ai para requisitar essa string basta usar o $\_SERVER\[''QUERY\_STRING''\] =)'
+date: '2005-11-18T11:46:20.000Z'
+timestamp: 1132314380

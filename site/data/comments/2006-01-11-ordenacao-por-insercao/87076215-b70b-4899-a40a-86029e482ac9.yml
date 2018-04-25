@@ -1,0 +1,8 @@
+_id: 87076215-b70b-4899-a40a-86029e482ac9
+_parent: 2006-01-11-ordenacao-por-insercao
+reply_to: ''
+name: Antonio
+email: 72d8c9d609d0fbdd1d99dc9a82b37bb9
+body: 'Manoel, realmente, muitas linguagens indexam o vetor de 0 a n-1; mas levando em conta que muitas também não o fazem, do jeito que ele colocou (pseudocódigo) é bem mais didático. Abraço!'
+date: '2009-01-22T23:36:25.000Z'
+timestamp: 1232667385

@@ -1,0 +1,8 @@
+_id: 2bfa682e-deb2-4703-aed5-d7aba01f9cbb
+_parent: 2010-08-29-calendario-santo-discordiano-no-fluxbox
+reply_to: 5d5bb7b1-e803-45a0-a817-f7e3294c835c
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'Não acho que o pacote precise mudar de nome. É um patch muito pequeno no Fluxbox (algumas linhas), não acho que se qualifique como fork (por isso a decisão de só adicionar um patch no ebuild do Gentoo :))'
+date: '2010-09-01T04:11:28.000Z'
+timestamp: 1283314288

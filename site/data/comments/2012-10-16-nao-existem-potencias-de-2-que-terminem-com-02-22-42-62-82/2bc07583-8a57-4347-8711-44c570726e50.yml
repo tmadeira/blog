@@ -1,0 +1,8 @@
+_id: 2bc07583-8a57-4347-8711-44c570726e50
+_parent: 2012-10-16-nao-existem-potencias-de-2-que-terminem-com-02-22-42-62-82
+reply_to: ''
+name: Chabaratours
+email: 265eee85883d1672a52286959cd43679
+body: 'Isso não tá certo, eu acho... Potências de 2 não podem terminar em 20x + 2 simplesmente porque esses números, quando divididos por 2, terminam em 1, logo não podem ser uma potência de 2. Mas eles podem sim terminar em 44 ou 88 (2^n ≡ 44(mod 100) sempre que n ≡ 18(mod 20) e obviamente 2^n ≡ 88(mod 100) sempre que n ≡ 19(mod 20). Como se explica esses números com esse método, se eles podem ser escritos como 2²(10x + 1) ou 2³(10x + 1)?'
+date: '2013-04-27T16:18:30.000Z'
+timestamp: 1367079510

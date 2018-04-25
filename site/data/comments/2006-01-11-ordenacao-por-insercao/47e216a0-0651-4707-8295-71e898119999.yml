@@ -1,0 +1,8 @@
+_id: 47e216a0-0651-4707-8295-71e898119999
+_parent: 2006-01-11-ordenacao-por-insercao
+reply_to: ''
+name: Leilson
+email: db4262298d84bf6734904dd4f9832f08
+body: 'Abaixo do fim-enquanto ta errado, não é vetor\[i+1\] <- elemento e sim vetor\[i\] <- elemento, pois foi vetor\[i\] que ficou vazia. O vetor\[i+1\] recebeu o valor 5, então agora vetor\[i\] recebe o valor 3.'
+date: '2011-09-12T20:48:22.000Z'
+timestamp: 1315860502

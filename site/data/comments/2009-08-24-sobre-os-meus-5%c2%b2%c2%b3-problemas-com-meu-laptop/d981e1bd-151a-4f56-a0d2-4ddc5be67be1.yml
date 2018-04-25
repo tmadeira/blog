@@ -1,0 +1,8 @@
+_id: d981e1bd-151a-4f56-a0d2-4ddc5be67be1
+_parent: 2009-08-24-sobre-os-meus-5%c2%b2%c2%b3-problemas-com-meu-laptop
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: "Atualizando com mais informações... digon29 @ http://forum.clubedohardware.com.br/intelbras-i35-review/581478/18 disse:\n\n> Troquei o processador por um t8100 (2100MHz, 800MHz FSB e 3MB cache) e as memorias por 4gb ddr2 667MHz. paguei R$ 560 do processador e 197 dos dois pentes de 2GB. O Note tá funcionando bem faz mais ou menos 1 mes, só que ele registra a temperatura do processador errado nos programas everest (26ºC sempre) e no sandra (11 a 12ºC), mas parece que o gerenciamento do cooler tá funcionando certo. o desempenho aumentou bastante para a maioria dos aplicativos (+ou- 30%) e noutros (+ou- 10%). Na conversão de vídeo subiu de 35fps para 65fps. Não sei como postar a tabela de bench do everest que eu venho fazendo desde que comprei, alguem tem uma sugestão?\n\nicefly @ http://forum.clubedohardware.com.br/intelbras-i35-review/581478/16 > Primeiro coisa: processador prá ele tem que ser soquete P. Pelo site da Compal ele suporta Core 2 Duo e barramento de 800Mhz (os Merom até T7800). Mas pelo site da Intel, o chipset GM965 pega até Core 2 Extreme X9000. Eu não arriscaria tanto, no máximo um T7500 ou Penryn T8300, até por causa do alto custo desses processsadores.\n\n_Processadores compatíveis com GM965:_ http://ark.intel.com/chipset.aspx?familyID=28117 (site da Intel) O mais impressionante é que nesse site não consta o T5750. Ou seja, eu não entendi direito ou a Compal fez uma besteira descomunal ao não perguntar à Intel se esse chipset suportava o T5750."
+date: '2009-08-28T14:08:21.000Z'
+timestamp: 1251468501

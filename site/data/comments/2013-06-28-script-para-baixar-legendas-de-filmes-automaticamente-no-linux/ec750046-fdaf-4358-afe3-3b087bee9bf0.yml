@@ -1,0 +1,8 @@
+_id: ec750046-fdaf-4358-afe3-3b087bee9bf0
+_parent: 2013-06-28-script-para-baixar-legendas-de-filmes-automaticamente-no-linux
+reply_to: ''
+name: 'Eduardo Duca'
+email: 05ae4b97009828c08ce0f62830bde105
+body: 'No linux existem varios scripts como o subliminal e o periscope, ha para quem usa windows o proprio opensubtitles tem um player dels que baixa de la.. sem falar do FileBot que baixa e renomeia suas series, ou o MediaElch como similar no linux (os dois ultimos com GUI). De qualquer forma, um script mais enxuto assim é interessante principalemnte para quem programa os downloads das series via RSS dentro de uma NAS ou router com OpenWRT (o meu caso), mas no momento uso o periscope pq ele checka em varios servicos de legendas, como o opensubtitles, o podnapsi, o legendas.tv entre outros, alem da funcao de renomear e mover para outra pasta quando esta pronto para assistir. Apos esta ultima alteracao do site legendas.tv, o modulo dele no perisocpe nao esta funcionando direito (nem mesmo o dentro do XBMC), apenas nos demais.. mas ja estou trabalhando em um script exclusivo para o legendas.tv na versao nova, todo em bash, pretendo posta-lo no git quando estiver pronto junto com o script de pegar as series automaticamente via RSS e direcionalas para o meu transmission que fica ativo direto dentro do meu roteador.'
+date: '2013-10-16T16:06:31.000Z'
+timestamp: 1381939591

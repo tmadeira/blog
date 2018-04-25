@@ -1,0 +1,8 @@
+_id: 7357eaeb-5892-47e2-972f-bec51cf274df
+_parent: 2007-01-24-aspire-5050-3205-e-pop
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: '1\. Lá no /usr/src/linux, configure o kernel (make xconfig, como root) e na parte de som, deixe ativado o suporte a sound cards mas desative o ALSA (Advanced Linux Sound Architecture). 2. O Suse é bem diferente do Gentoo... Não sei direito como funciona aí. 3. No Gentoo existe uma pasta /etc/conf.d que tem um arquivo "alsasound" com variáveis como RESTORE\_ON\_START e SAVE\_ON\_STOP. No Slackware isso não existia e acho difícil existir no Suse. Então não faço a mínima idéia :p hueaheaheau Na real, isso é coisa que as distros tem por padrão na inicialização dela. Tipo, no Slackware, você tem um arquivo /etc/rc.d/rc.alsa (ou é no rc.M mesmo, agora não lembro) que executa o comando: alsactl restore (que é o que busca a última configuração de som). Não sei como é a inicialização do Suse, mas deve ter algum comando assim que você deve comentar. Quanto a sair pelo laptop e pelo fone ao mesmo tempo: isso é uma vantagem dessa placa de som, que eu pessoalmente achei demais! :) Mas para desativar um ou outro, basta mutar o Front (fone) ou o Suround (laptop) no alsamixer. Ou então simplesmente rodar os comandos: amixer sset ''Front'' off # desativa o fone amixer sset ''Suround'' off #desativa o suround Na minha inicialização eu usei o amixer pra aumentar o volume de tudo, já que a placa não deixa salvos os volumes no modo normal. Ahh... Acabei de baixar o novo alsa e parece que a nossa placa foi um pouco modificada. Talvez agora dê pra salvar quando desliga e restorar quando inicia. Vou dar uma olhada e se tiver novidades posto no blog.'
+date: '2007-03-16T21:52:41.000Z'
+timestamp: 1174081961

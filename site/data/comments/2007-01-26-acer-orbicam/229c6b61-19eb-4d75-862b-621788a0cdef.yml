@@ -1,0 +1,8 @@
+_id: 229c6b61-19eb-4d75-862b-621788a0cdef
+_parent: 2007-01-26-acer-orbicam
+reply_to: ''
+name: 'Tiago Madeira &raquo; Nova versão do GSPCA, nada de sn9c20x'
+email: d41d8cd98f00b204e9800998ecf8427e
+body: '\[...\] O Alexandre Possebom (não sei se ele tem blog pra eu linkar, se alguém souber me avise) me informou que no dia 26 de abril foi liberada uma nova versão do gspcav1. Acabei de baixá-la, ler o changelog, tentar fazê-la funcionar de todas as maneiras possíveis, mas infelizmente nessa versão ainda não existe suporte para a nossa sn9c20x (aka Acer Orbicam do Aspire 5050-3205). Vou entrar em contato com o Michel Xhaard para ver a quantas anda a nossa tão querida webcam e assim que tiver alguma novidade eu posto aqui no blog. \[...\]'
+date: '2007-05-01T13:54:33.000Z'
+timestamp: 1178027673

@@ -1,0 +1,8 @@
+_id: 40c47b43-d9be-4b47-8b09-96911964b607
+_parent: 2007-06-15-escada-perfeita-obi2006
+reply_to: ''
+name: 'Hugo Lopes'
+email: df1f24dcadec85faaa16c9dc541c0006
+body: 'Boa dedução do problema, principalmente sobre a parte de dedução do número de movimentos necessários. Mas eu nao me conformei muito com essa variável ''moves'' pra verificar se é uma escada perfeita. De qualquer forma, uma boa solução. (obs.: você não é tão rigoroso quanto eu, esse código pode ter erros, segundo minha deduções, nos scanf()''s. imagine um EOF num scanf(), qual é o valor atribuido à variável? bem, de qualquer forma isso não vem ao caso, mas talvez em uma olimpíada fosse necessário, junto das restrições de valores. estou querendo fazer a OBI ano que vem (2008), te enviei um e-mail e até agora não obtive resposta, estou aguardando a resposta dele ainda.)'
+date: '2007-11-13T19:47:36.000Z'
+timestamp: 1194983256

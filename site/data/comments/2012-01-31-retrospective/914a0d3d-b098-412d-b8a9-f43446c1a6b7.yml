@@ -1,0 +1,8 @@
+_id: 914a0d3d-b098-412d-b8a9-f43446c1a6b7
+_parent: 2012-01-31-retrospective
+reply_to: 2c561e87-dd72-431e-a63d-554ffe1ac907
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'Hi Nick, I''ve just tested and the plugin worked with dates before 1970 in my server (PHP 5.3.5-1ubuntu7.11). Do you have any idea how can I reproduce the bug? What version of PHP are you running in your server? What''s the output of date("d/m/Y", -1000000000) and strtotime("01/01/1910")? Here the outputs are respectivelly 24/04/1938 and -1893427200. What happens with the post in WordPress when you make it old? Thanks for the feedback! Tiago'
+date: '2013-04-06T18:49:07.000Z'
+timestamp: 1365274147

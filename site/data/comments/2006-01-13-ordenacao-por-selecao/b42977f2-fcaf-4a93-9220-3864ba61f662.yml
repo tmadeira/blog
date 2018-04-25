@@ -1,0 +1,8 @@
+_id: b42977f2-fcaf-4a93-9220-3864ba61f662
+_parent: 2006-01-13-ordenacao-por-selecao
+reply_to: ''
+name: 'Babi Matos'
+email: a32602ce18f498aa322e5db23eff7ba3
+body: 'Faço sistemas de informação e estou desenvolvendo um programa em pascal utilizando todos os 4 principais métodos de ordenação: seleção, inserção, bolha e quicksort. Este programa usa a estrutura de um menu onde o usuário vai digitar elementos e escolher o método de seleção pra ordenar e mostrar na tela. Estou utilizando procedures para implmentar os métodos, mas a seleção não estou conseguindo, entra em loop. Me ajudem por favor... Veja a minha estrutura e me digam o que estou fazendo de errado??? Se possivel pode corrigir pra mim! Obrigada. Babi var vetor: array\[0..10\] of integer; x,y, a,b:integer; Procedure Insere(var a:integer; b:integer); var i, j, chave: integer; Begin for i:=1 to 10 do for j:= 2 to 10 do begin chave:= vetor\[j\]; i:= j - 1; while (i > 0) and (vetor\[i\] > chave ) do begin vetor\[i + 1\]:= vetor\[i\]; i:= i - 1; end; vetor\[i + 1\]:= chave; end; end; BEGIN clrscr; {programa principal} write(''Digite os elementos: ''); for y:=1 to 10 do begin readln(vetor\[y\]); end; Insere(a,b); For y:= 1 to 10 do writeln (vetor\[y\]); readkey; end.'
+date: '2008-09-04T17:17:13.000Z'
+timestamp: 1220548633

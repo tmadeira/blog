@@ -1,0 +1,8 @@
+_id: 422ad9b3-1baf-4743-a829-55fe64668fbc
+_parent: 2007-06-15-escada-perfeita-obi2006
+reply_to: ''
+name: Bruno
+email: af8941f518d25f3f2c920f6650431532
+body: 'Bacana sua lóica, porém se for apenas para dar o numero de saida, de uma escada, você não precisa fazer essa lógica toda, Era simplesmente contar o total de tijolos, exemplo ao total tem 20 ele deseja 5 fileiras, sendo que de 1 para outra aumenta 1, então colocaria em um for a quantidade de fileira e iria somando, a quantidade de tijolos a cada fileira. entrada 2, 4 , 5 , 5, 4 saida 2, 3, 4, 5 , 6 total = 20 chegando no fim da contagem de fileira, verifica a diferença do total de tijolos e do total que precisa.'
+date: '2013-04-12T18:12:26.000Z'
+timestamp: 1365790346

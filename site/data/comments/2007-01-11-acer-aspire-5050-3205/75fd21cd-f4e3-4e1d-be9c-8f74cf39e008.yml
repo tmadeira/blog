@@ -1,0 +1,8 @@
+_id: 75fd21cd-f4e3-4e1d-be9c-8f74cf39e008
+_parent: 2007-01-11-acer-aspire-5050-3205
+reply_to: ''
+name: 'Tiago Madeira'
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: 'Baixe o live-cd do Gentoo, pra 64 bits, no site deles, instale e se divirta. Rodar Gnome e KDE nele é moleza: # emerge gnome # emerge kde ;) http://bouncer.gentoo.org/?product=gentoo-2006.1-livecd&os=amd64 Se tiver problema com configuração de qualquer coisa, pode contar comigo - já tive todos esses problemas... hueahueaheuaea O primeiro deve ser o widescreen, para o qual basta atualizar o Xorg e instalar os drivers proprietários da ATI. # ACCEPT\_KEYWORDS="~amd64" emerge xorg ati-drivers # aticonfig --initial Boa sorte!'
+date: '2007-02-03T01:38:07.000Z'
+timestamp: 1170466687

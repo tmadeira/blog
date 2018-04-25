@@ -1,0 +1,8 @@
+_id: 0d0ffa0b-6d19-4d52-9733-4038df136024
+_parent: 2006-01-23-representando-grafos-na-programacao
+reply_to: ''
+name: 'Elvis Luis Zamian delgado'
+email: 232cf71dfc8baf2c3b957b31e0a3a6a0
+body: 'Cara será que voce pode me ajudar, eu preciso fazer um algoritmo que calcule o melhor caminho( menor custo) entre as cidades, são dez cidades cadastradas, e caso tenha caminho tem um certo valor, se não tem o valor é -1 e se é de cidade para mesma cidade grau =o. Eu fiz a matriz 10x10, coloquei os valores e escrevi a matriz\[i\]\[j\], so que agora não consigo fazer mais nada, pq se a pessoa sair por exemplo de são paulo matriz\[1\]\[1\] e for para sorocaba matriz \[6\]\[6\] tenho que percorrer todos os caminhos e ver o melhor, como faço?'
+date: '2013-10-30T13:39:38.000Z'
+timestamp: 1383140378

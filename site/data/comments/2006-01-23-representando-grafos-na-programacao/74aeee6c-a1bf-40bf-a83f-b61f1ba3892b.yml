@@ -1,0 +1,8 @@
+_id: 74aeee6c-a1bf-40bf-a83f-b61f1ba3892b
+_parent: 2006-01-23-representando-grafos-na-programacao
+reply_to: ''
+name: Duano
+email: df595b69895bfaeff5b1d4ebbec3a9c7
+body: 'Olá, Embora este assunto tenha iniciado há algum tempo, eu enfrento hoje um problema que julgo que já exista uma solução. Todas as abordagens que vi foram para construir a matriz de adjacência. Contudo, um desafio que preciso ultrapassar é escrever um código capaz de simular o desenho de um grafo. E também o contrario (um código para passar da matriz ao grafo). Como sabem as redes podem ter muitos Nós e não é simples realizar esta tarefa à mão. Eu estou a pensar em ter um ficheiro de entrada do género uma lista de listas aonde terei os vários vértices e também a informação de quais vértices estão ligados. Mas aqui existe a questão de como será este ficheiro (eu tenho que construir para um grafo com um nº N de vértices). Alguém consegue me ajudar?'
+date: '2015-01-15T22:29:25.000Z'
+timestamp: 1421360965

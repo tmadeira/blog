@@ -1,0 +1,8 @@
+_id: e38439e0-19aa-4b1a-ab63-25296ac883b6
+_parent: 2006-01-05-algoritmos-como-representar-um-algoritmo
+reply_to: ''
+name: Sonia
+email: 476e7c106237817d1aa9499a4134e6e1
+body: 'Estou com muitas dificuldade na construção de algoritmos,. tambem estou fazendo disciplina Lógica de Programação. Gostaria de pedir sua ajuda , pois não estou conseguindo resolver estas tarefas abaixo. 1 - Fazer um programa que cria uma estrutura livro, que contém os elementos título, ano de edição, número de páginas e preço. Criar uma variável desta estrutura que é um vetor de 5 elementos. Ler os valores para a estrutura e imprimir a média do número de páginas de livros. 2.Foi realizada uma pesquisa entre 500 habitantes de uma certa região. De cada habitante foram coletados os dados: idade, sexo, salário e número de filhos. Crie a estrutura de dados adequada para armazenar estas informações e faça uma função que armazene as informações digitadas pelo usuário na estrutura de dados criada. Faça também uma função que calcula a média do salário'
+date: '2010-11-19T23:09:23.000Z'
+timestamp: 1290208163

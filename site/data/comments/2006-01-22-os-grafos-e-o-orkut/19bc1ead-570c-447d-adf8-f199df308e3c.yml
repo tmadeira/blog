@@ -1,0 +1,8 @@
+_id: 19bc1ead-570c-447d-adf8-f199df308e3c
+_parent: 2006-01-22-os-grafos-e-o-orkut
+reply_to: ''
+name: Rodrigo
+email: 2afaa2e132328a96ad633ba66b6cfbfd
+body: 'Muito bem explicado mesmo, só me restou uma dúvida quanto a passagem: Os números de amigos que cada pessoa tem (o número de relações que cada vértice tem) é o que chamamos de "grau" de um vértice. Grau dos vértices do exemplo acima: 1. 2 2. 3 3. 2 4. 2 5. 4 No número 5 o grau não seria 1, já ele tem apenas um amigo: o 4, ou ele estaria ligado a todos indiretamente ?? Obrigado pelas informações, parabens!'
+date: '2007-06-16T15:30:21.000Z'
+timestamp: 1182007821

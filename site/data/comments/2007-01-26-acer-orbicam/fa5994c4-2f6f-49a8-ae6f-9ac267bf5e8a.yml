@@ -1,0 +1,8 @@
+_id: fa5994c4-2f6f-49a8-ae6f-9ac267bf5e8a
+_parent: 2007-01-26-acer-orbicam
+reply_to: ''
+name: Anderson
+email: d19a69ec7bffbe6ff0ce03f2901de08e
+body: 'Para resolver esse problema faça o seguinte: Click o botão direito no icone "Meu Computador" depois click em "Propriedades" depois click em "Hardware" depois click em "Gerenciador de Dispositivos" depois duplo click sobre "Controladores USB (barramento serial universal)" depois click botão direito sobre "USB Root Hub" depois click em "Propriedades" depois click em "Gerenciamento de energia" depois desative a opção "Computador pode desligar o despositivo para economizar energia" depois click em "OK" desative essa opção em todos os itens "USB Root Hub" que estiver instalado do seu notebook que resolverá o problema.'
+date: '2007-04-10T17:38:13.000Z'
+timestamp: 1176226693

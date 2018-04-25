@@ -1,0 +1,8 @@
+_id: 55e26555-05d2-43b3-9871-ab14c1b269e5
+_parent: 2005-05-18-solucao-dos-problemas-da-obi2005
+reply_to: ''
+name: Giovanni
+email: e1692f555c81cb3f70be248f604c88c3
+body: 'O meu da trilha ficou assim: #include using namespace std; int main(){ int qtd, r, p1, ant, subida, subida2, sentido\_certo, menor, pos\_menor = 1; cin >> qtd; for (int i = 0; i > r; for (int p = 0; p > p1; if (p > 0 ) if (p1-ant > 0) subida += p1-ant; else subida2 += ant-p1; ant = p1; } if (subida < subida2) sentido\_certo = subida; else sentido\_certo = subida2; if (i == 0) menor = sentido\_certo; if (sentido\_certo < menor){ menor = sentido\_certo; pos\_menor = i+1; } } cout << pos\_menor << endl; return 0; }'
+date: '2015-08-24T01:55:33.000Z'
+timestamp: 1440381333

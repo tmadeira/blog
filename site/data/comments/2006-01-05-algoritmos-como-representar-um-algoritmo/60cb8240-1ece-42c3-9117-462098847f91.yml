@@ -1,0 +1,8 @@
+_id: 60cb8240-1ece-42c3-9117-462098847f91
+_parent: 2006-01-05-algoritmos-como-representar-um-algoritmo
+reply_to: ''
+name: lucilaneo
+email: f4f2de6dccf5791eac81bfd5472af10b
+body: 'Estou cursando licencatura em computaçao e tenho varias duvidas, uma delas e: Leia uma matriz N (2X3) de números inteiros e positivos e gere uma matriz C, do mesmo tamanho, de caracteres, onde cada posição C\[linha, coluna\] terá o valor “P” ou “I” dependendo de se o número da posição correspondente em N\[linha, coluna\] for PAR ou IMPAR, respectivamente.'
+date: '2011-10-11T12:36:41.000Z'
+timestamp: 1318336601

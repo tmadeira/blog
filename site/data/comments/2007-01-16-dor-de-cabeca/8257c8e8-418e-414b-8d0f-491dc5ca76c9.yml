@@ -1,0 +1,8 @@
+_id: 8257c8e8-418e-414b-8d0f-491dc5ca76c9
+_parent: 2007-01-16-dor-de-cabeca
+reply_to: ''
+name: 'Cesar Kawakami'
+email: f2f7598f9e96a5c15b4394ca405c3d5d
+body: 'Sei lá, acho que o suporte a 64 bits em máquinas para uso não-empresarial ainda é muito cru em todas as plataformas. Talvez linux esteja na frente, mas eu tive problemas ao tentar instalar uma distro 64 aqui (o meu note é Intel Core 2 Duo). No final, acabei ficando com Ubuntu normal mesmo. Acho que é difícil precisar dos 64 bits, e aplicativos de uso intensivo do processador já implementam chamadas diretas quando precisam, mesmo em ambiente 32 bits.'
+date: '2007-01-16T20:43:28.000Z'
+timestamp: 1168980208

@@ -1,0 +1,8 @@
+_id: 8685e557-e26e-462d-98a4-66dfebc982e2
+_parent: 2012-10-27-o-predio-e-as-bolas
+reply_to: ''
+name: 'Alessandro Palmeira'
+email: 0e4b3101c356fa104a8d54ecbae81307
+body: 'O problema parece ser bem legal, mas não entendi direito o conceito de mínimo no último caso. Para cada altura x diferente, o mínimo é sempre 2 (jogar na altura x e quebrar e depois jogar na altura x-1 sem quebrar), mas isso claramente não funciona sempre. A resposta esperada é o mínimo no caso médio (média das tentativas de todas as alturas)? O mínimo do pior caso (resposta da altura com mais tentativas)? Ou alguma outra?'
+date: '2012-10-27T14:08:44.000Z'
+timestamp: 1351346924

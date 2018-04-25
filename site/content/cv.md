@@ -27,12 +27,12 @@ date: 2017-12-04T21:01:48-02:00
 </style>
 
 Software Engineer  
-<small>Last update: January 28th, 2018</small>
+<small>Last update: April 24th, 2018</small>
 
 ### Contact information
 
 _E-mail:_ <tmadeira@gmail.com>  
-_Phone:_ +55 11 98609-1233  
+_Phone:_ +55 11 94563-1513  
 _Skype:_ tiago-madeira  
 _Location:_ São Paulo, Brazil
 

@@ -16,7 +16,7 @@ tags:
   - sociedade
 
 ---
-[Imperialismo][1]… Você vai à uma festa e ouve música estrangeira. Música eletrônica… Algumas até são brasileiras, mas que algum gringo pegou e _“recompôs”_. A nossa música já é boa, mas eles não perguntam: no processo de globalização, a [chuva de lixo eletrônico e cultural][2] não pede permissão para existir.
+Imperialismo… Você vai à uma festa e ouve música estrangeira. Música eletrônica… Algumas até são brasileiras, mas que algum gringo pegou e _“recompôs”_. A nossa música já é boa, mas eles não perguntam: no processo de globalização, a chuva de lixo eletrônico e cultural não pede permissão para existir.
 
 Nos acostumamos com a chuva e aprendemos a gostar dela; ela não é ruim. Há pouca [resistência][3]. Quem vende isso não está nem aí para o fato de [as nações serem diferentes][4], porque o que importa é [o dinheiro][5]. Nós não passamos de massa.
 
@@ -28,8 +28,6 @@ No [Brasil inteiro][6], canta-se e dança-se o samba. O samba nasceu aqui na Bah
 
 É possível viver sem nada dessa cultura estrangeira, da mesma maneira que é possível também viver sem a nossa. É importante preservar a nossa cultura? Até que ponto a globalização é boa para nós?
 
- [1]: /2006/12/progresso-irracional/
- [2]: /2006/12/fronteiras-mercados-enfim-globalizacao/
  [3]: http://malvicioso.com/2006/12/barbien-burca/
  [4]: http://malvicioso.com/2006/12/24/diferenca-cultural/
  [5]: http://malvicioso.com/2006/12/a-necessidade-de-ter-dinheiro/

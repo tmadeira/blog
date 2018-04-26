@@ -39,7 +39,7 @@ O presidente Bush é criticado no mundo inteiro pela sua prisão em Cuba e enqua
 
 Independente da opinião da ONU, das ONGs, de toda a diplomacia mundial, Bush decide o rumo do mundo. E o máximo é que os Estados Unidos têm poder de veto no Conselho de Segurança da ONU e vivem proibindo os outros países de fazer o que eles fazem! A diplomacia perde todo o seu sentido, sendo dominada pelos políticos, que são loucos maníacos pelo [poder][4].
 
-[Esse][5] [é][6] [nosso][7] [mundo][8]…
+Esse é nosso [mundo][8]…
 
 <small>O título refere-se à história de <a href="http://pt.wikipedia.org/wiki/J.R.R._Tolkien">Tolkien</a>, <a href="http://pt.wikipedia.org/wiki/O_Senhor_dos_An%C3%A9is">O Senhor dos Anéis</a>, uma metáfora do mundo real onde os homens são fracos e são dominados pela vontade de dominar o outro e pela necessidade de ter poder.</small>
 
@@ -47,8 +47,5 @@ Independente da opinião da ONU, das ONGs, de toda a diplomacia mundial, Bush de
  [2]: http://pt.wikipedia.org/wiki/Conven%C3%A7%C3%A3o_de_Genebra
  [3]: http://www.bloomberg.com/apps/news?pid=20601087&sid=ad0o2Ib7CN7Q
  [4]: http://http://pt.wikipedia.org/wiki/Um_Anel
- [5]: /2006/12/progresso-irracional/
- [6]: /2006/12/fronteiras-mercados-enfim-globalizacao/
- [7]: /2006/12/reserva-moral-da-nacao/
  [8]: /2006/12/a-necessidade-de-ter-dinheiro/
 

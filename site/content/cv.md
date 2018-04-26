@@ -6,7 +6,7 @@ date: 2017-12-04T21:01:48-02:00
 ---
 
 <style>
-@media screen {
+@media (min-width: 840px) {
   .entry {
     font-size: 20px;
     line-height: 24px;

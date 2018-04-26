@@ -1,6 +1,6 @@
 <!-- http://brendan-quinn.xyz/post/working-with-hugos-internal-partial-templates-facebook-and-open-graph/ -->
 <meta property="og:title" content="{{- .Title -}}" />
-<meta property="og:description" content="{{- with .Description -}}{{- . -}}{{- else -}}{{- if .IsPage -}}{{- .Summary -}}{{- else -}}{{- with .Site.Params.description -}}{{- . -}}{{- end -}}{{- end -}}{{- end -}}" />
+<meta name="description" property="og:description" content="{{- with .Description -}}{{- . -}}{{- else -}}{{- if .IsPage -}}{{- .Summary -}}{{- else -}}{{- with .Site.Params.description -}}{{- . -}}{{- end -}}{{- end -}}{{- end -}}" />
 <meta property="og:type" content="{{- if .IsPage -}}article{{- else -}}website{{- end -}}" />
 <meta property="og:url" content="{{- .Permalink -}}" />
 <meta property="og:image" content="{{- with .Params.image -}}{{- . | absURL -}}{{- else -}}{{- "og-image.jpg" | absURL -}}{{- end -}}" />

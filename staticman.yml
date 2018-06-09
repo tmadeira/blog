@@ -2,7 +2,7 @@ comments:
   allowedFields: ["name", "email", "body", "reply_to"]
   allowedOrigins: ["localhost", "tiagomadeira.com", "tmadeira.netlify.com"]
   branch: "master"
-  commitMessage: "New comment: {@id}"
+  commitMessage: "New comment by {fields.name} at {@timestamp}"
   generatedFields:
     date:
       type: date
@@ -12,6 +12,11 @@ comments:
   path: "site/data/comments/{options.entryId}"
   filename: "{@id}"
   requiredFields: ["name", "body"]
+  akismet:
+    enabled: true
+    author: "name"
+    authorEmail: "email"
+    content: "body"
   notifications:
     enabled: true
     apiKey: "iNuRd5fdzqnJ/AWqncNErgUkp8ceCk9f2VeSv4sabbR9TzxNoJZk5SJq4yfpJalGwZdLlSEOBoza/n6ZKnVASko2YT1DqrqoglGOpumFcjFZijBOYD+unV+g/III2ywNLGXpVypwL9rbX4n+/OkWUJymTW9p3jzgIuH4arKbm2g="

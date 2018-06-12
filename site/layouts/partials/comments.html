@@ -61,9 +61,15 @@
         <label class="form-label" for="body">Comentário<span class="required">*</span></label>
         <textarea class="form-text" id="body" placeholder="Digite seu comentário" name="fields[body]" required="required"></textarea>
       </li>
+      <li style="margin-bottom: 10px;">
+        <label>Por favor, confirme que você não é um robô.</label>
+        <div class="g-recaptcha" data-sitekey="6LcN4icTAAAAAAkdqOR-2RfdRB3WlkH0djPLN__H"></div>
+        <script src="https://www.google.com/recaptcha/api.js?hl=pt-BR"></script>
+      </li>
       <li>
         <input class="form-checkbox" id="notify" type="checkbox" name="options[subscribe]" value="email" />
         <label for="notify">Quero ser notificado sobre novos comentários por e-mail.</label>
+      </li>
     </ul>
 
     <button class="form-button" type="submit">Enviar comentário</button>

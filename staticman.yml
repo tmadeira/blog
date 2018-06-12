@@ -12,11 +12,10 @@ comments:
   path: "site/data/comments/{options.entryId}"
   filename: "{@id}"
   requiredFields: ["name", "body"]
-  akismet:
+  recaptcha:
     enabled: true
-    author: "name"
-    authorEmail: "email"
-    content: "body"
+    siteKey:  "6LcN4icTAAAAAAkdqOR-2RfdRB3WlkH0djPLN__H"
+    secret:  "HiHHO8o/on/pzv5SwI0ophUMnVjNwcpIkF/S3WxxwWPlebTICqa2EREIOeTTNlX7n6owN5APJg4EP57j6GS396fh9hvHdq9w6CNNAQpNT9wJEPQnR/0EJVzeIxS60UyDXPBpCxe8TgkNW6kp8of3DBvRHck57Lkj1mGKWhDoQ+8="
   notifications:
     enabled: true
     apiKey: "iNuRd5fdzqnJ/AWqncNErgUkp8ceCk9f2VeSv4sabbR9TzxNoJZk5SJq4yfpJalGwZdLlSEOBoza/n6ZKnVASko2YT1DqrqoglGOpumFcjFZijBOYD+unV+g/III2ywNLGXpVypwL9rbX4n+/OkWUJymTW9p3jzgIuH4arKbm2g="

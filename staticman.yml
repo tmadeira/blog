@@ -12,7 +12,7 @@ comments:
   path: "site/data/comments/{options.entryId}"
   filename: "{@id}"
   requiredFields: ["name", "body"]
-  recaptcha:
+  reCaptcha:
     enabled: true
     siteKey:  "6LcN4icTAAAAAAkdqOR-2RfdRB3WlkH0djPLN__H"
     secret:  "HiHHO8o/on/pzv5SwI0ophUMnVjNwcpIkF/S3WxxwWPlebTICqa2EREIOeTTNlX7n6owN5APJg4EP57j6GS396fh9hvHdq9w6CNNAQpNT9wJEPQnR/0EJVzeIxS60UyDXPBpCxe8TgkNW6kp8of3DBvRHck57Lkj1mGKWhDoQ+8="

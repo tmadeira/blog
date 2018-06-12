@@ -2,7 +2,8 @@ comments:
   allowedFields: ["name", "email", "body", "reply_to"]
   allowedOrigins: ["localhost", "tiagomadeira.com", "tmadeira.netlify.com"]
   branch: "master"
-  commitMessage: "New comment by {fields.name} at {@timestamp}"
+  commitMessage: "Comment by {fields.name} in {options.slug}."
+  pullRequestBody: "Merge the pull request to accept it, or close it to send it away.\n"
   generatedFields:
     date:
       type: date

@@ -19,7 +19,7 @@ Estão transformando "algoritmo" num termo pejorativo e usando ele de forma muit
 
 Um [algoritmo](https://tiagomadeira.com/2006/01/algoritmos-o-que-e-um-algoritmo/) nada mais é que uma sequência de operações bem definida. É um procedimento que em geral recebe uma entrada, faz um monte de coisas com ela e devolve uma saída.
 
-**A ciência da computação é a fundamentalmente a ciência dos algoritmos.** E, embora os algoritmos não dependam de computadores, os computadores são máquinas que realizam operações que são formalizadas por meio de algoritmos, de forma que é difícil imaginar um programa de computador sem algoritmos.
+**A ciência da computação é fundamentalmente a ciência dos algoritmos.** E, embora os algoritmos não dependam de computadores, os computadores são máquinas que realizam operações que são formalizadas por meio de algoritmos, de forma que é difícil imaginar um programa de computador sem algoritmos.
 
 Um exemplo de algoritmo é o [algoritmo de Euclides](https://pt.wikipedia.org/wiki/Algoritmo_de_Euclides), de 300 a.C., que encontra o máximo divisor comum entre números inteiros tomando o resto da divisão de um pelo outro sucessivamente.
 

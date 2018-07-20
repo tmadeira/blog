@@ -1,0 +1,11 @@
+_id: bb8c1a30-8bb6-11e8-bbb6-afbb4c1d33ac
+_parent: >-
+  2017-11-25-como-usar-ssh-quando-seu-roteador-bloqueia-que-voce-faca-conexoes-a-porta-22
+reply_to: ''
+name: DIGITAL OCEAN
+email: ''
+body: >-
+  Para quem tiver problemas para fazer conexão ssh com servidores da Digital
+  Ocean, o truque de usar a porta 443 funcionou muito bem para resolver o
+  problema com NET.
+date: '2018-07-20T00:49:18.584Z'

@@ -1,0 +1,8 @@
+_id: 3f6d1b10-9a7b-11e8-82d8-69ed00e8bcf5
+_parent: >-
+  2017-11-25-como-usar-ssh-quando-seu-roteador-bloqueia-que-voce-faca-conexoes-a-porta-22
+reply_to: ''
+name: MS
+email: fcb6a42de90ad14c1f4606b3a0746dd8
+body: "Eu consegui resolver meu problema de forma definitiva trocando o modem. Com o modem TechniColor TC73337, eu não conseguia acessar nenhuma máquina remotamente usando SSH e nem  clonar meus repositórios do github/gitlab/bitbucket. Liguei na NET e pedi a  visita de um técnico.  Com o técnico aqui em casa,  pedi que ele trocasse o modem por um de outro modelo. Ele aceitou e no lugar  instalou um modem  Cisco DPC3928, e agora tudo está funcionando perfeitamente :)\r\n\r\nObs 0: Aparentemente o modem Humax HG100R  da NET tbm tem problema com SSH.\r\nObs 1: Acho melhor ligar na net e só pedir a visita de um técnico pra resolver o problema do SSH,  deixando pra fazer o pedido da troca do modem diretamente pro técnico. Acho que se vc ligar na NET e  pedir a troca  do modem, eles vão dizer que não fazem isso, que só trocam modem com defeito, e que o que está na sua casa é excelente."
+date: '2018-08-07T19:51:17.552Z'

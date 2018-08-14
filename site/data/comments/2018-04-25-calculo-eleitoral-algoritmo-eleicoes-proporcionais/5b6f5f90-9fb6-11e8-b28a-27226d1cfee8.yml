@@ -1,0 +1,7 @@
+_id: 5b6f5f90-9fb6-11e8-b28a-27226d1cfee8
+_parent: 2018-04-25-calculo-eleitoral-algoritmo-eleicoes-proporcionais
+reply_to: 17797f30-9f18-11e8-9eea-d14ec2a4b658
+name: Tiago Madeira
+email: 3546dc19aa515f8b3e4b4aa9f664e0d8
+body: "É só aplicar o método de D'Hondt:\r\n\r\nA: 1.900.000 / 22 = 86.363\r\nB: 1.500.000 / 17 = 88.235\r\nC: 750.000 / 4 = 75.000\r\nD: 89.999 / 1 = 89.999\r\n\r\nPortanto, a primeira sobra aqui seria da coligação D -- porque, pela nova regra, ela não precisa ter mais votos do que o quociente. Mesmo que a coligação D fizesse 88.236 votos a primeira sobra seria dela (ela ainda teria uma sobra maior que a coligação B)."
+date: '2018-08-14T11:37:00.793Z'

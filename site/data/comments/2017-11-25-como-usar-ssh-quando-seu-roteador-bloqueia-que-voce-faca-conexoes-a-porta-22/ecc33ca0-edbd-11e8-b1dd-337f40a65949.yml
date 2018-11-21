@@ -1,0 +1,8 @@
+_id: ecc33ca0-edbd-11e8-b1dd-337f40a65949
+_parent: >-
+  2017-11-25-como-usar-ssh-quando-seu-roteador-bloqueia-que-voce-faca-conexoes-a-porta-22
+reply_to: ''
+name: André
+email: 017a9af2fcdc60649035fe9169189012
+body: "Me ajudou muito o comentário do amigo acima sobre trocar o modem. \r\nEu tinha internet de 35 MB e o modem não tinha bloqueio SSH. Troquei a conexão para 120mb e eles vieram trocar o modem, de cara testei conexão SSH com o técnico aqui e não funcionou. Solicitei pra ele tentar trocar o modem pra ver, aí ele colocou o modem da marca ARRIS  modeloTG1692A e de cara funcionou! E o modem que ele tentou instalar de primeira era TechniColor (que não funciona SSH).\r\nEntão fica a dica para quem passar pelo mesmo.\r\n\r\nObrigado a todos e ao autor do post."
+date: '2018-11-21T18:47:41.644Z'

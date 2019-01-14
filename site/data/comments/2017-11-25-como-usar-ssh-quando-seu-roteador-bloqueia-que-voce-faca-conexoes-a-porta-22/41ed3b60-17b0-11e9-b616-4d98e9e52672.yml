@@ -1,0 +1,13 @@
+_id: 41ed3b60-17b0-11e9-b616-4d98e9e52672
+_parent: >-
+  2017-11-25-como-usar-ssh-quando-seu-roteador-bloqueia-que-voce-faca-conexoes-a-porta-22
+reply_to: ''
+name: fjsj
+email: 9d47435a34a58609f328b5e9ae9d267f
+body: >-
+  Tive o mesmo problema agora, Janeiro 2019. Como disseram, a culpa é do modem
+  da Technicolor. Este modem bloqueia algumas portas e não tem configuração nele
+  para desbloquear. Solução? Agenda pelo site uma visita técnica. Espera o
+  técnico ligar para você ou te visitar. Pede um modem Humax ou outro. O meu é
+  Humax Cable RG Product Model: HG100R-L4. Está funcionando SSH agora.
+date: '2019-01-14T03:55:40.448Z'

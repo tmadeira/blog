@@ -27,12 +27,12 @@ date: 2017-12-04T21:01:48-02:00
 </style>
 
 Software Engineer  
-<small>Last update: April 24th, 2018</small>
+<small>Last update: January 28th, 2019</small>
 
 ### Contact information
 
-_E-mail:_ <tmadeira@gmail.com>  
-_Phone:_ +55 11 94563-1513  
+_E-mail:_ <tmadeira@gmail.com> <small>(GPG public key @ [tiagomadeira.com/public\_key.asc](/public_key.asc))</small>  
+_Phone:_ +55 11 94563-1513 <small>(also Signal and WhatsApp)</small>  
 _Skype:_ tiago-madeira  
 _Location:_ São Paulo, Brazil
 
@@ -49,16 +49,15 @@ _Location:_ São Paulo, Brazil
 ### Professional Experience
 
 * **GEMTE** <small>[2012 -- current]</small>  
-  _Owner, Manager & Software Engineer_  
-  Development of several clients' internal systems, web platforms, mobile applications, and social media strategies.  
-  Management of communication and social media teams.  
-  <small>Clients include Nexo Jornal, Luciana Genro, Marcelo Freixo, and Repórter Brasil, among many others.</small>
+  _Managing Partner & Software Engineer_  
+  Development of information systems, web platforms, and mobile applications.  
+  Management of social media teams and strategies.
 
 * **Google** <small>[Belo Horizonte, MG, Brazil | 3 months | December, 2015 -- March, 2016]</small>  
   _Software Engineering Intern_ (30 hours/week)  
   _Supervisor:_ Tony Lopes  
   Development of anti-abuse technology.  
-  Some experience with Go, protocol buffers, and Google infra-structure and tools.
+  Some experience with Go (Golang), protocol buffers, and Google infra-structure and tools.
 
 * **Dropbox** <small>[San Francisco, CA, USA | 3 months | May, 2015 -- July, 2015]</small>  
   _Software Engineering Intern_ (40 hours/week)  
@@ -143,14 +142,21 @@ _Location:_ São Paulo, Brazil
   Instructor: Dan Boneh (Stanford)  
   http://coursera.org/crypto
 
-### Voluntary Work
+### Other Work
 
-**Free software**
+**Teaching**
 
-* Author of _WordPress_ theme [Dolores](http://github.com/tmadeira/dolores/) <small>(2015)</small> and plugin [Retrospective](http://wordpress.org/extend/plugins/retrospective) <small>(2012)</small>
-* Contributed to _SilverStripe_ and _Drupal_ in the [Google Highly Open Participation Contest](http://code.google.com/opensource/ghop/) <small>(2007--2008)</small>
-* Contributed to the development of webcam 0c45:6260 and image sensor OV7670 in the [Microdia driver for Linux Kernel](http://groups.google.com/group/microdia/) <small>(reverse engineering, 2008)</small>
-* Contributed to [Funções ZZ](http://funcoeszz.net/) <small>(UNIX shell script, spiders, regular expressions, 2006)</small>
+* _Introduction to AI_ @ Colégio Santa Cruz <small>(São Paulo, 2019)</small>
+* _Internet Contemporaneities_ and _Introduction to Computer Programming_ @ Colégio Ítaca <small>(São Paulo, 2014)</small>
+
+**Open Source Software**
+
+* Authored _WordPress_ theme [Dolores](https://github.com/tmadeira/dolores/) <small>(2015)</small> and plugin [Retrospective](https://wordpress.org/extend/plugins/retrospective) <small>(2012)</small>
+* Contributed to _SilverStripe_ and _Drupal_ in the [Google Highly Open Participation Contest](https://code.google.com/opensource/ghop/) <small>(2007--2008)</small>
+* Contributed to the development of webcam 0c45:6260 and image sensor OV7670 in the [Microdia driver for Linux Kernel](https://groups.google.com/group/microdia/) <small>(reverse engineering, 2008)</small>
+* Contributed to [Funções ZZ](https://funcoeszz.net/) <small>(UNIX shell script, spiders, regular expressions, 2006)</small>
+
+There are a few other small open source projects available in my GitHub profile: [github.com/tmadeira](https://github.com/tmadeira/)
 
 ### Languages
 

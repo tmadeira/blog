@@ -1,0 +1,8 @@
+_id: a728cc90-56e1-11e9-8cc4-fb9b5a7b7b56
+_parent: >-
+  2017-11-25-como-usar-ssh-quando-seu-roteador-bloqueia-que-voce-faca-conexoes-a-porta-22
+reply_to: ''
+name: Eduardo Lisboa
+email: 549b4b0ccf846bf0c8113d204411cd74
+body: "Tem um projeto bem antigo e descontinuado, chamado tsocks, que ajuda bastante. Basicamente você usa um proxy socks transparente via SSH. É bem semelhante à solução de túnel proposta no post, mas mais eficaz, pois qualquer conexão para qualquer lugar do mundo será tunelada pelo túnel.\r\n\r\nO tsocks se utiliza da opção -D do ssh_client. Com isso, você dá um tsocks ssh host e ele chama o ssh tunelando a conexão pela porta que você definiu nas configurações.\r\n\r\nTambém é possível utilizá-lo no browser diretamente configurando um proxy socks apontando para o localhost e a porta que você escolheu, igual quando usa o tor manualmente (sem Vidalia e afins).\r\n\r\nEsta página ensina a usar o tsocks: http://www.usenix.org.uk/content/tsocks.html\r\nE esta é a página oficial do projeto: http://tsocks.sourceforge.net/"
+date: '2019-04-04T13:57:58.834Z'

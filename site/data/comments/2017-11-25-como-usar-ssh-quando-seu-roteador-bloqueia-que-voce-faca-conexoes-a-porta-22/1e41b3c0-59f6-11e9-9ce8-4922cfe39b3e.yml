@@ -1,0 +1,8 @@
+_id: 1e41b3c0-59f6-11e9-9ce8-4922cfe39b3e
+_parent: >-
+  2017-11-25-como-usar-ssh-quando-seu-roteador-bloqueia-que-voce-faca-conexoes-a-porta-22
+reply_to: ''
+name: Bruno
+email: af3dfa9a30138dc3dacfc701d4cf227d
+body: "Pessoal, \r\nTenho esse modem problemático da NET que bloqueia a porta 22. Resolvi o problema de uma forma bem simples.\r\nInstalem o Tor e conectem ssh via tor. É bem simples, vc conecta ao servidor usando $torify ssh user@server.com\r\nDessa forma não tem bloqueio."
+date: '2019-04-08T12:02:02.091Z'

@@ -48,7 +48,7 @@ _Location:_ São Paulo, Brazil
 
 ### Professional Experience
 
-* **GEMTE** <small>[December, 2014 -- current]</small>  
+* **EVAG** <small>[December, 2014 -- current]</small>  
   _Managing Partner & Software Engineer_  
   Development of information systems, web platforms, and mobile applications.  
   Management of social media teams and strategies.

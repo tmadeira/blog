@@ -14,7 +14,7 @@ Este blog reúne coisas que eu escrevo desde o início de 2005, quando eu tinha 
 
 ### Para entrar em contato
 
-Perfis em redes sociais: [Twitter](https://twitter.com/tmadeira/), [GitHub](https://github.com/tmadeira/), [LinkedIn](https://linkedin.com/in/tmadeira/), [Facebook](https://facebook.com/timadeira/), [Instagram](https://instagram.com/tiagomadeira/).  
+Perfis em redes sociais: [Twitter](https://twitter.com/tmadeira/), [GitHub](https://github.com/tmadeira/), [GitLab](https://gitlab.com/tmadeira/), [LinkedIn](https://linkedin.com/in/tmadeira/).  
 E-mail: <tmadeira@gmail.com>.
 
 Chave-pública PGP: [public\_key.asc](/public_key.asc)  

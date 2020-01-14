@@ -7,13 +7,18 @@
   <title>{{ block "title" . }}{{ if ne .Title .Site.Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
   <meta name="theme-color" content="#0a3641" />
   <link rel="icon" sizes="128x128" href="/assets/favicon.png" />
-  <link rel="stylesheet" href="/css/main.css" />
-  {{ .Hugo.Generator }}
+  {{ $stylesheet := .Site.Data.webpack.main }}
+  {{ with $stylesheet.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
+  {{ end }}
+  {{ hugo.Generator }}
   {{- partial "opengraph" . -}}
-  {{- if .RSSLink -}}
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-  {{- end -}}
+  {{ if .OutputFormats.Get "RSS" }}
+    {{ with .OutputFormats.Get "RSS" }}
+      <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+      <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    {{ end }}
+  {{ end }}
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-266727-19"></script>
   <script>
     window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}

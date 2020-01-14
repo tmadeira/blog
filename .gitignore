@@ -1,5 +1,6 @@
 dist/
 node_modules/
+site/data/webpack.json
 
 [._]*.s[a-v][a-z]
 [._]*.sw[a-p]

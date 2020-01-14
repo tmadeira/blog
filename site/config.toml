@@ -1,12 +1,17 @@
-baseURL = "https://tiagomadeira.com/"
+baseurl = "https://tiagomadeira.com/"
 languageCode = "pt-br"
+languageLang = "pt"
 title = "Tiago Madeira"
+
 pygmentsCodeFences = true
 RemovePathAccents = true
 PreserveTaxonomyNames = true
 
 [blackfriday]
   fractions = false
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   description = "Um blog com pensamentos aleatórios principalmente sobre ciência da computação."

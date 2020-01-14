@@ -1,4 +1,5 @@
 [build.environment]
+  NODE_VERSION = "13.6.0"
   YARN_VERSION = "1.21.1"
   NPM_VERSION = "6.13.6"
   HUGO_VERSION = "0.62.2"

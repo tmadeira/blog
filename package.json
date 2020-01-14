@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
-  "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "name": "tiagomadeira.com",
+  "version": "0.1.0",
+  "description": "Tiago Madeira's blog",
+  "repository": "tmadeira/tiagomadeira.com",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",

@@ -200,7 +200,7 @@ Testar todas as possibilidades costuma levar um tempo exponencial no tamanho da 
 
 > **Um esboço relaxado para computar o tempo de execução da força bruta:** Para medir o custo de um algoritmo recursivo, temos que construir e resolver uma recorrência. No nosso caso, temos:
 >
-> $$T(n, k) = T(n-1, k-1) + T(n-2, k-1) + \cdots + T(0, k-1),$$
+> $$T(n, k) = \sum_{i=1}^n T(n-i, k-1),$$
 >
 > onde \\(T(n, k)\\) denota o número de operações necessárias para resolver o problema com entrada \\(n, k\\). Com alguma manipulação algébrica, podemos ver que, para \\(n > 1\\), vale:
 >

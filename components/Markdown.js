@@ -2,8 +2,8 @@ import ReactMarkdown from 'react-markdown';
 import {InlineMath, BlockMath} from 'react-katex';
 import RemarkMath from 'remark-math';
 
-import Code from './Code';
-import Figure from './Figure';
+import Code from '@components/Code';
+import Figure from '@components/Figure';
 
 export default function Markdown({content}) {
   return (

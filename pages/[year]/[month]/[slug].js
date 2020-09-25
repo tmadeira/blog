@@ -1,6 +1,6 @@
 import matter from 'gray-matter';
 
-import Markdown from '../../../components/Markdown';
+import Markdown from '@components/Markdown';
 
 export default function Post({data, content}) {
   return (

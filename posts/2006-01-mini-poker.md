@@ -45,12 +45,12 @@ No início do jogo, cada jogador recebe cinco cartas. O conjunto de cinco cartas
 
 As regras para pontuação em Mini-Poker são as seguintes:
 
-  1. Se as cinco cartas estão em seqüência a partir da carta \\(x\\) (ou seja, os valores das cartas são \\(x\\), \\(x+1\\), \\(x+2\\), \\(x+3\\) e \\(x+4\\)), a pontuação é \\(x+200\\) pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
-  2. Se há quatro cartas iguais \\(x\\) (uma _quadra_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(x\\), \\(x\\) e \\(y\\)), a pontuação é \\(x+180\\) pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
-  3. Se há três cartas iguais \\(x\\) e outras duas cartas iguais \\(y\\) (uma _trinca_ e um _par_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(x\\), \\(y\\) e \\(y\\)), a pontuação é \\(x+160\\) pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
-  4. Se há três cartas iguais \\(x\\) e duas outras cartas diferentes \\(y\\) e \\(z\\) (uma _trinca_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(x\\), \\(y\\) e \\(z\\)), a pontuação é \\(x+140\\) pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
-  5. Se há duas cartas iguais \\(x\\), duas outras cartas iguais \\(y\\) (\\(x \neq{} y\\)) e uma outra carta distinta \\(z\\) (dois _pares_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(y\\), \\(y\\) e \\(z\\)), a pontuação é \\(3 \times{} x + 2 \times{} y + 20\\) pontos, em que \\(x > y\\). Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
-  6. Se há apenas duas cartas iguais \\(x\\) e as outras são distintas (um _par_, ou seja, os valores das cartas são \\(x\\), \\(x\\), \\(y\\), \\(z\\) e \\(t\\)), a pontuação é \\(x\\) pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
+  1. Se as cinco cartas estão em seqüência a partir da carta $x$ (ou seja, os valores das cartas são $x$, $x+1$, $x+2$, $x+3$ e $x+4$), a pontuação é $x+200$ pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
+  2. Se há quatro cartas iguais $x$ (uma _quadra_, ou seja, os valores das cartas são $x$, $x$, $x$, $x$ e $y$), a pontuação é $x+180$ pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
+  3. Se há três cartas iguais $x$ e outras duas cartas iguais $y$ (uma _trinca_ e um _par_, ou seja, os valores das cartas são $x$, $x$, $x$, $y$ e $y$), a pontuação é $x+160$ pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
+  4. Se há três cartas iguais $x$ e duas outras cartas diferentes $y$ e $z$ (uma _trinca_, ou seja, os valores das cartas são $x$, $x$, $x$, $y$ e $z$), a pontuação é $x+140$ pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
+  5. Se há duas cartas iguais $x$, duas outras cartas iguais $y$ ($x \neq{} y$) e uma outra carta distinta $z$ (dois _pares_, ou seja, os valores das cartas são $x$, $x$, $y$, $y$ e $z$), a pontuação é $3 \times{} x + 2 \times{} y + 20$ pontos, em que $x > y$. Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
+  6. Se há apenas duas cartas iguais $x$ e as outras são distintas (um _par_, ou seja, os valores das cartas são $x$, $x$, $y$, $z$ e $t$), a pontuação é $x$ pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
   7. Se todas as cartas são distintas, não há pontuação.
 
 #### Tarefa
@@ -59,7 +59,7 @@ Escreva um programa que, fornecidas as cartas dadas a um jogador, calcule a pont
 
 #### Entrada
 
-A entrada é composta por vários casos de teste, cada um correspondendo a uma jogada. A primeira linha da entrada contém um número inteiro \\(N\\) que indica o número de casos de teste (\\(1 \leq{} N \leq{} 100\\)). Cada uma das \\(N\\) linhas seguintes contém cinco números inteiros \\(C\_{1}\\), \\(C\_{2}\\), \\(C\_{3}\\), \\(C\_{4}\\) e \\(C\_{5}\\), representando as cinco cartas recebidas por um jogador (\\(1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13\\)).
+A entrada é composta por vários casos de teste, cada um correspondendo a uma jogada. A primeira linha da entrada contém um número inteiro $N$ que indica o número de casos de teste ($1 \leq{} N \leq{} 100$). Cada uma das $N$ linhas seguintes contém cinco números inteiros $C\_{1}$, $C\_{2}$, $C\_{3}$, $C\_{4}$ e $C\_{5}$, representando as cinco cartas recebidas por um jogador ($1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13$).
 
 _A entrada deve ser lida do dispositivo de entrada padrão (normalmente o teclado)._
 
@@ -71,8 +71,8 @@ _A saída deve ser escrita no dispositivo de saída padrã (normalmente a tela)_
 
 #### Restrições
 
-\\(1 \leq{} N \leq{} 100\\)
-\\(1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13\\)
+$1 \leq{} N \leq{} 100$
+$1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13$
 
 #### Exemplo de Entrada
 
@@ -114,7 +114,7 @@ O problema fala que começa nos dando um número _N_ que será o número de caso
 
 Já chamo a variável que loopa como _nteste_, porque já li a saída do problema e sei que vou precisar imprimir o número de caad caso de teste… ;)
 
-Aí o enunciado diz que <q>Cada uma das \\(N\\) linhas seguintes contém cinco números inteiros \\(C\_{1}\\), \\(C\_{2}\\), \\(C\_{3}\\), \\(C\_{4}\\) e \\(C\_{5}\\), representando as cinco cartas recebidas por um jogador (\\(1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13\\)).</q> Então, vamos receber os cinco números em cada iteração e colocá-los num vetor, é claro!
+Aí o enunciado diz que <q>Cada uma das $N$ linhas seguintes contém cinco números inteiros $C\_{1}$, $C\_{2}$, $C\_{3}$, $C\_{4}$ e $C\_{5}$, representando as cinco cartas recebidas por um jogador ($1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13$).</q> Então, vamos receber os cinco números em cada iteração e colocá-los num vetor, é claro!
 
 <pre><code><strong>recebe</strong> N
 <strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
@@ -127,7 +127,7 @@ E a entrada está pronta.
 
 O programa se baseia em encontrarmos valores iguais nos elementos do vetor. O que podemos fazer para facilitar essa tarefa?
 
-Isso mesmo: A ordenação! :D Se os elementos estiverem ordenados, ficará bem mais fácil para procurarmos quatro números iguais, porque eles não poderão ser qualquer uma das possibilidades, mas somente \\(C\_{1}, C\_{2}, C\_{3}, C\_{4}\\) ou \\(C\_{2}, C\_{3}, C\_{4}, C\_{5}\\).
+Isso mesmo: A ordenação! :D Se os elementos estiverem ordenados, ficará bem mais fácil para procurarmos quatro números iguais, porque eles não poderão ser qualquer uma das possibilidades, mas somente $C\_{1}, C\_{2}, C\_{3}, C\_{4}$ ou $C\_{2}, C\_{3}, C\_{4}, C\_{5}$.
 
 Aí que algoritmos devemos implementar para ordenar? Isso é uma conclusão que vamos chegar no final de nossa série, mas para este algoritmo não tem solução melhor que a **Ordenação por Inserção**. É um caso pequeno (n=5) e a **Ordenação por Inserção** é mais rápida que a por **Seleção**, porque o seu melhor caso é uma função linear. Então, vamos implementar o **Insertion Sort** no nosso algoritmo:
 
@@ -157,7 +157,7 @@ Como vamos ver com os pseudocódigos a seguir, é fácil testar cada uma das reg
 
 #### Primeira Regra – Seqüência
 
-Se as cinco cartas estão em seqüência a partir da carta <span class="tex-render">x</span>(ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x+1</span>, <span class="tex-render">x+2</span>, \\(x+3\\) e <span class="tex-render">x+4</span>), a pontuação é \\(x+200\\) pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
+Se as cinco cartas estão em seqüência a partir da carta <span class="tex-render">x</span>(ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x+1</span>, <span class="tex-render">x+2</span>, $x+3$ e <span class="tex-render">x+4</span>), a pontuação é $x+200$ pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
 
 <pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2}-1</span> e <span class="tex-render">C_{2} = C_{3}-1</span> e <span class="tex-render">C_{3}=C_{4}-1</span> e <span class="tex-render">C_{4}=C_{5}-1</span>, <strong>então</strong>
     <strong>retorna</strong> <span class="tex-render">C_{1}+200</span>
@@ -165,34 +165,34 @@ Se as cinco cartas estão em seqüência a partir da carta <span class="tex-rend
 
 #### Segunda Regra – Quadra
 
-Se há quatro cartas iguais \\(x\\) (uma _quadra_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, \\(x\\) e <span class="tex-render">y</span>), a pontuação é \\(x+180\\) pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
+Se há quatro cartas iguais $x$ (uma _quadra_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, $x$ e <span class="tex-render">y</span>), a pontuação é $x+180$ pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
 
 <pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
     <strong>retorna</strong> <span class="tex-render">C_{2}+180</span>
 <strong>fim-se</strong></code></pre>
 
-Aqui retornamos \\(C\_{2}\\) porque ele será sempre parte da quadra (ela começando em \\(C\_{1}\\) ou \\(C\_{2}\\)).
+Aqui retornamos $C\_{2}$ porque ele será sempre parte da quadra (ela começando em $C\_{1}$ ou $C\_{2}$).
 
 #### Terceira e Quarta Regra – Trinca
 
-Se há três cartas iguais \\(x\\) e outras duas cartas iguais \\(y\\) (uma _trinca_ e um _par_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, \\(y\\) e <span class="tex-render">y</span>), a pontuação é \\(x+160\\) pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
+Se há três cartas iguais $x$ e outras duas cartas iguais $y$ (uma _trinca_ e um _par_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, $y$ e <span class="tex-render">y</span>), a pontuação é $x+160$ pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
 
 <pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
     <strong>se</strong> ( <span class="tex-render">C_{1} \neq{} C_{3}</span> e <span class="tex-render">C_{1} = C_{2}</span> ) ou ( <span class="tex-render">C_{3} \neq{} C_{5}</span> e <span class="tex-render">C_{4} = C_{5}</span> ), <strong>então</strong>
         <strong>retorna</strong> <span class="tex-render">C_{3}+160</span></code></pre>
 
-Se há três cartas iguais \\(x\\) e duas outras cartas diferentes \\(y\\) e \\(z\\) (uma _trinca_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, \\(y\\) e <span class="tex-render">z</span>), a pontuação é \\(x+140\\) pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
+Se há três cartas iguais $x$ e duas outras cartas diferentes $y$ e $z$ (uma _trinca_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, $y$ e <span class="tex-render">z</span>), a pontuação é $x+140$ pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
 
 <pre><code>    <strong>senão</strong>
         <strong>retorna</strong> <span class="tex-render">C_{3} + 140</span>
     <strong>fim-se</strong>
 <strong>fim-se</strong></code></pre>
 
-Note que aqui retornamos \\(C\_{3}\\) porque ele será sempre parte da trinca (o mesmo motivo que retornarmos \\(C\_{2}\\) para a quadra).
+Note que aqui retornamos $C\_{3}$ porque ele será sempre parte da trinca (o mesmo motivo que retornarmos $C\_{2}$ para a quadra).
 
 #### Quinta Regra – Duas Duplas
 
-Se há duas cartas iguais <span class="tex-render">x</span>, duas outras cartas iguais \\(y\\) (<span class="tex-render">x \neq{} y</span>) e uma outra carta distinta \\(z\\) (dois _pares_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">y</span>, \\(y\\) e <span class="tex-render">z</span>), a pontuação é \\(3 \times{} x + 2 \times{} y + 20\\) pontos, em que \\(x > y\\). Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
+Se há duas cartas iguais <span class="tex-render">x</span>, duas outras cartas iguais $y$ (<span class="tex-render">x \neq{} y</span>) e uma outra carta distinta $z$ (dois _pares_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">y</span>, $y$ e <span class="tex-render">z</span>), a pontuação é $3 \times{} x + 2 \times{} y + 20$ pontos, em que $x > y$. Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
 
 <pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
     <strong>se</strong> <span class="tex-render">C_{3} = C_{4}</span> ou <span class="tex-render">C_{4} = C_{5}</span>, <strong>então</strong>
@@ -200,11 +200,11 @@ Se há duas cartas iguais <span class="tex-render">x</span>, duas outras cartas 
     <strong>fim-se</strong>
 <strong>fim-se</strong></code></pre>
 
-\\(C\_{2}\\) será sempre elemento da menor dupla e \\(C\_{4}\\) será sempre elemento da maior dupla. Por isso usamos eles como \\(y\\) e <span class="tex-render">x</span>, respectivamente.
+$C\_{2}$ será sempre elemento da menor dupla e $C\_{4}$ será sempre elemento da maior dupla. Por isso usamos eles como $y$ e <span class="tex-render">x</span>, respectivamente.
 
 #### Sexta Regra – Dupla
 
-Se há apenas duas cartas iguais \\(x\\) e as outras são distintas (um _par_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">y</span>, \\(z\\) e <span class="tex-render">t</span>), a pontuação é \\(x\\) pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
+Se há apenas duas cartas iguais $x$ e as outras são distintas (um _par_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">y</span>, $z$ e <span class="tex-render">t</span>), a pontuação é $x$ pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
 
 <pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
     <strong>retorna</strong> <span class="tex-render">C_{2}</span>

@@ -101,7 +101,7 @@ Um problema econômico interessante para quando se está numa gráfica imprimind
 
 {{< figure src="/wp-content/uploads/2012/11/grafico3.png" title="Gráfico corrigido" >}}
 
-Descobrir se estamos numa região amarela é simples. Basta calcular o preço que pagaríamos a princípio (multiplicar o número de cópias pelo preço por cópias da região em que estamos) e comparar com o preço que pagaríamos se pedíssemos o menor número de cópias da região imediatamente mais barata. Por exemplo, faz sentido imprimir 15 cópias porque \\(15 \times 0.40=6.00\\) é menor do que \\(21 \times 0.30 = 6.30\\), mas não faz sentido imprimir 85 cópias porque \\(85 \times 0.25 = 21.25\\) é maior do que \\(101 \times 0.20 = 20.20\\).
+Descobrir se estamos numa região amarela é simples. Basta calcular o preço que pagaríamos a princípio (multiplicar o número de cópias pelo preço por cópias da região em que estamos) e comparar com o preço que pagaríamos se pedíssemos o menor número de cópias da região imediatamente mais barata. Por exemplo, faz sentido imprimir 15 cópias porque $15 \times 0.40=6.00$ é menor do que $21 \times 0.30 = 6.30$, mas não faz sentido imprimir 85 cópias porque $85 \times 0.25 = 21.25$ é maior do que $101 \times 0.20 = 20.20$.
 
 * * *
 
@@ -123,7 +123,7 @@ Se você separar todas as funções que encontramos na tabela de preços do prob
 
 Uma forma de resolver o problema é fazer com que as interseções sejam nos pontos onde o preço das impressões muda. Isso se faz movendo cada uma das funções um pouquinho pra cima, isso é, adicionando constantes às funções de primeiro grau.
 
-Por exemplo: 3 cópias custam R$ 2,10. Se a partir de 4 cópias quisermos que as cópias custem R$ 0,50 em vez de R$ 0,70, podemos forçar que 4 cópias custem R$ 2,10 + R$ 0,50 = R$ 2,60. R$ 2,60 é R$ 2,00 + R$ 0,60. Logo, em vez de usarmos a função de preço \\(f(x) = 0.5x\\) para _x_ entre 4 e 10, podemos usar a função \\(f(x) = 0.5x + 0.6\\).
+Por exemplo: 3 cópias custam R$ 2,10. Se a partir de 4 cópias quisermos que as cópias custem R$ 0,50 em vez de R$ 0,70, podemos forçar que 4 cópias custem R$ 2,10 + R$ 0,50 = R$ 2,60. R$ 2,60 é R$ 2,00 + R$ 0,60. Logo, em vez de usarmos a função de preço $f(x) = 0.5x$ para _x_ entre 4 e 10, podemos usar a função $f(x) = 0.5x + 0.6$.
 
 Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de preços final fica assim:
 

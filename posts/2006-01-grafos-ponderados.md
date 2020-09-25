@@ -23,7 +23,7 @@ Um grafo é _ponderado_ quando suas arestas possuem um **peso**. O que significa
 
 Neste grafo, por exemplo, o menor caminho de 0 a 3 não é a aresta 0–3, mas sim a aresta 0–2 e depois a aresta 2–3.
 
-Para representar um grafo ponderado usando a matriz de adjacência, onde antes marcávamos “1”, marcamos o peso que temos de ir de um vértice para o outro e onde marcávamos “0” marcamos \\(\infty{}\\) (infinito).
+Para representar um grafo ponderado usando a matriz de adjacência, onde antes marcávamos “1”, marcamos o peso que temos de ir de um vértice para o outro e onde marcávamos “0” marcamos $\infty{}$ (infinito).
 
 <table>
   <tr>

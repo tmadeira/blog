@@ -355,7 +355,7 @@ Eu não disse pra vocês que era fácil conseguir emprego no [Orkut][13]? Hehehe
 	<strong>imprima</strong> "O vértice " <em>i</em> " tem grau " <em>grau</em> "."
 <strong>fim-para</strong></code></pre>
 
-O custo é \\(\Theta{}(n^{2})\\) até no melhor caso… Será que não há uma maneira mais simples de fazer isso? Imagina um negócio do tamanho do Orkut. Milhões de pessoas… Não seria bem mais fácil se ao invés de termos que passar por todos os vértices, só passarmos pelos amigos? Não poderíamos colocar somente seus amigos num vetor? É por isto que utilizamos a **lista de adjacência**.
+O custo é $\Theta{}(n^{2})$ até no melhor caso… Será que não há uma maneira mais simples de fazer isso? Imagina um negócio do tamanho do Orkut. Milhões de pessoas… Não seria bem mais fácil se ao invés de termos que passar por todos os vértices, só passarmos pelos amigos? Não poderíamos colocar somente seus amigos num vetor? É por isto que utilizamos a **lista de adjacência**.
 
 ### Lista de Adjacência
 

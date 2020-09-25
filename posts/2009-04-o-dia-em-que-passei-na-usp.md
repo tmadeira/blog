@@ -23,9 +23,9 @@ Agora faz quase um mês. Do nada me veio na cabeça e lembrei que preciso regist
 
 O dia corria normalmente. Acordei cedo e fui para a <acronym title="Universidade Federal de Santa Catarina">UFSC</acronym>, porque estava dando aulas de preparação para a <acronym title="Olimpíada Brasileira de Informática">OBI</acronym> para os calouros todos os dias. Estava com muito sono, porque na terça dois amigos tinham vindo à minha casa comer um bife e acabei indo dormir tarde. Não lembro ao certo o que ensinei para os calouros, mas ainda estava no básico de C. Se eu não me engano, foi vetores.
 
-Às 10:00 eu tive aula de H-Cálculo III. As aulas de H-Cálculo são as que mais sinto falta aqui na USP. Era um curso extremamente rigoroso, a ponto de provar todas as propriedades de limites, derivadas e integrais a partir de teoria dos conjuntos e de treze axiomas dos reais. A aula do dia era sobre o **Teorema de Bolzano-Weierstrass** em \\(\mathbb{R}^n\\).
+Às 10:00 eu tive aula de H-Cálculo III. As aulas de H-Cálculo são as que mais sinto falta aqui na USP. Era um curso extremamente rigoroso, a ponto de provar todas as propriedades de limites, derivadas e integrais a partir de teoria dos conjuntos e de treze axiomas dos reais. A aula do dia era sobre o **Teorema de Bolzano-Weierstrass** em $\mathbb{R}^n$.
 
-> Seja \\(S \subset \mathbb{R}^n\\) um conjunto limitado contendo uma quantidade infinita de pontos. Então existe pelo menos um ponto de \\(\mathbb{R}^n\\) que é ponto de acumulação de \\(S\\).
+> Seja $S \subset \mathbb{R}^n$ um conjunto limitado contendo uma quantidade infinita de pontos. Então existe pelo menos um ponto de $\mathbb{R}^n$ que é ponto de acumulação de $S$.
 
 A idéia da prova não é muito complexa, mas a prova em si, rigorosa como o professor gostava, é grande. Três horas e cinco páginas de caderno depois, a aula acabou depois da demonstração do **Teorema da Interseção de Cantor**.
 

@@ -25,7 +25,7 @@ Curiosamente as melhores aulas (em conteúdo e rigor matemático) que estou tend
 
 **2.** Sinceramente, não esperava _nada_ desta disciplina.
 
-Surpreendi-me porque, de fato, desde que entramos na matéria de _Probabilidade_ tudo até agora foi definido ou provado formalmente. Por exemplo, _espaço de probabilidade_ é a tripla \\((\Omega, F, P)\\), onde \\(\Omega\\) é o espaço amostral, \\(F\\) é uma \\(\sigma\\)-álgebra que representa o conjunto dos eventos e \\(P: F \rightarrow [0, 1]\\) é a função probabilidade. Com três axiomas em cima dessa definição provamos uma porção de coisas.
+Surpreendi-me porque, de fato, desde que entramos na matéria de _Probabilidade_ tudo até agora foi definido ou provado formalmente. Por exemplo, _espaço de probabilidade_ é a tripla $(\Omega, F, P)$, onde $\Omega$ é o espaço amostral, $F$ é uma $\sigma$-álgebra que representa o conjunto dos eventos e $P: F \rightarrow [0, 1]$ é a função probabilidade. Com três axiomas em cima dessa definição provamos uma porção de coisas.
 
 Muito interessante. A probabilidade é uma área que eu desconhecia completamente (e discriminava em pensamento por andar sempre junto com _Estatística_), mas que é muito mais legal (em nível matemático) do que eu pensava.
 

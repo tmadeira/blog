@@ -22,7 +22,7 @@ O pessoal da modalidade programação ia tirar cópias de um livro do Stolfi e d
 
 Folheei o livro, não entendi nada, deixei num canto e voltei a abrir alguns anos depois, não lembro exatamente quando. E foi aí que fez-se a luz. A primeira parte é sobre coordenadas homogêneas.
 
-**Coordenadas homogêneas?** A ideia parece simples (até demais) pra ser poderosa. Basicamente você representa uma coordenada em \\((X, Y) \in \mathbb{R}^2\\) com uma tripla ordenada \\([w, x, y]\\) tal que \\(x = \frac{X}{w}\\) e \\(y = \frac{Y}{w}\\). A reta tem a mesma representação.
+**Coordenadas homogêneas?** A ideia parece simples (até demais) pra ser poderosa. Basicamente você representa uma coordenada em $(X, Y) \in \mathbb{R}^2$ com uma tripla ordenada $[w, x, y]$ tal que $x = \frac{X}{w}$ e $y = \frac{Y}{w}$. A reta tem a mesma representação.
 
 ```cpp
 struct ponto {
@@ -38,14 +38,14 @@ typedef ponto reta;
 
 **Quero código!** Vou mostrar como resolvi o problema _Symmetry_ ([2002 TopCoder Inv Round 4 – Division I, Level Three][2]).
 
-_O enunciado é simples:_ Dados n (\\(2 \leq n \leq 200\\)) pontos inteiros (com coordenadas de -10000 a 10000) determinar quantas linhas de simetria existem entre eles.
+_O enunciado é simples:_ Dados n ($2 \leq n \leq 200$) pontos inteiros (com coordenadas de -10000 a 10000) determinar quantas linhas de simetria existem entre eles.
 
-Dá pra fazer em \\(O(n^3)\\) com a seguinte ideia:
+Dá pra fazer em $O(n^3)$ com a seguinte ideia:
 
   1. Crie uma árvore binária balanceada indexada por retas. (em C++, _map <reta,int>_)
-  2. Para cada par de pontos, determine a reta de simetria entre eles e adicione 2 a essa reta na árvore binária. (\\(O(n^2 log n)\\))
-  3. Para cada reta na árvore binária, adicione 1 para cada ponto que pertence a essa reta. (\\(O(n^3)\\))
-  4. É fácil ver que a reta é uma reta de simetria do conjunto de pontos se e somente se seu valor na árvore binária for \\(n\\).
+  2. Para cada par de pontos, determine a reta de simetria entre eles e adicione 2 a essa reta na árvore binária. ($O(n^2 log n)$)
+  3. Para cada reta na árvore binária, adicione 1 para cada ponto que pertence a essa reta. ($O(n^3)$)
+  4. É fácil ver que a reta é uma reta de simetria do conjunto de pontos se e somente se seu valor na árvore binária for $n$.
 
 O problema geométrico está no segundo passo: determinar a reta de simetria entre dois pontos. Sejam esses pontos _p_ e _q_. É preciso:
 
@@ -54,7 +54,7 @@ O problema geométrico está no segundo passo: determinar a reta de simetria ent
   3. Determinar uma reta (ou um vetor) perpendicular à reta do passo acima.
   4. Determinar a reta que passa pelo ponto médio e tem a direção do vetor perpendicular do passo 3.
 
-Determinar o ponto médio sem usar ponto flutuante seria trivial de qualquer forma (basta multiplicar todas as coordenadas por dois), mas com coordenadas homogêneas isso é desnecessário. É fácil ver que o ponto médio \\(m\\) entre \\(p = [w_0, x_0, y_0]\\) e \\(q = [w_1, x_1, y_1]\\) é:
+Determinar o ponto médio sem usar ponto flutuante seria trivial de qualquer forma (basta multiplicar todas as coordenadas por dois), mas com coordenadas homogêneas isso é desnecessário. É fácil ver que o ponto médio $m$ entre $p = [w_0, x_0, y_0]$ e $q = [w_1, x_1, y_1]$ é:
 
 $$m = [ 2 w_0 w_1 , w_1 x_0 + w_0 x_1 , w_1 y_0 + w_0 q_1 ]$$
 
@@ -64,11 +64,11 @@ ponto ponto_medio(ponto p, ponto q) {
 }
 ```
 
-Três pontos \\([w_0, x_0, y_0]\\), \\([w_1, x_1, y_1]\\), \\([w_2, x_2, y_2]\\) são colineares se
+Três pontos $[w_0, x_0, y_0]$, $[w_1, x_1, y_1]$, $[w_2, x_2, y_2]$ são colineares se
 
 $$\left| \begin{array}{ccc} w_0 & x_0 & y_0 \\ w_1 & x_1 & y_1 \\ w_2 & x_2 & y_2 \end{array} \right| = 0$$
 
-, o que nos permite concluir que a reta \\(r = \langle W, X, Y \rangle\\) que passa por \\(p = [ w_0, x_0, y_0 ]\\) e \\(q = [ w_1, x_1, y_1 ]\\) é:
+, o que nos permite concluir que a reta $r = \langle W, X, Y \rangle$ que passa por $p = [ w_0, x_0, y_0 ]$ e $q = [ w_1, x_1, y_1 ]$ é:
 
 $$r = \langle +x_0 y_1 - y_0 x_1, -w_0 y_1 + w_1 y_0, w_0 x_1 - w_1 x_0\rangle$$
 
@@ -80,7 +80,7 @@ ponto reta_determinada_por(ponto p, ponto q) {
 }
 ```
 
-(um ponto \\([w, x, y]\\) pertence a \\(r\\) se \\(Ww + Xx + Yy = 0\\))
+(um ponto $[w, x, y]$ pertence a $r$ se $Ww + Xx + Yy = 0$)
 
 ```cpp
 int ponto_na_reta(ponto p, reta r) {
@@ -88,7 +88,7 @@ int ponto_na_reta(ponto p, reta r) {
 }
 ```
 
-Agora a parte mais legal: a fórmula para determinar uma reta que passa por dois pontos funciona com pontos no infinito (pensemos em pontos no infinito como vetores, porque eles tem direção mas tem \\(w = 0\\)): o resultado é a reta determinada por um ponto e uma direção. O vetor perpendicular à reta \\(\langle W, X, Y \rangle\\) é \\([ 0, X, Y ]\\).
+Agora a parte mais legal: a fórmula para determinar uma reta que passa por dois pontos funciona com pontos no infinito (pensemos em pontos no infinito como vetores, porque eles tem direção mas tem $w = 0$): o resultado é a reta determinada por um ponto e uma direção. O vetor perpendicular à reta $\langle W, X, Y \rangle$ é $[ 0, X, Y ]$.
 
 ```cpp
 ponto ponto_infinito_na_reta_perpendicular(reta r) {

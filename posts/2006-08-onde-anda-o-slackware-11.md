@@ -23,7 +23,7 @@ Ok… O Patrick tá trabalhando _pra caramba_, tem bastante gente colaborando, e
 
 Se realmente forem só _bugs_ ou _atualizações irresistíveis_, acho que na semana que vem poderemos ter uma versão nova da nossa [tão querida distribuição][2].
 
-A última versão do Slackware (a 10.2) é do dia 14 de setembro do ano passado. Um ano sem uma versão é um tempo considerável (claro que, pra não ser injusto com o Bill, não vale comparar com os atrasos dos [sistemas proprietários][3]). A rápida correção de bugs e lançamento de novas versões é uma entre as \\(\infty{}\\) vantagens que vejo no software livre; espero que essa versão saia logo! =D
+A última versão do Slackware (a 10.2) é do dia 14 de setembro do ano passado. Um ano sem uma versão é um tempo considerável (claro que, pra não ser injusto com o Bill, não vale comparar com os atrasos dos [sistemas proprietários][3]). A rápida correção de bugs e lançamento de novas versões é uma entre as $\infty{}$ vantagens que vejo no software livre; espero que essa versão saia logo! =D
 
  [1]: ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt
  [2]: http://www.slackware.com

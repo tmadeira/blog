@@ -19,7 +19,7 @@ tags:
   - vetores
 
 ---
-Também conhecida como _Insertion Sort_, a **Ordenação por Inserção** consiste em inserir um elemento \\(n\\) num vetor já ordenado de \\(n-1\\) elementos. Neste artigo, apresento-lhes este simples algoritmo para **ordenação de vetores**.
+Também conhecida como _Insertion Sort_, a **Ordenação por Inserção** consiste em inserir um elemento $n$ num vetor já ordenado de $n-1$ elementos. Neste artigo, apresento-lhes este simples algoritmo para **ordenação de vetores**.
 
 O pseudocódigo da **ordenação por inserção** é o seguinte:
 
@@ -94,7 +94,7 @@ Para explicar eu vou fazer uma coisa que sempre faço para corrigir meus algorit
   </tr>
 </table>
 
-Aí o código me manda começar com \\(j=2\\) e iterar até o comprimento do vetor (6). A primeira ordem que ele me dá é para armazenar o elemento \\(a[j]\\) (<span class="tex-render">a[2]</span>) na variável **elemento**. Para facilitar toda a explicação eu vou sempre pintar de cinza o \\(v[j]\\) onde eu estou (no caso, o segundo elemento do vetor, 3) e de preto o vetor ainda não ordenado (elementos <span class="tex-render">\geq{}j</span>).
+Aí o código me manda começar com $j=2$ e iterar até o comprimento do vetor (6). A primeira ordem que ele me dá é para armazenar o elemento $a[j]$ (<span class="tex-render">a[2]</span>) na variável **elemento**. Para facilitar toda a explicação eu vou sempre pintar de cinza o $v[j]$ onde eu estou (no caso, o segundo elemento do vetor, 3) e de preto o vetor ainda não ordenado (elementos <span class="tex-render">\geq{}j</span>).
 
 <table>
   <tr>
@@ -152,7 +152,7 @@ Aí o código me manda começar com \\(j=2\\) e iterar até o comprimento do vet
 
 Então ele me diz que <span class="tex-render">i \leftarrow{} j-1</span>. Portanto, <span class="tex-render">i=1</span>. E agora ele me faz um **enquanto** (que poderia ser substituído por **para**) onde meu **i** deverá ir diminuindo. Vamos entrar no loop…
 
-Bom, meu \\(i = 1\\) é maior que 0. \\(v[1]=5\\) é maior que o <span class="tex-render">elemento=3</span>? Sim, então vamos entrar no corpo do **enquanto**… Aqui ele me manda fazer um <span class="tex-render">vetor[i+1] = vetor[i]</span>, que nesse caso é fazer um <span class="tex-render">v[2]=v[1]=5</span>.
+Bom, meu $i = 1$ é maior que 0. $v[1]=5$ é maior que o <span class="tex-render">elemento=3</span>? Sim, então vamos entrar no corpo do **enquanto**… Aqui ele me manda fazer um <span class="tex-render">vetor[i+1] = vetor[i]</span>, que nesse caso é fazer um <span class="tex-render">v[2]=v[1]=5</span>.
 
 <table>
   <tr>
@@ -208,7 +208,7 @@ Bom, meu \\(i = 1\\) é maior que 0. \\(v[1]=5\\) é maior que o <span class="te
   </tr>
 </table>
 
-E agora subtrai de **i** um valor. Portanto, <span class="tex-render">i=0</span>. Ele retorna ao **enquanto**, mas agora não satisfazemos a condição \\(i>0\\), por isso saímos do **enquanto**. Então ele pede para \\(vetor[i+1]=elemento\\) (<span class="tex-render">v[1]=elemento</span>). Portanto, o vetor fica assim:
+E agora subtrai de **i** um valor. Portanto, <span class="tex-render">i=0</span>. Ele retorna ao **enquanto**, mas agora não satisfazemos a condição $i>0$, por isso saímos do **enquanto**. Então ele pede para $vetor[i+1]=elemento$ (<span class="tex-render">v[1]=elemento</span>). Portanto, o vetor fica assim:
 
 <table>
   <tr>
@@ -323,11 +323,11 @@ E incrementamos o **j**, agora <span class="tex-render">j=3</span>.
 <span class="tex-render">elemento = 7</span>
 <span class="tex-render">i = 3-1 = 2</span>
 
-\\(i > 0\\)… E \\(5 > 7\\)? Não! Portanto, não entramos no **enquanto**.
+$i > 0$… E $5 > 7$? Não! Portanto, não entramos no **enquanto**.
 
-\\(v[3] = elemento\\) (nenhuma mudança)
+$v[3] = elemento$ (nenhuma mudança)
 
-E lá vamos para \\(j=4\\) e continuando até que vamos ter o vetor ordenado:
+E lá vamos para $j=4$ e continuando até que vamos ter o vetor ordenado:
 
 <table>
   <tr>
@@ -385,15 +385,15 @@ E lá vamos para \\(j=4\\) e continuando até que vamos ter o vetor ordenado:
 
 ### Qual a lógica?
 
-Como eu já disse na introdução, mas lá sem grandes explicações, a _Ordenação por Inserção_ divide o vetor em dois. O primeiro (de elementos \\(< j\\)) contém todos seus valores ordenados e o segundo (de elementos \\(\geq{} j\\)) contém os valores que devem ser <strong>inseridos</strong> no <em>primeiro</em> vetor já ordenado (por isso ele se chama <strong>Algoritmo de Inserção</strong>). A chave do algoritmo é o <strong>enquanto</strong> que acontece para ir deslocando todos os elementos para seu índice \\(+1\\)) contém todos seus valores ordenados e o segundo (de elementos \\(\geq{}j\\)) contém os valores que devem ser <strong>inseridos</strong> no <em>primeiro</em> vetor já ordenado (por isso ele se chama <strong>Algoritmo de Inserção</strong>).
+Como eu já disse na introdução, mas lá sem grandes explicações, a _Ordenação por Inserção_ divide o vetor em dois. O primeiro (de elementos $< j$) contém todos seus valores ordenados e o segundo (de elementos $\geq{} j$) contém os valores que devem ser <strong>inseridos</strong> no <em>primeiro</em> vetor já ordenado (por isso ele se chama <strong>Algoritmo de Inserção</strong>). A chave do algoritmo é o <strong>enquanto</strong> que acontece para ir deslocando todos os elementos para seu índice $+1$) contém todos seus valores ordenados e o segundo (de elementos $\geq{}j$) contém os valores que devem ser <strong>inseridos</strong> no <em>primeiro</em> vetor já ordenado (por isso ele se chama <strong>Algoritmo de Inserção</strong>).
 
-A variável **elemento** só serve para não perdermos o valor de \\(v[j]\\) (porque depois fazemos \\(v[i+1]=v[i]\\) quando <span class="tex-render">i=j-1</span>)
+A variável **elemento** só serve para não perdermos o valor de $v[j]$ (porque depois fazemos $v[i+1]=v[i]$ quando <span class="tex-render">i=j-1</span>)
 
 Acredito que não tenham restado dúvidas. Dê mais uma olhada no algoritmo e tente implementar. Se tiver dificulade, coloque mensagens de debug estratégicas para entender o algoritmo. (ex.: no início do **para** coloque para imprimir o valor de _j_ e no início de cada **enquanto** coloque para imprimir os valores **elemento**, **i** e **v[i]**)
 
 ### Custo
 
-Você deve ter percebido que este algoritmo não tem um custo fixo. Se todo o vetor estiver ordenado, ele nunca precisará iterar o \\(i\\) e portanto será executado bem mais rápido do que se o vetor estiver inteiro em ordem decrescente (quando ele sempre precisará iterar \\(i\\) até o fim - 0). Então, neste artigo, gostaria-lhes de apresentar a análise de algoritmos baseada em casos. Para este programa, dizemos que:
+Você deve ter percebido que este algoritmo não tem um custo fixo. Se todo o vetor estiver ordenado, ele nunca precisará iterar o $i$ e portanto será executado bem mais rápido do que se o vetor estiver inteiro em ordem decrescente (quando ele sempre precisará iterar $i$ até o fim - 0). Então, neste artigo, gostaria-lhes de apresentar a análise de algoritmos baseada em casos. Para este programa, dizemos que:
 
   * **Melhor caso** é quando todos os elementos já estão ordenados. Custo: <span class="tex-render">\Theta{}(n)</span>
   * **Pior caso** é quando os elementos estão em ordem decrescente. Custo: <span class="tex-render">\Theta{}(n^{2})</span>

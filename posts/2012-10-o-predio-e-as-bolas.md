@@ -42,11 +42,11 @@ Por que logaritmo de um bilhão na base dois? Como eu comentei anteriormente, a 
 
 $$1000000000 / 2 / 2 / \cdots / 2 = 1$$
 
-Nosso problema é encontrar quantos 2 tem aí. Dividir um número por 2 _k_ vezes é o mesmo que dividir por \\(2^k\\). Logo, nosso problema é encontrar quanto vale _k_:
+Nosso problema é encontrar quantos 2 tem aí. Dividir um número por 2 _k_ vezes é o mesmo que dividir por $2^k$. Logo, nosso problema é encontrar quanto vale _k_:
 
 $$\frac{1000000000}{2^k} = 1$$
 
-Multiplicando os dois lados da igualdade por \\(2^k\\), temos:
+Multiplicando os dois lados da igualdade por $2^k$, temos:
 
 $$1000000000 = 2^k$$
 
@@ -54,7 +54,7 @@ Tirando o logaritmo na base 2, concluímos:
 
 $$\log_2 1000000000 = k$$
 
-Ou seja, o logaritmo de _n_ na base 2 é o número de vezes que precisamos dividir _n_ por 2 para chegar em 1. Voltando ao problema inicial, como \\(log_2 100 < 7\\), precisaremos jogar no máximo 7 bolas para determinar a partir de qual andar a bola quebrar. Quando você jogar uma bola, se ela quebrar é a mesma coisa que o seu amigo que pensou num número dizendo _"O número que eu pensei é menor."_ Se ela não quebrar, é equivalente ao seu amigo dizendo _"O número que eu pensei é maior."_
+Ou seja, o logaritmo de _n_ na base 2 é o número de vezes que precisamos dividir _n_ por 2 para chegar em 1. Voltando ao problema inicial, como $log_2 100 < 7$, precisaremos jogar no máximo 7 bolas para determinar a partir de qual andar a bola quebrar. Quando você jogar uma bola, se ela quebrar é a mesma coisa que o seu amigo que pensou num número dizendo _"O número que eu pensei é menor."_ Se ela não quebrar, é equivalente ao seu amigo dizendo _"O número que eu pensei é maior."_
 
 Realizando uma busca binária, o pior caso (aquele caso no qual quebraremos mais bolas -- e que jogaremos a maior quantidade de vezes) é quando a bola quebra no primeiro andar. Você joga as bolas dos andares 50 (poft!), 25 (poft!), 13 (poft!), 7 (poft!), 4 (poft!), 2 (poft!), 1, jogando um total de 7 e quebrando um total de 6 bolas.
 

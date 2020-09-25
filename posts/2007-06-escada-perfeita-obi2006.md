@@ -100,22 +100,22 @@ $$S\_{n} = (a\_{1}+a\_{n}).\frac{n}{2}$$
 
 3. Sabemos quanto vale a razão (r=1).
 
-4. Substituindo o que sabemos nas fórmulas conseguimos formar um sistema de equações básico e desta forma torna-se fácil descobrir o valor do primeiro e do último termo da PA (\\(a\_{1}\\) e \\(a\_{n}\\)). Resumindo um pouco os cálculos, depois de alguma manipulação algébrica você chega a:
+4. Substituindo o que sabemos nas fórmulas conseguimos formar um sistema de equações básico e desta forma torna-se fácil descobrir o valor do primeiro e do último termo da PA ($a\_{1}$ e $a\_{n}$). Resumindo um pouco os cálculos, depois de alguma manipulação algébrica você chega a:
 
 $$a\_{n} = \frac{\frac{2.S\_{n}}{n}+n-1}{2}$$
 
 $$a\_{1} = 1 + a\_{n} - n$$
 
-5. Agora que já sabemos onde começa e onde termina a escada basta fazer um loop em cada fila de blocos e adicionar à uma variável _movimentos_ a quantidade de quadradinhos que estão sobrando nesta fileira (por exemplo, na primeira fileira da figura do enunciado está sobrando três quadradinhos para chegar ao \\(a\_{1}=2\\)). Ao mesmo tempo, adicionamos à outra variável (_moves_) a quantidade de quadradinhos que devem ser retirados **ou** colocados na fileira (porque depois se esta variável não for igual a 0 imprimimos -1). Ficou claro?
+5. Agora que já sabemos onde começa e onde termina a escada basta fazer um loop em cada fila de blocos e adicionar à uma variável _movimentos_ a quantidade de quadradinhos que estão sobrando nesta fileira (por exemplo, na primeira fileira da figura do enunciado está sobrando três quadradinhos para chegar ao $a\_{1}=2$). Ao mesmo tempo, adicionamos à outra variável (_moves_) a quantidade de quadradinhos que devem ser retirados **ou** colocados na fileira (porque depois se esta variável não for igual a 0 imprimimos -1). Ficou claro?
 
 ### Implementação
 
 #### Variáveis
 
   * **n**: número de degraus (fileiras de blocos)
-  * **a**: \\(a\_{1}\\), número de blocos do primeiro degrau.
-  * **b**: \\(a\_{n}\\) , número de blocos do último degrau.
-  * **soma**: \\(S\_{n}\\) , soma da PA.
+  * **a**: $a\_{1}$, número de blocos do primeiro degrau.
+  * **b**: $a\_{n}$ , número de blocos do último degrau.
+  * **soma**: $S\_{n}$ , soma da PA.
   * **pilha[]**: vetor de degraus.
   * **movimentos** e **moves**: explicados no quinto passo da solução.
   * **i** e **j**: variáveis auxiliares para fazer os _loops_.

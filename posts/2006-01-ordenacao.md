@@ -24,7 +24,7 @@ Vetor é uma estrutura de dados que serve para substituir várias variáveis. Pa
 
 ### No que consiste a ordenação?
 
-Os algoritmos de ordenação tem como objetivo permutar uma seqüência \\(n\_{1}, n\_{2}, n\_{3}, \ldots{}\\) de forma que \\(n\_{1} \leq{} n\_{2} \leq{} n\_{3} \leq{} \ldots{}\\). A ordenação não precisa ser exatamente de um vetor, mas vetor é geralmente a estrutura que usamos para guardar uma lista de números para podermos ordená-los.
+Os algoritmos de ordenação tem como objetivo permutar uma seqüência $n\_{1}, n\_{2}, n\_{3}, \ldots{}$ de forma que $n\_{1} \leq{} n\_{2} \leq{} n\_{3} \leq{} \ldots{}$. A ordenação não precisa ser exatamente de um vetor, mas vetor é geralmente a estrutura que usamos para guardar uma lista de números para podermos ordená-los.
 
 ### Por que ordenar?
 

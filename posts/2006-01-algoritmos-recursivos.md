@@ -34,9 +34,9 @@ Então, mãos à obra!
 
 * * *
 
-Em matemática, o número fatorial de \\(n\\) é igual a: <span class="tex-render">n \times{} n-1 \times{} n-2 \times{} \ldots{} 2 \times{} 1</span>.
+Em matemática, o número fatorial de $n$ é igual a: <span class="tex-render">n \times{} n-1 \times{} n-2 \times{} \ldots{} 2 \times{} 1</span>.
 
-Logo, por exemplo, \\(5!\\) (cinco fatorial) seria igual a: <span class="tex-render">5 \times{} 4 \times{} 3 \times{} 2 \times{} 1 = 120</span>.
+Logo, por exemplo, $5!$ (cinco fatorial) seria igual a: <span class="tex-render">5 \times{} 4 \times{} 3 \times{} 2 \times{} 1 = 120</span>.
 
 * * *
 
@@ -64,9 +64,9 @@ Vamos abrir um grande parênteses aqui até a próxima linha horizontal para des
   4. <span class="tex-render">n-1</span>
   5. <span class="tex-render">n-1</span>
 
-\\(T(n) = (n) + (n-1) + (1) + (n-1) + (n-1) = 4n - 2\\)
+$T(n) = (n) + (n-1) + (1) + (n-1) + (n-1) = 4n - 2$
 
-Uma **função linear**, o tipo de algoritmo mais simples que podemos encontrar, com excessão dos que são uma **função constante**. Mas o parênteses na verdade não serviu só pra isso. Eu queria aproveitar pra _escovar uns bits_ de nosso código. Você percebeu que o primeiro condicional é executado \\(n-1\\) vezes, mas só entramos nele **uma** vez? Então vamos inverter nosso condicional.
+Uma **função linear**, o tipo de algoritmo mais simples que podemos encontrar, com excessão dos que são uma **função constante**. Mas o parênteses na verdade não serviu só pra isso. Eu queria aproveitar pra _escovar uns bits_ de nosso código. Você percebeu que o primeiro condicional é executado $n-1$ vezes, mas só entramos nele **uma** vez? Então vamos inverter nosso condicional.
 
 <pre><code><strong>função</strong> <em>fatorial</em> (<em>n</em>)
  <strong>se</strong> <span class="tex-render">n \geq{} 2</span>, <strong>então</strong>
@@ -84,19 +84,19 @@ Uma **função linear**, o tipo de algoritmo mais simples que podemos encontrar,
   4. <span class="tex-render">1</span>
   5. <span class="tex-render">1</span>
 
-\\(T(n) = (n) + (n-1) + (n-1) + (1) + (1) = 3n\\)
+$T(n) = (n) + (n-1) + (n-1) + (1) + (1) = 3n$
 
-Claro que continua uma **função linear**, não houve nenhuma grande mudança. Os dois continuam com a mesma ordem de crescimento e tal… \\(4n+2\\) comparado com \\(3n\\) é uma diferença pequena, mas essa solução ficou bem mais elegante. ;) Poxa, diminuímos o custo do algoritmo em <span class="tex-render">\frac{1}{4}</span>! Hehehe…
+Claro que continua uma **função linear**, não houve nenhuma grande mudança. Os dois continuam com a mesma ordem de crescimento e tal… $4n+2$ comparado com $3n$ é uma diferença pequena, mas essa solução ficou bem mais elegante. ;) Poxa, diminuímos o custo do algoritmo em <span class="tex-render">\frac{1}{4}</span>! Hehehe…
 
 Agora, antes de continuar, só vamos definir a **notação assintótica** desse nosso novo custo!
 
-A fórmula do \\(\Theta{}\\) é: \\(0 \leq{} c\_{1} g(n) \leq{} f(n) \leq{} c\_{2} g(n)\\)
+A fórmula do $\Theta{}$ é: $0 \leq{} c\_{1} g(n) \leq{} f(n) \leq{} c\_{2} g(n)$
 
-Substituindo pela nossa função, temos: \\(c\_{1}n \leq{} 3n \leq{} c\_{2}n\\). É trivial, que podemos escolher para as duas constantes \\(c\_{1}=c\_{2}=3\\) e para \\(n\_{0}=0\\). Com isso pretendi mostrar-lhes uma conclusão óbvia que no outro artigo não tinha mostrado para não complicar muito: uma função reta (linear) pertence sempre a notação \\(\Theta{}(n)\\) e uma função quadrática pertence sempre a notação \\(\Theta{}(n^{2})\\) (ora, façam um gráfico das funções e vejam se isso não é óbvio!). Mas vamos aprendendo mais sobre **análise de algoritmos** com o tempo…
+Substituindo pela nossa função, temos: $c\_{1}n \leq{} 3n \leq{} c\_{2}n$. É trivial, que podemos escolher para as duas constantes $c\_{1}=c\_{2}=3$ e para $n\_{0}=0$. Com isso pretendi mostrar-lhes uma conclusão óbvia que no outro artigo não tinha mostrado para não complicar muito: uma função reta (linear) pertence sempre a notação $\Theta{}(n)$ e uma função quadrática pertence sempre a notação $\Theta{}(n^{2})$ (ora, façam um gráfico das funções e vejam se isso não é óbvio!). Mas vamos aprendendo mais sobre **análise de algoritmos** com o tempo…
 
 * * *
 
-Bom… Continuando com a recursão… Nossa função cria um loop consigo mesma, ao invés de usar um **para** (for) ou **enquanto** (while). Ela se repete diminuindo um de \\(n\\) a cada iteração, até que chegue ao valor mínimo \\(1\\) aonde a resposta é trivial: <span class="tex-render">1</span>.
+Bom… Continuando com a recursão… Nossa função cria um loop consigo mesma, ao invés de usar um **para** (for) ou **enquanto** (while). Ela se repete diminuindo um de $n$ a cada iteração, até que chegue ao valor mínimo $1$ aonde a resposta é trivial: <span class="tex-render">1</span>.
 
 O que é necessário para criarmos uma **recursão**? Apenas um ponto de parada! Temos que tomar cuidado para não criarmos _loops infinitos_ cuidando sempre com cada entrada que o usuário pode colocar. Nesse caso, eu determinei que o domínio da função é <span class="tex-render">n \in{} \mathbf{N} / n \geq{} 1</span>. Se o cara colocasse <span class="tex-render">n=0</span>, minha função iria diminuindo infinitamente… e nunca iria retornar nada!
 

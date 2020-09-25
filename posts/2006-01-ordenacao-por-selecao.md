@@ -109,7 +109,7 @@ O programa recebe o seguinte vetor.
   </tr>
 </table>
 
-Aí ele começa com <span class="tex-render">i=1</span>. Vou sempre marcar \\(i\\) com a cor **preta** e \\(min\\) com a cor **cinza**.
+Aí ele começa com <span class="tex-render">i=1</span>. Vou sempre marcar $i$ com a cor **preta** e $min$ com a cor **cinza**.
 
 <table>
   <tr>
@@ -165,29 +165,29 @@ Aí ele começa com <span class="tex-render">i=1</span>. Vou sempre marcar \\(i\
   </tr>
 </table>
 
-Ele marca o próprio índice _i_ como a variável _minimo_, que é sempre o menor elemento do vetor. Então, ele faz um **para** de \\(j=2\\) até o comprimento do vetor, com o objetivo de descobrir qual o menor elemento.
+Ele marca o próprio índice _i_ como a variável _minimo_, que é sempre o menor elemento do vetor. Então, ele faz um **para** de $j=2$ até o comprimento do vetor, com o objetivo de descobrir qual o menor elemento.
 
-\\(j=2\\) … \\(v[j] = 3 < v[minimo] = v[1] = 5\\), portanto \\(minimo = j = 2\\).
-
-<table> <thead> <tr> <td>v[1]</td> <td>v[2]</td> <td>v[3]</td> <td>v[4]</td> <td>v[5]</td> <td>v[6]</td> </tr> </thead> <tr> <td class="preto">5</td> <td class="cinza">3</td> <td>7</td> <td>8</td> <td>2</td> <td>5</td> </tr> </table>
-
-\\(j=3\\) ... \\(v[j] = 3 < v[minimo] = v[1] = 5\\), portanto \\(minimo = j = 2\\).
+$j=2$ … $v[j] = 3 < v[minimo] = v[1] = 5$, portanto $minimo = j = 2$.
 
 <table> <thead> <tr> <td>v[1]</td> <td>v[2]</td> <td>v[3]</td> <td>v[4]</td> <td>v[5]</td> <td>v[6]</td> </tr> </thead> <tr> <td class="preto">5</td> <td class="cinza">3</td> <td>7</td> <td>8</td> <td>2</td> <td>5</td> </tr> </table>
 
-\\(j=3\\) ... \\(v[j] = 7 > v[minimo] = v[2] = 3\\), portanto não mexemos em nada.
+$j=3$ ... $v[j] = 3 < v[minimo] = v[1] = 5$, portanto $minimo = j = 2$.
 
-\\(j=4\\) ... \\(v[j] = 8 > v[minimo] = v[2] = 3\\), portanto não mexemos em nada.
+<table> <thead> <tr> <td>v[1]</td> <td>v[2]</td> <td>v[3]</td> <td>v[4]</td> <td>v[5]</td> <td>v[6]</td> </tr> </thead> <tr> <td class="preto">5</td> <td class="cinza">3</td> <td>7</td> <td>8</td> <td>2</td> <td>5</td> </tr> </table>
 
-\\(j=5\\) ... \\(v[j] = 2 < v[minimo] = v[2] = 3\\), portanto \\(minimo = j = 5\\).
+$j=3$ ... $v[j] = 7 > v[minimo] = v[2] = 3$, portanto não mexemos em nada.
+
+$j=4$ ... $v[j] = 8 > v[minimo] = v[2] = 3$, portanto não mexemos em nada.
+
+$j=5$ ... $v[j] = 2 < v[minimo] = v[2] = 3$, portanto $minimo = j = 5$.
 
 <table> <thead> <tr> <td>v[1]</td> <td>v[2]</td> <td>v[3]</td> <td>v[4]</td> <td>v[5]</td> <td>v[6]</td> </tr> </thead> <tr> <td class="preto">5</td> <td>3</td> <td>7</td> <td>8</td> <td class="cinza">2</td> <td>5</td> </tr> </table>
 
-\\(j=6\\) ... \\(v[j] = 2 < v[minimo] = v[2] = 3\\), portanto \\(minimo = j = 5\\).
+$j=6$ ... $v[j] = 2 < v[minimo] = v[2] = 3$, portanto $minimo = j = 5$.
 
 <table> <thead> <tr> <td>v[1]</td> <td>v[2]</td> <td>v[3]</td> <td>v[4]</td> <td>v[5]</td> <td>v[6]</td> </tr> </thead> <tr> <td class="preto">5</td> <td>3</td> <td>7</td> <td>8</td> <td class="cinza">2</td> <td>5</td> </tr> </table>
 
-\\(j=6\\) ... \\(v[j] = 5 > v[minimo] = v[5] = 2\\), portanto não mexemos em nada.
+$j=6$ ... $v[j] = 5 > v[minimo] = v[5] = 2$, portanto não mexemos em nada.
 
 Agora substituímos o _v[minimo]_ pelo _v[i]_, formando com isto o novo vetor:
 
@@ -265,7 +265,7 @@ _n_ = tamanho do vetor
  10. <span class="tex-render">n-1</span>
  11. <span class="tex-render">0</span>
 
-Você pode estar se perguntando porque eu coloquei este custo para a linha 5. Afinal, a linha 5 diria que este programa tem um melhor/pior caso, porque ela não seria executada se o **se** retornar falso. Mas o caso é que ela é desprezível. Uma soma como estas para o custo geral do nosso algoritmo não vai influenciar em nada. Quer ver? Vamos somar os custos com esta linha valendo \\(0\\) (como se nenhum **se** entrasse) e depois com ela valendo \\(\sum\_{j=1}^{n}\\).
+Você pode estar se perguntando porque eu coloquei este custo para a linha 5. Afinal, a linha 5 diria que este programa tem um melhor/pior caso, porque ela não seria executada se o **se** retornar falso. Mas o caso é que ela é desprezível. Uma soma como estas para o custo geral do nosso algoritmo não vai influenciar em nada. Quer ver? Vamos somar os custos com esta linha valendo $0$ (como se nenhum **se** entrasse) e depois com ela valendo $\sum\_{j=1}^{n}$.
 
 #### Primeiro cálculo
 
@@ -281,5 +281,5 @@ $$T(n) = 1,5 n^{2} + 6,5 n - 3 = \Theta{}(n^2)$$
 
 #### Conclusão
 
-Como vocês puderam ver, não faz diferença alguma o \\(\frac{n^{2} + n}{2}\\) que aquela somatória nos proporciona. Já que todo o cálculo de algoritmos é baseado apenas no maior expoente de **n** e desprezamos todas as constantes (inclusive as que multiplicam o **n** de maior expoente, muitos passos são desprezíveis.
+Como vocês puderam ver, não faz diferença alguma o $\frac{n^{2} + n}{2}$ que aquela somatória nos proporciona. Já que todo o cálculo de algoritmos é baseado apenas no maior expoente de **n** e desprezamos todas as constantes (inclusive as que multiplicam o **n** de maior expoente, muitos passos são desprezíveis.
 

@@ -28,16 +28,15 @@ export async function getStaticProps({...ctx}) {
 };
 
 export async function getStaticPaths() {
-  const params = ((context) => {
-    return context.keys().map((key, index) => {
-      const path = key.replace(/^.*[\\\/]/, '').slice(0, -3);
-      const [year, month, ...parts] = path.split('-');
-      const slug = parts.join('-');
-      return {year, month, slug};
-    });
-  })(require.context('../../../posts', true, /\.md$/));
+  const context = require.context('../../../posts', true, /\.md$/);
 
-  const paths = params.map(({year, month, slug}) => `/${year}/${month}/${slug}`);
+  const paths = [];
+  for (const key of context.keys()) {
+    const path = key.replace(/^.*[\\\/]/, '').slice(0, -3);
+    const [year, month, ...parts] = path.split('-');
+    const slug = parts.join('-');
+    paths.push(`/${year}/${month}/${slug}`);
+  }
 
   return {
     paths,

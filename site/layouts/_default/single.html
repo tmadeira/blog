@@ -1,8 +1,0 @@
-{{ define "main" }}
-  <!-- vim: set syntax=gohtmltmpl: -->
-  {{- partial "article" . -}}
-
-  {{- if ne .Type "page" -}}
-    {{- partial "comments" . -}}
-  {{- end -}}
-{{ end }}

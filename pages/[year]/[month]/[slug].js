@@ -1,6 +1,7 @@
 import matter from 'gray-matter';
 
 import Markdown from '@components/Markdown';
+import {getPost} from '@api';
 
 export default function Post({data, content}) {
   return (
@@ -10,20 +11,10 @@ export default function Post({data, content}) {
 
 export async function getStaticProps({...ctx}) {
   const {year, month, slug} = ctx.params;
-
-  const content = await import(`../../../posts/${year}-${month}-${slug}.md`);
-  const md = matter(content.default);
-
-  // NextJS can not serialize date objects.
-  if (Object.prototype.toString.call(md.data.date) === "[object Date]") {
-    md.data.date = md.data.date.toISOString();
-  }
+  const post = await getPost(`${year}-${month}-${slug}.md`);
 
   return {
-    props: {
-      data: md.data,
-      content: md.content,
-    },
+    props: post,
   };
 };
 

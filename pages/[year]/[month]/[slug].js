@@ -1,9 +1,16 @@
 import matter from 'gray-matter';
 import ReactMarkdown from 'react-markdown';
 
+import Code from '../../../components/Code';
+
 export default function Post({data, content}) {
   return (
-    <ReactMarkdown source={content} />
+    <ReactMarkdown
+      source={content}
+      renderers={{
+        code: Code,
+      }}
+    />
   );
 };
 

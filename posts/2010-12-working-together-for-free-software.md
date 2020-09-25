@@ -16,7 +16,7 @@ _by **Peter Brown**, [FSF][1] Executive Director_
 
 _(Free Software Foundation Bulletin, Issue 16, May 2010)_
 
-{{< figure src="/wp-content/uploads/2010/12/productimage-picture-lp-tshirt-77_t280.png" title="Camiseta do Libre Planet" >}}
+![Camiseta do Libre Planet](/wp-content/uploads/2010/12/productimage-picture-lp-tshirt-77_t280.png)
 
 A few weeks ago, my six-year-old son Michael looked at my t-shirt from our LibrePlanet conference and started asking me to name each of the various characters and objects shown in the t-shirt design. These characters are the mascots of various well-known (ahem) free software projects. Shame-faced, my memory slipped on a few and I had to go look them up for him.
 

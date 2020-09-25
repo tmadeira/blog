@@ -127,11 +127,11 @@ time_string_len+= strftime(&time_string[time_string_len], 255 - time_string_len,
 
 ### Screenshots
 
-{{< figure src="/wp-content/uploads/2010/08/a1.png" title="Screenshot 1" >}}
+![Screenshot 1](/wp-content/uploads/2010/08/a1.png)
 
-{{< figure src="/wp-content/uploads/2010/08/b.png" title="Screenshot 2" >}}
+![Screenshot 2](/wp-content/uploads/2010/08/b.png)
 
-{{< figure src="/wp-content/uploads/2010/08/c.png" title="Screenshot 3" >}}
+![Screenshot 3](/wp-content/uploads/2010/08/c.png)
 
  [1]: http://www.cabaladada.org/discordiapedia/Calend%C3%A1rio_Santo-Discordiano
  [2]: /wp-content/uploads/2010/08/fluxbox-ddate-1.1.1-0.tar.bz2

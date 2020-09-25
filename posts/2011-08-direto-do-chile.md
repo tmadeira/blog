@@ -27,7 +27,7 @@ tags:
 
 O exemplo foi pra vários países vizinhos, seguiu pra Europa (Espanha, Grécia, Islândia, Inglaterra, Portugal, entre outros), até pros Estados Unidos (grande mobilização em Wisconsin no primeiro semestre, que a mídia quase não mostrou) e há mais de dois meses tem grande expressão aqui perto, na América Latina: no Chile.
 
-{{< figure src="/wp-content/uploads/2011/08/protestas-en-chile-de-estudiantes_note_principal.jpg" title="Protestos no Chile" >}}
+![Protestos no Chile](/wp-content/uploads/2011/08/protestas-en-chile-de-estudiantes_note_principal.jpg)
 
 Como o professor Vladimir Safatle [escreveu][4] há duas semanas na Folha de São Paulo: _Nessas horas, vale a lição de Maria Antonieta: aqueles que não percebem o fim de um mundo são destruídos com ele. Há momentos na história em que tudo parece acontecer de maneira muito acelerada. Já temos sinais demais de que nosso presente caminha nessa direção. Nada pior do que continuar a agir como se nada de decisivo e novo estivesse acontecendo._
 

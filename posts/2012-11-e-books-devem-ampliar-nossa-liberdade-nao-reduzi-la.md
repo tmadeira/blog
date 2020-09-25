@@ -20,7 +20,7 @@ tags:
 
 Li o texto [“E-books must increase our freedom, not decrease it”][2] (de Richard Stallman) no boletim da Free Software Foundation de julho/2012. É sobre os livros digitais e os dispositivos (como o Kindle, da Amazon) que estamos usando para lê-los. O texto foi escrito especialmente para o jornal britânico _The Guardian_, mas achei os problemas que o Stallman levanta bem relevantes e suas ideias para solucioná-los muito interessantes. Por isso, fiz uma tradução livre e descompromissada, que compartilho abaixo. Quem tiver sugestões para melhorar a tradução, por favor entre em contato.
 
-{{< figure src="/wp-content/uploads/2012/11/stallman1.article.jpg" title="Richard Stallman" >}}
+![Richard Stallman](/wp-content/uploads/2012/11/stallman1.article.jpg)
 
 > Eu adoro o livro _The Jehovah Contract_ e eu gostaria que todo mundo gostasse dele também. Por isso, eu o emprestei pelo menos seis vezes nos últimos anos. Livros impressos deixam a gente fazer isso.
 >

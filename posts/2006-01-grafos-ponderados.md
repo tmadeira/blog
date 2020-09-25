@@ -19,7 +19,7 @@ tags:
 ---
 Um grafo é _ponderado_ quando suas arestas possuem um **peso**. O que significa isso? Bom… Vamos supor que eu queira ir de um lugar pra outro, mas o mais importante pra mim não seja a distância entre eles mas o pedágio que vou ter que pagar para pegar cada aresta (estrada). Nesse caso, o **peso** de cada aresta seria o **custo** que eu tenho pra passar pela estrada. O problema então seria calcular o caminho onde eu pago menos (o caminho que tem a menor soma de preços) e não o menor caminho no grafo “não-ponderado” (onde consideramos aresta=1 e nada=0).
 
-{{< figure src="/wp-content/uploads/2006/01/GRVIZ04113_001.png" title="Grafo ponderado" >}}
+![Grafo ponderado](/wp-content/uploads/2006/01/GRVIZ04113_001.png)
 
 Neste grafo, por exemplo, o menor caminho de 0 a 3 não é a aresta 0–3, mas sim a aresta 0–2 e depois a aresta 2–3.
 

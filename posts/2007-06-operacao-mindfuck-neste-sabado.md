@@ -16,7 +16,7 @@ tags:
   - mindfuck
 
 ---
-{{< figure src="/wp-content/uploads/2007/06/itajai_historico.jpg" title="Museu histórico de Itajaí" >}}
+![Museu histórico de Itajaí](/wp-content/uploads/2007/06/itajai_historico.jpg)
 
 Na expectativa de [difundir mais o nome da Deusa em Itajaí][1], o Rev. Schneider sugeriu que realizássemos mais uma operação mindfuck neste sábado, 23 de junho. A idéia é evocar coletivamente Éris na frente do museu histórico de Itajaí (aquela construção bonita que você pode ver na outra operação mindfuck) para que um busto comece a falar!
 

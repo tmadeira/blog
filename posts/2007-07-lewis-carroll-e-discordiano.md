@@ -19,7 +19,7 @@ tags:
 ---
 Chega de enrolação. Criei coragem para falar e começarei pelo começo, continuarei depois até chegar ao fim e então pararei.
 
-{{< figure src="/wp-content/uploads/2007/07/alice.jpg" title="Alice in Wonderland" >}}
+![Alice in Wonderland](/wp-content/uploads/2007/07/alice.jpg)
 
 O Mal Vicioso vem lhes informar por meio deste post que _“Alice no país das maravilhas”_ não é um livro para crianças por ser simples e não fazer sentido algum. Ele é simplesmente brilhante e talvez as crianças sejam as poucas que conseguem compreendê-lo por ainda estarem na ponta dos pêlos do coelho branco.
 

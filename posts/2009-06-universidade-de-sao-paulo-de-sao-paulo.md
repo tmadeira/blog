@@ -43,7 +43,7 @@ Das 106 pessoas que foram convocadas para a matrícula no Bacharelado em Ciênci
   * **Minas Gerais:** 1
   * **Distrito Federal:** 1
 
-{{<figure src="https://farm4.static.flickr.com/3352/3474503026_2652267fd1.jpg" title="Mapa do Brasil (crédito: thejourney1972/flickr)" >}}
+![Mapa do Brasil (crédito: thejourney1972/flickr)](https://farm4.static.flickr.com/3352/3474503026_2652267fd1.jpg)
 
 Estou ainda sendo bondoso ao assumir que as pessoas dos outros estados moravam realmente nos outros estados (a família já não havia se mudado para cá).
 

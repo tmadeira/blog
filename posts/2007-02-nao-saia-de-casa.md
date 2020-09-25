@@ -15,7 +15,7 @@ tags:
   - violência
 
 ---
-{{< figure src="/wp-content/uploads/2007/02/200px-stopessaismanif.jpg" title="Manifestação pela paz" >}}
+![Manifestação pela paz](/wp-content/uploads/2007/02/200px-stopessaismanif.jpg)
 
 Itajaí durante feriados é vazia. Eu andei mais de três quilômetros de manhã e não vi civilização, ninguém andava na rua a não ser bêbados. Tudo está fechado. Cheguei à casa da Carol. Resolvemos almoçar no shopping. A casa da Carol fica a cerca de 300m do shopping. Quando estávamos já a uns 50m do shopping, na frente da Vanel, aconteceu a inspiração desse post. Três moleques fumando, de bicicleta, nos observavam e então pararam para combinar alguma coisa. Eu percebi que aquela parada não foi uma parada “normal”.
 

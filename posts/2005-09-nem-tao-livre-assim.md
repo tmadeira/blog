@@ -17,7 +17,7 @@ tags:
   - Software Livre
 
 ---
-{{< figure src="https://static.flickr.com/33/40987282_8060b9dd63_m.jpg" title="Sérgio Amadeu da Silveira" >}}
+![Sérgio Amadeu da Silveira](https://static.flickr.com/33/40987282_8060b9dd63_m.jpg)
 
 A Istoé publicou uma [matéria sobre a saída de **Sérgio Amadeu** do ITI][2], com o nome [_“Nem tão livre assim”_][2].
 

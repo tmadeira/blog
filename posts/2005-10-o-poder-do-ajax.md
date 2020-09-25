@@ -25,7 +25,7 @@ Ontem, pela primeira vez, desenvolvi um sistema em Ajax. Já vinha estudando há
 
 Não vou colocar o código aqui agora, ainda queria ajustar algumas coisas porque ontem fiz na pressa, mas confiram um screenshot! (o SS mais legal seria o do “Voto Confirmado”, quando um div com fundo PNG alpha aparece em cima de tudo, mas eu fiz um sistema de segurança para só quem tá dentro do Lab. de Informática poder votar – testando IPs – e agora estou em casa).
 
-{{< figure src="https://farm1.staticflickr.com/28/50181099_82979ab12d.jpg" title="Screenshot da votação do Grêmio" >}}
+![Screenshot da votação do Grêmio](https://farm1.staticflickr.com/28/50181099_82979ab12d.jpg)
 
 Ajax é muito power. Desenvolvendo com ele dá pra fazer umas coisas que antes eu nem imaginava… Agora tô estudando bastante JavaScript, porque com a parte de servidor/PHP não há problemas, mas nunca estudei muito o lado client-side (estudei tableless, mas não DOM/JavaScript!). Já li dois artigos do [Elcio][2], do Tableless.com.br: Um sobre [DHTML Crossbrowser][3] e outro que é o conhecido [Ajax para quem só ouviu falar][4]. Agora estou acabando o segundo artigo dele sobre Ajax, [Ajax: Encarando o Mundo Real][5]. O bom é que a sintaxe das coisas no JavaScript são bem parecidas com as do PHP…
 

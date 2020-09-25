@@ -18,7 +18,7 @@ Incrível como as últimas semanas passaram rápido e como de repente chegou o d
 
 Parto de Guarulhos hoje às 18:40, faço escala em Amsterdã e chego em Estocolmo amanhã.
 
-{{< figure src="https://farm4.static.flickr.com/3589/3445718602_60022c1166.jpg" title="Stockholm Old Town (crédito: Christopher Neugebauer/Flickr)" >}}
+![Stockholm Old Town (crédito: Christopher Neugebauer/Flickr)](https://farm4.static.flickr.com/3589/3445718602_60022c1166.jpg)
 
 Para quem quiser torcer ou acompanhar online, a prova do <acronym title="International Collegiate Programming Contest">ICPC</acronym> é dia 21, às 05:00 BRT.
 

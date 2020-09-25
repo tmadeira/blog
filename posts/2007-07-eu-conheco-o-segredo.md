@@ -20,7 +20,7 @@ tags:
 ---
 Cometi um pecado: não levei a sério o [bom conselho][1] do meu sábio amigo e reverendo discordiano: assisti _“O Segredo”_.
 
-{{< figure src="/wp-content/uploads/2007/07/segredo_02_330.jpg" title="O Segredo" >}}
+![O Segredo](/wp-content/uploads/2007/07/segredo_02_330.jpg)
 
 Foi um filme difícil de ser visto até o final. Trata-se de uma série de repetições de uma mesma afirmação: “pense positivo e tudo de bom lhe acontecerá.”
 

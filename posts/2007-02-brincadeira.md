@@ -14,7 +14,7 @@ tags:
   - política
 
 ---
-{{< figure src="/wp-content/uploads/2007/02/charge_bush_11_09_jpg.jpg" title="Bush não quer mais brincar" >}}
+![Bush não quer mais brincar](/wp-content/uploads/2007/02/charge_bush_11_09_jpg.jpg)
 
 **O Mal Vicioso adverte:** Cuidado ao publicar charges de Bush pela internet. Ele pode resolver tirar o seu servidor do ar e destruir o seu país.
 

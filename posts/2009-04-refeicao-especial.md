@@ -16,7 +16,7 @@ tags:
   - vôo
 
 ---
-{{< figure src="/wp-content/uploads/2009/04/refeicao.png" title="Acho que isso é o que chamam de globalização..." >}}
+![Acho que isso é o que chamam de globalização...](/wp-content/uploads/2009/04/refeicao.png)
 
 A [KLM][2] tem ao menos um cliente insatisfeito. Onde posso optar por uma picanha mal passada?
 

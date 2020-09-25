@@ -18,7 +18,7 @@ tags:
 ---
 I wrote a small WordPress plugin to prevent users from publishing a post without excerpt or thumbnail, or with a too big excerpt, or with a too small thumbnail, or with an uppercase-only title.
 
-{{< figure src="/wp-content/uploads/2012/03/wordpress1.png" title="Screenshot do plugin" >}}
+![Screenshot do plugin](/wp-content/uploads/2012/03/wordpress1.png)
 
 _This screenshot is showing some of the messages the plugin displays in portuguese._
 

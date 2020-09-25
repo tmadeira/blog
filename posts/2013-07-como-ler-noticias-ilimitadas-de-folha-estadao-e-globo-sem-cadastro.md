@@ -26,11 +26,11 @@ tags:
 
 A mídia tradicional mudou a forma como publica na internet. A regra agora é que sem cadastro você só pode acessar um determinado número (pequeno) de notícias. O nome do sistema é [paywall][2]. Ao chegar no limite, você recebe mensagens como as seguintes:
 
-{{< figure src="/wp-content/uploads/2013/07/folha.png" title="Paywall da Folha de São Paulo" >}}
+![Paywall da Folha de São Paulo](/wp-content/uploads/2013/07/folha.png)
 
-{{< figure src="/wp-content/uploads/2013/07/estadao.png" title="Paywall do Estado de São Paulo" >}}
+![Paywall do Estado de São Paulo](/wp-content/uploads/2013/07/estadao.png)
 
-{{< figure src="/wp-content/uploads/2013/07/globo.png" title="Paywall do jornal O Globo" >}}
+![Paywall do jornal O Globo](/wp-content/uploads/2013/07/globo.png)
 
 No caso da Folha, só o cadastro pago dá acesso ilimitado. Nos outros, aparentemente um cadastro gratuito é suficiente. De qualquer forma, por que dar seus dados para esses sites saberem quem você é, como navega e o que gosta de ler? Para quem esses sites vão dar essas informações?
 

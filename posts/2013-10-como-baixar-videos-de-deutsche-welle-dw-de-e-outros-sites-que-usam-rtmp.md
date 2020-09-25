@@ -27,7 +27,7 @@ Antes que reclamem nos comentários, há muitos programas mais simples que poder
 
 O vídeo que usarei como exemplo é o que aparece quando você clica na foto do Brasil (Organize a sua indignação) na reportagem [Alle Macht dem Volk?][6] Clique nessa imagem e deve aparecer uma tela como esta:
 
-{{< figure src="/wp-content/uploads/2013/10/reportagem-650x365.jpg" title="Tela que aparece ao clicar num vídeo numa reportagem do Deutsche Welle." >}}
+![Tela que aparece ao clicar num vídeo numa reportagem do Deutsche Welle.](/wp-content/uploads/2013/10/reportagem-650x365.jpg)
 
 Neste momento, espere um pouco antes de clicar no botão _Play_ para começar a tocar o vídeo. Primeiro abra o Wireshark e comece a capturar na interface que você usa para acessar a Internet (ou escute em todas caso não saiba qual escolher). Para não ter que ficar vendo muitas coisas desnecessárias, filtre apenas mensagens do protocolo RTMP: escreva no campo _Filter_ o valor _rtmpt_ (não é erro de digitação, tem um “t” no final mesmo) e pressione _Enter_.
 
@@ -35,17 +35,17 @@ Agora você pode começar a tocar o vídeo. Porém, não é de seu interesse ass
 
 Se tudo correu bem, você pode parar a captura no Wireshark (clicando no ícone vermelho com um X lá no seu menu). Na sua tela, você deve estar vendo alguns pacotes RTMP filtrados:
 
-{{< figure src="/wp-content/uploads/2013/10/wireshark-650x388.jpg" title="Pacotes filtrados no Wireshark" >}}
+![Pacotes filtrados no Wireshark](/wp-content/uploads/2013/10/wireshark-650x388.jpg)
 
 Lendo o conteúdo desses pacotes, você consegue descobrir qual é o endereço do vídeo no protocolo RTMP e então usar o RTMPDump para baixá-lo. Esse endereço está dividido em duas mensagens.
 
 Na mensagem _connect_ enviada pelo cliente ao servidor para iniciar o _handshake_, você encontra o parâmetro **tcUrl**, que neste caso aponta para `rtmp://tv-od.dw.de/flash/`:
 
-{{< figure src="/wp-content/uploads/2013/10/tcurl-650x346.jpg" title="Parâmetro tcUrl no Wireshark." >}}
+![Parâmetro tcUrl no Wireshark.](/wp-content/uploads/2013/10/tcurl-650x346.jpg)
 
 Um pouco abaixo, na mensagem _play_, você encontra o resto do endereço (neste caso, `vdt_de/2013/bdeu131028_004_rioprotest_01i_sd_avc.mp4`):
 
-{{< figure src="/wp-content/uploads/2013/10/play-650x364.jpg" title="O resto do endereço do vídeo no corpo do RTMP." >}}
+![O resto do endereço do vídeo no corpo do RTMP.](/wp-content/uploads/2013/10/play-650x364.jpg)
 
 Juntando as duas partes, temos o endereço completo: `rtmp://tv-od.dw.de/flash/vdt_de/2013/bdeu131028_004_rioprotest_01i_sd_avc.mp4`. Com ele, é hora de usarmos o RTMPDump. Essa parte é trivial. Basta abrir um terminal e digitar `rtmpdump` com os parâmetros `-r` (endereço) e `-o` (arquivo de saída). O resultado é este:
 

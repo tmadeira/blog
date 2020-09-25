@@ -26,13 +26,13 @@ tags:
 ---
 Para não citar os fatos inúteis da escola (que são maioria), resolvi elogiar as aulas de história deste terceiro bimestre escrevendo neste artigo principalmente sobre filosofia. (e dessa vez não é só a do software livre!)
 
-{{< figure src="https://static.flickr.com/33/42829996_812bc11c2f_o.jpg" title="Pitágoras" >}}
+![Pitágoras](https://static.flickr.com/33/42829996_812bc11c2f_o.jpg)
 
 Nesse ano, voltamos a ter aulas de história de verdade, com uma professora de verdade e conteúdo de verdade. Quem conheceu o antigo professor Roberto, sabe do que eu estou falando… ;) Bom… Desde o começo do ano, estou gostando bastante de história. É uma matéria bem interessante que sempre nos faz pensar bastante e usar a lógica (aliás, a lógica lembra a razão, a Aristóteles e aos filósofos gregos). Não tá dando pra usar muito a lógica nas aulas de matemática, pois o professor se limita a ensinar PA, PG, funções de segundo grau e essas babaquices apenas usando fórmulas prontas. Sei que não é sua culpa, existe gente com sérias dificuldades de entendimento, mas acho que a escola muitas vezes é um repetir de fórmulas e exercícios que não ajudam a desenvolver o raciocínio. Então eu acho incrível que neste sentido, as aulas de história estão sendo as melhores deste ano.
 
 Nesse bimestre, a professora Fabiana nos passou um trabalho sobre os filósofos gregos. O meu grupo falou sobre o _filósofo_ Pitágoras, aquele que via números em tudo (e, sim, aquele mesmo que criou o Teorema) e aí comecei a ver uma relação (um pouco estranha) entre a matemática, a lógica, a razão, a filosofia e a história. E já que filosofia é _amar a sabedoria_, fica mais fácil entender toda essa relação, porque sabedoria é matemática… :D
 
-{{< figure src="https://static.flickr.com/24/42829999_3d1afa1c6f_o.jpg" title="O Mundo de Sofia" >}}
+![O Mundo de Sofia](https://static.flickr.com/24/42829999_3d1afa1c6f_o.jpg)
 
 Bom… Agora estou relendo _“O Mundo de Sofia”_, desta vez lendo e relendo com atenção até as cartas de dezenas de páginas às vezes um pouco complicadas sobre a história de vários filósofos. E fica aí a sugestão desse excelente livro (é interessante as histórias que o autor conta, que deixam coisas complicadas bem mais simples, como entender a filosofia de Demócrito como o brinquedo Lego).
 
@@ -46,7 +46,7 @@ Agora mudando radicalmente de assunto para dizer as últimas novidades, além da
 
 O beta do Firefox 1.5 saiu, já estou utilizando-o como padrão… Achei ele igual o meu outro Deerpark Alpha (a.k.a. Firefox 1.6a1) Já que no outro post já comentei sobre suas vantagens, pararei por aqui.
 
-{{< figure src="https://static.flickr.com/24/42830001_a0df9196ba_o.gif" title="Olimpíada Regional de Matemática" >}}
+![Olimpíada Regional de Matemática](https://static.flickr.com/24/42830001_a0df9196ba_o.gif)
 
 A segunda fase da Olimpíada Regional de Matemática (catarinense) acontecerá no dia 24 deste mês e ainda não aprendi nada de novo sem ser filosofia, desde meu péssimo resultado na segunda fase da OBM.
 
@@ -60,7 +60,7 @@ Depois de um muito tempo, joguei RPG novamente este sábado… É meio esquisito
 
 O site do Colégio tá quase pronto, estou precisando da biblioteca GD para trabalhar com redimensionamento de imagens e outras coisas com imagens no PHP e o cara que cuida do servidor FreeBSD ficou de instalar para mim, mas ainda não o fez… (gostaria tanto que fosse um Linux que eu mesmo tivesse configurado!)
 
-{{< figure src="https://static.flickr.com/30/42831375_308d3fbe7b_m.jpg" title="Richard Stallman" >}}
+![Richard Stallman](https://static.flickr.com/30/42831375_308d3fbe7b_m.jpg)
 
 Estou tentando fazer um Linux simples e acessível para minha família usar no computador que compartilha internet com o meu laptop, mas ainda não consegui nem instalar Linux (eu vivo instalando e desinstalando Linux aqui do lado… Esses caras não entendem como Linux é bom, a filosofia é linda e devemos parar de usar MSN e programas da Microsoft!). A mesma coisa eu quero fazer no Colégio depois que acabar de fazer o site. O Laboratório de Informática deveria ser só Linux. O KDE tem programas educativos tão legais, fora outros que podemos achar na internet… E tem programas para Ensino Médio que o nosso Lab. nem tem nem semelhantes. O problema é que ele tem uma grande quantidade de programas para a pré-escola e acho difícil encontrar bons clones para Linux. Eu acho que instalar Linux na escola é uma coisa indispensável e não pretendo sair de lá antes que esta missão esteja cumprida. Quero fazer ainda um esquema bem legal com um servidor e clientes usando NFS/NIS e com os clientes loggando no servidor e facilitando a vida da profa. de informática.
 

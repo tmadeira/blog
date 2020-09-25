@@ -52,11 +52,11 @@ Its use is very simple. Wherever you add the shortcode [`retrospective`] the plu
 
 Here is a screenshot from [juntos.org.br][6] with `scale=true` (in the link you can see it working):
 
-{{< figure src="/wp-content/uploads/2012/01/ss1.jpg" title="Screenshot (Retrospective plugin in juntos.org.br)" >}}
+![Screenshot (Retrospective plugin in juntos.org.br)](/wp-content/uploads/2012/01/ss1.jpg)
 
 And here is a screenshot from a fresh WordPress install (TwentyEleven theme without modifications):
 
-{{< figure src="/wp-content/uploads/2012/01/ss2.jpg" title="Screenshot (Retrospective plugin in TwentyEleven theme" >}}
+![Screenshot (Retrospective plugin in TwentyEleven theme](/wp-content/uploads/2012/01/ss2.jpg)
 
 ### Customizing
 

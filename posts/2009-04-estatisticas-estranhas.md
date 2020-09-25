@@ -17,7 +17,7 @@ tags:
 ---
 A linha verde é a quantidade de _subscribers_ do feed desse blog, segundo o [Feedburner][1]. A linha azul é a quantidade de vezes que um artigo foi lido (ou clicado) por algum desses leitores.
 
-{{< figure src="/wp-content/uploads/2009/04/stats.png" title="Feed Stats Dashboard" >}}
+![Feed Stats Dashboard](/wp-content/uploads/2009/04/stats.png)
 
 Como vocês podem notar, antes de eu criar este blog o feed estava estabilizado em 100. Logo que eu criei a quantidade de leitores aumentou substancialmente até quase 200. De um dia pro outro, de repente, como se para me confundir criando uma parábola, a quantidade de leitores começou a diminuir muito. Agora chegou em 78 (menos que eu tinha antes de começar a escrever).
 

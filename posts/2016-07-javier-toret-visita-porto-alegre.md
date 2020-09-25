@@ -16,6 +16,6 @@ tags:
 format: image
 
 ---
-Obrigado pela visita a Porto Alegre e pelo intercâmbio de idéias, Toret!<figure id="attachment_3011" style="max-width: 604px" class="wp-caption aligncenter">
+Obrigado pela visita a Porto Alegre e pelo intercâmbio de idéias, Toret!
 
-{{< figure src="/wp-content/uploads/2016/12/13627236_10209929540773945_2063206286471458495_n-1.jpg" title="Com Javier Toret no Café República, em Porto Alegre" >}}
+![Com Javier Toret no Café República, em Porto Alegre](/wp-content/uploads/2016/12/13627236_10209929540773945_2063206286471458495_n-1.jpg)

@@ -21,7 +21,7 @@ A turma é do [Bacharelado em Ciência da Computação][3] no IME-USP.
 
 Acabei de receber a seguinte mensagem de um dos monitores:
 
-{{< figure src="/wp-content/uploads/2009/11/2009-11-24-_16-05-05_206510200.png" title="E-mail recebido no grupo da disciplina MAC122" >}}
+![E-mail recebido no grupo da disciplina MAC122](/wp-content/uploads/2009/11/2009-11-24-_16-05-05_206510200.png)
 
 Preciso dizer mais alguma coisa?
 

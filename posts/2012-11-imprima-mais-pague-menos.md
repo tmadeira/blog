@@ -89,17 +89,17 @@ Hoje fui imprimir uma partitura e me deparei com a seguinte tabela:
 
 Se desenharmos um gráfico de preço (eixo y — vertical) por número de impressões (eixo x — horizontal), temos:
 
-{{< figure src="/wp-content/uploads/2012/11/grafico.png" title="Preço (eixo y) por número de impressões (eixo x)" >}}
+![Preço (eixo y) por número de impressões (eixo x)](/wp-content/uploads/2012/11/grafico.png)
 
 Observando esse gráfico (feio), percebemos que há alguns números de impressões que economicamente não faz sentido fazer. Por exemplo, 3 impressões custam R$ 2,10 enquanto 4 impressões custam R$ 2,00. 20 impressões custam R$ 8,00 enquanto 21 impressões custam R$ 6,30. 100 impressões custam R$ 25,00 enquanto 101 impressões custam R$ 20,20.
 
 Mas não só esses. Os valores que não faz sentido imprimir no gráfico são todos aqueles cujo existe algum ponto a direita na mesma altura ou mais baixo, ou seja, todos os que pintei de amarelo:
 
-{{< figure src="/wp-content/uploads/2012/11/grafico2.png" title="O mesmo gráfico com pontos inúteis destacados" >}}
+![O mesmo gráfico com pontos inúteis destacados](/wp-content/uploads/2012/11/grafico2.png)
 
 Um problema econômico interessante para quando se está numa gráfica imprimindo é, portanto, descobrir quando estamos nos pontos amarelos. É interessante porque, se estivermos nos pontos amarelos, podemos aproveitar para imprimir mais cópias ou pedir ao dono da gráfica um desconto. Afinal, é razoável esperar que o preço que a gente pague seja limitado por este gráfico:
 
-{{< figure src="/wp-content/uploads/2012/11/grafico3.png" title="Gráfico corrigido" >}}
+![Gráfico corrigido](/wp-content/uploads/2012/11/grafico3.png)
 
 Descobrir se estamos numa região amarela é simples. Basta calcular o preço que pagaríamos a princípio (multiplicar o número de cópias pelo preço por cópias da região em que estamos) e comparar com o preço que pagaríamos se pedíssemos o menor número de cópias da região imediatamente mais barata. Por exemplo, faz sentido imprimir 15 cópias porque $15 \times 0.40=6.00$ é menor do que $21 \times 0.30 = 6.30$, mas não faz sentido imprimir 85 cópias porque $85 \times 0.25 = 21.25$ é maior do que $101 \times 0.20 = 20.20$.
 
@@ -109,7 +109,7 @@ Agora vamos inverter o problema. Vamos supôr que você é a gráfica e quer evi
 
 Poderíamos pensar em funções que crescem cada vez mais devagar…
 
-{{< figure src="/wp-content/uploads/2012/11/grafico5.png" title="Função logarítmica (y = log x)" >}}
+![Função logarítmica (y = log x)](/wp-content/uploads/2012/11/grafico5.png)
 
 … mas parece complicado achar uma função que não nos dê prejuízo quando o cliente quiser muitas cópias e parece especialmente complicado explicar para o cliente que o preço de _x_ cópias é um monte de constantes multiplicadas pelo logaritmo de _x_.
 
@@ -117,7 +117,7 @@ Então talvez seja melhor pensar em funções de primeiro grau mesmo.
 
 Se você separar todas as funções que encontramos na tabela de preços do problema anterior e colocá-las num gráfico, você vai ver que a interseção delas só acontece num ponto: o ponto _x_ = 0.
 
-{{< figure src="/wp-content/uploads/2012/11/grafico4.png" title="Várias funções lineares com uma única interseção no ponto x = 0" >}}
+![Várias funções lineares com uma única interseção no ponto x = 0](/wp-content/uploads/2012/11/grafico4.png)
 
 (esse gráfico foi um oferecimento <a href="https://www.wolframalpha.com/input/?i=plot+{0.7x%2C+0.5x%2C+0.4x%2C+0.3x%2C+0.25x%2C+0.2x}">Wolfram Alpha</a>)
 
@@ -203,6 +203,6 @@ Agora note que as coisas passam a fazer mais sentido (embora muito mais caras):
 
 O gráfico monótono (e bonito) comprova:
 
-{{< figure src="/wp-content/uploads/2012/11/grafico6.png" title="Gráfico final (monótono)" >}}
+![Gráfico final (monótono)](/wp-content/uploads/2012/11/grafico6.png)
 
  [1]: /2012/10/o-predio-e-as-bolas/

@@ -27,7 +27,7 @@ Neste primeiro artigo, só falarei sobre a definição do grafo e sua utilidade.
 
 A definição de **grafo** é muito simples. Segundo o [Professor Cid Carvalho de Souza][1]: _Uma forma de representar uma relação binária entre elementos de um conjunto._ Bom… É simplesmente uma representação de relações (que chamamos de **arestas**) entre objetos, que chamamos de **vértices**. Vamos logo ao exemplo: a **amizade** no [Orkut][2].
 
-{{< figure src="/wp-content/uploads/2006/01/grafo-225x300.jpg" title="Um grafo de amizades" >}}
+![Um grafo de amizades](/wp-content/uploads/2006/01/grafo-225x300.jpg)
 
 Estão vendo esta árvore? Esta é a representação que chamamos de grafo. Vamos supor que este é o grafo das amizades do Orkut e as bolinhas nele são as seguintes pessoas:
 
@@ -67,7 +67,7 @@ Traduzindo os conceitos do Orkut para os grafos:
 
 Um grafo é _orientado_ quando eu sou seu amigo, mas você não é meu amigo. Você sabe que um grafo é _orientado_ através da representação quando ele tem “setinhas”, como o grafo abaixo.
 
-{{< figure src="/wp-content/uploads/2006/01/orientado-300x225.jpg" title="Grafo orientado" >}}
+![Grafo orientado](/wp-content/uploads/2006/01/orientado-300x225.jpg)
 
 Vamos supor que isso aí é um mapa do Brasil. Ele despreza as cidades que não são importantes para o país, levando apenas em consideração portanto: **São Paulo**, **Florianópolis** e **Itajaí**.
 

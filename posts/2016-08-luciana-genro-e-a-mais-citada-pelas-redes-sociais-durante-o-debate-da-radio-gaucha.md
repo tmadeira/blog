@@ -14,7 +14,7 @@ tags:
   - twitter
 
 ---
-{{< figure src="/wp-content/uploads/2016/12/rede-595x600.png" title="Grafo montado a partir de interações (respostas e retuítes) entre usuários no Twitter durante o debate da Rádio Gaúcha." >}}
+![Grafo montado a partir de interações (respostas e retuítes) entre usuários no Twitter durante o debate da Rádio Gaúcha.](/wp-content/uploads/2016/12/rede-595x600.png)
 
 Luciana Genro venceu o primeiro debate no rádio e nas redes. Foi a candidata mais eloquente, mostrou algumas propostas concretas como a ampliação da Guarda Municipal, corte de 70% dos CCs, falou sobre um novo modelo de gestão na Carris. Mostrou que está segura e preparada para governar Porto Alegre.
 

@@ -14,7 +14,7 @@ tags:
   - política
 
 ---
-{{< figure src="/wp-content/uploads/2007/03/475715-9338-it2.jpg" title="Fora Bush!" >}}
+![Fora Bush!](/wp-content/uploads/2007/03/475715-9338-it2.jpg)
 
 > “O objetivo desta viagem é lembrar as pessoas dos laços que nos unem, e da **importância desta região para o futuro dos Estados Unidos**“, disse Bush, que tenta reverter a idéia de que os EUA estão negligenciando a América Latina. “Estou muito contente de estar aqui”.
 

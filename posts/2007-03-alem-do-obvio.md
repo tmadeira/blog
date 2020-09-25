@@ -15,7 +15,7 @@ tags:
   - sociedade
 
 ---
-{{< figure src="/wp-content/uploads/2007/03/beirute-em-um-conversivel.jpg" title="Garotas libanesas ricas" >}}
+![Garotas libanesas ricas](/wp-content/uploads/2007/03/beirute-em-um-conversivel.jpg)
 
 Segundo o [Word Press Photo][1], um grupo de garotas libanesas ricas passeando com um carro conversível por um bairro destruído por um bombardeio israelense.
 

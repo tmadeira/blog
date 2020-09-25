@@ -31,7 +31,7 @@ A programação deste problema é extremamente simples, mas a sua lógica (matem
 
 Uma construtora, durante a criação de um parque temático, encontrou no terreno um conjunto de várias pilhas de cubos de pedra. Ao invés de pagar pela remoção dos cubos de pedras, um dos arquitetos da empresa achou interessante utilizar as pedras para decoração do parque, determinando que as pedras fossem rearranjadas no formato de “escada”. para isso, os funcionários deveriam mover alguns cubos para formar os degraus das escadas. Só que o arquiteto decidiu que, entre uma pilha e outra de pedras deveria haver exatamente uma pedra de diferença, formando o que ele chamou de escada perfeita. O exemplo abaixo mostra um conjunto de cinco pilhas de pedras encontradas e as cinco pilhas como ficaram após a arrumação em escada perfeita.
 
-{{< figure src="/wp-content/uploads/2007/06/ilustraescada1.gif" title="Ilustração do problema" >}}
+![Ilustração do problema](/wp-content/uploads/2007/06/ilustraescada1.gif)
 
 ### Tarefa
 

@@ -24,7 +24,7 @@ tags:
 ---
 No último artigo, conhecemos a representação chamada “grafo” da seguinte maneira:
 
-{{< figure src="/wp-content/uploads/2006/01/grafo-225x300.jpg" title="Grafo desenhado" >}}
+![Grafo desenhado](/wp-content/uploads/2006/01/grafo-225x300.jpg)
 
 Como todos sabemos, seria bem difícil trabalhar uma árvore assim na programação! Por isso, existem várias maneiras de representar um grafo. Nesta série só vou usar as duas mais populares:
 

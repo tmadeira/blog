@@ -72,7 +72,7 @@ Calculating dependencies... done!
 
 Ele não baixa o pacote inteiro do ddate, mas apenas aplica, além dos patches do Gentoo, um pequeno patch (de umas 40 linhas) que altera o ClockTool.cc.
 
-{{< figure src="/wp-content/uploads/2010/08/a2.png" title="Screenshot do emerge" >}}
+![Screenshot do emerge](/wp-content/uploads/2010/08/a2.png)
 
 Divirta-se!
 

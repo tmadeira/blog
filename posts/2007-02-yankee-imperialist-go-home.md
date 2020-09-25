@@ -23,7 +23,7 @@ tags:
   - yankees
 
 ---
-{{< figure src="/wp-content/uploads/2007/02/bush.jpg" title="Bush caused 9/11" >}}
+![Bush caused 9/11](/wp-content/uploads/2007/02/bush.jpg)
 
 > […] o senhor Presidente [Bush] veio lhes falar, assim o disse: _“Hoje quero falar diretamente às populações do Oriente Médio, meu país deseja a paz…”_. Isso é certo. Se nós andamos pelas ruas do Bronx, se nós andamos pelas ruas de Nova York, de Washington, de San Diego, da Califórnia, de qualquer cidade, de San Antonio, de San Francisco, e perguntamos às pessoas nas ruas, aos cidadãos estadunidenses. Este país quer paz. A diferença está em que o governo deste país, dos Estados Unidos, não quer a paz, quer nos impôr seu modelo de exploração e de saque, e sua hegemonia na base das guerras.
 

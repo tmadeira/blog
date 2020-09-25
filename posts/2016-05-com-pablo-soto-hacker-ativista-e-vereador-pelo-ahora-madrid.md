@@ -14,5 +14,5 @@ tags:
 format: image
 
 ---
-{{< figure src="/wp-content/uploads/2016/12/13312826_10209594550479397_1247788534715263155_n.jpg" title="Com Pablo Soto: hacker, ativista e vereador pelo Ahora Madrid." >}}
+![Com Pablo Soto: hacker, ativista e vereador pelo Ahora Madrid.](/wp-content/uploads/2016/12/13312826_10209594550479397_1247788534715263155_n.jpg)
 

@@ -18,17 +18,17 @@ Fui ver como estavam as estatísticas de uso do Internet Explorer nos meus sites
 
 ### Um site com público nem um pouco nerd
 
-{{< figure src="/wp-content/uploads/2010/03/a1.png" title="Quase dois terços da população (considero essa amostra aleatória) usa IE!" >}}
+![Quase dois terços da população (considero essa amostra aleatória) usa IE!](/wp-content/uploads/2010/03/a1.png)
 
 ### Meu site de Algoritmos ([algoritmos.tiagomadeira.net][2])
 
-{{< figure src="/wp-content/uploads/2010/03/a2.png" title="Metade dos visitantes usa IE e metade usa coisa melhor." >}}
+![Metade dos visitantes usa IE e metade usa coisa melhor.](/wp-content/uploads/2010/03/a2.png)
 
 O site é de **algoritmos**, que é um objeto de estudo praticamente exclusivo de **cientistas da computação**. Não é uma estatística nojenta?
 
 ### Este blog (um reduto?)
 
-{{< figure src="/wp-content/uploads/2010/03/a3.png" title="Estatísticas deste blog" >}}
+![Estatísticas deste blog](/wp-content/uploads/2010/03/a3.png)
 
 Tenho aqui a melhor estatística (o que é bem legal, porque mostra que gente inteligente ;P — independente de gostar de computação, já que a maioria de meus posts não é nerd — não usa mais IE), ainda assim 32.08% dentre meus visitantes não me permite usar HTML 5 e CSS 3 por aqui.
 
@@ -36,11 +36,11 @@ Tenho aqui a melhor estatística (o que é bem legal, porque mostra que gente in
 
 Aí os três sites apresentam resultados semelhantes. Uns 60% usam IE8, 25% IE7 e 15% IE6:
 
-{{< figure src="/wp-content/uploads/2010/03/b1.png" title="Uso de IE no primeiro site" >}}
+![Uso de IE no primeiro site](/wp-content/uploads/2010/03/b1.png)
 
-{{< figure src="/wp-content/uploads/2010/03/b2.png" title="Uso de IE no site de algoritmos" >}}
+![Uso de IE no site de algoritmos](/wp-content/uploads/2010/03/b2.png)
 
-{{< figure src="/wp-content/uploads/2010/03/b3.png" title="Uso de IE neste blog" >}}
+![Uso de IE neste blog](/wp-content/uploads/2010/03/b3.png)
 
 ### Ah, mas o IE 8 é bom…
 

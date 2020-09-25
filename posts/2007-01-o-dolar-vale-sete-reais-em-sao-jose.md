@@ -22,7 +22,7 @@ Vejam bem: o laptop custou US$ 950. O conserto dele é 1,5x mais caro que ele in
 
 Com o dinheiro que eles querem, eu compro um Turion 64 X2, com o dobro de HD do meu e o dobro de memória RAM, e ainda [aqui em Floripa][3].
 
-{{< figure src="/wp-content/uploads/2007/01/saddam-enforcado.jpg" title="Saddam Hussein sendo enforcado" >}}
+![Saddam Hussein sendo enforcado](/wp-content/uploads/2007/01/saddam-enforcado.jpg)
 
 **Conclusão:** Teobaldo condenado a morte.
 

@@ -25,7 +25,7 @@ O título deste texto é o mesmo de uma [entrevista][1] publicada pela Revista I
 
 Nove anos depois, já no terceiro governo do PT e na fase final do Plano Nacional de Banda Larga (que não empolgou muito ninguém além das empresas de telecomunicações), as revelações de Edward Snowden levaram a presidenta Dilma Rousseff a receber no Brasil 1229 pessoas de 97 países num encontro para decidir junto com o ICANN sobre o futuro da governança da Internet. O NETmundial aconteceu nos dias 23 e 24 de abril no Grand Hyatt Hotel, em São Paulo, 50 dias antes do início do Mundial da FIFA.
 
-{{< figure src="/wp-content/uploads/2016/12/Dilma-na-net-SÉRGIO-CASTRO-ESTADÃO-CONTEÚDO.jpg" title="Dilma na conferência NETmundial (Sérgio Castro/Estadão Conteúdo)" >}}
+![Dilma na conferência NETmundial (Sérgio Castro/Estadão Conteúdo)](/wp-content/uploads/2016/12/Dilma-na-net-SÉRGIO-CASTRO-ESTADÃO-CONTEÚDO.jpg)
 
 Um dia antes do evento começar, Jean-Christopher Nothias [resumiu no Huffington Post][3] o que seria o evento:
 
@@ -39,7 +39,7 @@ Ao mesmo tempo que somos entusiastas do Marco Civil, repudiamos a postura do gov
 
 > _Cabe aos governos tomarem medidas efetivas urgentes para colocar a tecnologia nas mãos da população, investindo recursos para promover e reforçar uso e desenvolvimento software livre e hardware que possamos controlar e confiar, arquiteturas descentralizadas e criptografia de ponta a ponta._
 
-{{< figure src="/wp-content/uploads/2016/12/10287734_782706865087932_1883987884_o.jpg" title="Juntos (Thiago Aguiar e Tiago Madeira) com Jacob Appelbaum (TOR Project)" >}}
+![Juntos (Thiago Aguiar e Tiago Madeira) com Jacob Appelbaum (TOR Project)](/wp-content/uploads/2016/12/10287734_782706865087932_1883987884_o.jpg)
 
 Mais importante que isso, a exaltação do Marco Civil foi usada pelo governo para ele fugir da responsabilidade que tem de intervir internacionalmente pela liberdade de Assange e pelo asilo a Snowden. Como afirmou a jornalista Natalia Viana na mesa “Soberania digital e vigilância na era da Internet” da ArenaNETmundial, evento aberto no qual estivemos presentes e na qual também falaram Julian Assange, Sérgio Amadeu, Jacob Appelbaum e Roy Singham:
 
@@ -57,7 +57,7 @@ Dessa forma, confirmou-se o que já sabíamos: a Internet “livre” defendida 
 
 Segue o manifesto que apresentamos na ArenaNETmundial (em português e inglês).
 
-{{< figure src="/wp-content/uploads/2016/12/10287994_782706868421265_441593671_o.jpg" title="Leitura do manifesto no ArenaNETMundial" >}}
+![Leitura do manifesto no ArenaNETMundial](/wp-content/uploads/2016/12/10287994_782706868421265_441593671_o.jpg)
 
 > #### Manifesto em português: Nós dizemos “sim” a Edward Snowden!
 >

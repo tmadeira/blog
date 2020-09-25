@@ -14,7 +14,7 @@ tags:
   - resultado
 
 ---
-{{< figure src="https://farm1.staticflickr.com/15/20324573_9a04423e14.jpg" title="Quadro de Mérito OBI2005 Programação Nível 1" >}}
+![Quadro de Mérito OBI2005 Programação Nível 1](https://farm1.staticflickr.com/15/20324573_9a04423e14.jpg)
 
 Esse post é uma edição do **395 pontos!**
 

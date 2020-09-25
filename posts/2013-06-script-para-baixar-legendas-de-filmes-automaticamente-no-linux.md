@@ -21,7 +21,7 @@ tags:
 ---
 Me acostumei a usar o **legendas.tv** para baixar legendas de filmes e acabei nunca me perguntando se haveria um jeito mais fácil de baixá-las. Hoje fui assistir um filme e, ao entrar no navegador para baixar sua legenda, me deparei com a mensagem de que o site estava fora do ar:
 
-{{< figure src="/wp-content/uploads/2013/06/legendas.png" title="Mensagem do legendas.tv fora do ar." >}}
+![Mensagem do legendas.tv fora do ar.](/wp-content/uploads/2013/06/legendas.png)
 
 A situação me obrigou a procurar outros sites e outras formas de baixar legendas. Minha primeira ideia foi usar o **opensubtitles.org**, que já havia usado algumas outras vezes. Chegando lá e procurando pelo filme que eu desejava, vi muitas opções e não estava muito claro que legenda baixar para a versão do filme que eu tinha.
 

@@ -15,7 +15,7 @@ tags:
 ---
 São incríveis nove dias de aula, dos quais três já passaram.
 
-{{< figure src="/wp-content/uploads/2009/04/cal1.png" title="Calendário de abril" >}}
+![Calendário de abril](/wp-content/uploads/2009/04/cal1.png)
 
 **Legenda:**
 

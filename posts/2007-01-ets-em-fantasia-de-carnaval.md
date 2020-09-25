@@ -14,7 +14,7 @@ tags:
   - sociedade
 
 ---
-{{< figure src="/wp-content/uploads/2007/01/39.jpg" title="O que estamos fazendo aqui?" >}}
+![O que estamos fazendo aqui?](/wp-content/uploads/2007/01/39.jpg)
 
 > Engraçado. Tudo é muito engraçado. Creio que todos os seres viventes neste mundo de aflições deveriam ter aulas de sociologia, antropologia e psicologia intrumentais. Tudo isso, sim, tudo isso. E por quê? porque as pessoas estão perdendo a noção de senso comum, de gentileza, de dor, de tudo isso que afeta o outro.
 >

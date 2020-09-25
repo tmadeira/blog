@@ -23,7 +23,7 @@ Programei em PHP e em JavaScript (usando o [JQuery][2], que é uma mão na roda)
 
 **Visite:** [www.salesianoitajai.g12.br][3]
 
-{{< figure src="/wp-content/uploads/2009/04/salesiano.png" title="Site do Colégio Salesiano Itajaí" >}}
+![Site do Colégio Salesiano Itajaí](/wp-content/uploads/2009/04/salesiano.png)
 
  [1]: http://www.dreamhost.com/ "Dreamhost"
  [2]: http://www.jquery.com/

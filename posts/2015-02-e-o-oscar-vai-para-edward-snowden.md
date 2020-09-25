@@ -18,7 +18,7 @@ tags:
   - vigilância
 
 ---
-{{< figure src="/wp-content/uploads/2016/12/citizenfour.jpg" title="Cartaz do filme Citizenfour." >}}
+![Cartaz do filme Citizenfour.](/wp-content/uploads/2016/12/citizenfour.jpg)
 
 Citizenfour, o filme de Laura Poitras sobre Edward Snowden, ganhou o Oscar de melhor documentário de 2014. O filme é um registro cuidadoso de tudo o que aconteceu desde que Laura recebeu um e-mail anônimo pedindo que ela usasse criptografia, passando pela viagem a Hong Kong para encontrar seu interlocutor junto com o jornalista Glenn Greenwald, até a repercussão dos vazamentos nos jornais de todo o mundo.
 
@@ -28,7 +28,7 @@ Laura, que é americana, teve que se exilar em Berlim para escapar de ser censur
 
 Esse e outros acontecimentos aparecem no filme, no qual também estrelam Julian Assange, Jacob Appelbaum e o Juntos. Nos orgulhamos de fazer parte dessa história defendendo a liberdade de Snowden e o direito à privacidade na Internet.
 
-{{< figure src="/wp-content/uploads/2016/12/1622553_10202982212175072_1296402295_o-1.jpg" title="Juntos & David Miranda" >}}
+![Juntos & David Miranda](/wp-content/uploads/2016/12/1622553_10202982212175072_1296402295_o-1.jpg)
 
 O rechaço à vigilância e ao controle digital tem caráter anti-imperialista e democrático em defesa das nossas organizações. A Internet, com seu poder de conexão e distribuição de informação, foi fundamental para a revolução árabe, para o movimento dos indignados espanhóis e para os protestos de junho de 2013 no Brasil. Junho, aliás, que foi o mês no qual Snowden, Glenn e Laura se encontraram pela primeira vez.
 

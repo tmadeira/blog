@@ -19,7 +19,7 @@ A [Carol][1] me convidou para participar do [meme do Rev. Beraldo][2] que tem po
 
 De fato escolhi a primeira coisa que me veio a cabeça, sem pensar muito. E depois de um dia em que professores e estudantes entraram em greve na Universidade de São Paulo, a primeira coisa que me veio a cabeça foi a **Torre do Relógio**.
 
-{{< figure src="/wp-content/uploads/2009/06/torre.jpg" title="Torre do Relógio" >}}
+![Torre do Relógio](/wp-content/uploads/2009/06/torre.jpg)
 
 A Torre do Relógio é um dos principais símbolos da grandiosidade da USP e fica no centro de um campo ao lado da reitoria.
 
@@ -31,7 +31,7 @@ Segundo o [Gabinete <del>do Reitor</del> <add>da Reitora</add>][4],
 
 Hoje o topo da Torre do Relógio continha uma grande faixa **“FORA PM”**, mas não consegui achar uma foto em nenhum site de notícias. Uma pena. Então a foto clara dela fica mais pra mostrar o gramado ao lado:
 
-{{< figure src="/wp-content/uploads/2009/06/praca_relogio-usp.jpg" title="Praça do Relógio (USP)" >}}
+![Praça do Relógio (USP)](/wp-content/uploads/2009/06/praca_relogio-usp.jpg)
 
 Sinto muito, mas não convidarei ninguém pro meme porque ando com medo de coisas que crescem exponencialmente.
 

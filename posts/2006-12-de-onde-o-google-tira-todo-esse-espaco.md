@@ -13,7 +13,7 @@ tags:
 ---
 Mais de 2gb pra cada usuário… São necessários muitos HDs para realizar essa façanha! O site [Joy of Tech][1] descobriu a resposta:
 
-{{< figure src="/wp-content/uploads/2006/12/tierrahd.jpg" title="De onde o Google tira todo esse espaço" >}}
+![De onde o Google tira todo esse espaço](/wp-content/uploads/2006/12/tierrahd.jpg)
 
 Acho que a [Dreamhost][2] e seus maravilhosos 200gb por 10 dólares devem ter um convênio com o Google no uso desse espaço… :-)
 

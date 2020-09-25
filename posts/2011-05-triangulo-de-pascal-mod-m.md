@@ -16,19 +16,19 @@ tags:
 ---
 _Este post possui intencionalmente apenas imagens e códigos._
 
-{{< figure src="/wp-content/uploads/2011/05/screenshot.png" title="Uso do programa que gera triângulo de Pascal mod m" >}}
+![Uso do programa que gera triângulo de Pascal mod m](/wp-content/uploads/2011/05/screenshot.png)
 
-{{< figure src="/wp-content/uploads/2011/05/mod21.png" title="Triângulo de Pascal mod 2" >}}
+![Triângulo de Pascal mod 2](/wp-content/uploads/2011/05/mod21.png)
 
-{{< figure src="/wp-content/uploads/2011/05/mod3.png" title="Triângulo de Pascal mod 3" >}}
+![Triângulo de Pascal mod 3](/wp-content/uploads/2011/05/mod3.png)
 
-{{< figure src="/wp-content/uploads/2011/05/mod5.png" title="Triângulo de Pascal mod 5" >}}
+![Triângulo de Pascal mod 5](/wp-content/uploads/2011/05/mod5.png)
 
-{{< figure src="/wp-content/uploads/2011/05/mod7.png" title="Triângulo de Pascal mod 7" >}}
+![Triângulo de Pascal mod 7](/wp-content/uploads/2011/05/mod7.png)
 
-{{< figure src="/wp-content/uploads/2011/05/mod121.png" title="Triângulo de Pascal mod 12" >}}
+![Triângulo de Pascal mod 12](/wp-content/uploads/2011/05/mod121.png)
 
-{{< figure src="/wp-content/uploads/2011/05/mod23.png" title="Triângulo de Pascal mod 23" >}}
+![Triângulo de Pascal mod 23](/wp-content/uploads/2011/05/mod23.png)
 
 ### Código-fonte (com alguns bugs inofensivos — procure XXX)
 

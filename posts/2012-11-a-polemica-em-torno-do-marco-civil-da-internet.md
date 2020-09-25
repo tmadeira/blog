@@ -17,17 +17,17 @@ tags:
 ---
 O Marco Civil da Internet surgiu em oposição ao projeto de lei do então senador Eduardo Azeredo (PSDB/MG) conhecido como AI-5 Digital, que buscava vigiar e controlar o que nós fazemos na internet. O conteúdo original daquele projeto era bizarro, prevendo cadastro prévio e identificação de todos os usuários de internet, utilização dessa identificação para prender para quem baixa músicas online, censura de sites arbitrariamente sem aviso prévio e outros absurdos do tipo. Algo muito parecido com [a lei SOPA nos EUA][1].
 
-{{< figure src="/wp-content/uploads/2012/11/430731.jpg" title="Charge do Latuff sobre violação de direitos autorais" >}}
+![Charge do Latuff sobre violação de direitos autorais](/wp-content/uploads/2012/11/430731.jpg)
 
 A proposta do Marco Civil foi a de criar uma lei no sentido contrário. Em vez de criar uma legislação para punir simples usuários da rede, vários ativistas do software livre e da internet livre se organizaram para escrever (mediando com governo e empresas) uma “constituição” para a internet, que respeitasse a liberdade de expressão e garantisse direitos jurídicos para os seus usuários.
 
 Seria um erro ser contra (por princípio) toda e qualquer legislação que verse sobre a internet. A internet é uma rede grande e descentralizada. Nós, usuários comuns, somos pontinhas nessa rede (folhas) conectados ao mundo por poucas empresas de telecomunicações (provedores), que possuem poder para fazerem o que quiserem com a nossa comunicação com essa grande rede.
 
-{{< figure src="/wp-content/uploads/2012/11/ruswp_diag4.gif" title="Nesse diagrama, um ISP é o seu provedor e você nem aparece, mas é uma pequena folha ligada apenas a ele." >}}
+![Nesse diagrama, um ISP é o seu provedor e você nem aparece, mas é uma pequena folha ligada apenas a ele.](/wp-content/uploads/2012/11/ruswp_diag4.gif)
 
 Os provedores de internet no mundo inteiro se aproveitam de seu poder para ganharem dinheiro. Isso se faz de várias formas, desde vendendo uma alta velocidade de internet e entregando apenas 20% dela (é essa a norma da Anatel pra banda larga!), até priorizando determinados tipos de comunicação.
 
-{{< figure src="/wp-content/uploads/2012/11/387672_378772338871982_1642665586_n.jpg" title="Açougue inspirado pela Anatel" >}}
+![Açougue inspirado pela Anatel](/wp-content/uploads/2012/11/387672_378772338871982_1642665586_n.jpg)
 
 Os exemplos dessa priorização são variados e, embora a gente às vezes não perceba, acontecem no mundo inteiro: de operadoras de celular que bloqueiam (ou limitam) comunicação através do protocolo UDP para impedir que seus usuários usem VoIP via 3G em vez de pagarem por ligações (conheci vários casos trabalhando com VoIP móvel no [imo][5]) até provedores que diminuem a velocidade de torrents ou jogos online. Isso pra não falar de denúncias sobre sites que abrem muito mais rápido do que outros (vamos supôr que você é o dono da Telefônica e o Google é seu parceiro — aí você pode dar uma forcinha pra o Google ser melhor que seu concorrente Yahoo fazendo o Yahoo demorar mais pra abrir para os seus usuários).
 

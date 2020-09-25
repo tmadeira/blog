@@ -15,7 +15,7 @@ tags:
   - reflexão
 
 ---
-{{< figure src="/wp-content/uploads/2007/02/mundoestranho.jpg" title="O mundo poderia ser assim..." >}}
+![O mundo poderia ser assim...](/wp-content/uploads/2007/02/mundoestranho.jpg)
 
 Talvez se a Alemanha tivesse vencido a guerra o nosso mundo fosse melhor atualmente. Já pensaram nisso?
 

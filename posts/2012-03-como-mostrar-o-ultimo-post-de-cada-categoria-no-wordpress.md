@@ -155,7 +155,7 @@ Não ficou bonitinho? Se por um lado gostei da solução, por outro fiquei imagi
 
 Acho que as relações necessárias já ficaram explícitas na query que eu escrevi, mas segue o diagrama do banco de dados do WordPress pra quem precisar:
 
-{{< figure src="/wp-content/uploads/2012/03/WP3.0-ERD1.png" title="Diagrama do banco de dados do WordPress" >}}
+![Diagrama do banco de dados do WordPress](/wp-content/uploads/2012/03/WP3.0-ERD1.png)
 
  [1]: http://wordpress.org/
  [2]: /2012/01/retrospective/

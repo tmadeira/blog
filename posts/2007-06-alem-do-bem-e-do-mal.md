@@ -19,7 +19,7 @@ tags:
   - valor
 
 ---
-{{< figure src="/wp-content/uploads/2007/06/alem.jpg" title="Além do bem e do mal" >}}
+![Além do bem e do mal](/wp-content/uploads/2007/06/alem.jpg)
 
 **Mais uma sugestão de leitura do Mal Vicioso!** O livro da vez é: [Além do bem e do mal][1]
 

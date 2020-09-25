@@ -14,7 +14,7 @@ tags:
   - violência
 
 ---
-{{< figure src="/wp-content/uploads/2007/04/brigaa.jpg" title="Briga" >}}
+![Briga](/wp-content/uploads/2007/04/brigaa.jpg)
 
 Fim da tarde… Cruzando de carro a Av. Sete de Setembro com a Rua Gil Stein Ferreira uma reunião enorme de pessoas me chamou a atenção. Cerca de 100 meninos e meninas formavam uma circunferência com uns 5 metros de raio; no centro dois moleques brigavam.
 

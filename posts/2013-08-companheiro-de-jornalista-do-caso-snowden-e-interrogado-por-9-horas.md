@@ -16,7 +16,7 @@ tags:
   - terrorismo
 
 ---
-{{< figure src="/wp-content/uploads/2016/12/david.jpg" title="David Miranda e Glenn Greenwald no Rio de Janeiro." >}}
+![David Miranda e Glenn Greenwald no Rio de Janeiro.](/wp-content/uploads/2016/12/david.jpg)
 
 O brasileiro David Miranda, companheiro de Glenn Greenwald, foi detido e interrogado por 9 horas sem direito a advogado numa escala no aeroporto de Heathrow (Londres). Ele estava retornando ao Rio de Janeiro de uma viagem a Berlim, onde havia passado a última semana com a cineasta americana Laura Poitras, que trabalhou nas reportagens sobre a NSA.
 

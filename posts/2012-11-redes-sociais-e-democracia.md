@@ -28,7 +28,7 @@ Se o objetivo de fazer os posts de páginas serem menos visualizados era tornar 
 
 As contradições foram se acumulando e há cerca de um mês tivemos outra novidade: o Facebook [começou a liberar][3] o recurso de promover posts não só mais para páginas (empresas, anunciantes), mas também para usuários “normais” (eu e você). Nos últimos dias, [mais e mais usuários no Brasil][4] têm tido acesso ao botão _Promote_ nas suas atualizações de status. As atualizações promovidas certamente tomarão cada vez mais espaço das atualizações que você gostaria realmente de ver na sua rede social. Como fica aquela velha desculpa?
 
-{{< figure src="/wp-content/uploads/2012/11/facebook_promoted_post.jpg.CROP_.article568-large.jpg" title="Post de perfil individual promovido no Facebook" >}}
+![Post de perfil individual promovido no Facebook](/wp-content/uploads/2012/11/facebook_promoted_post.jpg.CROP_.article568-large.jpg)
 
 ### Computação vs. Dinheiro
 

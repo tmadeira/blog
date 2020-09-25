@@ -25,7 +25,7 @@ Esta demora aconteceu porque eu, além de ter ficado muito tempo sem entrar na U
 
 Eu ainda boiei um pouco, porque só depois eu descobri uma coisa lógica e muito simples (que eu nunca tinha pensado antes): **Para descobrir se um número N qualquer é primo, basta ver se ele é divisível pelos primos (no caso, eu usei todos os números, não só primos) de 2 a raiz de N.** Bom, isso é bem óbvio… Mas ninguém nunca tinha me dito e eu nunca tinha visto em lugar nenhum! Então tive que pensar (descobrir sozinho mesmo).
 
-{{< figure src="https://farm1.staticflickr.com/15/21431632_24e1b61281.jpg" title="Prime Palindromes" >}}
+![Prime Palindromes](https://farm1.staticflickr.com/15/21431632_24e1b61281.jpg)
 
 Por preguiça de só fazer alguns **for** caso o mínimo fosse menor que X e maior que Y, meu programa, para qualquer caso, pega todos os palíndromos primos de 5 a 10000000! :blink: Eu não sabia se o tempo disso ia ser suficiente, então resolvi testar assim antes de fazer esses ifs antes do for e deu certo! Logo, nem precisa mais de nada… O tempo do meu programa para qualquer teste, no meu Linux, é 0,032 segundos. Na USACO apareceu como 0,05 segundos.
 
@@ -125,7 +125,7 @@ int main() {
 
 Agora vou prosseguir com o treinamento do USACO Training Gateway na seção 1.3, a começar pelo problema **Mixing Milk**.
 
-{{< figure src=="https://farm1.staticflickr.com/17/21435715_88e18b6959.jpg" title="O Homem que Calculava" >}}
+![O Homem que Calculava](https://farm1.staticflickr.com/17/21435715_88e18b6959.jpg)
 
 Nos últimos dias não aconteceu nada demais. Só fiquei emocionado por ter recebido um 9,1 em biologia… :lol: E outra coisa legal também é que eu reli **O Homem que Calculava** e achei muito legal. Eu tinha lido na sexta série e acho que não tinha entendido direito tudo. O livro é muito bom e não é muito complicado não. O próximo que eu quero reler é **O Diabo dos Números**. Esse é mais “avançado” que o primeiro. Tô fazendo um trabalho de escola (de história) sobre (o filósofo) Pitágoras. É bem legal, o cara era muito bom. Na verdade, o trabalho tá virando de matemática, mas é bem interessante. É legal ter um professor de história que dá aula… ;) Não é igual ano passado, né? Tô achando bem legal os períodos da Grécia Antiga.
 

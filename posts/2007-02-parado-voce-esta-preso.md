@@ -19,7 +19,7 @@ tags:
 ---
 **Você é contra a redução da maioridade penal?** Imagine um garoto de dezessete anos que pega o seu filho de cinco anos na porta da escola, leva-o para um lugar imundo, estupra-o e depois debocha da sua impunidade porque é menor de idade. **Você ainda é contra a redução da maioridade penal?** Acho que não.
 
-{{< figure src="/wp-content/uploads/2007/02/algemas2.thumbnail.jpg" title="Algemas" >}}
+![Algemas](/wp-content/uploads/2007/02/algemas2.thumbnail.jpg)
 
 A maioridade penal é um assunto tão polêmico quanto a pena de morte. O Melo, do [Verdade Absoluta][1], certa vez gerou uma discussão muito interessante no blog dele perguntando: [Criança inocente ou criminoso sórdido?][2]
 

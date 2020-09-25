@@ -87,17 +87,17 @@ Uma solução que que alguém poderia sugerir é inicialmente dividir a lista de
 
 > **Exemplo:** Suponha que $a_1 = 42, a_2 = 25, a_3 = 27, a_4 = 18, a_5 = 38$ e $k = 3$. Então $\frac{t}{k} = \frac{150}{3} = 50$.
 >
-> {{< figure src="/wp-content/uploads/2020/03/mesas-a.png" title="Ilustração do exemplo descrito acima. Nomes com A, B, C, D e E são representados, respectivamente, pelas cores azul, vermelho, verde, laranja e azul claro." >}}
+> ![Ilustração do exemplo descrito acima. Nomes com A, B, C, D e E são representados, respectivamente, pelas cores azul, vermelho, verde, laranja e azul claro.](/wp-content/uploads/2020/03/mesas-a.png)
 >
 > A solução proposta inicialmente divide esses nomes em 3 partes iguais. Os cortes das divisões estariam (1) entre o oitavo e o nono nome da letra B e (2) entre o sexto e o sétimo nome da letra D.
 >
-> {{< figure src="/wp-content/uploads/2020/03/mesas-b.png" title="Ilustração das divisões entre os nomes. Note que o primeiro corte está entre o oitavo e o nono nome da letra B e o segundo corte está entre o sexto e o sétimo nome da letra D." >}}
+> ![Ilustração das divisões entre os nomes. Note que o primeiro corte está entre o oitavo e o nono nome da letra B e o segundo corte está entre o sexto e o sétimo nome da letra D.](/wp-content/uploads/2020/03/mesas-b.png)
 >
 > Para diminuir o desvio padrão do primeiro conjunto é melhor mover o primeiro corte para entre as letras A e B, porque 42 é mais próximo de 50 (diferença 8) do que 67 (diferença 17). Já para diminuir o desvio padrão do segundo conjunto é melhor mover o segundo corte para entre as letras C e D, porque 52 é mais próximo de 50 (diferença 2) do que 70 (diferença 20).
 >
 > A solução encontrada portanto separa as letras em A, B-C e D-E.
 >
-> {{< figure src="/wp-content/uploads/2020/03/mesas-c.png" title="Ilustração da solução encontrada." >}}
+> ![Ilustração da solução encontrada.](/wp-content/uploads/2020/03/mesas-c.png)
 
 Esse tipo de solução é chamado, na Ciência da Computação, de "guloso" (_greedy_, em inglês). As técnicas gulosas são aquelas que procuram soluções locais ótimas na esperança de encontrarem uma solução global ótima. Note que na solução sugerida otimizamos corte por corte (localmente), sem pensar muito sobre o que nos espera no futuro (global).
 
@@ -113,11 +113,11 @@ Afirmo que o algoritmo guloso apresentado acima não é capaz de encontrar a sol
 >
 > A abordagem gulosa inicialmente divide esses nomes em três partes iguais, conforme ilustração a seguir.
 >
-> {{< figure src="/wp-content/uploads/2020/03/mesas-d.png" title="Ilustração da divisão inicial entre os nomes." >}}
+> ![Ilustração da divisão inicial entre os nomes.](/wp-content/uploads/2020/03/mesas-d.png)
 >
 > Então, corte por corte, vamos tentar minimizar o desvio padrão do conjunto de nomes que estamos deixando para trás. Para minimizar o desvio padrão do primeiro conjunto é melhor mover o primeiro corte para entre as letras B e C, porque 43 (35+8) é mais próximo de 40 do que 35. Já para minimizar o desvio padrão do segundo conjunto é melhor mover o segundo corte para entre as letras C e D. A solução encontrada pelo algoritmo guloso é portanto separar as letras nos conjuntos A-B, C e D.
 >
-> {{< figure src="/wp-content/uploads/2020/03/mesas-e.png" title="Ilustração da solução encontrada pelo algoritmo guloso." >}}
+> ![Ilustração da solução encontrada pelo algoritmo guloso.](/wp-content/uploads/2020/03/mesas-e.png)
 >
 > O desvio padrão dessa solução é:
 >
@@ -127,7 +127,7 @@ Afirmo que o algoritmo guloso apresentado acima não é capaz de encontrar a sol
 >
 > $$\sigma_\star = \sqrt{\frac{1}{3} (5^2 + 5^2 + 10^2)} \approx 12.25.$$
 >
-> {{< figure src="/wp-content/uploads/2020/03/mesas-f.png" title="Ilustração da solução ótima, que não foi encontrada pelo algoritmo guloso." >}}
+> ![Ilustração da solução ótima, que não foi encontrada pelo algoritmo guloso.](/wp-content/uploads/2020/03/mesas-f.png)
 >
 > Logo, o algoritmo guloso não funciona para todas as entradas.
 
@@ -216,7 +216,7 @@ Programação dinâmica, diferente do que o nome indica, não tem nada a ver (ao
 
 Muitas vezes um subproblema é resolvido diversas vezes dentro de um procedimento recursivo; em particular, é fácil ver que isso acontece na força bruta proposta na seção acima. Note que $f(1, 3$) precisa do resultado de $f(2, 2), f(3, 2), f(4, 2), \cdots$ e também que $f(2, 3)$ precisa do resultado de $f(3, 2), f(4, 2), \cdots$. A tabela abaixo, mostrando a árvore de recursão para resolver o problema para $n = 6$ e $k = 4$, mostra que várias computações estão sendo repetidas.
 
-{{< figure src="/wp-content/uploads/2020/03/tree.png" title="Árvore de computações da força bruta. Os nós em vermelho denotam computações repetidas. Nota-se que grande parte das computações está sendo feita várias vezes." >}}
+![Árvore de computações da força bruta. Os nós em vermelho denotam computações repetidas. Nota-se que grande parte das computações está sendo feita várias vezes.](/wp-content/uploads/2020/03/tree.png)
 
 A ideia da programação dinâmica é simplesmente tabelar os resultados da recursão para não precisar recalculá-los várias vezes. Usando programação dinâmica, tudo que está em vermelho na ilustração acima pode ser diretamente retornado pela função --- não é preciso recomputar $f(s, m)$ mais de uma vez para nenhum par $s, m$.
 

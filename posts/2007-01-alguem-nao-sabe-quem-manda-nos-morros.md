@@ -21,7 +21,7 @@ tags:
 ---
 > “Aquilo é terrorismo, aquilo não é bandido comum. Pegar um ônibus, tocar fogo e ver pessoas morrendo, tem que ser tratado como terrorismo de Estado, porque é uma provocação ao Estado brasileiro. Não tem meio termo nisso. Não é um bandido comum, é uma ação preparada de desacato ao Estado brasileiro e, portanto, nós temos que tratar assim e enfrentar.”
 
-{{< figure src="/wp-content/uploads/2007/01/foto5505.jpg" title="Força Nacional" >}}
+![Força Nacional](/wp-content/uploads/2007/01/foto5505.jpg)
 
 Palmas ao governador Sérgio Cabral e ao presidente Lula! Eles mostraram que possuem uma vontade que eu achei que os políticos brasileiros não tivessem: acabar com o crime organizado. É claro que essa minha frase é utópica, porque não vamos conseguir acabar com tudo de uma vez. Porém, as ações da Força Nacional no Rio de Janeiro neste início de ano são uma luz no fim do túnel.
 
@@ -48,7 +48,7 @@ Minha mente esperançosa torce pra que esse plano dê certo. E que assim o Rio d
 
 ([Tom Jobim][3], **Samba do Avião**)
 
-{{< figure src="/wp-content/uploads/2007/01/rio.jpg" title="E o Rio de Janeiro continua lindo..." >}}
+![E o Rio de Janeiro continua lindo...](/wp-content/uploads/2007/01/rio.jpg)
 
  [1]: http://pt.wikipedia.org/wiki/Partido_da_Social_Democracia_Brasileira
  [2]: http://pt.wikipedia.org/wiki/Comando_Vermelho

@@ -24,7 +24,7 @@ tags:
 
 (comentários de um homem de Deus no [Novo Mundo][1])
 
-{{< figure src="/wp-content/uploads/2007/01/fe_religiao01.jpg" title="Fé e religião" >}}
+![Fé e religião](/wp-content/uploads/2007/01/fe_religiao01.jpg)
 
 Ao ler estes discursos do “Irmão Henrique”, me perguntei: a partir de quando a religião deixa de ser uma coisa que motiva a viver para tornar-se apenas alienação? Eu não acredito na religião da mesma forma que não acredito na política – pra mim as duas são farinha do mesmo saco. Tenho um ódio especial por essas novas religiões que surgem todos os dias apenas para atrair fiéis e roubar seu dinheiro.
 

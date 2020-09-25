@@ -17,7 +17,7 @@ tags:
 ---
 Lembram daquela analogia clássica de software livre e culinária? Me lembrou que [felizmente] podemos usar, estudar, modificar e distribuir receitas. Eis aqui, portanto, minha primeira contribuição culinária aos leitores deste blog: a **receita do sorvete de creme belga com cobertura de chocolate**, que aprendi com minha tia no verão passado.
 
-{{< figure src="/wp-content/uploads/2010/09/161568462.jpg" title="Resultado" >}}
+![Resultado](/wp-content/uploads/2010/09/161568462.jpg)
 
 A forma ideal de preparar esta receita é com três pessoas. Como isso nem sempre é possível, recomendo criar três threads ou fazer uma coisa de cada vez (aparentemente as partes dessa receita são comutativas). Cada um dos itens abaixo é uma das três partes e no fim dou as instruções de como juntar tudo.
 

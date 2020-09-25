@@ -13,7 +13,7 @@ tags:
   - sociedade
 
 ---
-{{< figure src="/wp-content/uploads/2007/01/11_telefono_01.jpg" title="A idade determina a responsabilidade de uma pessoa?" >}}
+![A idade determina a responsabilidade de uma pessoa?](/wp-content/uploads/2007/01/11_telefono_01.jpg)
 
 Os adultos vivem impondo limites para menores de idade. Eles são superiores e sábios porque já passaram pela mesma fase que as crianças passaram. Parece que quando você completa 18 anos, de repente você muda por completo e abandona toda uma mentalidade para começar a ser “adulto”, uma nova fase onde você é dominado por um egoísmo e uma mentalidade de pessoas que se acham inteligentes o suficiente para poderem tomar decisões sem consultar ninguém, pessoas totalmente responsáveis por si mesmas, sem dúvidas de nada.
 

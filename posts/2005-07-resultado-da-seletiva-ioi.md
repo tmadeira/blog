@@ -17,7 +17,7 @@ tags:
   - xul
 
 ---
-{{< figure src="https://farm1.staticflickr.com/21/28481998_87a2fe24ad.jpg" title="Museu do Ipiranga" >}}
+![Museu do Ipiranga](https://farm1.staticflickr.com/21/28481998_87a2fe24ad.jpg)
 
 Hoje cheguei em Itajaí pela manhã depois de uma semana muito legal visitando pontos turísticos e participando de eventos de vários tipos em São Paulo (as fotos estão disponíveis no meu [álbum do Flickr][2]).
 

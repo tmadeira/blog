@@ -23,7 +23,7 @@ tags:
   <em>Mohammad Mahdian *</em> (tradução: Tiago Madeira)
 </p>
 
-{{< figure src="/wp-content/uploads/2011/12/18.2_Mahdian_med.jpg" title="Mãos algemadas digitando num teclado de computador" >}}
+![Mãos algemadas digitando num teclado de computador](/wp-content/uploads/2011/12/18.2_Mahdian_med.jpg)
 
 Os levantes recentes no Oriente Médio demonstraram a eficácia da internet em ajudar ativistas políticos e sociais a organizarem protestos, disseminarem informações para o público e enviarem notícias de prisões e repressões ao restante do mundo. Ameaçados por esse paradigma, regimes totalitários tentaram controlar e monitorar o acesso de seus cidadãos à web, desenvolvendo ou adquirindo tecnologias de censura e de vigilância da internet. Ao mesmo tempo, uma variedade de ferramentas de violação desses filtros foi desenvolvida para ajudar os usuários a contornarem o filtro da internet acessando sites bloqueados através de intermediários não-bloqueados (os chamados proxies). O artigo de Dan Boneh ([Recent Ideas for Circumventing Internet Filtering][2]) dá um ótimo resumo sobre novas e velhas técnicas para construir essas ferramentas.
 
@@ -55,7 +55,7 @@ O objetivo desse exercício era convencer o leitor de que existe um problema te�
 
 \* **Mohammad Mahdian** é um pesquisador senior do Yahoo Research Lab em Santa Clara, CA. É bacharel em Engenharia da Computação pela Universidade de Tecnologia de Sharif, mestre em Ciência da Computação pela Universidade de Toronto e PhD em Matemática pelo MIT. Seus interesses de pesquisa atuais incluem projeto de algoritmos, economia algorítmica e aplicações em publicidade online e redes sociais.
 
-{{< figure src="/wp-content/uploads/2011/12/18.2_Cover_crop.jpg" title="Capa da XRDS" >}}
+![Capa da XRDS](/wp-content/uploads/2011/12/18.2_Cover_crop.jpg)
 
 Este texto foi publicado em inglês na última edição da [XRDS][4] (revista da ACM para estudantes), cujo [tema][5] é **Ciência da Computação a serviço da democracia**. No site do autor, há o [artigo “Fighting censorship with algorithms” completo em PDF][6] disponível para download gratuito. Ainda não li, mas parece interessante.
 

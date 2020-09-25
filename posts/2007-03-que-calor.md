@@ -17,7 +17,7 @@ tags:
   - sociedade
 
 ---
-{{< figure src="/wp-content/uploads/2007/03/aquecimento_global.jpg" title="Nosso planeta vai derreter..." >}}
+![Nosso planeta vai derreter...](/wp-content/uploads/2007/03/aquecimento_global.jpg)
 
 > A mudança climática global está acontecendo mais rápido do que era previsto e o impacto é pior do que o esperado, segundo informações da segunda parte de um relatório da Organização das Nações Unidas ainda não publicado, mas que o site Spiegel Online teve acesso. Nenhuma região do planeta será poupada e algumas serão especialmente atingidas.
 >
@@ -33,7 +33,7 @@ Segundo os direitistas, a liberação dos gases é só boa para a evolução e n
 
 Os Estados Unidos são responsáveis por 25% das emissões de gás carbônico do mundo, mesmo só tendo 5% da população do mundo. Acreditando que o efeito estufa é fantasia e que o mundo nunca acabará, eles se recusaram a assinar o Protocolo de Kyoto e ainda influenciaram outros países, como a Austrália, a fazer o mesmo.
 
-{{< figure src="/wp-content/uploads/2007/03/bush_kyoto.jpg" title="Bush e o protocolo de Kyoto" >}}
+![Bush e o protocolo de Kyoto](/wp-content/uploads/2007/03/bush_kyoto.jpg)
 
 Como disse o presidente venezuelano Hugo Chávez, os políticos americanos põe o mundo inteiro em risco.
 

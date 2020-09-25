@@ -11,7 +11,7 @@ tags:
   - profissão
 
 ---
-{{< figure src="/wp-content/uploads/2006/12/bloggers-monks.jpg" title="Bloggers and monks" >}}
+![Bloggers and monks](/wp-content/uploads/2006/12/bloggers-monks.jpg)
 
 _“Blogueiros foram inventados em 300 <del>a.</del>d.C. e eram originalmente chamados ‘monges’. Como seus descendentes distantes, os monges tinham cortes de cabelo horríveis e nunca transavam.”_
 

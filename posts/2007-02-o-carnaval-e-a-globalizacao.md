@@ -20,7 +20,7 @@ Imperialismo… Você vai à uma festa e ouve música estrangeira. Música eletr
 
 Nos acostumamos com a chuva e aprendemos a gostar dela; ela não é ruim. Há pouca [resistência][3]. Quem vende isso não está nem aí para o fato de [as nações serem diferentes][4], porque o que importa é [o dinheiro][5]. Nós não passamos de massa.
 
-{{< figure src="/wp-content/uploads/2007/02/mangueira-1998.jpg" title="Desfile da Mangueira em 1998" >}}
+![Desfile da Mangueira em 1998](/wp-content/uploads/2007/02/mangueira-1998.jpg)
 
 O carnaval é regido pelo ano lunar. Como a maioria de nossas festas, foi adaptada pela Igreja Católica: Agora tem o significado cristão de acabar 40 dias antes da morte de Jesus Cristo, precedindo a quaresma. Mesmo assim, o **carnaval** é provavelmente a festa mais brasileira que comemoramos.
 

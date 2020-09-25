@@ -12,7 +12,7 @@ tags:
   - tiago vagabundo
 
 ---
-{{< figure src="/wp-content/uploads/2007/01/pigeon_system-_1__1725614a.gif" title="Pombos nos computadores" >}}
+![Pombos nos computadores](/wp-content/uploads/2007/01/pigeon_system-_1__1725614a.gif)
 
 [Nosso Deus][1] parece o [Godot][2] dos judeus. Ele é justo, mas é mau. Olha a busca que eu achei nas estatísticas do [Mal Vicioso][3]: [tiago vagabundo][4]. Primeiro resultado! E o pior é que a gente ainda tem que agradecer, porque pega um paraquedista, que é o tipinho que mais clica nos nossos anúncios…
 

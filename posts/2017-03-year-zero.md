@@ -30,7 +30,7 @@ Como diz o [release para a imprensa][1]:
 
 Os documentos vazados têm vários manuais de operação da CIA (organizados num tipo de wiki interno) e explicações de como vários sistemas funcionam, que falhas eles têm e como explorá-las.
 
-{{< figure src="/wp-content/uploads/2017/03/hack.png" title="A imagem é um quadro com os exploits que eles usam para invadir diferentes versões do iOS (sistema operacional usado pelo iPhone)." >}}
+![A imagem é um quadro com os exploits que eles usam para invadir diferentes versões do iOS (sistema operacional usado pelo iPhone).](/wp-content/uploads/2017/03/hack.png)
 
 A consequência do vazamento é, por um lado, uma democratização das ciberarmas da CIA. Por outro, a obsolescência delas e, consequentemente, enfraquecimento da agência. De um lado um extenso arsenal de armas da CIA pode estar sendo usado por outros agentes para invadir nossos computadores e celulares. De outro a CIA perde a vantagem que tinha e a médio prazo essas falhas tendem a ser corrigidas por atualizações dos sistemas.
 

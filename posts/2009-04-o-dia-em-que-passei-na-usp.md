@@ -37,7 +37,7 @@ Assim que ele foi embora (era por volta das 15:00), resolvi dar uma olhada no [s
 
 Não cogitava a hipótese de eu ter sido aprovado, porque minha classificação na carreira de _“Engenharia Politécnica e Computação”_ foi **1322** (enquanto o último colocado da quarta chamada do ano passado tinha ficado com classificação **1181**).
 
-{{< figure src="/wp-content/uploads/2009/04/fuv.jpg" title="Meu desempenho na Fuvest" >}}
+![Meu desempenho na Fuvest](/wp-content/uploads/2009/04/fuv.jpg)
 
 Porém, para minha surpresa, meu nome estava [na lista][3]. Minha primeira frase foi:
 
@@ -55,7 +55,7 @@ Conseguir a desmatrícula na UFSC foi difícil. Eu devia um real para a bibliote
 
 No dia seguinte acordei cedo novamente e, após mais uma aula para calouros e a desmatrícula na UFSC, almocei com meus amigos na Pizza Hut. Logo depois do almoço “de despedida”, num sol de rachar, saí de casa com tudo que consegui e peguei um ônibus para Itajaí, de onde no mesmo dia partiria para São Paulo e para uma nova vida.
 
-{{< figure src="https://farm4.static.flickr.com/3331/3417439301_a9e9182374.jpg" title="São Paulo - Consolação (crédito: Jefferson Breves/flickr)" >}}
+![São Paulo - Consolação (crédito: Jefferson Breves/flickr)](https://farm4.static.flickr.com/3331/3417439301_a9e9182374.jpg)
 
  [1]: http://www.fuvest.br/
  [3]: http://www.fuvest.br/vest2009/chamada4/62389409.stm

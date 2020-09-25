@@ -29,7 +29,7 @@ No entanto, há várias formas de copiar fotos dos álbuns da UOL. Neste post ap
 
 Como eu disse no início, os webmasters do UOL aparentemente não fazem os álbuns se comportarem assim de propósito, mas por causa de botões gigantes. A maneira mais fácil de copiar uma foto de um álbum do UOL é clicar bem na coluna exatamente no meio dela, evitando as duas setas. Você pode passar o mouse devagar pelo meio da foto até que o seu cursor deixe de ser uma mãozinha e seja uma seta. Pra saber se você deve ir pra esquerda ou pra direita é só ir na direção da seta que você não está vendo.
 
-{{< figure src="/wp-content/uploads/2012/04/a1.png" title="Clicando com a tecla direita no meio da foto" >}}
+![Clicando com a tecla direita no meio da foto](/wp-content/uploads/2012/04/a1.png)
 
 Outra solução também tosca é simplesmente tirar um screenshot da tela em que você está (apertar a tecla PrintScreen na maioria dos computadores deve funcionar) e recortar a imagem. Eu imagino que essa seja a solução mais usada, mas pessoalmente acho ela terrível.
 
@@ -39,7 +39,7 @@ Não pare de ler! Prometo que as próximas soluções vão ser mais legais.
 
 Desativar o CSS da página é uma forma fácil de acabar com todo seu leiaute e dessa forma copiar a imagem sem se preocupar com perfumarias. Você provavelmente pode fazer isso em qualquer navegador usando plugins (e nos navegadores que não suportam CSS é até mais fácil: você nem precisa fazer nada!) e no Firefox em particular há um botão no menu (Exibir » Estilos » Sem estilos).
 
-{{< figure src="/wp-content/uploads/2012/04/b1.png" title="Página do álbum de fotos com estilos desativados no Firefox" >}}
+![Página do álbum de fotos com estilos desativados no Firefox](/wp-content/uploads/2012/04/b1.png)
 
 ### 2. JavaScript na barra de endereço
 
@@ -51,7 +51,7 @@ javascript:document.getElementById("setaEsq").style.width=document.getElementByI
 
 na barra de endereço quando estiver na página do álbum do qual quer baixar fotos.
 
-{{< figure src="/wp-content/uploads/2012/04/c1.png" title="Digitando JavaScript no campo da URL do navegador" >}}
+![Digitando JavaScript no campo da URL do navegador](/wp-content/uploads/2012/04/c1.png)
 
 Isso vai reduzir o tamanho dos botões, fazendo com que a área clicável seja bem maior.
 
@@ -88,11 +88,11 @@ A solução 1 (desativar estilos) funciona em 99% dos casos. Não quer ver sites
 
 **5.** Se você não quiser utilizá-la e se você estiver usando Firefox, pode clicar no ícone ao lado do endereço do site na barra de endereço e aí no botão “Mais informações”. Isso vai abrir uma tela com uma seção “Mídia” onde é possível ver e salvar imagens, ícones e vídeos que seu navegador baixou para mostrar a página. Esse método funciona também para copiar vídeos HTML5, inclusive do YouTube:
 
-{{< figure src="/wp-content/uploads/2012/04/e1.png" title="Mídias da página (Firefox)" >}}
+![Mídias da página (Firefox)](/wp-content/uploads/2012/04/e1.png)
 
 **6.** Se você não quiser procurar uma imagem no meio de um monte de mídias, a última versão do seu navegador deve ter um botão “Inspecionar elemento” no menu de contexto sempre que você clica com a tecla direita em qualquer lugar da página. Usando essa ferramenta é possível ver o código HTML do que você está vendo (ela é diferente e melhor do que simplesmente ver o código-fonte da página porque usando a inspeção de elementos você vê o código do momento atual, depois dos scripts mudarem as coisas). Se você pedir para inspecionar alguma coisa transparente em cima da imagem, em geral não vai ser difícil achar a própria imagem. Este screenshot é do Chrome:
 
-{{< figure src="/wp-content/uploads/2012/04/f1.png" title="Copiando URL da imagem da inspeção de elementos" >}}
+![Copiando URL da imagem da inspeção de elementos](/wp-content/uploads/2012/04/f1.png)
 
 Há inúmeras soluções mais nerds, mas quis manter a lista com sugestões fáceis e que não precisam de nada além do seu navegador. Alguma outra ideia simples, criativa e divertida? Blogue por aí ou me conte pra eu aumentar a lista!
 

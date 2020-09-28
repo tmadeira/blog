@@ -1,0 +1,115 @@
+.Article__root__AHmRZ {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  color: #535353;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+@media (min-width: 600px) {
+  .Article__root--baseMedium__AHmRZz0TSU_MVUpr {
+  }
+}
+.Article__title__2ETOg {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-bottom: 3px;
+}
+@media (min-width: 600px) {
+  .Article__title--baseMedium__2ETOgz0TSU_MVUpr {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 8px;
+    margin-left: 0px;
+  }
+}
+.Article__slotTitle__4AoPv {
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+@media (min-width: 600px) {
+  .Article__slotTitle--baseMedium__4AoPvz0TSU_MVUpr {
+    font-size: 26px;
+  }
+}
+.Article__date__G2s7e {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+@media (min-width: 600px) {
+  .Article__date--baseMedium__G2s7ez0TSU_MVUpr {
+    margin-bottom: 30px;
+  }
+}
+.Article__slotDate__dZG6E {
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(136, 136, 136) /* plasmic-token: LcEYQw5GO */;
+}
+@media (min-width: 600px) {
+  .Article__slotDate--baseMedium__dZG6Ez0TSU_MVUpr {
+    font-size: 16px;
+  }
+}
+.Article__content__lMoNr {
+  display: flex;
+  position: relative;
+  margin-bottom: 20px;
+}
+@media (min-width: 600px) {
+  .Article__content--baseMedium__lMoNrz0TSU_MVUpr {
+    margin-bottom: 30px;
+  }
+}
+.Article__textContent__dUZP6.__wab_instance {
+  position: relative;
+  margin-bottom: 0;
+}
+.Article__box__lmCe6 {
+}
+.Article__box__MTv_T {
+}
+.Article__blockquote__aTsms.__wab_instance {
+  position: relative;
+  width: default;
+  height: default;
+}
+.Article__box__YQ0gD {
+}
+.Article__code__rVWZF.__wab_instance {
+  position: relative;
+  width: default;
+  height: default;
+}
+.Article__box__9uydq {
+}
+.Article__tags__ldbiS.__wab_instance {
+  position: relative;
+  width: default;
+  height: default;
+}
+@media (min-width: 600px) {
+  .Article__tags--baseMedium__ldbiSz0TSU_MVUpr.__wab_instance {
+  }
+}
+.Article__badge__KeH39.__wab_instance {
+  position: relative;
+}
+.Article__badge__tO7BC.__wab_instance {
+  position: relative;
+}

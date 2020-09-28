@@ -1,0 +1,222 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox"
+  },
+  "style": {
+    "scheme": "css",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "./src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+      "projectName": "Site layout",
+      "version": "latest",
+      "cssFilePath": "plasmic/site_layout/plasmic_site_layout.css",
+      "components": [
+        {
+          "id": "-L2AeWmd9I",
+          "name": "Section",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicSection.jsx",
+          "importSpec": {
+            "modulePath": "Section.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicSection.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "2K6EDJzV0q",
+          "name": "ListItem",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicListItem.jsx",
+          "importSpec": {
+            "modulePath": "ListItem.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicListItem.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "Zh0Xu99edL",
+          "name": "Badge",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicBadge.jsx",
+          "importSpec": {
+            "modulePath": "Badge.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicBadge.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "cOAv4QMHX7",
+          "name": "Award",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicAward.jsx",
+          "importSpec": {
+            "modulePath": "Award.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicAward.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "29WTxWrj0J9",
+          "name": "Layout",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicLayout.jsx",
+          "importSpec": {
+            "modulePath": "Layout.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicLayout.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "jex8yZy-7V",
+          "name": "Card",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicCard.jsx",
+          "importSpec": {
+            "modulePath": "Card.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicCard.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "cLfqUBakSC",
+          "name": "TextContent",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicTextContent.jsx",
+          "importSpec": {
+            "modulePath": "TextContent.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicTextContent.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "HXZAepZU2F",
+          "name": "MenuItem",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicMenuItem.jsx",
+          "importSpec": {
+            "modulePath": "MenuItem.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicMenuItem.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "7JhRlb0B4Y",
+          "name": "Blockquote",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicBlockquote.jsx",
+          "importSpec": {
+            "modulePath": "Blockquote.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicBlockquote.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "xQNaB3lXQB",
+          "name": "Code",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicCode.jsx",
+          "importSpec": {
+            "modulePath": "Code.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicCode.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "5P9Z-2oNX3",
+          "name": "TagList",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicTagList.jsx",
+          "importSpec": {
+            "modulePath": "TagList.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicTagList.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "VqtJtITmmH",
+          "name": "Comments",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicComments.jsx",
+          "importSpec": {
+            "modulePath": "Comments.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicComments.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "3RgVkGyAq0r",
+          "name": "Article",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicArticle.jsx",
+          "importSpec": {
+            "modulePath": "Article.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicArticle.css",
+          "scheme": "blackbox"
+        }
+      ],
+      "icons": [
+        {
+          "id": "LnEYthlvR",
+          "name": "AwardsvgIcon",
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Awardsvg.tsx"
+        },
+        {
+          "id": "tCt3kPm8k",
+          "name": "GitlabsvgIcon",
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Gitlabsvg.tsx"
+        },
+        {
+          "id": "Ws255ApOB",
+          "name": "TwitterIcon",
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Twitter.tsx"
+        },
+        {
+          "id": "2CRUWf376",
+          "name": "GithubIcon",
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Github.tsx"
+        },
+        {
+          "id": "Xch0_c3Sh",
+          "name": "LinkedinIcon",
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Linkedin.tsx"
+        }
+      ],
+      "jsBundleThemes": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "fOWX3a-rE7c",
+        "name": "Screen",
+        "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+        "contextFilePath": "plasmic/PlasmicGlobalVariant__Screen.jsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.57"
+}

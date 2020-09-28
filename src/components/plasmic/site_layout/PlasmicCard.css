@@ -1,0 +1,95 @@
+.Card__root__sLFG1 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  color: #535353;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  display: inline-flex;
+  width: auto;
+  height: auto;
+  flex-direction: row;
+  position: relative;
+}
+.Card__root__sLFG1 > .__wab_flex-container {
+  flex-direction: row;
+  margin-left: calc(0px - 15px);
+  width: calc(100% + 15px);
+}
+.Card__root__sLFG1 > .__wab_flex-container > *,
+.Card__root__sLFG1 > .__wab_flex-container > .__wab_slot > * {
+  margin-left: 15px;
+}
+@media (min-width: 600px) {
+  .Card__root--baseMedium__sLFG1z7huK_MVUpr {
+  }
+}
+@media (min-width: 600px) {
+  .Card__root--baseMedium__sLFG1z7huK_MVUpr > .__wab_flex-container {
+    margin-left: calc(0px - 25px);
+    width: calc(100% + 25px);
+  }
+}
+@media (min-width: 600px) {
+  .Card__root--baseMedium__sLFG1z7huK_MVUpr > .__wab_flex-container > *,
+  .Card__root--baseMedium__sLFG1z7huK_MVUpr
+    > .__wab_flex-container
+    > .__wab_slot
+    > * {
+    margin-left: 25px;
+  }
+}
+.Card__avatar__ndFwz {
+  position: relative;
+  object-fit: cover;
+  width: 120px;
+  height: auto;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  left: auto;
+  top: auto;
+  flex-shrink: 0;
+}
+@media (min-width: 600px) {
+  .Card__avatar--baseMedium__ndFwzz7huK_MVUpr {
+    width: 160px;
+    flex-shrink: 0;
+  }
+}
+.Card__box__jOtdy {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 100%;
+}
+@media (min-width: 600px) {
+  .Card__box--baseMedium__jOtdyz7huK_MVUpr {
+    width: 100%;
+  }
+}
+.Card__slotTitle__qx3ND {
+  font-size: 22px;
+  font-weight: 500;
+}
+@media (min-width: 600px) {
+  .Card__slotTitle--baseMedium__qx3NDz7huK_MVUpr {
+    font-size: 29px;
+  }
+}
+.Card__slotDescription__J1Fg7 {
+  font-size: 15px;
+  font-weight: 300;
+}
+@media (min-width: 600px) {
+  .Card__slotDescription--baseMedium__J1Fg7z7huK_MVUpr {
+    font-size: 20px;
+  }
+}

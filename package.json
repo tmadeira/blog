@@ -5,19 +5,26 @@
   "repository": "tmadeira/tiagomadeira.com",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gray-matter": "^4.0.2",
-    "next": "9.5.3",
-    "raw-loader": "^4.0.1",
+    "@plasmicapp/react-web": "^0.2.5",
+    "gatsby": "^2.24.66",
+    "gatsby-plugin-sass": "^2.3.14",
+    "node-sass": "^4.14.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-katex": "^2.0.2",
-    "react-markdown": "^4.3.1",
     "react-syntax-highlighter": "^13.5.3",
     "remark-math": "^3.0.1"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
   }
 }

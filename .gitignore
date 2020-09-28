@@ -6,12 +6,9 @@
 # testing
 /coverage
 
-# next.js
-/.next/
-/out/
-
-# production
-/build
+# gatsby
+/.cache
+/public
 
 # misc
 .DS_Store

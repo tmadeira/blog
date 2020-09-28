@@ -3,7 +3,8 @@ This site is live in https://tiagomadeira.com/.
 To run/develop locally, use:
 
 ```sh
-$ yarn dev
+$ yarn
+$ yarn develop
 ```
 
-Then access http://localhost:3000/.
+Then access http://localhost:8000/.

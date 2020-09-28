@@ -2,6 +2,7 @@ import React from 'react';
 
 import Badge from '../components/Badge';
 import Card from '../components/Card';
+import Head from '../components/Head';
 import Layout from '../components/Layout';
 import Section from '../components/Section';
 import SectionItem from '../components/SectionItem';
@@ -10,6 +11,8 @@ import TextContent from '../components/TextContent';
 export default function() {
   return (
     <Layout>
+      <Head />
+
       <Card
         title="Tiago Madeira"
         description="Software Engineer"

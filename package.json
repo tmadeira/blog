@@ -16,10 +16,12 @@
   "dependencies": {
     "@plasmicapp/react-web": "^0.2.5",
     "gatsby": "^2.24.66",
+    "gatsby-plugin-react-helmet": "^3.3.12",
     "gatsby-plugin-sass": "^2.3.14",
     "node-sass": "^4.14.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-helmet": "^6.1.0",
     "react-katex": "^2.0.2",
     "react-syntax-highlighter": "^13.5.3",
     "remark-math": "^3.0.1"

@@ -9,6 +9,12 @@ function Layout(props) {
   return <PlasmicLayout
     {...props}
 
+    header={{
+      style: {position: 'fixed'},
+    }}
+
+    title="Tiago Madeira"
+
     menuItem1={<MenuItem to="/">About</MenuItem>}
     menuItem2={<MenuItem to="/blog">Blog</MenuItem>}
   />;

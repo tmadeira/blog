@@ -30,7 +30,7 @@ function PlasmicSection__RenderFunc(props) {
   };
 
   return (
-    <div
+    <section
       data-plasmic-name={"root"}
       data-plasmic-override={overrides.root}
       data-plasmic-root={true}
@@ -40,11 +40,12 @@ function PlasmicSection__RenderFunc(props) {
         "Section__root--baseMedium__1sLjB_2ZOq_MVUpr": true,
         Section__root__1sLjB: true,
         "plasmic-default__all": true,
-        "plasmic-default__div": true
+        "plasmic-default__section": true
       })}
     >
       <div
         className={classNames({
+          "Section__box--baseMedium__ESAna_2ZOq_MVUpr": true,
           Section__box__ESAna: true,
           "plasmic-default__all": true,
           "plasmic-default__div": true
@@ -72,7 +73,9 @@ function PlasmicSection__RenderFunc(props) {
       </div>
 
       <div
+        data-plasmic-wrap-flex-child={true}
         className={classNames({
+          "Section__box--baseMedium__6IQfr_2ZOq_MVUpr": true,
           Section__box__6IQfr: true,
           "plasmic-default__all": true,
           "plasmic-default__div": true
@@ -80,7 +83,7 @@ function PlasmicSection__RenderFunc(props) {
       >
         <PlasmicSlot defaultContents={undefined} value={args.children} />
       </div>
-    </div>
+    </section>
   );
 }
 

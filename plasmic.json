@@ -34,18 +34,6 @@
           "scheme": "blackbox"
         },
         {
-          "id": "2K6EDJzV0q",
-          "name": "ListItem",
-          "type": "managed",
-          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
-          "renderModuleFilePath": "plasmic/site_layout/PlasmicListItem.jsx",
-          "importSpec": {
-            "modulePath": "ListItem.jsx"
-          },
-          "cssFilePath": "plasmic/site_layout/PlasmicListItem.css",
-          "scheme": "blackbox"
-        },
-        {
           "id": "Zh0Xu99edL",
           "name": "Badge",
           "type": "managed",
@@ -175,6 +163,18 @@
             "modulePath": "Article.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicArticle.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "2K6EDJzV0q",
+          "name": "SectionItem",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicSectionItem.jsx",
+          "importSpec": {
+            "modulePath": "SectionItem.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicSectionItem.css",
           "scheme": "blackbox"
         }
       ],

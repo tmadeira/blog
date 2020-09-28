@@ -53,7 +53,7 @@ function PlasmicBadge__RenderFunc(props) {
         })}
       >
         <PlasmicSlot
-          defaultContents={"content"}
+          defaultContents={""}
           value={args.children}
           className={classNames({
             "Badge__slotChildren--baseMedium__86nGwatg_U_MVUpr": true,

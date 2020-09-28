@@ -122,8 +122,10 @@ function PlasmicLayout__RenderFunc(props) {
           </li>
 
           <li
+            data-plasmic-name={"menuItem2"}
+            data-plasmic-override={overrides.menuItem2}
             className={classNames({
-              Layout__li__C_VYS: true,
+              Layout__menuItem2__C_VYS: true,
               "plasmic-default__all": true,
               "plasmic-default__li": true
             })}
@@ -230,6 +232,7 @@ function PlasmicLayout__RenderFunc(props) {
                   "plasmic-default__a": true,
                   "plasmic-default__all": true
                 })}
+                href={"https://github.com/tmadeira/"}
               >
                 <GithubIcon
                   className={classNames({
@@ -257,6 +260,7 @@ function PlasmicLayout__RenderFunc(props) {
                   "plasmic-default__a": true,
                   "plasmic-default__all": true
                 })}
+                href={"https://gitlab.com/tmadeira/"}
               >
                 <GitlabsvgIcon
                   className={classNames({
@@ -283,6 +287,7 @@ function PlasmicLayout__RenderFunc(props) {
                   "plasmic-default__a": true,
                   "plasmic-default__all": true
                 })}
+                href={"https://linkedin.com/in/tmadeira/"}
               >
                 <LinkedinIcon
                   className={classNames({
@@ -309,6 +314,7 @@ function PlasmicLayout__RenderFunc(props) {
                   "plasmic-default__a": true,
                   "plasmic-default__all": true
                 })}
+                href={"https://twitter.com/tmadeira/"}
               >
                 <TwitterIcon
                   className={classNames({
@@ -355,6 +361,7 @@ export const PlasmicLayout = function PlasmicLayoutRoot(props) {
       "h1",
       "menu",
       "menuItem1",
+      "menuItem2",
       "main",
       "wrap",
       "footer",
@@ -377,7 +384,7 @@ export const PlasmicLayout = function PlasmicLayoutRoot(props) {
 PlasmicLayout.header = function PlasmicLayoutHeader(props) {
   const { variants, args, overrides } = deriveRenderOpts(props, {
     name: "header",
-    descendantNames: ["header", "h1", "menu", "menuItem1"],
+    descendantNames: ["header", "h1", "menu", "menuItem1", "menuItem2"],
     internalArgPropNames: PlasmicLayout__ArgProps,
     internalVariantPropNames: PlasmicLayout__VariantProps
   });
@@ -409,7 +416,7 @@ PlasmicLayout.h1 = function PlasmicLayoutH1(props) {
 PlasmicLayout.menu = function PlasmicLayoutMenu(props) {
   const { variants, args, overrides } = deriveRenderOpts(props, {
     name: "menu",
-    descendantNames: ["menu", "menuItem1"],
+    descendantNames: ["menu", "menuItem1", "menuItem2"],
     internalArgPropNames: PlasmicLayout__ArgProps,
     internalVariantPropNames: PlasmicLayout__VariantProps
   });
@@ -435,6 +442,22 @@ PlasmicLayout.menuItem1 = function PlasmicLayoutMenuItem1(props) {
     args,
     overrides,
     forNode: "menuItem1"
+  });
+};
+
+PlasmicLayout.menuItem2 = function PlasmicLayoutMenuItem2(props) {
+  const { variants, args, overrides } = deriveRenderOpts(props, {
+    name: "menuItem2",
+    descendantNames: ["menuItem2"],
+    internalArgPropNames: PlasmicLayout__ArgProps,
+    internalVariantPropNames: PlasmicLayout__VariantProps
+  });
+
+  return PlasmicLayout__RenderFunc({
+    variants,
+    args,
+    overrides,
+    forNode: "menuItem2"
   });
 };
 

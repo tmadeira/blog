@@ -16,9 +16,9 @@ export default function() {
       />
 
       <TextContent>
-        <p>Computer scientist, studying probabilistic AI. Self-employed software engineer after internships at Google, Facebook, Dropbox, and imo.im. Former ACM-ICPC contestant.</p>
+        <p>I'm a computer scientist and I'm currently studying probabilistic AI. Self-employed software engineer after internships at Google, Facebook, Dropbox, and imo.im. Former ACM-ICPC contestant.</p>
 
-        <p style={{fontSize: '0.8em', opacity: 0.6}}>Cientista da computação, estudando IA probabilística. Engenheiro de software trabalhando por conta própria depois de estágios em Google, Facebook, Dropbox e imo.im. Ex-participante de competições de programação.</p>
+        <p style={{fontSize: '0.8em', opacity: 0.6}}>Sou um cientista da computação e atualmente estudo IA probabilística. Engenheiro de software trabalhando por conta própria depois de estágios em Google, Facebook, Dropbox e imo.im. Ex-participante de competições de programação.</p>
       </TextContent>
     </Layout>
   );

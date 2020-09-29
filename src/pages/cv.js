@@ -2,6 +2,7 @@ import React from 'react';
 
 import Award from '../components/Award';
 import Badge from '../components/Badge';
+import Card from '../components/Card';
 import Head from '../components/Head';
 import Layout from '../components/Layout';
 import Section from '../components/Section';
@@ -11,6 +12,11 @@ export default function() {
   return (
     <Layout>
       <Head />
+
+      <Card
+        title="Tiago Madeira"
+        description="Software Engineer"
+      />
 
       <Section title="Education">
         <SectionItem

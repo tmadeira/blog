@@ -17,7 +17,6 @@ export default function Layout(props) {
     title={<Link to="/">Tiago Madeira</Link>}
 
     menu={<>
-      <MenuItem to="/">Home</MenuItem>
       <MenuItem to="/blog">Blog</MenuItem>
       <MenuItem to="/cv">CV</MenuItem>
     </>}

@@ -15,8 +15,8 @@ tags:
   - olimpíadas
   - programação
   - unicamp
-
 ---
+
 Hoje chega ao fim o Curso de Programação Avançada dos premiados na OBI2005 aqui na UNICAMP. Durante essa semana aprendi bastante e não tive tempo pra fóruns, e-mail e IMs. Então, se você foi um cara que “ficou no vácuo”, saiba que não foi uma coisa intencional. Mas vamos ao que interessa!
 
 Achei muito legal o curso e vou ter coisas pra estudar até a OBI do ano que vem. Vou falar um pouco sobre a aula teórica de cada dia.

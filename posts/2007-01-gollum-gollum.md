@@ -17,8 +17,8 @@ tags:
   - prisão
   - saddam
   - sociedade
-
 ---
+
 ![Prisão de Guantanamo](/wp-content/uploads/2007/01/guantanamo.jpg)
 
 > NAÇÕES UNIDAS (Reuters) – O novo secretário-geral da ONU, Ban Ki-moon, acredita que a prisão norte-americana de Guantánamo, em Cuba, deveria ser desativada, disse ele em uma coletiva de imprensa na quinta-feira.
@@ -43,9 +43,8 @@ Esse é nosso [mundo][8]…
 
 <small>O título refere-se à história de <a href="http://pt.wikipedia.org/wiki/J.R.R._Tolkien">Tolkien</a>, <a href="http://pt.wikipedia.org/wiki/O_Senhor_dos_An%C3%A9is">O Senhor dos Anéis</a>, uma metáfora do mundo real onde os homens são fracos e são dominados pela vontade de dominar o outro e pela necessidade de ter poder.</small>
 
- [1]: http://www.alertnet.org/thenews/newsdesk/N11391231.htm
- [2]: http://pt.wikipedia.org/wiki/Conven%C3%A7%C3%A3o_de_Genebra
- [3]: http://www.bloomberg.com/apps/news?pid=20601087&sid=ad0o2Ib7CN7Q
- [4]: http://http://pt.wikipedia.org/wiki/Um_Anel
- [8]: /2006/12/a-necessidade-de-ter-dinheiro/
-
+[1]: http://www.alertnet.org/thenews/newsdesk/N11391231.htm
+[2]: http://pt.wikipedia.org/wiki/Conven%C3%A7%C3%A3o_de_Genebra
+[3]: http://www.bloomberg.com/apps/news?pid=20601087&sid=ad0o2Ib7CN7Q
+[4]: http://http://pt.wikipedia.org/wiki/Um_Anel
+[8]: /2006/12/a-necessidade-de-ter-dinheiro/

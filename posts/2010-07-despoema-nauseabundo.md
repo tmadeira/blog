@@ -9,8 +9,8 @@ tags:
   - náusea
   - recursão
   - twitter
-
 ---
+
 <small>Inspirado por <a href="http://twitter.com/_julinha/status/19967097088">esse tuíte</a>.</small>
 
 A ignorância me dá náuseas.

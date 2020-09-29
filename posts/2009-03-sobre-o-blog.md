@@ -8,8 +8,8 @@ categorias:
 tags:
   - história
   - Metablogagem
-
 ---
+
 Mantenho um blog desde 2004. É uma maneira interessante de exercitar a escrita, a criatividade e encontrar pessoas com gostos semelhantes. Já fiz vários amigos blogando. O [meu antigo blog][1] chegou a ser o segundo resultado do Google ao procurar por _“tiago”_. Tive vários leitores. Até que cansei de escrever.
 
 O problema de escrever durante anos no mesmo blog é que o blogueiro muda. Em cinco anos minha forma de pensar e de agir mudou, meus gostos mudaram e por isso não fazia sentido continuar escrevendo naquele blog. Meu jeito de escrever mudou. Foi por isso tudo que cansei de escrever lá.
@@ -24,6 +24,5 @@ Antes que eu me alongue muito, peço desculpas porque meu português está terr�
 
 Sem mais delongas, seja bem-vindo e sinta-se em casa.
 
- [1]: /
- [2]: http://1001gatos.org/ "1001 Gatos de Schrödinger"
-
+[1]: /
+[2]: http://1001gatos.org/ "1001 Gatos de Schrödinger"

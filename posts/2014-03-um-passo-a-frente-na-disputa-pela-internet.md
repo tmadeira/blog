@@ -14,8 +14,8 @@ tags:
   - marco civil
   - neutralidade
   - Software Livre
-
 ---
+
 A aprovação do Marco Civil da Internet na Câmara foi uma grande vitória. O projeto, cuja criação contou com a participação de ativistas digitais e movimentos pela democratização da mídia, é pedagógico. Pela positiva, mostra como o Estado deve tratar a Internet: fazendo uma guerra contra as empresas de telecomunicações para defender seus usuários, não se aliando a elas para nos vigiar e censurar.
 
 O destaque dado ao [princípio da neutralidade][1] no texto coloca o Brasil na vanguarda de um debate que tem sido travado por todo o planeta. A rede deve ser aberta e seus roteadores não devem poder discriminar o tráfego que encaminham a fim de aumentarem o lucro dos provedores de serviço. Isso é importante porque permite que a Internet seja construída coletivamente e usada para todo tipo de comunicação independentemente do quanto se paga para se estar dentro dela.
@@ -34,4 +34,4 @@ Além disso, é urgente intensificar a campanha de solidariedade a Snowden. A vi
 
 <small>Publicado originalmente no <a href="https://juntos.org.br/2014/03/um-passo-a-frente-na-disputa-pela-internet/">Juntos</a>.</small>
 
- [1]: http://juntos.org.br/2014/03/pela-aprovacao-do-marco-civil-da-internet-com-o-principio-da-neutralidade/
+[1]: http://juntos.org.br/2014/03/pela-aprovacao-do-marco-civil-da-internet-com-o-principio-da-neutralidade/

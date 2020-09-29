@@ -14,8 +14,8 @@ tags:
   - uganda
   - vim
   - windows
-
 ---
+
 A maioria das pessoas que ouvem “software livre” ou “free software”, se é que já viram esse termo antes, imaginam um programa de computador gratuito. A filosofia por trás do _software livre_ vai muito além disso, mas não é meu objetivo nesse _post_ falar dela. Meu objetivo é falar sobre o projeto de Bram Mooleenar, criador e mantenedor de um dos editores de texto para programadores mais populares do mundo, o [Vim][1].
 
 [Bram][2] criou uma organização não-governamental para ajudar as crianças que sofrem com o alto índice de HIV no sul da Uganda, na África. Ele desenvolve o Vim a troco de doações para esta fundação, a [ICCF][3].
@@ -28,7 +28,6 @@ Enquanto isso, o bilionário Bill Gates é premiado e agraciado por ser o “cid
 
 Ótimo… Eu não entendo mais nada.
 
- [1]: http://www.vim.org/
- [2]: http://www.moolenaar.net/
- [3]: http://iccf-holland.org/
-
+[1]: http://www.vim.org/
+[2]: http://www.moolenaar.net/
+[3]: http://iccf-holland.org/

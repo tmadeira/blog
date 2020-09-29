@@ -16,11 +16,11 @@ tags:
   - política
   - revolução
   - terrorismo poético
-
 ---
+
 > Não há transformação, revolução, luta, caminho. Você já é o monarca de sua própria pele – sua liberdade inviolável espera ser completa apenas pelo amor de outros monarcas: uma política de sonho, urgente como o azul do céu.
 
 ([Hakim Bey][1] em [Caos][2])
 
- [1]: http://pt.wikipedia.org/wiki/Hakim_Bey
- [2]: http://1001gatos.org/caos-de-hakim-bey/
+[1]: http://pt.wikipedia.org/wiki/Hakim_Bey
+[2]: http://1001gatos.org/caos-de-hakim-bey/

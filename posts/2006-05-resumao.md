@@ -18,8 +18,8 @@ tags:
   - veja
   - windows
   - xfce
-
 ---
+
 ### Segunda Fase da OBI2006
 
 Sábado foi a [OBI][1] em Blumenau. A prova estava cansativa e _difícil pra caramba_… Na minha opinião, o nível de dificuldade foi semelhante a da Seletiva para IOI do ano passado.
@@ -44,10 +44,9 @@ Finalizado esse passo, reiniciei o computador bootando pelo CD do Slackware 10.0
 
 Esse ano vai acontecer pela primeira vez o [DNA][6]. É um dia com várias provas (segundo eles, _quase impossíveis_) solucionadas pela internet por equipes de cinco componentes. Tem prêmios para os três melhores colocados e já inscrevi minha equipe. A inscrição custa R\$ 50,00. Quem puder, participe! É uma oportunidade legal…
 
- [1]: http://olimpiada.ic.unicamp.br
- [2]: http://falcon-dark.blogspot.com
- [3]: http://falcon-dark.blogspot.com/2006/05/para-o-pblico-e-o-privado-sem.html
- [4]: http://vejaonline.abril.com.br
- [5]: http://www.slackware.com
- [6]: http://www.dna2006.org/ "Desafio Nacional Acadêmico"
-
+[1]: http://olimpiada.ic.unicamp.br
+[2]: http://falcon-dark.blogspot.com
+[3]: http://falcon-dark.blogspot.com/2006/05/para-o-pblico-e-o-privado-sem.html
+[4]: http://vejaonline.abril.com.br
+[5]: http://www.slackware.com
+[6]: http://www.dna2006.org/ "Desafio Nacional Acadêmico"

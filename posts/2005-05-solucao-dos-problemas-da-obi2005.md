@@ -19,8 +19,8 @@ tags:
   - problemas
   - programação
   - trilhas
-
 ---
+
 Agora que eu acho que todas as escolas já submeteram as soluções dos problemas da Programação Nível 1 da OBI desse ano, estou publicando minhas quatro soluções, em C.
 
 ### Frota de Táxi
@@ -257,4 +257,3 @@ O último deles (Trilhas) tá meio problemático. Tá fazendo um monte de coisa 
 O do Duende é o mais interessante. Os outros dois não tiveram muita graça. O Trilhas também era bem fácil, mas inesperadamente o meu cérebro deu um **Segmentation Fault** quando fui fazer ele.
 
 Gostaria que se alguém achasse algum erro em algum dos scripts me avisasse. O pessoal da OBI ainda não divulgou um gabarito pra testar os programas e nem o resultado. Acredito que semana que vem deve sair alguma coisa...
-

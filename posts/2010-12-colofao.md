@@ -10,8 +10,8 @@ tags:
   - linux
   - livro
   - Software Livre
-
 ---
+
 > Adverte-se aos curiosos que se imprimiu esta obra nas oficinas da gráfica Vida&Consciência em 16 de julho de 2009, em papel off-set 90 gramas, composta em tipologia Walbaum Monotype de corpo oito a treze e Courier de corpo sete, em plataforma Linux (Gentoo, Ubuntu), com os softwares livres $\textrm{LaTeX}$, $\textrm{DeTeX}$, Vim, Evince, Pdftk, Aspell, SVN e TRAC.
 
 <small>Da contracapa de uma bela edição de “Viagem em volta do meu quarto” (Xavier de Maistre) publicada pela <a href="http://www.hedra.com.br/">Editora Hedra</a>.</small>

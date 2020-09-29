@@ -1,5 +1,5 @@
 ---
-title: 'Ataque, não: protesto!'
+title: "Ataque, não: protesto!"
 type: post
 date: 2011-07-04T15:50:13+00:00
 url: /2011/07/ataque-nao-protesto/
@@ -13,8 +13,8 @@ tags:
   - Software Livre
   - stallman
   - wikileaks
-
 ---
+
 por [Richard Stallman][1] ([Free Software Foundation][2])
 
 <small>O Stallman escreveu algo parecido com o que eu estava há semanas sentindo necessidade de escrever. Explica por quê tirar sites do ar não requer inteligência, o que é DDoS e o que é botnet. Não chama os manifestantes de moleques como fazem alguns petistas aqui no Brasil e responsabiliza a vigilância, os interesses capitalistas e os governos pelos protestos. Texto muito interessante. Recomendo!</small>
@@ -57,6 +57,5 @@ No dia em que nossos governos processarem os criminosos de guerra e nos contarem
 
 <small><strong>Tradução:</strong> <a href="http://blogs.estadao.com.br/link/ataque-nao-protesto/">Augusto Calil</a> (um pouco modificada, porque acredito que o tradutor confundiu software livre com software gratuito em alguns pontos)</small>
 
- [1]: http://stallman.org/
- [2]: http://www.fsf.org/
-
+[1]: http://stallman.org/
+[2]: http://www.fsf.org/

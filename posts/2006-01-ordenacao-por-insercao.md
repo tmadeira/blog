@@ -17,8 +17,8 @@ tags:
   - pior caso
   - pseudocódigos
   - vetores
-
 ---
+
 Também conhecida como _Insertion Sort_, a **Ordenação por Inserção** consiste em inserir um elemento $n$ num vetor já ordenado de $n-1$ elementos. Neste artigo, apresento-lhes este simples algoritmo para **ordenação de vetores**.
 
 O pseudocódigo da **ordenação por inserção** é o seguinte:
@@ -65,6 +65,7 @@ Para explicar eu vou fazer uma coisa que sempre faço para corrigir meus algorit
     <td>
       v[6]
     </td>
+
   </tr>
 
   <tr>
@@ -91,6 +92,7 @@ Para explicar eu vou fazer uma coisa que sempre faço para corrigir meus algorit
     <td class="preto">
       5
     </td>
+
   </tr>
 </table>
 
@@ -121,6 +123,7 @@ Aí o código me manda começar com $j=2$ e iterar até o comprimento do vetor (
     <td>
       v[6]
     </td>
+
   </tr>
 
   <tr>
@@ -147,6 +150,7 @@ Aí o código me manda começar com $j=2$ e iterar até o comprimento do vetor (
     <td class="preto">
       5
     </td>
+
   </tr>
 </table>
 
@@ -179,6 +183,7 @@ Bom, meu $i = 1$ é maior que 0. $v[1]=5$ é maior que o <span class="tex-render
     <td>
       v[6]
     </td>
+
   </tr>
 
   <tr>
@@ -205,6 +210,7 @@ Bom, meu $i = 1$ é maior que 0. $v[1]=5$ é maior que o <span class="tex-render
     <td class="preto">
       5
     </td>
+
   </tr>
 </table>
 
@@ -235,6 +241,7 @@ E agora subtrai de **i** um valor. Portanto, <span class="tex-render">i=0</span>
     <td>
       v[6]
     </td>
+
   </tr>
 
   <tr>
@@ -261,6 +268,7 @@ E agora subtrai de **i** um valor. Portanto, <span class="tex-render">i=0</span>
     <td class="preto">
       5
     </td>
+
   </tr>
 </table>
 
@@ -291,6 +299,7 @@ E incrementamos o **j**, agora <span class="tex-render">j=3</span>.
     <td>
       v[6]
     </td>
+
   </tr>
 
   <tr>
@@ -317,6 +326,7 @@ E incrementamos o **j**, agora <span class="tex-render">j=3</span>.
     <td class="preto">
       5
     </td>
+
   </tr>
 </table>
 
@@ -354,6 +364,7 @@ E lá vamos para $j=4$ e continuando até que vamos ter o vetor ordenado:
     <td>
       v[6]
     </td>
+
   </tr>
 
   <tr>
@@ -380,6 +391,7 @@ E lá vamos para $j=4$ e continuando até que vamos ter o vetor ordenado:
     <td>
       8
     </td>
+
   </tr>
 </table>
 
@@ -395,8 +407,7 @@ Acredito que não tenham restado dúvidas. Dê mais uma olhada no algoritmo e te
 
 Você deve ter percebido que este algoritmo não tem um custo fixo. Se todo o vetor estiver ordenado, ele nunca precisará iterar o $i$ e portanto será executado bem mais rápido do que se o vetor estiver inteiro em ordem decrescente (quando ele sempre precisará iterar $i$ até o fim - 0). Então, neste artigo, gostaria-lhes de apresentar a análise de algoritmos baseada em casos. Para este programa, dizemos que:
 
-  * **Melhor caso** é quando todos os elementos já estão ordenados. Custo: <span class="tex-render">\Theta{}(n)</span>
-  * **Pior caso** é quando os elementos estão em ordem decrescente. Custo: <span class="tex-render">\Theta{}(n^{2})</span>
+- **Melhor caso** é quando todos os elementos já estão ordenados. Custo: <span class="tex-render">\Theta{}(n)</span>
+- **Pior caso** é quando os elementos estão em ordem decrescente. Custo: <span class="tex-render">\Theta{}(n^{2})</span>
 
 Em alguns programas o _caso médio_ é importante também, mas não é o caso da **ordenação por inserção**. Vemos que há uma diferença bem grande entre o custo dos dois casos. Por isso, precisamos conhecer onde que nosso algoritmo será implementado e quais as chances de ele ser o melhor ou pior caso. Em geral, o **pior caso** é o mais comum... Por isso, diremos que o custo deste algoritmo é <span class="tex-render">\Theta{}(n^{2})</span>.
-

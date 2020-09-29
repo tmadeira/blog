@@ -18,14 +18,14 @@ tags:
   - notebook
   - reiserfs
   - windows
-
 ---
+
 Comprei [na Fnac][1] no dia 15 de janeiro deste ano um [Amazon PC Slim L92 12”][2] com as seguintes especificações:
 
-  * **Processador:** Intel(R) Core(TM)2 Duo CPU T5750 @ 2.00GHz
-  * **Placa-mãe:** Compal JFT00 (versão da bios: 1.05A)
-  * **Disco rígido:** Samsung HM250JI (250GB)
-  * **Memória RAM:** 4GB DDR2 SODIMM (dois pentes de 2GB)
+- **Processador:** Intel(R) Core(TM)2 Duo CPU T5750 @ 2.00GHz
+- **Placa-mãe:** Compal JFT00 (versão da bios: 1.05A)
+- **Disco rígido:** Samsung HM250JI (250GB)
+- **Memória RAM:** 4GB DDR2 SODIMM (dois pentes de 2GB)
 
 O resto é irrelevante para este post, mas pros _geeks desocupados_ deixo aqui o **lspci** e o **lsusb**:
 
@@ -155,17 +155,16 @@ Creio inclusive que há outros Compal JFT00 (a Intelbras produziu vários desses
 
 Solução? Amanhã telefonarei pra Amazon e incomodarei eles até eles consertarem Alice de vez ou me prometerem um laptop novo. Por sorte Alice ainda está na garantia, que vai até janeiro de 2010. Espero que até lá eu já tenha resolvido tudo isso…
 
- [1]: http://www.fnac.com.br/amz-pc-core-2-duo-t5750-4gb-250gb-dvdrw-tela-12-1-FNAC,,informatica-507195-8427.html
- [2]: http://www.amazonpc.com.br/portal/portal/Amazon-PC-Slim-12-L92-AMZL92T57216P2/D28/?PROD=17
- [4]: https://bugs.launchpad.net/ubuntu/+source/linux/+bug/272530
- [5]: http://forum.notebookreview.com/showthread.php?t=252367
- [6]: http://orkutcidio.deliriocoletivo.org/
- [8]: /wp-content/uploads/2009/08/Alteração-na-configuração-do-Vista-no-L92.doc
- [10]: http://www.funtoo.org/
- [11]: http://www.compal.com/Download/NB/JFT00/BIOS/
- [13]: http://twitter.com/tmadeira/status/3485974146
- [14]: http://dev.funtoo.org/linux/~funtoo/core2/
- [15]: http://bugs.gentoo.org/show_bug.cgi?id=20600
- [16]: http://twitter.com/tmadeira/status/3492868176
- [17]: http://twitter.com/tmadeira/status/3519985264
-
+[1]: http://www.fnac.com.br/amz-pc-core-2-duo-t5750-4gb-250gb-dvdrw-tela-12-1-FNAC,,informatica-507195-8427.html
+[2]: http://www.amazonpc.com.br/portal/portal/Amazon-PC-Slim-12-L92-AMZL92T57216P2/D28/?PROD=17
+[4]: https://bugs.launchpad.net/ubuntu/+source/linux/+bug/272530
+[5]: http://forum.notebookreview.com/showthread.php?t=252367
+[6]: http://orkutcidio.deliriocoletivo.org/
+[8]: /wp-content/uploads/2009/08/Alteração-na-configuração-do-Vista-no-L92.doc
+[10]: http://www.funtoo.org/
+[11]: http://www.compal.com/Download/NB/JFT00/BIOS/
+[13]: http://twitter.com/tmadeira/status/3485974146
+[14]: http://dev.funtoo.org/linux/~funtoo/core2/
+[15]: http://bugs.gentoo.org/show_bug.cgi?id=20600
+[16]: http://twitter.com/tmadeira/status/3492868176
+[17]: http://twitter.com/tmadeira/status/3519985264

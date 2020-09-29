@@ -23,8 +23,8 @@ tags:
   - openft
   - opennap
   - p2p
-
 ---
+
 Todo mundo gosta de assistir filmes, principalmente durante férias ou feriados chuvosos. Se você não tem dinheiro para comprar filmes, acha caro e chato sair para alugar um filme, seus problemas acabaram: ao fim deste artigo você estará qualificado para ser capaz de baixar e assistir qualquer filme (inclusive ainda não lançados aqui no Brasil) sem levantar da sua confortável cadeira de computador.
 
 ### P2P
@@ -105,32 +105,31 @@ Adicionando **-fs -zoom** ao comando **mplayer** você executa o vídeo em tela 
 
 ### Dicas para uma melhor sessão de cinema
 
-  * Tem um amplificador ou um aparelho de som? Compre adaptadores pra ligar a saída da sua placa de som neles. São baratos e o som fica muito melhor.
-  * Se você tiver um laptop ou um computador com uma placa de vídeo que tenha saída S-VIDEO, ligue o computador na TV. A imagem fica ótima e você se sente assistindo a um DVD de verdade.
+- Tem um amplificador ou um aparelho de som? Compre adaptadores pra ligar a saída da sua placa de som neles. São baratos e o som fica muito melhor.
+- Se você tiver um laptop ou um computador com uma placa de vídeo que tenha saída S-VIDEO, ligue o computador na TV. A imagem fica ótima e você se sente assistindo a um DVD de verdade.
 
 ### Links úteis relacionados
 
-  * [Cinecombo][10] (site brasileiro com vários torrents para legenda e um sistema de pedidos de filmes)</a>
-  * [Bittorrent.com][2] (site do cliente oficial e também busca torrents)
-  * [Mininova][5] (indexador de torrents)
-  * [TorrentSpy][11] (outro bom indexador e buscador de torrents)
-  * [Legendas.tv][9] (baixe legendas em português do Brasil)
-  * [Mplayer][12] (player de vídeo para Linux)
+- [Cinecombo][10] (site brasileiro com vários torrents para legenda e um sistema de pedidos de filmes)</a>
+- [Bittorrent.com][2] (site do cliente oficial e também busca torrents)
+- [Mininova][5] (indexador de torrents)
+- [TorrentSpy][11] (outro bom indexador e buscador de torrents)
+- [Legendas.tv][9] (baixe legendas em português do Brasil)
+- [Mplayer][12] (player de vídeo para Linux)
 
 ### Importante! Não seja um fora-da-lei.
 
 Não use o que eu escrevi neste artigo para baixar ilegalmente filmes, livros e outros conteúdos protegidos por copyright, hehe.
 
- [1]: http://gift.sourceforge.net/
- [2]: http://www.bittorrent.com/
- [3]: http://azureus.sourceforge.net/
- [4]: http://www.deluge-torrent.org/
- [5]: http://www.mininova.org/
- [6]: http://www.mininova.org/search/harry+potter+and+the+order+of+the+phoenix/4
- [7]: /2007/07/como-baixar-harry-potter-7/
- [8]: http://www.opensubtitles.org/pt
- [9]: http://www.legendas.tv/
- [10]: http://cinecombo.blogspot.com/
- [11]: http://www.torrentspy.com/
- [12]: http://www.mplayerhq.hu/
-
+[1]: http://gift.sourceforge.net/
+[2]: http://www.bittorrent.com/
+[3]: http://azureus.sourceforge.net/
+[4]: http://www.deluge-torrent.org/
+[5]: http://www.mininova.org/
+[6]: http://www.mininova.org/search/harry+potter+and+the+order+of+the+phoenix/4
+[7]: /2007/07/como-baixar-harry-potter-7/
+[8]: http://www.opensubtitles.org/pt
+[9]: http://www.legendas.tv/
+[10]: http://cinecombo.blogspot.com/
+[11]: http://www.torrentspy.com/
+[12]: http://www.mplayerhq.hu/

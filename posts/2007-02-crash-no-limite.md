@@ -13,16 +13,16 @@ tags:
   - mal vicioso
   - oscar
   - preconceito
-
 ---
+
 Além de publicar [livros][1] com o tema parecido com o do **Mal Vicioso**, resolvemos publicar também sugestões de filmes. Para estrear a categoria, escreverei sobre o filme **Crash – No Limite**.
 
 ![Crash - No Limite](/wp-content/uploads/2007/01/crash.jpg)
 
-  * **Nome original:** Crash
-  * **Diretor:** Paul Haggis
-  * **Nacionalidade:** Estados Unidos
-  * [Link para o IMDB][2]
+- **Nome original:** Crash
+- **Diretor:** Paul Haggis
+- **Nacionalidade:** Estados Unidos
+- [Link para o IMDB][2]
 
 **You think you know who you are. You have no idea.**
 
@@ -32,7 +32,6 @@ A temática é um pouco pesada, abordando de maneira muito interessante alguns a
 
 Sem dúvidas um dos melhores filmes que eu já assisti! Vale a pena comprar ou locar. ;-)
 
- [1]: /categorias/mal-vicioso/livros
- [2]: http://www.imdb.com/title/tt0375679/
- [3]: http://www.imdb.com/title/tt0289879/
-
+[1]: /categorias/mal-vicioso/livros
+[2]: http://www.imdb.com/title/tt0375679/
+[3]: http://www.imdb.com/title/tt0289879/

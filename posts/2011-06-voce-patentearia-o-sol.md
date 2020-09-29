@@ -11,8 +11,8 @@ tags:
   - patentes
   - polio
   - salk
-
 ---
+
 Assisti esses dias **Capitalismo: uma história de amor** do Michael Moore (que, aliás, recomendo muito) e um momento do filme me chamou especial atenção:
 
 > O Dr. Jonas Salk passou todo seu tempo pondo rins de macaco num liquidificador tentando achar a cura para a pólio. Quando conseguiu, ele decidiu fornecê-la de graça. Esse homem podia ter sido muito rico se tivesse vendido sua vacina a uma empresa farmacêutica, mas ele achava que seu talento deveria ser usado para o bem comum e o salário que ele ganhava como médico e professor era suficiente para ele ter uma vida confortável.

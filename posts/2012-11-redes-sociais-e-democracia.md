@@ -12,8 +12,8 @@ tags:
   - publicidade
   - redes sociais
   - televisão
-
 ---
+
 Há alguns meses, muitos administradores de páginas no Facebook reclamaram pela internet que suas páginas estavam começando a levar bem menos visitantes para os seus sites do que de costume. Em alguns casos, as entradas via Facebook teriam caído pela metade, mesmo com a quantidade de curtidas crescendo bastante.
 
 Na época, comentou-se que essa queda no tráfego coincidiu com um novo recurso da rede social chamado [“posts promovidos”][1], através do qual as empresas podem pagar ao Facebook para colocarem o seu conteúdo no feed de notícias de mais usuários.
@@ -46,14 +46,13 @@ A internet é um meio de comunicação inovador e com potencial revolucionário 
 
 Posts promovidos podem parecer pequenos detalhes sem importância. Porém, pensar na utilidade de um recurso como esse na rede social mais utilizada do planeta (que tem cumprido papel tão importante em grandes mobilizações sociais) é muito importante para conhecermos seus limites. O [convite a blogar][11] ganha um novo argumento.
 
- [1]: https://www.facebook.com/help/promote
- [2]: http://arstechnica.com/business/2012/11/is-facebook-broken-on-purpose-to-sell-promoted-posts/
- [3]: http://www.slate.com/blogs/future_tense/2012/10/03/facebook_promoted_posts_pay_7_to_make_sure_friends_see_your_status_update_.html
- [4]: http://rapidinhas.kauekgg.com.br/post/35699387981/promoted-posts-usuarios
- [6]: /2006/01/algoritmos-o-que-e-um-algoritmo/
- [7]: http://www.marketingdigitalblog.com/como-funciona-o-edgerank-do-facebook
- [8]: http://whatisedgerank.com/
- [9]: http://techcrunch.com/2012/02/29/facebook-post-reach-16-friends/
- [10]: http://newsroom.fb.com/News/Testing-Promoted-Posts-for-People-in-the-U-S-1c6.aspx
- [11]: /2012/10/escreva-um-blog-e-compartilhe-suas-ideias/
-
+[1]: https://www.facebook.com/help/promote
+[2]: http://arstechnica.com/business/2012/11/is-facebook-broken-on-purpose-to-sell-promoted-posts/
+[3]: http://www.slate.com/blogs/future_tense/2012/10/03/facebook_promoted_posts_pay_7_to_make_sure_friends_see_your_status_update_.html
+[4]: http://rapidinhas.kauekgg.com.br/post/35699387981/promoted-posts-usuarios
+[6]: /2006/01/algoritmos-o-que-e-um-algoritmo/
+[7]: http://www.marketingdigitalblog.com/como-funciona-o-edgerank-do-facebook
+[8]: http://whatisedgerank.com/
+[9]: http://techcrunch.com/2012/02/29/facebook-post-reach-16-friends/
+[10]: http://newsroom.fb.com/News/Testing-Promoted-Posts-for-People-in-the-U-S-1c6.aspx
+[11]: /2012/10/escreva-um-blog-e-compartilhe-suas-ideias/

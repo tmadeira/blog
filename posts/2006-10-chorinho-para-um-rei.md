@@ -10,13 +10,13 @@ tags:
   - jacob do bandolim
   - letra
   - música
-
 ---
+
 Nunca postei uma música no _blog_, mesmo isso sendo algo comum para vários blogueiros… Porém, dessa vez queria muito publicar a letra dessa música criada pela **Tia Mariinha** em homenagem ao **Jacob do Bandolim** no Festival Nacional do Choro da Bandeirantes em 1977… E resolvi fazer isso por três motivos:
 
-  1. O Jacob é o cara e essa música é muito legal!
-  2. Essa letra só existia no [blog do Bruno Pinheiro][1] até ontem…
-  3. Em [homenagem aos participantes do Desafio Salesiano][2], que [felizmente] foi um sucesso! <small>(e se não tivesse sido, acho que além de eu ter sido xingado e ameaçado de morte, o povo realmente teria me matado! hehehe)</small>
+1. O Jacob é o cara e essa música é muito legal!
+2. Essa letra só existia no [blog do Bruno Pinheiro][1] até ontem…
+3. Em [homenagem aos participantes do Desafio Salesiano][2], que [felizmente] foi um sucesso! <small>(e se não tivesse sido, acho que além de eu ter sido xingado e ameaçado de morte, o povo realmente teria me matado! hehehe)</small>
 
 Chega de enrolação, curtam a letra!
 
@@ -48,6 +48,5 @@ Chega de enrolação, curtam a letra!
 > Quero levar o meu chorinho caprichado
 > Só pra ouvir interpretado por Jacob do Bandolim.
 
- [1]: http://brunopinheiro.com.br/blog/2004_07_01_archive.php
- [2]: http://desafiosalesiano.com/gabarito#95
-
+[1]: http://brunopinheiro.com.br/blog/2004_07_01_archive.php
+[2]: http://desafiosalesiano.com/gabarito#95

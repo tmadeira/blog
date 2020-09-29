@@ -20,16 +20,16 @@ tags:
   - programação
   - pseudocódigos
   - representação
-
 ---
+
 No último artigo, conhecemos a representação chamada “grafo” da seguinte maneira:
 
 ![Grafo desenhado](/wp-content/uploads/2006/01/grafo-225x300.jpg)
 
 Como todos sabemos, seria bem difícil trabalhar uma árvore assim na programação! Por isso, existem várias maneiras de representar um grafo. Nesta série só vou usar as duas mais populares:
 
-  * Matriz de Adjacência
-  * Lista de Adjacência
+- Matriz de Adjacência
+- Lista de Adjacência
 
 Poderíamos falar também sobre a **Matriz de Incidência**, mas eu nunca precisei utilizá-la, então prefiro só entrar nessas duas mesmo.
 
@@ -37,11 +37,11 @@ Poderíamos falar também sobre a **Matriz de Incidência**, mas eu nunca precis
 
 Para representar um grafo, cada vértice **sempre** vai ser um número. No caso de você querer representar amizade entre duas pessoas, como no exemplo do Orkut no último artigo, você cria um vetor chamado **nome[]** que contém o nome de cada número…
 
-  1. Eu
-  2. João
-  3. Maria
-  4. José
-  5. Pedro
+1. Eu
+2. João
+3. Maria
+4. José
+5. Pedro
 
 ### Matriz de Adjacência
 
@@ -76,6 +76,7 @@ Vamos escrever este [grafo aqui][2] usando uma matriz de adjacência:
     <td>
       <strong>5</strong>
     </td>
+
   </tr>
 
   <tr>
@@ -97,6 +98,7 @@ Vamos escrever este [grafo aqui][2] usando uma matriz de adjacência:
 
     <td>
     </td>
+
   </tr>
 
   <tr>
@@ -118,6 +120,7 @@ Vamos escrever este [grafo aqui][2] usando uma matriz de adjacência:
 
     <td>
     </td>
+
   </tr>
 
   <tr>
@@ -139,6 +142,7 @@ Vamos escrever este [grafo aqui][2] usando uma matriz de adjacência:
 
     <td>
     </td>
+
   </tr>
 
   <tr>
@@ -160,6 +164,7 @@ Vamos escrever este [grafo aqui][2] usando uma matriz de adjacência:
 
     <td>
     </td>
+
   </tr>
 
   <tr>
@@ -181,6 +186,7 @@ Vamos escrever este [grafo aqui][2] usando uma matriz de adjacência:
 
     <td>
     </td>
+
   </tr>
 </table>
 
@@ -188,11 +194,11 @@ Vamos escrever este [grafo aqui][2] usando uma matriz de adjacência:
 
 Já que o grafo não é orientado, a relação **1–2** significa **2–1** também.
 
-  * 1–2 (2–1)
-  * 1–3 (3–1)
-  * 2–3 (3–2)
-  * 2–4 (4–2)
-  * 4–5 (5–4)
+- 1–2 (2–1)
+- 1–3 (3–1)
+- 2–3 (3–2)
+- 2–4 (4–2)
+- 4–5 (5–4)
 
 Essas são as **cinco arestas** do nosso grafo. Vamos representá-la na **matriz de adjacência**:
 
@@ -272,6 +278,7 @@ Essas são as **cinco arestas** do nosso grafo. Vamos representá-la na **matriz
 
     <td>
     </td>
+
   </tr>
   <tr>
     <td>
@@ -294,6 +301,7 @@ Essas são as **cinco arestas** do nosso grafo. Vamos representá-la na **matriz
     <td class="preto">
       1
     </td>
+
   </tr>
   <tr>
     <td>
@@ -315,6 +323,7 @@ Essas são as **cinco arestas** do nosso grafo. Vamos representá-la na **matriz
 
     <td>
     </td>
+
   </tr>
 </table>
 
@@ -326,16 +335,16 @@ Uma das características da matriz de adjacência quando o grafo não é orienta
 
 Alguns desses programas são complicados, mas isto não entra em questão. Apenas dê uma olhada no recebimento da entrada deles. Todos estão em **C**. O que eles têm em comum é a utilização de uma **matriz de adjacência** para guardar o grafo (geralmente nomeada **g**):
 
-  * [Ambulância][3]
-  * [Batuíra][4] +
-  * [Carga Pesada][5] * +
-  * [Dengue][6]
-  * [Dominó][7]
-  * [Manutenção][8]
-  * [Número de Erdos][9] X
-  * [Orkut][10] *
-  * [Pedágio][11]
-  * [Rede Ótica][12]
+- [Ambulância][3]
+- [Batuíra][4] +
+- [Carga Pesada][5] \* +
+- [Dengue][6]
+- [Dominó][7]
+- [Manutenção][8]
+- [Número de Erdos][9] X
+- [Orkut][10] \*
+- [Pedágio][11]
+- [Rede Ótica][12]
 
 \* – **Grafo orientado**  
 \+ – **Grafo ponderado** (veremos no próximo artigo)  
@@ -386,6 +395,7 @@ A **lista de adjacência** consiste em criar um vetor para cada vértice. Este v
     <td>
       <strong>5</strong>
     </td>
+
   </tr>
 
   <tr>
@@ -412,6 +422,7 @@ A **lista de adjacência** consiste em criar um vetor para cada vértice. Este v
     <td>
        
     </td>
+
   </tr>
 
   <tr>
@@ -438,6 +449,7 @@ A **lista de adjacência** consiste em criar um vetor para cada vértice. Este v
     <td>
        
     </td>
+
   </tr>
 
   <tr>
@@ -464,6 +476,7 @@ A **lista de adjacência** consiste em criar um vetor para cada vértice. Este v
     <td>
        
     </td>
+
   </tr>
 
   <tr>
@@ -490,6 +503,7 @@ A **lista de adjacência** consiste em criar um vetor para cada vértice. Este v
     <td>
        
     </td>
+
   </tr>
 
   <tr>
@@ -516,16 +530,17 @@ A **lista de adjacência** consiste em criar um vetor para cada vértice. Este v
     <td>
        
     </td>
+
   </tr>
 </table>
 
 A lista consiste em escrever para cada número de linha (= vértice) seus amigos, da seguinte maneira:
 
-  1. 2, 3
-  2. 1, 3, 4
-  3. 1, 2
-  4. 2, 5
-  5. 4
+1. 2, 3
+2. 1, 3, 4
+3. 1, 2
+4. 2, 5
+5. 4
 
 Portanto, na programação seria representado da seguinte maneira:
 
@@ -554,6 +569,7 @@ Portanto, na programação seria representado da seguinte maneira:
     <td>
       <strong>5</strong>
     </td>
+
   </tr>
 
   <tr>
@@ -580,6 +596,7 @@ Portanto, na programação seria representado da seguinte maneira:
     <td>
        
     </td>
+
   </tr>
 
   <tr>
@@ -606,6 +623,7 @@ Portanto, na programação seria representado da seguinte maneira:
     <td>
        
     </td>
+
   </tr>
 
   <tr>
@@ -632,6 +650,7 @@ Portanto, na programação seria representado da seguinte maneira:
     <td>
        
     </td>
+
   </tr>
 
   <tr>
@@ -658,6 +677,7 @@ Portanto, na programação seria representado da seguinte maneira:
     <td>
        
     </td>
+
   </tr>
 
   <tr>
@@ -684,6 +704,7 @@ Portanto, na programação seria representado da seguinte maneira:
     <td>
        
     </td>
+
   </tr>
 </table>
 
@@ -745,18 +766,17 @@ Isso depende totalmente do problema. Em alguns casos, o mais barato é usar as *
 
 Até maio do ano passado, eu não tinha aprendido isso direito e sempre usava a matriz de adjacências. Por isso muitos dos meus problemas estão resolvidos de forma pouco eficiente… e isso pode ser crucial numa prova. Por isso, saiba usar as duas formas!
 
- [2]: #ex1
- [3]: /wp-content/uploads/c/ambulancia.c
- [4]: /wp-content/uploads/c/batuira.c
- [5]: /wp-content/uploads/c/carga.c
- [6]: /wp-content/uploads/c/dengue.c
- [7]: /wp-content/uploads/c/domino.c
- [8]: /wp-content/uploads/c/manutencao.c
- [9]: /wp-content/uploads/c/numeroerdos.c
- [10]: /wp-content/uploads/c/orkut.c
- [11]: /wp-content/uploads/c/pedagio.c
- [12]: /wp-content/uploads/c/redeotica.c
- [13]: http://www.orkut.com
- [14]: #probma
- [15]: #vantagensl
-
+[2]: #ex1
+[3]: /wp-content/uploads/c/ambulancia.c
+[4]: /wp-content/uploads/c/batuira.c
+[5]: /wp-content/uploads/c/carga.c
+[6]: /wp-content/uploads/c/dengue.c
+[7]: /wp-content/uploads/c/domino.c
+[8]: /wp-content/uploads/c/manutencao.c
+[9]: /wp-content/uploads/c/numeroerdos.c
+[10]: /wp-content/uploads/c/orkut.c
+[11]: /wp-content/uploads/c/pedagio.c
+[12]: /wp-content/uploads/c/redeotica.c
+[13]: http://www.orkut.com
+[14]: #probma
+[15]: #vantagensl

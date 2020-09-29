@@ -16,8 +16,8 @@ tags:
   - viagens
   - wai
   - wordpress
-
 ---
+
 Estou em **Florianópolis** e passarei aqui mais uma semana, o que é excelente. Agora estou na casa da minha tia, que, além de ficar do lado da praia, tem ADSL (e uma placa de rede sobrando no computador para o laptop aproveitar a internet… :))
 
 Eu planejava postar um artigo por dia da [Série Algoritmos][1], mas o artigo que estou escrevendo agora é a parte de algoritmos que eu considero a mais complicada (muito mais complicada que os algoritmos em si que vamos estudar depois): **análise de algoritmos**. E estou fazendo um esforço para deixar a parte matemática bem leve e introduzir essa matéria de maneira bem simples, por isso a demora.
@@ -34,6 +34,5 @@ Adicionei um link para meus **feeds** no Bloglines também e dei uma arrumada na
 
 Espero que estejam gostando das mudanças… Agora estou me preparando para mudanças mais radicais, como transformar o site inteiro em Ajax (o que não é difícil no WordPress, mas vou esperar no mínimo esperar a série de **algoritmos** pra não ficar atrasado com ela)
 
- [1]: /tags/algoritmos/
- [2]: http://www.broobles.com/scripts/simpletags/
-
+[1]: /tags/algoritmos/
+[2]: http://www.broobles.com/scripts/simpletags/

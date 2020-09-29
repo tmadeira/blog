@@ -14,8 +14,8 @@ tags:
   - palavras cruzadas
   - problemas
   - programação
-
 ---
+
 Acabei de resolver o problema **Palavras Cruzadas**; até agora foi o mais difícil da OBI 1999 (ainda que fácil se comparado a problemas de outras OBIs mais recentes, como Rede Ótica e Orkut):
 
 <div>
@@ -146,4 +146,4 @@ Consegui convencer dois amigos a usarem Firefox mostrando o meu post sobre o Fot
 
 No mais, nada...
 
- [1]: /2005/02/falha-no-fotolognet/
+[1]: /2005/02/falha-no-fotolognet/

@@ -12,8 +12,8 @@ tags:
   - hipocrisia
   - religião
   - sociedade
-
 ---
+
 > RAFAEL VC É UM IDIOTA AO QUADRADO MANIPULADO PELO CAPETA.A JUSTIÇA DOS HOMENS É FALHA A DEUS NUNCA FALHA E VC GUSTAVO NÃO PASSA DE UM IDIOTA QUE PELO JEITO VIVE GASTANDO O SEU DINHEIRO COM COISAS QUE NÃO ACRESCENTAM NADA NA SUA VIDA.
 
 > SOU RENASCER ATÉ MORRER !!! ESPADA PELO SENHOR PELO APÓSTOLO PELA BISPA E PELA RENASCER!!!
@@ -52,11 +52,10 @@ Dá pra fazer uma série sobre religião, falando sobre a grana da Igreja Catól
 
 Eu posso me contradizer se você me der um bom motivo pra acreditar em outra coisa, mas pra mim essas religiões tratam-se de _filosofia for dummies_. Relaxem religiosos, curtam a vida e sejam felizes!
 
- [1]: http://novo-mundo.org/log/2006/12/01/dono-da-renascer-vai-rezar-na-cadeia/
- [2]: http://www.youtube.com/results?search_query=itaja%C3%AD+francelino
- [3]: http://pt.wikipedia.org/wiki/Igreja_Bola_de_Neve
- [4]: /2006/10/blog-pagao/
- [5]: http://1001gatos.org/5/
- [6]: http://pt.wikipedia.org/wiki/O_C%C3%B3digo_da_Vinci
- [7]: http://1001gatos.org/
-
+[1]: http://novo-mundo.org/log/2006/12/01/dono-da-renascer-vai-rezar-na-cadeia/
+[2]: http://www.youtube.com/results?search_query=itaja%C3%AD+francelino
+[3]: http://pt.wikipedia.org/wiki/Igreja_Bola_de_Neve
+[4]: /2006/10/blog-pagao/
+[5]: http://1001gatos.org/5/
+[6]: http://pt.wikipedia.org/wiki/O_C%C3%B3digo_da_Vinci
+[7]: http://1001gatos.org/

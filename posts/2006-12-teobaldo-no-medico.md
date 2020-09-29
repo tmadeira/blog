@@ -12,8 +12,8 @@ tags:
   - teobaldo
   - vida
   - ze4610us
-
 ---
+
 Hoje a tarde deixei o [Teobaldo][1] no [hospital][2]. É um posto autorizado da [HP][3] em São José (aqui do lado de Floripa). Não sei se a médica é boa, mas ela vai precisar de quatro dias úteis pra diagnosticar o pobrezinho.
 
 Amanhã viajo para um _fim de mundo_ (leia-se: local sem banda larga). Volto no mínimo no dia 02 de janeiro… Mas é claro que o _post_ da virada já está programado!
@@ -24,12 +24,11 @@ As pessoas [têm dito][6] que eu preciso de terapia, só porque eu penso besteir
 
 Rezem pelo laptop. Além da saudade da Carol, meu brinquedo preferido ainda tá estragado… Esse 2007 não tá começando muito bem não… Mas eu vou de preto pra virada de ano pra ver se ajuda!
 
- [1]: http://www.flickr.com/photos/tiago/tags/laptop
- [2]: http://www.seprol.com.br/
- [3]: http://www.hp.com.br/
- [4]: http://1001gatos.org/
- [5]: http://1001gatos.org/ano2007/
- [6]: /2006/12/cinco-evidencias-de-que-o-tiago-e-louco/#comments
- [7]: http://malvicioso.com/
- [8]: http://br.groups.yahoo.com/group/blogosfera/
-
+[1]: http://www.flickr.com/photos/tiago/tags/laptop
+[2]: http://www.seprol.com.br/
+[3]: http://www.hp.com.br/
+[4]: http://1001gatos.org/
+[5]: http://1001gatos.org/ano2007/
+[6]: /2006/12/cinco-evidencias-de-que-o-tiago-e-louco/#comments
+[7]: http://malvicioso.com/
+[8]: http://br.groups.yahoo.com/group/blogosfera/

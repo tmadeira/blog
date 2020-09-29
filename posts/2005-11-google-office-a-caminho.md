@@ -14,8 +14,8 @@ tags:
   - microsoft
   - web
   - web 2.0
-
 ---
+
 Saiu lá no [blog do Falcon Dark][1]: [“O Próximo Assalto”][2]. O Fábio fala de forma muito intereressante sobre a nova era que estamos entrando com a [Web 2.0][3] e o [Google][4] se preparando para o confronto final contra a [Microsoft][5]. Embora meus artigos velhos ainda nem estejam funcionando no [novo WordPress][6] (e muito menos os comentários!), é um assunto que merece meu comentário.
 
 O post do **Falcon Dark** fala sobre o custo e a dificuldade que a Microsoft teria pra poder competir com o _“Google Office”_ (ou faria um Office on-line gratuito, e aí só ia manter o monopólio no sistema operacional). Se pensarmos dessa maneira, realmente a Microsoft terá pouco tempo de vida (o que seria ótimo, né? Hehehe… Adeus monopólio!).
@@ -26,11 +26,10 @@ Isso por enquanto seria um pouco difícil somente por causa da velocidade de con
 
 Bom… As possibilidades são muitas. São coisas que há pouco tempo atrás não pareciam possíveis… Já estou me imaginando no ano que vem escrevendo meu perfil no Orkut usando o Office!
 
- [1]: http://falcon-dark.blogspot.com
- [2]: http://falcon-dark.blogspot.com/2005/11/o-prximo-assalto.html
- [3]: http://en.wikipedia.org/wiki/Web_2.0
- [4]: http://www.google.com
- [5]: http://www.microsoft.com
- [6]: /2005/10/mudanca-de-servidor/
- [7]: http://www.google.com/webhp?complete=1&hl=en
-
+[1]: http://falcon-dark.blogspot.com
+[2]: http://falcon-dark.blogspot.com/2005/11/o-prximo-assalto.html
+[3]: http://en.wikipedia.org/wiki/Web_2.0
+[4]: http://www.google.com
+[5]: http://www.microsoft.com
+[6]: /2005/10/mudanca-de-servidor/
+[7]: http://www.google.com/webhp?complete=1&hl=en

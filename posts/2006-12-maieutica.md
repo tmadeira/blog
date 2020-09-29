@@ -12,8 +12,8 @@ tags:
   - religião
   - sentido da vida
   - verdade
-
 ---
+
 > “Lá de onde eu venho”, explicou ele, “nós sempre fazemos uma reverência quando alguém faz uma pergunta fascinante”.
 >
 > […]
@@ -46,7 +46,6 @@ As sociedade tenta nos responder as perguntas, afim de nos fazer compreender o m
 
 O fato é que, daqui a alguns anos, com certeza haverá gente rindo da nossa ignorância com uma nova filosofia baseada em outras premissas. **Será que um dia saberemos “a verdade”?** Não sei, mas não farei uma reverência para a sua resposta.
 
- [1]: http://en.wikipedia.org/wiki/Jostein_Gaarder
- [2]: http://pt.wikipedia.org/wiki/Sócrates
- [3]: http://en.wikipedia.org/wiki/E._E._Evans-Pritchard
-
+[1]: http://en.wikipedia.org/wiki/Jostein_Gaarder
+[2]: http://pt.wikipedia.org/wiki/Sócrates
+[3]: http://en.wikipedia.org/wiki/E._E._Evans-Pritchard

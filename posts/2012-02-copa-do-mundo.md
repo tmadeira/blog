@@ -12,8 +12,8 @@ tags:
   - eua
   - ingressos
   - palo alto
-
 ---
+
 Na primeira vez que fui pra empresa, topei com um cara simpático que trabalha no andar de cima. Acho que seu nome é Nicholas, mas não que isso seja relevante. Perguntei pra ele alguma coisa e ele me ajudou a chegar na porta da empresa. Na saída do trabalho, hoje, ele me viu de longe e perguntou se deu certo o trabalho e como estavam as coisas. Conversa padrão e tudo está fine, cool e nice. Interessante foi a continuação da conversa.
 
 _“Qual o site mais famoso do Brasil pra compra e venda de tickets?”_ Primeiro eu entendi passagens aéreas, então falei do decolar.com e do submarinoviagens.com.br. Ao entender que a pergunta tratava de ingressos (pra shows, ele disse então), falei do ingresso.com.br. _“Ingresso é ticket em português, falei.”_ Ele respondeu, pra minha surpresa: _“Eu sei”_. Pra fazer a conversa fluir, continuei dizendo, voluntariamente, que há sites também onde as pessoas compram ingressos de futebol como o ingressofacil.com.br.
@@ -23,4 +23,3 @@ Ele não falou nada, mas pareceu muito interessado e pareceu ter anotado o ender
 Estranhando bastante a conversa, perguntei então o porquê. Enfim, mistério resolvido: ele falou que está estudando o Brasil por causa da Copa do Mundo e das Olimpíadas. Não é incrível? É a segunda vez em dois dias que alguém me pergunta algo sobre a Copa de 2014.
 
 _“Bom… De fato acho que dá pra ganhar muito dinheiro com a Copa.”_ foi a última coisa que falei, contemplativo, antes de nos despedirmos.
-

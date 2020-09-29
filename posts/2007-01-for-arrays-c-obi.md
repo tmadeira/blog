@@ -1,5 +1,5 @@
 ---
-title: 'for (d=hoje; d<=17/03; d++) { Estude – OBI }'
+title: "for (d=hoje; d<=17/03; d++) { Estude – OBI }"
 type: post
 date: 2007-01-24T13:33:13+00:00
 url: /2007/01/for-arrays-c-obi/
@@ -15,13 +15,13 @@ tags:
   - problemas
   - programação
   - treino
-
 ---
+
 **IMPORTANTE:** Esse post não é recomendado pra quem nunca programou. Escrevi sem pensar neles… :-)
 
 Bom… Existem pessoas que sabem programar e não programam. O difícil na arte de programar é pensar, porque o resto é escrever em inglês e se acostumar com uma sintaxe rigorosa.
 
-Comecei ontem a ensinar um amigo a programar em C para participar da [OBI 2007][1], que foi anunciada nessa semana. Eu poderia ensinar Pascal, que é mais que suficiente para olimpíadas (quem conhece o André Linhares entende o que eu quero dizer…), mas resolvi ensinar C porque eu me embabacaria no Pascal e no C eu vejo os blocos mais “definidos” com as chaves; aqueles _begin_s e _end_s “sujam” o código. E como diz o lema do [sistema desse blog][2], _code is poetry_.
+Comecei ontem a ensinar um amigo a programar em C para participar da [OBI 2007][1], que foi anunciada nessa semana. Eu poderia ensinar Pascal, que é mais que suficiente para olimpíadas (quem conhece o André Linhares entende o que eu quero dizer…), mas resolvi ensinar C porque eu me embabacaria no Pascal e no C eu vejo os blocos mais “definidos” com as chaves; aqueles _begin_s e \_end_s “sujam” o código. E como diz o lema do [sistema desse blog][2], \_code is poetry_.
 
 O [reverendo][3] e meus leitores mais novos devem estar se perguntando: como o Tiago é capaz de fazer essas loucuras? É verdade que fiquei um bom tempo sem escrever sobre programação, mas adoro isso! É lazer pra mim e essa também é a minha profissão, já que eu não consigo viver desse blog (por culpa sua que não clica nos meus anúncios…). Só quando começo a brincar é que lembro como é divertido e acho que é porque eu me sinto “no poder”. :-)
 
@@ -197,7 +197,6 @@ for (i=1; i<=n; i++) {
 
 Ficou claro ou muito confuso? Se deu pra entender isso aí, agora é só mandar a ver no resto do problema! :)
 
- [1]: http://olimpiada.ic.unicamp.br/
- [2]: http://wordpress.org/
- [3]: http://1001gatos.org/
-
+[1]: http://olimpiada.ic.unicamp.br/
+[2]: http://wordpress.org/
+[3]: http://1001gatos.org/

@@ -8,8 +8,8 @@ categorias:
 tags:
   - Metablogagem
   - religião
-
 ---
+
 Estou escrevendo para dizer que não vou mais manter este blog que vai contra os ensinamentos de Deus, agora que o pastor **Kevin D. Deene** me alertou para o perigoso **problema dos blogs**.
 
 > O pastor Kevin D. Denee, de uma igreja evangélica americana, alertou para o problema dos blogs, diários virtuais que vêm se popularizando ano a ano desde sua criação, e que, segundo ele, “vão contra os ensinamentos cristãos e contra Deus”.
@@ -40,10 +40,9 @@ Nossa! Esse problema de vício é muito sério. Agora eu não sei o que é pior:
 
 Se escrever um post irônico sobre um pastor evangélico é ir contra Deus, considero-me culpado.
 
-* * *
+---
 
 Leiam a [notícia do Terra aqui][1] e o [artigo em inglês aqui][2]. =)
 
- [1]: http://tecnologia.terra.com.br/interna/0,,OI1189199-EI4802,00.html
- [2]: http://snurl.com/yq51
-
+[1]: http://tecnologia.terra.com.br/interna/0,,OI1189199-EI4802,00.html
+[2]: http://snurl.com/yq51

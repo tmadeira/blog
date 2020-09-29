@@ -12,8 +12,8 @@ tags:
   - nazismo
   - política
   - ponto de vista
-
 ---
+
 É fato que a história é sempre contada pelos vencedores, que tem um modo nem um pouco imparcial de interpretar os acontecimentos. A mesma pessoa que é considerada para um grupo **traidora** é para outro uma **convertida**. Este pré-conceito aconteceu diversas vezes na história do mundo e continua acontecendo na sociedade todos os dias.
 
 _“Nazistas filhos da mãe!”_ Frase muito comum no dia-a-dia da civilização ocidental. Se os alemães tivessem vencido a Segunda Guerra Mundial pensaria-se o mesmo? Os Estados Unidos, com suas técnicas expansionistas e imperialistas, cometeram vários genocídios tão cruéis como o holocausto: bombas nucleares no Japão, guerra no Iraque, recusa do Protocolo de Kyoto que torna o fim do mundo mais próximo que nunca. Quem são os “mocinhos”?
@@ -24,5 +24,4 @@ Como escreveu [Leonardo Boff][1], _“o ponto de vista é a vista de um ponto”
 
 <small><strong>Nota para a dissertação:</strong> 7 – Vote nos comentários!</small>
 
- [1]: http://pt.wikipedia.org/wiki/Leonardo_Boff
-
+[1]: http://pt.wikipedia.org/wiki/Leonardo_Boff

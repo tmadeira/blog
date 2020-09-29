@@ -12,8 +12,8 @@ tags:
   - discussões
   - internet
   - web
-
 ---
+
 Eu estava precisando de férias… Agora estou voltando a ler, a escrever, a trabalhar e a estudar. Durmo tarde, acordo cedo, passo o dia fazendo várias coisas ao mesmo tempo, misturando lazer e o _freelance_ que eu preciso acabar pro final do mês. É muito bom, dá uma sensação de estar aproveitando o tempo e aprendendo (algo que [é difícil na escola][1] – leia os comentários também) :-)
 
 Voltei a atualizar meu _blog_, criei [outro][2] com a [Carol][3], tem outro especificamente sobre algoritmos e olimpíadas que deve sair no final do mês (na real, se eu pegasse ele pra acabar hoje eu acabaria, mas eu quero esperar um pouco) e estou planejando outro com um amigo. :-) É muito bom escrever e é melhor ainda ler (que é o que mais motiva a escrever). Passo o dia lendo [meus feeds][4] sem compromisso e quando acho algo legal escrevo alguma coisa.
@@ -26,9 +26,8 @@ O Analytics não mente e nem as pessoas que me dizem que leram e gostaram de um 
 
 Então, por favor, me expliquem comentando esse post: Por que as pessoas não comentam? E o que eu posso fazer pra elas comentarem? Façam a felicidade do meu dia, escrevam alguma coisa na caixinha aí em baixo. :-)
 
- [1]: http://malvicioso.com/2006/12/07/aprendizagem-parte-1-schopenhauer/
- [2]: http://malvicioso.com
- [3]: http://www.fotolog.com/carol_krol
- [4]: http://www.bloglines.com/public/tmadeira
- [5]: http://www.contraditorium.com
-
+[1]: http://malvicioso.com/2006/12/07/aprendizagem-parte-1-schopenhauer/
+[2]: http://malvicioso.com
+[3]: http://www.fotolog.com/carol_krol
+[4]: http://www.bloglines.com/public/tmadeira
+[5]: http://www.contraditorium.com

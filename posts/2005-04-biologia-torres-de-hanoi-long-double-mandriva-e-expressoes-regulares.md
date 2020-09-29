@@ -16,17 +16,17 @@ tags:
   - regex
   - Software Livre
   - torres de hanói
-
 ---
+
 Hoje fiz uma prova de biologia. Minha média em biologia estava em 7,93 (8 em um trabalho, 5,8 em uma prova, 10 em participação) e acho que com essa prova vai continuar na mesma, se não piorar. Acredito que eu vá tirar no mínimo 8,5 nessa prova e no máximo 9,5. Pelo menos foi melhor que na outra em que eu tirei 5,8. Bom, só pra não parecer que eu sou burro, minhas notas nas outras matérias nas provas que eu recebi essa semana foram:
 
-  * 10 em inglês
-  * 10 em português (e mais 10 numa redação)
-  * 10 em matemática
-  * 10 em geografia
-  * 10 em história
-  * 9,5 em química (e mais 10 num trabalho)
-  * 9,5 em física
+- 10 em inglês
+- 10 em português (e mais 10 numa redação)
+- 10 em matemática
+- 10 em geografia
+- 10 em história
+- 9,5 em química (e mais 10 num trabalho)
+- 9,5 em física
 
 Hmmm… Acho que dá pra perceber que meu problema é biologia mesmo…
 
@@ -38,11 +38,11 @@ Acho que essa gente que gosta de biologia só pensa no vestibular ao dizer que e
 
 Ontem eu deixei o laptop a noite inteira fazendo as Torres de Hanói com 30 pinos. Utilizando o algoritmo que está implementado em torresdehanoi.c o programa ficou 728 minutos (12 horas) testando e não conseguiu chegar a um fim. Com outros testes, consegui os seguintes tempos:
 
-  * 10 pinos – 0 s
-  * 15 pinos – 1 s
-  * 20 pinos – 20 s
-  * 25 pinos – 20 min
-  * 30 pinos – mais de 12 horas
+- 10 pinos – 0 s
+- 15 pinos – 1 s
+- 20 pinos – 20 s
+- 25 pinos – 20 min
+- 30 pinos – mais de 12 horas
 
 É assombroso a maneira com que vai aumentando…
 

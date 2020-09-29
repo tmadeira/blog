@@ -14,8 +14,8 @@ tags:
   - linux
   - richard stallman
   - Software Livre
-
 ---
+
 > De quem o seu computador deveria receber ordens? A maioria das pessoas pensam que seus computadores deveriam obedecer elas, não a outra pessoa. Com um plano que chamam de “computação confiável”, grande corporações de mídia (incluindo as companias de filmes e de gravação), junto com companhias de computação como a Microsoft e a Intel, estão planejando fazer o seu computador obedecer eles ao invés de você. (a versão da Microsoft deste esquema é chamada “Palladium”.) Programas proprietários já tiveram recursos mal intencionados antes, mas este plano fará isso universal.
 >
 > Software proprietário significa, fundamentalmente, que você não controla o que ele faz; você não pode estudar o código-fonte, ou alterá-lo. Não é surpreendente que os homens de negócios espertos encontrem maneiras de usar o controle deles para pôr você em desvantagem. A Microsoft já fez isso várias vezes: uma versão do Windows foi planejada para relatar a Microsoft todos os programas instalados no seu disco rígido; uma atualização de “segurança” recente no Windows Media Player requeriu que os usuários aceitassem novas restrições. Mas a Microsoft não está sozinha: o programa de compartilhamento de música KaZaa foi projetado para que o parceiro de negócios do KaZaa pudesse alugar o uso do seu computador para os seus clientes. Esses recursos são freqüentemente secretos, mas até quando você sabe sobre eles é difícil de removê-los, já que você não tem o código-fonte.
@@ -56,10 +56,9 @@ Tentativa de tradução de [Can you trust your computer?][5], de **Richard Stall
   <small>[1] Parece-me uma referência ao livro do George Orwell. Não sei que termo devo usar para traduzir.</small>
 </p>
 
- [1]: http://www.gnu.org/philosophy/no-word-attachments.html
- [2]: http://www.cl.cam.ac.uk/users/rja14/tcpa-faq.html
- [3]: http://www.eff.org/
- [4]: http://www.publicknowledge.org/
- [5]: http://www.gnu.org/philosophy/can-you-trust.html
- [6]: http://gscustodio.byethost9.com/blog/voce-confia-no-seu-computador
-
+[1]: http://www.gnu.org/philosophy/no-word-attachments.html
+[2]: http://www.cl.cam.ac.uk/users/rja14/tcpa-faq.html
+[3]: http://www.eff.org/
+[4]: http://www.publicknowledge.org/
+[5]: http://www.gnu.org/philosophy/can-you-trust.html
+[6]: http://gscustodio.byethost9.com/blog/voce-confia-no-seu-computador

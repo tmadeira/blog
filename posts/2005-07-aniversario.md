@@ -8,8 +8,8 @@ categorias:
   - Cotidiano
 tags:
   - aniversário
-
 ---
+
 Só tô postando pra não passar meu aniversário em branco.
 
 Essa semana tô cheio de coisas! Sábado vou pra Campinas pra fazer o curso de programação que começa segunda-feira e onde desejo finalmente aprender direito **Programação Dinâmica** e **Algoritmos Gulosos**.
@@ -24,5 +24,4 @@ Não resolvi mais problemas lógicos desde os últimos da USACO, estou converten
 
 Amanhã meus parentes “espanhóis” voltam para Floripa. Vou sair do Colégio na terceira aula.
 
- [1]: http://www.unicamp.br
-
+[1]: http://www.unicamp.br

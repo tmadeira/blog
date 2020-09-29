@@ -16,8 +16,8 @@ tags:
   - pseudocódigos
   - selection sort
   - vetores
-
 ---
+
 Hoje vou apresentar mais um algoritmo de ordenação de vetores. É a **Ordenação por Seleção** (ou _Selection Sort_). Sem mais papo e antes mesmo da explicação, vamos ao seu pseudocódigo:
 
 <pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>tamanho-1</em>, <strong>faça</strong>
@@ -80,6 +80,7 @@ O programa recebe o seguinte vetor.
     <td>
       v[6]
     </td>
+
   </tr>
 
   <tr>
@@ -106,6 +107,7 @@ O programa recebe o seguinte vetor.
     <td>
       5
     </td>
+
   </tr>
 </table>
 
@@ -136,6 +138,7 @@ Aí ele começa com <span class="tex-render">i=1</span>. Vou sempre marcar $i$ c
     <td>
       v[6]
     </td>
+
   </tr>
 
   <tr>
@@ -162,6 +165,7 @@ Aí ele começa com <span class="tex-render">i=1</span>. Vou sempre marcar $i$ c
     <td>
       5
     </td>
+
   </tr>
 </table>
 
@@ -216,6 +220,7 @@ Agora substituímos o _v[minimo]_ pelo _v[i]_, formando com isto o novo vetor:
     <td>
       v[6]
     </td>
+
   </tr>
 
   <tr>
@@ -242,6 +247,7 @@ Agora substituímos o _v[minimo]_ pelo _v[i]_, formando com isto o novo vetor:
     <td>
       5
     </td>
+
   </tr>
 </table>
 
@@ -253,17 +259,17 @@ Este algoritmo não tem um melhor/pior caso, porque todos os elementos são varr
 
 _n_ = tamanho do vetor
 
-  1. <span class="tex-render">n</span>
-  2. <span class="tex-render">n</span>
-  3. <span class="tex-render">\sum_{j=1}^{n} n</span>
-  4. <span class="tex-render">\sum_{j=1}^{n} 1</span>
-  5. <span class="tex-render">\sum_{j=1}^{n} 1</span>
-  6. <span class="tex-render">0</span>
-  7. <span class="tex-render">0</span>
-  8. <span class="tex-render">n-1</span>
-  9. <span class="tex-render">n-1</span>
- 10. <span class="tex-render">n-1</span>
- 11. <span class="tex-render">0</span>
+1. <span class="tex-render">n</span>
+2. <span class="tex-render">n</span>
+3. <span class="tex-render">\sum\_{j=1}^{n} n</span>
+4. <span class="tex-render">\sum\_{j=1}^{n} 1</span>
+5. <span class="tex-render">\sum\_{j=1}^{n} 1</span>
+6. <span class="tex-render">0</span>
+7. <span class="tex-render">0</span>
+8. <span class="tex-render">n-1</span>
+9. <span class="tex-render">n-1</span>
+10. <span class="tex-render">n-1</span>
+11. <span class="tex-render">0</span>
 
 Você pode estar se perguntando porque eu coloquei este custo para a linha 5. Afinal, a linha 5 diria que este programa tem um melhor/pior caso, porque ela não seria executada se o **se** retornar falso. Mas o caso é que ela é desprezível. Uma soma como estas para o custo geral do nosso algoritmo não vai influenciar em nada. Quer ver? Vamos somar os custos com esta linha valendo $0$ (como se nenhum **se** entrasse) e depois com ela valendo $\sum\_{j=1}^{n}$.
 
@@ -290,4 +296,3 @@ $$
 #### Conclusão
 
 Como vocês puderam ver, não faz diferença alguma o $\frac{n^{2} + n}{2}$ que aquela somatória nos proporciona. Já que todo o cálculo de algoritmos é baseado apenas no maior expoente de **n** e desprezamos todas as constantes (inclusive as que multiplicam o **n** de maior expoente, muitos passos são desprezíveis.
-

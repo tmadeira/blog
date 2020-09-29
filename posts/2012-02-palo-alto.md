@@ -18,8 +18,8 @@ tags:
   - starbucks
   - superbowl
   - university ave
-
 ---
+
 _Originalmente [publicado no Facebook][1] às 9h15 (UTC-8) da quarta-feira 08/02. Um pouco modificado pra registrar no blog._
 
 Só consegui internet agora. Cheguei bem, estou ótimo. Obrigado pela preocupação a todos que perguntaram. Neste momento, sentado numa Starbucks na University Ave em Palo Alto.
@@ -32,4 +32,4 @@ Cheguei às 8h20 na empresa e não havia ninguém (acho que isso é bom, signifi
 
 Se sair cedo, vou dar um pulo na Universidade mais tarde. Vi umas coisas interessantes por aqui. A noite, quando já devo ter internet em casa, escrevo algo menos confuso no meu blog. _(Nota da edição pro blog: Até escrevi outra notinha, mas acho que nada menos confusa.)_
 
- [1]: https://www.facebook.com/madeira.usp/posts/3254876489582
+[1]: https://www.facebook.com/madeira.usp/posts/3254876489582

@@ -11,8 +11,8 @@ tags:
   - shell
   - Software Livre
   - unix
-
 ---
+
 Continuando a falar das [facilidades do Linux][1], eu ia escrever um post para mostrar como é sensacional a conversa que os programas têm um com o outro no Linux e em outros sistemas baseados em Unix.
 
 Quando eu estava começando, lembrei que o [Elcio][2] já escreveu um artigo muito interessante sobre isso há um mês. Então, não vou reinventar a roda. Leiam o artigo dele e vejam se é possível fazer algo parecido no Windows: [Streamming e download ao mesmo tempo][3]
@@ -27,8 +27,7 @@ Eu acredito na filosofia do Linux, mas, se ele fosse uma merda, eu continuaria u
 
 E quem usa Windows… Por que usa Windows?
 
- [1]: /2006/12/windows-e-mais-facil/
- [2]: http://blog.elcio.com.br/
- [3]: http://blog.elcio.com.br/streamming-e-download-ao-mesmo-tempo/
- [4]: http://falcon-dark.blogspot.com
-
+[1]: /2006/12/windows-e-mais-facil/
+[2]: http://blog.elcio.com.br/
+[3]: http://blog.elcio.com.br/streamming-e-download-ao-mesmo-tempo/
+[4]: http://falcon-dark.blogspot.com

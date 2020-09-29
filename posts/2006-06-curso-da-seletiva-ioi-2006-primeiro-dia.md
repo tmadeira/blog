@@ -1,5 +1,5 @@
 ---
-title: 'Curso da Seletiva IOI 2006: Primeiro Dia'
+title: "Curso da Seletiva IOI 2006: Primeiro Dia"
 type: post
 date: 2006-06-13T22:48:53+00:00
 url: /2006/06/curso-da-seletiva-ioi-2006-primeiro-dia/
@@ -20,8 +20,8 @@ tags:
   - problemas
   - programação dinâmica
   - unicamp
-
 ---
+
 Estou hospedado na casa do meu irmão, em Campinas, desde ontem de manhã (viajei domingo a noite de ônibus). Hoje foi o primeiro dia do curso preparatório para a seletiva da IOI2006, que começou às 9h00 devagarinho.
 
 O dia hoje serviu para “nivelar” os participantes e treinar um pouquinho a resolução de problemas. De manhã, algumas pessoas tiveram uma aula sobre estruturas de dados, grafos e o básico de programação dinâmica e outras (a maioria) resolveram três problemas da [Universidade de Valladollid][1]:
@@ -54,7 +54,7 @@ O objetivo é provar a [Conjectura de Goldbach][9] para todos os pares menores q
 
 Nesse problema, o Fábio me lembrou do [Crivo de Eratóstenes][10]. Bem interessante, nunca tinha implementado. :)
 
-* * *
+---
 
 Provavelmente pela primeira vez, o almoço dos participantes do curso não foi no “bandeijão”, mas sim num restaurante _chique_ perto do IC. Achei bem legal… Além de andar menos, o ambiente é melhor e a comida também.
 
@@ -94,18 +94,17 @@ Foi um bom ponto de partida legal, começamos de leve. Ainda não sei sobre o qu
 
 Neste ano vão haver **quatro provas** para selecionar os quatro participantes que irão representar o Brasil na [Olimpíada Internacional de Informática][11] em agosto, no México. As três primeiras, identificadas como “testes” no [calendário da seletiva][12], terão apenas um problema e durarão duas horas cada uma. A última será no domingo, às 7h45min, terá três questões e durará cinco horas (pô, vou perder o comecinho do jogo de Brasil contra Austrália!). Achei legal esse método, mas como o [César Kawakami][13] disse: dessa maneira, não treinamos a estratégia, que é algo importante para a prova da IOI.
 
-* * *
+---
 
 Por enquanto é só. Se der tempo, pretendo colocar um _post_ por dia sobre o curso até o final dessa semana. :)
 
- [1]: http://acm.uva.es/p/
- [2]: http://acm.uva.es/p/v4/412.html
- [4]: http://dias.moreira.nom.br/
- [5]: http://acm.uva.es/p/v4/441.html
- [7]: http://acm.uva.es/p/v5/543.html
- [9]: http://pt.wikipedia.org/wiki/Conjectura_de_Goldbach
- [10]: http://pt.wikipedia.org/wiki/Erat%C3%B3stenes
- [11]: http://olympiads.win.tue.nl/ioi/
- [12]: http://www.google.com/calendar/feeds/olimpinf@gmail.com/public/basic
- [13]: http://www.firer.info
-
+[1]: http://acm.uva.es/p/
+[2]: http://acm.uva.es/p/v4/412.html
+[4]: http://dias.moreira.nom.br/
+[5]: http://acm.uva.es/p/v4/441.html
+[7]: http://acm.uva.es/p/v5/543.html
+[9]: http://pt.wikipedia.org/wiki/Conjectura_de_Goldbach
+[10]: http://pt.wikipedia.org/wiki/Erat%C3%B3stenes
+[11]: http://olympiads.win.tue.nl/ioi/
+[12]: http://www.google.com/calendar/feeds/olimpinf@gmail.com/public/basic
+[13]: http://www.firer.info

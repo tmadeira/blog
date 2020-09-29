@@ -16,18 +16,18 @@ tags:
   - primos
   - raiz quadrada
   - usaco
-
 ---
+
 Encontrar números primos é um problema comum em olimpíadas e maratonas de programação. Até hoje não existe uma maneira fácil de determinar se um número é ou não primo, mas para resolver estes problemas é indispensável o conhecimento de alguns algoritmos clássicos e simples, como o **Crivo de Eratóstenes**.
 
 O **Crivo de Eratóstenes** é um método bastante prático para encontrar os primos de _2_ até um _valor limite_, que pode ser feito a mão e é fácil de implementar.
 
 O algoritmo consiste em:
 
-  1. Determinar (ou receber na entrada do programa) o **valor limite**, isto é, o maior número que desejamos saber se é primo.
-  2. Fazer a raiz quadrada do valor limite. Pode-se arredondar para baixo caso a raiz não seja exata (e quase nunca é).
-  3. Criar um vetor (lista) com os números de 2 até o valor limite.
-  4. Para **i=2** até **raiz do valor limite**, caso o número (**i**) não esteja riscado insira-o na lista dos primos (ou imprima-o, ou não faça nada, isso depende da utilidade que você quer dar para o crivo) e risque todos os seus múltiplos na lista.
+1. Determinar (ou receber na entrada do programa) o **valor limite**, isto é, o maior número que desejamos saber se é primo.
+2. Fazer a raiz quadrada do valor limite. Pode-se arredondar para baixo caso a raiz não seja exata (e quase nunca é).
+3. Criar um vetor (lista) com os números de 2 até o valor limite.
+4. Para **i=2** até **raiz do valor limite**, caso o número (**i**) não esteja riscado insira-o na lista dos primos (ou imprima-o, ou não faça nada, isso depende da utilidade que você quer dar para o crivo) e risque todos os seus múltiplos na lista.
 
 Há várias maneiras de implementar este algoritmo. Eu _pseudocodaria_ (meu pseudocódigo é bem próximo de uma linguagem normal, porque acho que assim é mais fácil de entender e depois implementar) ele assim:
 
@@ -95,6 +95,5 @@ No [USACO Training Program Gateway][1] (programa de treinamento para olimpíadas
 
 Divirtam-se e qualquer dúvida usem os comentários!
 
- [1]: http://train.usaco.org/usacogate
- [2]: http://ace.delos.com/usacoanal2?a=8Z8Pqa7IVqm&S=pprime
-
+[1]: http://train.usaco.org/usacogate
+[2]: http://ace.delos.com/usacoanal2?a=8Z8Pqa7IVqm&S=pprime

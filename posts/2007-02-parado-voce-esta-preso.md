@@ -15,8 +15,8 @@ tags:
   - pena de morte
   - prisão
   - sociedade
-
 ---
+
 **Você é contra a redução da maioridade penal?** Imagine um garoto de dezessete anos que pega o seu filho de cinco anos na porta da escola, leva-o para um lugar imundo, estupra-o e depois debocha da sua impunidade porque é menor de idade. **Você ainda é contra a redução da maioridade penal?** Acho que não.
 
 ![Algemas](/wp-content/uploads/2007/02/algemas2.thumbnail.jpg)
@@ -29,6 +29,5 @@ A prisão é cruel. A pena de morte talvez seja menos cruel. De qualquer maneira
 
 E depois… Você também está preso. Ou acha que seguir esse monte de leis o faz “livre”? Você manda no quê? Quem é você, seu inútil? No fim, acho que a discussão de maioridade penal não serve pra coisa nenhuma. O buraco tá mais embaixo. Mas então, qual é a solução?
 
- [1]: http://verdadeabsoluta.net/
- [2]: http://verdadeabsoluta.net/?p=2877
-
+[1]: http://verdadeabsoluta.net/
+[2]: http://verdadeabsoluta.net/?p=2877

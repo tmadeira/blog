@@ -16,8 +16,8 @@ tags:
   - virtualização
   - windows
   - wine
-
 ---
+
 Neste fim de semana, andei tentando utilizar o QEMU e o Wine para usar aplicativos Windows no meu Slack 10.1 (que diga-se de passagem, é um sistema muiiiiiito melhor que esse troço que eu tive tanto trabalho pra emular). Qual a utilidade disso? Praticamente nenhuma, só pra aprender mesmo e poder ajudar novatos que não conseguem viver sem essa porcaria de sistema… Consegui instalar o Windows 98 numa partição virtual do QEMU e estou conseguindo rodar ele (e até compartilhei a internet). Já o Windows XP dá uns problemas (ele instala e roda perfeitamente mas depois quando eu vou bootar pela segunda vez dá problema). O ideal é o Windows 2000 que eu vou procurar pra instalar e vou ver o que tá acontecendo com o XP.
 
 Coloquei vários screenshots no [Flickr][1].
@@ -170,4 +170,4 @@ O programa do cálculo da força de gravidade é a primeira vez em que eu uso um
 
 Tá difícil programar e ler porque os livros da rede salesiana são bem puxados (na verdade, só o de biologia, mas os professores passam muita tarefa. Isso é um absurdo!), mas acabei de ler o "Capitães de Areia", que tava ótimo. Acho que durante as aulas, até tudo se regularizar, só vai dar pra postar final de semana mesmo... :lol:
 
- [1]: http://www.flickr.com/photos/tiago
+[1]: http://www.flickr.com/photos/tiago

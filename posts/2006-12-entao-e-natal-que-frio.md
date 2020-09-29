@@ -18,8 +18,8 @@ tags:
   - pai natal
   - papai noel
   - sociedade
-
 ---
+
 Na teoria, natal é a data em que se comemora o nascimento de Jesus. Na prática, creio que o **natal** deveria ser chamado de **Dia Internacional do Capitalismo**.
 
 Eu e a Carol pensamos em publicar uma série sobre o natal. Não sabemos se vamos conseguir dar conta de postar um artigo por dia ou a série vai se constituir de dois artigos, mas vamos tentar. :-) Esse é o primeiro post.
@@ -40,6 +40,5 @@ Tenho a impressão de que a gente copia umas coisas dos países do hemisfério n
 
 Vamos largar essa mentalidade e assumirmos que somos brasileiros? Concordo com o [Rafael][2]: **nesta república, o Papai Noel deveria usar verde e amarelo, bermuda e camisa regata**.
 
- [1]: http://despropaganda.zip.net/
- [2]: http://novo-mundo.org/log/2006/12/05/o-que-a-neve-tem-haver-com-o-natal-tropical/
-
+[1]: http://despropaganda.zip.net/
+[2]: http://novo-mundo.org/log/2006/12/05/o-que-a-neve-tem-haver-com-o-natal-tropical/

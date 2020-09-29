@@ -16,8 +16,8 @@ tags:
   - notícias falsas
   - trump
 format: link
-
 ---
+
 As eleições municipais no Brasil foram repletas de boatos contra as candidaturas do PSOL.
 
 Luciana Genro foi atacada o tempo todo por compartilhamentos de notícias falsas que a acusavam de todo tipo de absurdo. Marcelo Freixo chegou até a ter que lançar um site “A Verdade sobre Freixo” devido à enorme quantidade de farsas.
@@ -32,5 +32,5 @@ Update (16/11/2016, 19h47): [Facebook e Google declaram guerra aos sites de not�
 
 <small>Publicado originalmente no <a href="https://www.facebook.com/timadeira/posts/10211212121277656">Facebook</a>.</small>
 
- [1]: http://www.nytimes.com/2016/11/15/opinion/mark-zuckerberg-is-in-denial.html
- [2]: http://brasil.elpais.com/brasil/2016/11/15/tecnologia/1479201313_967124.html?id_externo_rsoc=FB_BR_CM
+[1]: http://www.nytimes.com/2016/11/15/opinion/mark-zuckerberg-is-in-denial.html
+[2]: http://brasil.elpais.com/brasil/2016/11/15/tecnologia/1479201313_967124.html?id_externo_rsoc=FB_BR_CM

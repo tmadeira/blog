@@ -11,8 +11,8 @@ tags:
   - dinheiro
   - hipocrisia
   - sociedade
-
 ---
+
 [John Chow][1] é um _blogueiro_ que está ganhando **bem**, talvez o suficiente pra viver de um _blog_. Ele [conta em seu blog][2] que ganhou US\$ 355 em setembro, US\$ 1362 em outubro e US\$ 2140 em novembro. Mas John é um sujeito caridoso e ele escreveu que nunca foi sua intenção fazer dinheiro com o blog:
 
 > I have decided to donate the income from the blog to my church and other charities. John Chow dot Com is my personal blog and making a profit from it just seems strange to me. Please note, I am not downing anyone who makes money off his or her personal blog – I think that is great.
@@ -27,8 +27,7 @@ A atitude de **John Chow** foi bonita, digna de um louco! :-) Se todos fossem ig
 
 É uma lógica totalmente capitalista e é corretíssima dentro do nosso sistema. Mas será que é certa? Será que podemos/devemos ser diferentes de todo o resto da sociedade?
 
- [1]: http://www.johnchow.com/
- [2]: http://www.johnchow.com/a-time-to-give-back/
- [3]: http://novo-mundo.org/logger/2006/12/11/pague-o-dizimo/
- [4]: http://novo-mundo.org/logger/2006/12/11/pague-o-dizimo/#comment-86
-
+[1]: http://www.johnchow.com/
+[2]: http://www.johnchow.com/a-time-to-give-back/
+[3]: http://novo-mundo.org/logger/2006/12/11/pague-o-dizimo/
+[4]: http://novo-mundo.org/logger/2006/12/11/pague-o-dizimo/#comment-86

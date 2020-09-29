@@ -15,8 +15,8 @@ tags:
   - ruby
   - sha
   - tabelas
-
 ---
+
 A idéia veio do nada. Na verdade, eu estava fazendo um freelance e procurando uma função pra “ordenar” um vetor aleatoriamente no PHP (no fim usei `usort`, que recebe uma função de comparação tipo o `qsort` do C) e me deparei com um comentário lá no [PHP.net][1] de um cara que usou geração de números aleatórios para criar um algoritmo de criptografia pra usar no lugar de MD5 e SHA, porque ele não confiava mais no MD5 e no SHA porque segundo ele existem tabelas na internet, o que torna um sistema muito vulnerável (para quem tem acesso ao banco de dados).
 
 Procurei na internet e na verdade eu não encontrei muitos bancos de dados com vários MD5 não, ao menos não visíveis no Google quando se procura por um hash. Só pra strings como “1234”, mas não achei nem pra “060790” (minha data de nascimento). Veja você mesmo: [81811b48cc07432fc550cb42d4ab3e8f][2]
@@ -148,6 +148,5 @@ Dá pra adaptar o código pra gerar outras tabelas, mas por favor não use isso 
 
 _Comentários de crackers serão ignorados._
 
- [1]: http://www.php.net/
- [2]: http://www.google.com/search?q=81811b48cc07432fc550cb42d4ab3e8f
-
+[1]: http://www.php.net/
+[2]: http://www.google.com/search?q=81811b48cc07432fc550cb42d4ab3e8f

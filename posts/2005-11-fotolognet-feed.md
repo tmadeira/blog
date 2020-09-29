@@ -16,8 +16,8 @@ tags:
   - php
   - programação
   - rss
-
 ---
+
 **[update]** O script foi reescrito [aqui][1] e está muito mais interessante agora! :-) **[/update]**
 
 Não sei se isso já não existe; Não sei se ninguém nunca sentiu falta. Afim de valorizar [feeds][2] [RSS][3] e acompanhar **fotos** de amigos, resolvi criar um feed para [fotologs][4] do [Fotolog.net][5].
@@ -28,17 +28,16 @@ Hmmm… Talvez esse código tenha algum bug. Não sei o porquê de nenhum dos me
 
 #### Coisas legais que vi hoje
 
-  * [Kill Bill’s Browser][11]
-  * [Anarquismo (no Wikipédia – e todas suas vertentes)][12] – Aliás, tô pensando seriamente em _ser_ anarquista
+- [Kill Bill’s Browser][11]
+- [Anarquismo (no Wikipédia – e todas suas vertentes)][12] – Aliás, tô pensando seriamente em _ser_ anarquista
 
- [1]: /2006/10/feeds-rss-para-fotologs/
- [2]: http://brunotorres.net/2005/07/05/sobre-feeds-rss-atom
- [3]: http://pt.wikipedia.org/wiki/RSS
- [4]: http://pt.wikipedia.org/wiki/Flog
- [5]: http://www.fotolog.net
- [8]: http://reader.google.com
- [9]: http://www.bloglines.com
- [10]: http://www.getfirefox.com
- [11]: http://www.killbillsbrowser.com/
- [12]: http://pt.wikipedia.org/wiki/Anarquismo
-
+[1]: /2006/10/feeds-rss-para-fotologs/
+[2]: http://brunotorres.net/2005/07/05/sobre-feeds-rss-atom
+[3]: http://pt.wikipedia.org/wiki/RSS
+[4]: http://pt.wikipedia.org/wiki/Flog
+[5]: http://www.fotolog.net
+[8]: http://reader.google.com
+[9]: http://www.bloglines.com
+[10]: http://www.getfirefox.com
+[11]: http://www.killbillsbrowser.com/
+[12]: http://pt.wikipedia.org/wiki/Anarquismo

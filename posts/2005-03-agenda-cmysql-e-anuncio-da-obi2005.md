@@ -15,20 +15,20 @@ tags:
   - obi
   - organização
   - programação
-
 ---
+
 A OBI 2005 foi anunciada no [site oficial][1] e traz algumas novidades como novas categorias:
 
 > #### Anúncio no Site Oficial
 >
 > Este ano novas categorias estão sendo introduzidas, para possibilitar a participação de mais competidores. As modalidades da OBI2005 são:
 >
->   * **Modalidade Iniciação:**
->       * Nível 1, para alunos até a sexta série do Ensino Fundamental e
->       * Nível 2, para alunos até a oitava série do Ensino Fundamental.
->   * **Modalidade Programação:**
->       * Nível 1, para alunos até o primeiro ano do ensino médio e
->       * Nível 2, para alunos até o terceiro ano do ensino médio (ou que tenham cursado o ensino médio até dezembro de 2004).
+> - **Modalidade Iniciação:**
+>   - Nível 1, para alunos até a sexta série do Ensino Fundamental e
+>   - Nível 2, para alunos até a oitava série do Ensino Fundamental.
+> - **Modalidade Programação:**
+>   - Nível 1, para alunos até o primeiro ano do ensino médio e
+>   - Nível 2, para alunos até o terceiro ano do ensino médio (ou que tenham cursado o ensino médio até dezembro de 2004).
 
 E tem uma parte que não entendi direito, mas mandei um e-mail para eles perguntando sobre:
 
@@ -50,5 +50,5 @@ Isso travou meu Firefox no Linux… :lol:
 
 Estou lendo (ou tentando ler) o livro do Cormen (página 18-19 ainda), mas dia de semana tá difícil. Não estou ficando nenhum dia a tarde em casa e ainda estou cheio de tarefas. Final de semana é difícil estudar com o barulho que o pessoal faz aqui em casa…
 
- [1]: http://olimpiada.ic.unicamp.br
- [2]: /script/agenda.c
+[1]: http://olimpiada.ic.unicamp.br
+[2]: /script/agenda.c

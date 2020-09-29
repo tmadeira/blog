@@ -4,7 +4,7 @@ type: post
 date: 2009-04-16T12:13:06+00:00
 url: /2009/04/fora-de-casa/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Cotidiano
 tags:
@@ -12,8 +12,8 @@ tags:
   - icpc
   - Metablogagem
   - viagem
-
 ---
+
 Incrível como as últimas semanas passaram rápido e como de repente chegou o dia 16 de abril.
 
 Parto de Guarulhos hoje às 18:40, faço escala em Amsterdã e chego em Estocolmo amanhã.
@@ -25,4 +25,3 @@ Para quem quiser torcer ou acompanhar online, a prova do <acronym title="Interna
 Volto de Estocolmo no dia 23. Por isto, a não ser que a viagem esteja muito entediante, este recém-iniciado blog ficará de férias até o dia 24.
 
 Até mais!
-

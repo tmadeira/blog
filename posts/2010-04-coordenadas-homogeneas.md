@@ -12,8 +12,8 @@ tags:
   - geometria
   - maratona
   - Matemática
-
 ---
+
 Conheci as coordenadas homogêneas por acaso. Era 2004, ganhei a modalidade iniciação da Olimpíada Brasileira de Informática e passei o inverno estudando C, acho que por dois motivos: interesse pelos problemas da modalidade programação e desejo de aproveitar bem o curso que os medalhistas fazem na UNICAMP; ou talvez fosse apenas falta do que fazer ou curiosidade mesmo. Não importa.
 
 Confundo os cursos de 2004, 2005 e 2006, mas lembro que no primeiro aprendi com um monitor sobre recursão, representação de grafos e busca em profundidade. Lembro também que foi em 2004 que conheci o <acronym title="Cormen, Leiserson, Rivest, Stein - Introduction to Algorithms">CLRS</acronym> (livro que comprei alguns meses depois e tenho na cabeceira até hoje). Esse post, porém, é sobre um acontecimento mais aleatório relacionado a esse curso e, ouso afirmar, digno de figurar n’**O Andar do Bêbado** do Mlodinow.
@@ -42,17 +42,17 @@ _O enunciado é simples:_ Dados n ($2 \leq n \leq 200$) pontos inteiros (com coo
 
 Dá pra fazer em $O(n^3)$ com a seguinte ideia:
 
-  1. Crie uma árvore binária balanceada indexada por retas. (em C++, _map <reta,int>_)
-  2. Para cada par de pontos, determine a reta de simetria entre eles e adicione 2 a essa reta na árvore binária. ($O(n^2 log n)$)
-  3. Para cada reta na árvore binária, adicione 1 para cada ponto que pertence a essa reta. ($O(n^3)$)
-  4. É fácil ver que a reta é uma reta de simetria do conjunto de pontos se e somente se seu valor na árvore binária for $n$.
+1. Crie uma árvore binária balanceada indexada por retas. (em C++, _map <reta,int>_)
+2. Para cada par de pontos, determine a reta de simetria entre eles e adicione 2 a essa reta na árvore binária. ($O(n^2 log n)$)
+3. Para cada reta na árvore binária, adicione 1 para cada ponto que pertence a essa reta. ($O(n^3)$)
+4. É fácil ver que a reta é uma reta de simetria do conjunto de pontos se e somente se seu valor na árvore binária for $n$.
 
 O problema geométrico está no segundo passo: determinar a reta de simetria entre dois pontos. Sejam esses pontos _p_ e _q_. É preciso:
 
-  1. Determinar o ponto médio entre _p_ e _q_.
-  2. Determinar a reta que passa por _p_ e _q_ (o enunciado garante que _p != q_).
-  3. Determinar uma reta (ou um vetor) perpendicular à reta do passo acima.
-  4. Determinar a reta que passa pelo ponto médio e tem a direção do vetor perpendicular do passo 3.
+1. Determinar o ponto médio entre _p_ e _q_.
+2. Determinar a reta que passa por _p_ e _q_ (o enunciado garante que _p != q_).
+3. Determinar uma reta (ou um vetor) perpendicular à reta do passo acima.
+4. Determinar a reta que passa pelo ponto médio e tem a direção do vetor perpendicular do passo 3.
 
 Determinar o ponto médio sem usar ponto flutuante seria trivial de qualquer forma (basta multiplicar todas as coordenadas por dois), mas com coordenadas homogêneas isso é desnecessário. É fácil ver que o ponto médio $m$ entre $p = [w_0, x_0, y_0]$ e $q = [w_1, x_1, y_1]$ é:
 
@@ -157,6 +157,5 @@ for (map <reta,int>::iterator i = M.begin(); i != M.end(); i++) {
 
 O código completo ficou com umas 90 linhas com comentários e linhas em branco e foi aceito na primeira submissão (ok, na verdade na segunda, mas não foi devido à geometria muito menos à precisão): ~~symmetry.cpp~~ (infelizmente, esse arquivo foi perdido com o tempo). Não é lindo?
 
- [1]: http://www.ic.unicamp.br/~stolfi/EXPORT/bibliography/stolfi.html
- [2]: http://www.topcoder.com/stat?c=problem_statement&pm=924
-
+[1]: http://www.ic.unicamp.br/~stolfi/EXPORT/bibliography/stolfi.html
+[2]: http://www.topcoder.com/stat?c=problem_statement&pm=924

@@ -18,8 +18,8 @@ tags:
   - números fatoriais
   - recursão
   - repetições
-
 ---
+
 A **recursão** é uma das técnicas mais simples e úteis que existem para usarmos em nossos algoritmos. Consiste em uma função (denominada _recursiva_) chamar a si mesmo, até que o retorno seja trivial. Resolvi abordá-la aqui porque alguns algoritmos que estudaremos mais para frente usam **funções recursivas**.
 
 Gostaria de, antes de falar sobre o assunto, contar um pouco da minha história com recursão, porque foi meu início no mundo dos algoritmos.
@@ -32,13 +32,13 @@ Na primeira tarde que tive aula com ele, ele perguntou se eu sabia o que era rec
 
 Então, mãos à obra!
 
-* * *
+---
 
 Em matemática, o número fatorial de $n$ é igual a: <span class="tex-render">n \times{} n-1 \times{} n-2 \times{} \ldots{} 2 \times{} 1</span>.
 
 Logo, por exemplo, $5!$ (cinco fatorial) seria igual a: <span class="tex-render">5 \times{} 4 \times{} 3 \times{} 2 \times{} 1 = 120</span>.
 
-* * *
+---
 
 Um exemplo bom e simples de recursão é um algoritmo para determinar números fatoriais:
 
@@ -58,11 +58,11 @@ Vamos abrir um grande parênteses aqui até a próxima linha horizontal para des
 
 **Número da linha: Número de vezes que é executada.**.
 
-  1. <span class="tex-render">n</span>
-  2. <span class="tex-render">n-1</span>
-  3. <span class="tex-render">1</span>
-  4. <span class="tex-render">n-1</span>
-  5. <span class="tex-render">n-1</span>
+1. <span class="tex-render">n</span>
+2. <span class="tex-render">n-1</span>
+3. <span class="tex-render">1</span>
+4. <span class="tex-render">n-1</span>
+5. <span class="tex-render">n-1</span>
 
 $T(n) = (n) + (n-1) + (1) + (n-1) + (n-1) = 4n - 2$
 
@@ -78,11 +78,11 @@ Uma **função linear**, o tipo de algoritmo mais simples que podemos encontrar,
 
 #### Novo custo
 
-  1. <span class="tex-render">n</span>
-  2. <span class="tex-render">n-1</span>
-  3. <span class="tex-render">n-1</span>
-  4. <span class="tex-render">1</span>
-  5. <span class="tex-render">1</span>
+1. <span class="tex-render">n</span>
+2. <span class="tex-render">n-1</span>
+3. <span class="tex-render">n-1</span>
+4. <span class="tex-render">1</span>
+5. <span class="tex-render">1</span>
 
 $T(n) = (n) + (n-1) + (n-1) + (1) + (1) = 3n$
 
@@ -94,7 +94,7 @@ A fórmula do $\Theta{}$ é: $0 \leq{} c\_{1} g(n) \leq{} f(n) \leq{} c\_{2} g(n
 
 Substituindo pela nossa função, temos: $c\_{1}n \leq{} 3n \leq{} c\_{2}n$. É trivial, que podemos escolher para as duas constantes $c\_{1}=c\_{2}=3$ e para $n\_{0}=0$. Com isso pretendi mostrar-lhes uma conclusão óbvia que no outro artigo não tinha mostrado para não complicar muito: uma função reta (linear) pertence sempre a notação $\Theta{}(n)$ e uma função quadrática pertence sempre a notação $\Theta{}(n^{2})$ (ora, façam um gráfico das funções e vejam se isso não é óbvio!). Mas vamos aprendendo mais sobre **análise de algoritmos** com o tempo…
 
-* * *
+---
 
 Bom… Continuando com a recursão… Nossa função cria um loop consigo mesma, ao invés de usar um **para** (for) ou **enquanto** (while). Ela se repete diminuindo um de $n$ a cada iteração, até que chegue ao valor mínimo $1$ aonde a resposta é trivial: <span class="tex-render">1</span>.
 
@@ -135,10 +135,9 @@ Todo loop pode ser uma recursão e tem alguns que ficam bem mais fáceis se fore
 
 ### Outros exemplos, para concluir
 
-  * Ordenação por Intercalação (Merge Sort)
-  * Busca em Profundidade (Depth-First Search) em Grafos
-  * Union/Find
-  * … entre vários outros casos!
+- Ordenação por Intercalação (Merge Sort)
+- Busca em Profundidade (Depth-First Search) em Grafos
+- Union/Find
+- … entre vários outros casos!
 
- [1]: /2006/01/analise-de-algoritmos/
-
+[1]: /2006/01/analise-de-algoritmos/

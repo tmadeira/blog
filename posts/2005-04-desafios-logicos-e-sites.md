@@ -19,8 +19,8 @@ tags:
   - programação
   - sites
   - web
-
 ---
+
 No Orkut, adicionei alguns caras que manjam de algoritmos, lógica, informática, Linux, ER, etc., como por exemplo [Aurélio Marinho Jargas][1], [Piter Punk][2] (Roberto Freires Batista), [Fábio Dias Moreira][3] e Helder Suzuki. E com isso, pra minha felicidade total, recebi dois desafios lógicos! (destes últimos dois) :D
 
 #### Permutação
@@ -31,33 +31,33 @@ Vou supôr que tenho uma cadeia ABC, tamanho=3, letras=3
 
 As permutações seriam feitas na seguinte ordem:
 
-  1. a a a
-  2. a a b
-  3. a a c
-  4. a b a
-  5. a b b
-  6. a b c
-  7. a c a
-  8. a c b
-  9. a c c
- 10. b a a
- 11. b a b
- 12. b a c
- 13. b b a
- 14. b b b
- 15. b b c
- 16. b c a
- 17. b c b
- 18. b c c
- 19. c a a
- 20. c a b
- 21. c a c
- 22. c b a
- 23. c b b
- 24. c b c
- 25. c c a
- 26. c c b
- 27. c c c
+1. a a a
+2. a a b
+3. a a c
+4. a b a
+5. a b b
+6. a b c
+7. a c a
+8. a c b
+9. a c c
+10. b a a
+11. b a b
+12. b a c
+13. b b a
+14. b b b
+15. b b c
+16. b c a
+17. b c b
+18. b c c
+19. c a a
+20. c a b
+21. c a c
+22. c b a
+23. c b b
+24. c b c
+25. c c a
+26. c c b
+27. c c c
 
 A primeira letra se alterna a cada 9 (3^2) vezes. A segunda a cada 3 (3^1). A terceira 1 (3^0). Portanto, eu acho que consigo descobrir cada uma das letras! Vamos supor que quero o décimo primeiro elemento.
 
@@ -255,7 +255,6 @@ Esta semana comecei a fazer um site novo para o Colégio (o Salesiano, onde que 
 
 Pra finalizar, o "meu" fórum, a SOSPHP tá com um movimento um pouco baixo e por isso tô fazendo um movimento para reanimá-lo. Então participem também! Entrem em www.sosphp.com.br e ajudem o fórum a crescer! Estou mandando mensagens para moderadores que estão sem visitar ultimamente, chamando mais gente e pedindo opiniões dos membros para melhorar o fórum (e é claro, pondo as opiniões em prática).
 
- [1]: http://aurelio.net
- [2]: http://piterpunk.hpg.ig.com.br
- [3]: http://dias.moreira.nom.br
-
+[1]: http://aurelio.net
+[2]: http://piterpunk.hpg.ig.com.br
+[3]: http://dias.moreira.nom.br

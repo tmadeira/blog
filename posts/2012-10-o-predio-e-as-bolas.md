@@ -13,8 +13,8 @@ tags:
   - Matemática
   - prédios
   - problemas
-
 ---
+
 Imagine-se num prédio de 100 andares com várias bolas. A partir de um determinado andar (desconhecido), quando você joga uma bola pela janela, a bola quebra. Você quer determinar precisamente qual é esse andar e a única coisa que pode fazer é jogar bolas de andares diferentes.
 
 Se você tem muitas bolas e não se importa em quebrar quantas forem necessárias, você pode realizar uma busca binária. Uma busca binária, para começar com um exemplo, é aquilo que você faz naquele diálogo clássico:
@@ -78,7 +78,6 @@ _Obrigado ao [David][1] por ter me apresentado o problema. A solução é bem le
 
 **Editado para programadores:** A generalização deste problema (para _n_ andares em vez de 100 e _k_ bolas em vez de 2) caiu na OBI 2010 (o problema se chama Altas Aventuras) e está no SPOJ para quem quiser resolver: [ALTAS2][2]. Quem me contou foi o [André][3].
 
- [1]: https://www.facebook.com/david.marzagao
- [2]: http://br.spoj.pl/problems/ALTAS2/
- [3]: https://www.facebook.com/andrehpereira
-
+[1]: https://www.facebook.com/david.marzagao
+[2]: http://br.spoj.pl/problems/ALTAS2/
+[3]: https://www.facebook.com/andrehpereira

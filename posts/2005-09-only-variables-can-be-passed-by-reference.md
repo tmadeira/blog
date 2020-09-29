@@ -9,8 +9,8 @@ categorias:
 tags:
   - bug
   - php
-
 ---
+
 Instalei o **PHP 5.0.5** no servidor do Colégio Salesiano na semana passada. E descobri que criaram um novo erro agora (do tipo fatal) para quando eu passo uma função como argumento de outra. _“Fatal Error: Only variables can be passed by reference”_. Bom… Uma função nada mais é que uma variável, afinal é pra isso que serve o seu retorno. Mas agora o PHP nos força, por exemplo, a fazer:
 
 ```php
@@ -31,4 +31,3 @@ $variavel3=funcao(str_replace("a", "b", $variavel));
 Realmente não entendi o porquê da mudança. Pra mim tava muito bom do jeito anterior… E não sou só eu que faço isso. Os caras que fizeram o phpBB também passaram várias vezes funções como argumentos de outras e isso fez com que eu perdesse algum tempo hoje trocando todos as funções dessa maneira que mostrei acima no fórum do Colégio…
 
 Alguém entende esses caras?
-

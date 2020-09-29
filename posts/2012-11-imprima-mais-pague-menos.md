@@ -13,8 +13,8 @@ tags:
   - impressões
   - Matemática
   - vida real
-
 ---
+
 Tabelas de preços de impressão são interessantes. É muito comum que quanto mais você imprima mais baratas as impressões fiquem, fazendo com que o gráfico de preço por impressões não seja monótono (isso é, você não necessariamente pague mais por um número maior de impressões).
 
 Isso torna as gráficas boas candidatas de lugares para pensar em gráficos de funções de primeiro grau, assim como a [busca binária é uma boa candidata de aplicação para pensar sobre logaritmos][1].
@@ -30,6 +30,7 @@ Hoje fui imprimir uma partitura e me deparei com a seguinte tabela:
     <td>
       R$ 0,70 cada
     </td>
+
   </tr>
 
   <tr>
@@ -40,6 +41,7 @@ Hoje fui imprimir uma partitura e me deparei com a seguinte tabela:
     <td>
       R$ 0,50 cada
     </td>
+
   </tr>
 
   <tr>
@@ -50,6 +52,7 @@ Hoje fui imprimir uma partitura e me deparei com a seguinte tabela:
     <td>
       R$ 0,40 cada
     </td>
+
   </tr>
 
   <tr>
@@ -60,6 +63,7 @@ Hoje fui imprimir uma partitura e me deparei com a seguinte tabela:
     <td>
       R$ 0,30 cada
     </td>
+
   </tr>
 
   <tr>
@@ -70,6 +74,7 @@ Hoje fui imprimir uma partitura e me deparei com a seguinte tabela:
     <td>
       R$ 0,25 cada
     </td>
+
   </tr>
 
   <tr>
@@ -80,6 +85,7 @@ Hoje fui imprimir uma partitura e me deparei com a seguinte tabela:
     <td>
       R$ 0,20 cada
     </td>
+
   </tr>
 </table>
 
@@ -103,7 +109,7 @@ Um problema econômico interessante para quando se está numa gráfica imprimind
 
 Descobrir se estamos numa região amarela é simples. Basta calcular o preço que pagaríamos a princípio (multiplicar o número de cópias pelo preço por cópias da região em que estamos) e comparar com o preço que pagaríamos se pedíssemos o menor número de cópias da região imediatamente mais barata. Por exemplo, faz sentido imprimir 15 cópias porque $15 \times 0.40=6.00$ é menor do que $21 \times 0.30 = 6.30$, mas não faz sentido imprimir 85 cópias porque $85 \times 0.25 = 21.25$ é maior do que $101 \times 0.20 = 20.20$.
 
-* * *
+---
 
 Agora vamos inverter o problema. Vamos supôr que você é a gráfica e quer evitar esse tipo de cliente insuportável, fazendo o preço ir ficando mais barato proporcionalmente com o número de impressões, mas mantendo a função monótona (crescendo).
 
@@ -136,6 +142,7 @@ Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de pre�
     <td>
       R$ 0,70 cada
     </td>
+
   </tr>
 
   <tr>
@@ -146,6 +153,7 @@ Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de pre�
     <td>
       R$ 0,60 fixo + R$ 0,50 cada
     </td>
+
   </tr>
 
   <tr>
@@ -156,6 +164,7 @@ Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de pre�
     <td>
       R$ 1,60 fixo + R$ 0,40 cada
     </td>
+
   </tr>
 
   <tr>
@@ -166,6 +175,7 @@ Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de pre�
     <td>
       R$ 3,60 fixo + R$ 0,30 cada
     </td>
+
   </tr>
 
   <tr>
@@ -176,6 +186,7 @@ Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de pre�
     <td>
       R$ 6,10 fixo + R$ 0,25 cada
     </td>
+
   </tr>
 
   <tr>
@@ -186,6 +197,7 @@ Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de pre�
     <td>
       R$ 11,10 fixo + R$ 0,20 cada
     </td>
+
   </tr>
 </table>
 
@@ -205,4 +217,4 @@ O gráfico monótono (e bonito) comprova:
 
 ![Gráfico final (monótono)](/wp-content/uploads/2012/11/grafico6.png)
 
- [1]: /2012/10/o-predio-e-as-bolas/
+[1]: /2012/10/o-predio-e-as-bolas/

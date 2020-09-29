@@ -14,8 +14,8 @@ tags:
   - obi 2006
   - olimpíadas
   - programação
-
 ---
+
 **Anunciada a OBI2006!** E temos novidades…
 
 <div style="padding-left:40px; padding-right:40px; font-size:90%;">
@@ -44,7 +44,7 @@ Vamos participar, né? Estou ensinando meu amigo **Ivo** a programar e estou dis
   </p>
 </div>
 
-* * *
+---
 
 Fiquei mais de um mês sem postar (ando sem inspiração). Desculpem-me por deixar a [Série Algoritmos][2] parada e não noticiar alguns fatos legais que aconteceram enquanto eu não postei (eu parei de escrever, mas comecei a ler mais). Vou voltar de leve agora…
 
@@ -52,6 +52,5 @@ Tenho estudado bastante matemática e física… pras olimpíadas, pro vestibula
 
 De qualquer maneira, a pausa foi boa para uma reflexão pessoal e político-filosófica. Essas mudanças meus leitores provavelmente perceberão nos próximos artigos [ou talvez não].
 
- [1]: http://olimpiada.ic.unicamp.br/
- [2]: /tags/algoritmos/
-
+[1]: http://olimpiada.ic.unicamp.br/
+[2]: /tags/algoritmos/

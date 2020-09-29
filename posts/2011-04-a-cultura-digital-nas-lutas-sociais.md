@@ -14,8 +14,8 @@ tags:
   - revoluções árabes
   - tunísia
   - wikileaks
-
 ---
+
 **Por todo o planeta, a Internet tem se mostrado cada vez mais importante para as mobilizações.**
 
 O desenvolvimento da Internet e de novas formas de comunicação modificou bastante a atuação cultural e política dos jovens no mundo todo.

@@ -13,8 +13,8 @@ tags:
   - refurbished
   - teobaldo
   - ze4610us
-
 ---
+
 Na busca por substitutos para o meu **HP Pavilion ze4610us** para não pagar os absurdos [3222 reais][1] ou [462 dólares][2] pelo conserto do [Teobaldo][3], achei várias ofertas de laptops, de várias marcas e vários preços.
 
 **Primeira conclusão:** A maioria dos laptops aqui no Brasil são muito caros. Os que não são caros são importados, dos Estados Unidos ou do Paraguai, às vezes legalmente e às vezes não e aí o suporte pra eles não é tão bom como seria se comprássemos direitinho lá nos EUA.
@@ -31,13 +31,12 @@ Será que comprar um laptop HP refurbished é um erro? É algo que eu já deveri
 
 As sugestões do [post anterior][9] foram um pouco caras pro meu bolso… Existe outra alternativa tão barata quanto os da HP, mas de outra marca? Eu tô querendo um laptop como esse último: hd grande, memória RAM razoável, 14 polegadas, compatível com Linux, barato. E o mais rápido possível… :-)
 
- [1]: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/
- [2]: /2007/01/462-dolares/
- [3]: /2006/12/teobaldo-no-medico/
- [4]: http://www.shopping.com/
- [5]: http://www.compuvest.com/Description.jsp;jsessionid=atJBFKlT-ElfDJWZ9-?iid=366005
- [6]: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/#comment-870
- [7]: http://www.compuvest.com/Description.jsp?iid=316929
- [8]: http://br-linux.org/linux/analise-ubuntu-breezy
- [9]: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/#comments
-
+[1]: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/
+[2]: /2007/01/462-dolares/
+[3]: /2006/12/teobaldo-no-medico/
+[4]: http://www.shopping.com/
+[5]: http://www.compuvest.com/Description.jsp;jsessionid=atJBFKlT-ElfDJWZ9-?iid=366005
+[6]: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/#comment-870
+[7]: http://www.compuvest.com/Description.jsp?iid=316929
+[8]: http://br-linux.org/linux/analise-ubuntu-breezy
+[9]: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/#comments

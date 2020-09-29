@@ -12,8 +12,8 @@ tags:
   - html
   - site
   - tableless
-
 ---
+
 Deixei o site fora do ar por dois dias para acabar de fazer esse design. E não refiz só o design. Refiz os bancos de dados, textos (links), adicionei a seção **Portifólio** e reprogramei todo o site. Agora eu cadastro posts em HTML, fazendo com que eu possa abusar mais de formatação nos artigos. Posso postar várias imagens tipo as da minha biografia (aliás, enchi minha biografia de fotos). Também fiz bastante mudanças nas expressões regulares do site.
 
 #### GeSHi
@@ -32,5 +32,4 @@ Postei o site em alguns fóruns para ser avaliado. Ele é totalmente baseado em 
 
 Espero que gostem!
 
- [1]: /2005/06/samba-em-preludio/
-
+[1]: /2005/06/samba-em-preludio/

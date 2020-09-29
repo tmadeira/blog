@@ -12,8 +12,8 @@ tags:
   - recomendo
   - relacionamentos
   - rene de paula
-
 ---
+
 > OK, isso não é coisa pra se perguntar assim do nada, mas a questão quase me acerta na testa mal eu abro a porta, e voilá a dita ave em pânico se debatendo contra o teto, paredes, um furacão azulado sem freios nem juízo.
 >
 > Rapidamente notei que alguém já estava se dedicando a esse problema filosófico de maneira bastante atlética, e antes que ele literalmente matasse a charada, tirei meu gato de cena. O pobre passarinho não tinha sete vidas, enfim.
@@ -22,6 +22,5 @@ O [Rene de Paula][1] escreveu um excelente texto sobre relacionamentos na intern
 
 **Link para o texto:** [Como se pega um beija-flor?][2]
 
- [1]: http://www.usina.com/tete-a-tete/
- [2]: http://www.usina.com/tete-a-tete/2005/07/como_se_pega_um.html
-
+[1]: http://www.usina.com/tete-a-tete/
+[2]: http://www.usina.com/tete-a-tete/2005/07/como_se_pega_um.html

@@ -17,8 +17,8 @@ tags:
   - redes de confiança
   - traduções
   - xrds
-
 ---
+
 <p style="text-align:right;">
   <em>Mohammad Mahdian *</em> (tradução: Tiago Madeira)
 </p>
@@ -51,7 +51,7 @@ O problema de distribuição de proxy em redes de confiança está ainda sem sol
 
 O objetivo desse exercício era convencer o leitor de que existe um problema teórico interessante e desafiante no âmago das tecnologias de violação de censura. Modelos e algoritmos para esse problema estão muito próximos dos que são usados na prática e, logo, há potencial para pesquisa nessa área que pode ter um impacto real nas vidas de milhões de pessoas vivendo sob opressão.
 
-* * *
+---
 
 \* **Mohammad Mahdian** é um pesquisador senior do Yahoo Research Lab em Santa Clara, CA. É bacharel em Engenharia da Computação pela Universidade de Tecnologia de Sharif, mestre em Ciência da Computação pela Universidade de Toronto e PhD em Matemática pelo MIT. Seus interesses de pesquisa atuais incluem projeto de algoritmos, economia algorítmica e aplicações em publicidade online e redes sociais.
 
@@ -59,8 +59,7 @@ O objetivo desse exercício era convencer o leitor de que existe um problema te�
 
 Este texto foi publicado em inglês na última edição da [XRDS][4] (revista da ACM para estudantes), cujo [tema][5] é **Ciência da Computação a serviço da democracia**. No site do autor, há o [artigo “Fighting censorship with algorithms” completo em PDF][6] disponível para download gratuito. Ainda não li, mas parece interessante.
 
- [2]: http://dl.acm.org/citation.cfm?id=2043250
- [4]: http://xrds.acm.org/
- [5]: http://xrds.acm.org/images/DLImages/18.2_Cover_crop.jpg
- [6]: http://www.mahdian.org/censorship.pdf
-
+[2]: http://dl.acm.org/citation.cfm?id=2043250
+[4]: http://xrds.acm.org/
+[5]: http://xrds.acm.org/images/DLImages/18.2_Cover_crop.jpg
+[6]: http://www.mahdian.org/censorship.pdf

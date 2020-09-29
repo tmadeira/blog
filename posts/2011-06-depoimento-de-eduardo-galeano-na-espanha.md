@@ -11,11 +11,10 @@ tags:
   - espanha
   - política
   - revolução
-
 ---
+
 (em espanhol, com legenda em português)
 
 <p style="text-align:center;">
   <br /><small><a href="http://www.youtube.com/watch?v=mdY64TdriJk">http://www.youtube.com/watch?v=mdY64TdriJk</a></small>
 </p>
-

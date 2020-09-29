@@ -12,8 +12,8 @@ tags:
   - itajaí
   - lutas
   - violência
-
 ---
+
 ![Briga](/wp-content/uploads/2007/04/brigaa.jpg)
 
 Fim da tarde… Cruzando de carro a Av. Sete de Setembro com a Rua Gil Stein Ferreira uma reunião enorme de pessoas me chamou a atenção. Cerca de 100 meninos e meninas formavam uma circunferência com uns 5 metros de raio; no centro dois moleques brigavam.
@@ -23,4 +23,3 @@ A roda gritava, empolgada. A violência estava deixando todos eles felizes, prov
 Em pleno centro da cidade, haviam várias pessoas passando e percebendo a tragédia: alguns continuavam seu caminho, outros paravam para observar melhor, ninguém fazia nada.
 
 Seria hipócrita condenar o povo que não se mexia e alguns até assistiam o espetáculo. Eu e minha família, afim de não perder a hora do café, continuamos no carro a caminho de casa.
-

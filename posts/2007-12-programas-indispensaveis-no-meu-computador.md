@@ -16,8 +16,8 @@ tags:
   - unix
   - vim
   - wget
-
 ---
+
 O [Tiago Celestino me convidou][1] pra [esse meme][2] há… mais de três meses. Antes tarde do que nunca, então lá vamos nós.
 
 Pra começar, a definição de **programa** é complicadíssima. Pra mim, não adianta ter Firefox se não tenho ifconfig. Da mesma forma, será que uma biblioteca é um programa? Para ter Firefox eu tenho que ter várias libs, que talvez eu não possa nessa brincadeira. E se eu puder escolher um programa sem pensar em nada disso, será que posso escolher o apt-get?
@@ -50,11 +50,11 @@ Respondido?
 
 Passo esse meme para o [Ilmo. Sr. Rev. Ibrahim Cesar][6], [Ilmo. Sr. John Artmann Jr.][7] e para o [Ilmo. Sr. Vinicius de Figueiredo][8].
 
- [1]: http://tcelestino.com.br/blog/os-3-programas-indispensaveis-no-meu-computador.html
- [2]: http://www.leonardopessoa.com/2007/08/3-programas-indispensaveis-no-meu-computador/
- [3]: http://www.gnu.org/software/bash
- [4]: http://www.vim.org/
- [5]: http://ruby-lang.org/
- [6]: http://1001gatos.org/
- [7]: http://socio.johnartmann.com/
- [8]: http://vinicius.oitobits.net/
+[1]: http://tcelestino.com.br/blog/os-3-programas-indispensaveis-no-meu-computador.html
+[2]: http://www.leonardopessoa.com/2007/08/3-programas-indispensaveis-no-meu-computador/
+[3]: http://www.gnu.org/software/bash
+[4]: http://www.vim.org/
+[5]: http://ruby-lang.org/
+[6]: http://1001gatos.org/
+[7]: http://socio.johnartmann.com/
+[8]: http://vinicius.oitobits.net/

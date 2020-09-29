@@ -15,8 +15,8 @@ tags:
   - programação
   - scripts
   - Software Livre
-
 ---
+
 Alguns sites começaram a abusar de um recurso super interessante do JavaScript para acabar com uma das características mais importantes da Internet: **a capacidade de copiar/colar**.
 
 O tratamento dos _clipboard events_ (`oncut`, `oncopy` e `onpaste`) deveria servir para permitir que os programadores façam coisas legais quando você copia/cola um texto (por exemplo, um processador de textos online pode inserir/remover formatação), mas tenho visto cada vez mais ele ser usado para [adicionar uma mensagem de _copyright_ no final de um texto copiado][1], impedir usuários leigos de copiarem textos na web e evitar que se cole coisas que você copiou em formulários.
@@ -53,14 +53,14 @@ Não encontrei nenhuma extensão que faça isso, mas um código simples em JavaS
 
 ```javascript
 all = document.querySelectorAll("*");
-fn = function(e) {
-    e.stopPropagation();
-    return true;
-}
+fn = function (e) {
+  e.stopPropagation();
+  return true;
+};
 for (var i = 0; i < all.length; i++) {
-    all[i].oncut = fn;
-    all[i].oncopy = fn;
-    all[i].onpaste = fn;
+  all[i].oncut = fn;
+  all[i].oncopy = fn;
+  all[i].onpaste = fn;
 }
 ```
 
@@ -76,19 +76,18 @@ A solução anterior nos permite criar um _userscript_ para desabilitar o tratam
 // @include http://*.folha.uol.com.br/*
 // ==/UserScript==
 
-window.onload = function() {
-    all = document.querySelectorAll("*");
-    fn = function(e) {
-        e.stopPropagation();
-        return true;
-    }
-    for (var i = 0; i < all.length; i++) {
-        all[i].oncut = fn;
-        all[i].oncopy = fn;
-        all[i].onpaste = fn;
-    }
-}
-
+window.onload = function () {
+  all = document.querySelectorAll("*");
+  fn = function (e) {
+    e.stopPropagation();
+    return true;
+  };
+  for (var i = 0; i < all.length; i++) {
+    all[i].oncut = fn;
+    all[i].oncopy = fn;
+    all[i].onpaste = fn;
+  }
+};
 ```
 
 Portanto, se você quiser copiar do site da Folha sem preocupações (e sem desabilitar os eventos em outros sites), pode instalar as extensões [GreaseMonkey][7] (Firefox) ou [TamperMonkey][8] (Chrome), e então esse _userscript_ clicando neste link: [falha.user.js][9].
@@ -103,12 +102,12 @@ Para instalar, arraste esse link para sua barra de favoritos. Para usar, clique 
 
 Viva a Internet!
 
- [1]: http://bavotasan.com/2010/add-a-copyright-notice-to-copied-text/
- [2]: http://desculpeanossafalha.com.br/
- [3]: /2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
- [4]: http://rodomundo.juntos.org.br/
- [5]: http://addons.mozilla.org/en-us/firefox/addon/nocopypaste/
- [6]: https://addons.opera.com/en-gb/extensions/details/clipboard-event-blocker/?display=en
- [7]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
- [8]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
- [9]: /wp-content/uploads/2014/04/falha.user.js
+[1]: http://bavotasan.com/2010/add-a-copyright-notice-to-copied-text/
+[2]: http://desculpeanossafalha.com.br/
+[3]: /2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
+[4]: http://rodomundo.juntos.org.br/
+[5]: http://addons.mozilla.org/en-us/firefox/addon/nocopypaste/
+[6]: https://addons.opera.com/en-gb/extensions/details/clipboard-event-blocker/?display=en
+[7]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+[8]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+[9]: /wp-content/uploads/2014/04/falha.user.js

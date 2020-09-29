@@ -4,7 +4,7 @@ type: post
 date: 2009-05-25T22:14:31+00:00
 url: /2009/05/greve-na-usp/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Cotidiano
   - Política
@@ -16,8 +16,8 @@ tags:
   - reitoria
   - une
   - usp
-
 ---
+
 Na verdade trata-se da narração do dia de hoje, cujo principal evento interessante para o público em geral é a greve na USP, contada informalmente por alguém que presenciou um ato e não tem lado muito bem definido (embora em algumas coisas concorde com um ou com outro). É importante ainda deixar claro de início que nem mesmo discutirei os motivos da greve aqui, porque quero evitar discussões pela internet (em geral há mais trollismo do que na vida real).
 
 Enfim, acordei às 4:00 e não consegui mais dormir. Rafael ontem me recordou algo importante que Vinícius de Moraes disse em seu Testamento: _que o tempo é curto e não para de passar_.
@@ -52,9 +52,8 @@ Sobre a greve dos professores: Também nesta semana (acho que amanhã) a ADUSP (
 
 Não é meu objetivo nesse post defender ou criticar a invasão da reitoria. Mas foi extremamente interessante participar desse evento, conhecer pessoas e ouvir excelentes discussões. Para mim, foi um ótimo dia. Desestressante, divertido. De certa forma (politicamente, ideologicamente, socialmente) um pouco pesado, que me deixou cheio de dúvidas e sem saber ao certo o que é certo (não que antes eu soubesse), mas precisamente o que eu precisava. Agora é hora de voltar a estudar… :)
 
- [1]: http://pt.wikipedia.org/wiki/Dia_do_Orgulho_Nerd
- [2]: http://congressodeestudantes.org.br/
- [3]: http://www.youtube.com/watch?v=wP3wAlsYF1s
- [4]: http://congressodeestudantes.org.br/conteudo/Outros_Maios_Virao.pdf
- [5]: http://educacao.uol.com.br/ultnot/2009/05/25/ult105u8096.jhtm
-
+[1]: http://pt.wikipedia.org/wiki/Dia_do_Orgulho_Nerd
+[2]: http://congressodeestudantes.org.br/
+[3]: http://www.youtube.com/watch?v=wP3wAlsYF1s
+[4]: http://congressodeestudantes.org.br/conteudo/Outros_Maios_Virao.pdf
+[5]: http://educacao.uol.com.br/ultnot/2009/05/25/ult105u8096.jhtm

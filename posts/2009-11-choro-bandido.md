@@ -12,9 +12,7 @@ tags:
   - música
   - piano
   - tom jobim
-
 ---
-
 
 Estava com vontade de tocar essa música e resolvi procurar a [cifra][1]. É normal eu interpretar algumas notas da cifra de forma diferente pra facilitar tocá-la no piano (em geral minha leitura é muito mais fácil mantendo tríades na mão direita e uma nota aleatória no baixo), mas me surpreendi com como ficou diferente minha cifra mental dessa. De fato achei tão curioso que eu acabei escrevendo-a e resolvi postar aqui.
 
@@ -51,4 +49,4 @@ Que animou  todos os sons</code></pre>
 
 <small><em><strong>PS:</strong> Favor não tentar analisar harmonicamente a música pela minha cifra. É apenas uma maneira mais fácil pra eu tocar e provavelmente não é a intenção do compositor, pois de fato há muita coisa estranha que provavelmente só é mais fácil pra quem toca piano (G/G# por exemplo).</em></small>
 
- [1]: http://cifraclub.terra.com.br/chico-buarque/choro-bandido/
+[1]: http://cifraclub.terra.com.br/chico-buarque/choro-bandido/

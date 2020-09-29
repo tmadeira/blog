@@ -13,8 +13,8 @@ tags:
   - lógica
   - Matemática
   - programação
-
 ---
+
 Meu professor de matemática Vavá (não é o Fabiano, que me dá aula de manhã e também é muito bom mas explica as coisas muito devagar para toda a sala entender; mas o que eu me refiro é o que me ajuda a aprender coisas lógicas e quem geralmente me ensina coisas mais interessantes como números binários e números complexos no treinamento para olimpíadas de matemática – e, consequentemente, de informática) me passou dois desafios lógicos pelo MSN. Um deles é um problema muito interessante que, depois de entender a lógica (o algoritmo), resolvi implementar num programa em C (as cores só funcionam em bash :) E, pelo amor de Deus, espero que alguém que programe e se interesse por isso use Linux!).
 
 ```c
@@ -78,9 +78,9 @@ Hmmm… O robô que joga contra a pessoa (Tiago) é como eu jogaria contra algu�
 
 Tenho olhado as estatísticas do site e tem cada vez mais pessoas entrando no Google (graças a Deus ele indexou minhas páginas internas – mas ainda não meus scripts lógicos), mas geralmente de assuntos que meu site não trata! Tipo, tem umas coisas que até tudo bem, como “problemas lógicos” (meu site é o primeiro da lista ao procurar por essas palavras – E, aliás, se você tá aqui por causa disso, sugiro a lista **maratona** do YahooGrupos!), mas algumas que aparecem porque possuem as palavras soltas no texto, como:
 
-  * **símbolo anéis de formatura** – Aparece meu site porque tem um post que tem “Senhor dos Anéis”, “Formatura” (da minha oitava série) e “Símbolos Matemáticos”
-  * **winrar código livre** – Hmmm… Código livre eu já citei várias vezes e Winrar eu falei para quem quiser descompactar o zip do Shortstat.
-  * **biografia de kevin mitnick** – Porque na minha biografia eu cito Kevin Mitnick
+- **símbolo anéis de formatura** – Aparece meu site porque tem um post que tem “Senhor dos Anéis”, “Formatura” (da minha oitava série) e “Símbolos Matemáticos”
+- **winrar código livre** – Hmmm… Código livre eu já citei várias vezes e Winrar eu falei para quem quiser descompactar o zip do Shortstat.
+- **biografia de kevin mitnick** – Porque na minha biografia eu cito Kevin Mitnick
 
 #### Início das Aulas
 

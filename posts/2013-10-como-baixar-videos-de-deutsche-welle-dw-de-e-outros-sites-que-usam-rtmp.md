@@ -5,13 +5,13 @@ date: 2013-11-01T02:49:51+00:00
 url: /2013/10/como-baixar-videos-de-deutsche-welle-dw-de-e-outros-sites-que-usam-rtmp/
 categorias:
   - Dicas
-
 ---
+
 **RTMP** ([Real Time Messaging Protocol][1]) é um protocolo desenvolvido pela Macromedia para fazer streaming de áudio e vídeo de um servidor para um Flash player.
 
 Vou mostrar uma forma genérica para baixar vídeos de sites que usam RTMP usando como exemplo um vídeo do [Deutsche Welle][2]. Escolhi esse site porque ele não é suportado pela extensão [Video DownloadHelper][3] do Firefox. Porém, a dica funciona para vários outros sites que também usam esse protocolo.
 
-* * *
+---
 
 Para começar, você vai precisar instalar dois programas livres: **Wireshark** e **RTMPDump**.
 
@@ -23,7 +23,7 @@ No Windows ou outras plataformas onde é mais difícil instalar programas, você
 
 Antes que reclamem nos comentários, há muitos programas mais simples que poderiam substituir o Wireshark nessa dica, mas decidi usar o Wireshark porque ele permite muitas outras coisas que podem ser úteis no futuro. Com efeito, usando o Wireshark é fácil encontrar o endereço de vídeos de sites que usam Flash mas não usam RTMP, como por exemplo Globo.com (que usa HTTP mesmo). Além disso, o Wireshark pode ajudar você a capturar e analisar pacotes que estão passando pelo ar mas teoricamente não deveriam ser lidos por você numa rede WiFi. Porém, isso já foge do escopo deste post.
 
-* * *
+---
 
 O vídeo que usarei como exemplo é o que aparece quando você clica na foto do Brasil (Organize a sua indignação) na reportagem [Alle Macht dem Volk?][6] Clique nessa imagem e deve aparecer uma tela como esta:
 
@@ -87,9 +87,9 @@ $
 
 O vídeo usado no exemplo, para quem se interessar e entender alemão, foi parar no YouTube e agora pode ser incorporado em qualquer site:
 
- [1]: https://en.wikipedia.org/wiki/Real_Time_Messaging_Protocol
- [2]: http://dw.de/
- [3]: https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/
- [4]: https://www.wireshark.org/
- [5]: http://rtmpdump.mplayerhq.hu/
- [6]: http://www.dw.de/themen/alle-macht-dem-volk/s-32349
+[1]: https://en.wikipedia.org/wiki/Real_Time_Messaging_Protocol
+[2]: http://dw.de/
+[3]: https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/
+[4]: https://www.wireshark.org/
+[5]: http://rtmpdump.mplayerhq.hu/
+[6]: http://www.dw.de/themen/alle-macht-dem-volk/s-32349

@@ -14,8 +14,8 @@ tags:
   - música
   - religião
   - vida
-
 ---
+
 > Os movimentos celestes nada mais são que uma canção contínua para várias vozes, percebida pelo intelecto e não pelo ouvido; uma música que, por meio de tensões discordantes, síncopes e cadências (…), progride na direção de certas resoluções determinadas, estabelecendo assim certas marcas no fluxo imensurável do tempo. Não é de causar surpresa, portanto, que o homem, imitando seu Criador, tenha, finalmente, descoberto a arte da notação musical, desconhecida dos antigos. O homem desejava reproduzir a continuidade do tempo cósimco dentro de uma breve hora, por meio de uma engenhosa harmonia de várias vozes, a fim de saborear uma amostra do prazer que o Criador Divino tem em Sua obras, e participar de sua alegria fazendo música na imitação de Deus.
 
 (trecho de uma carta de [Kepler][1] citada por Arthur Koestler)
@@ -56,9 +56,8 @@ Hoje em dia a religião ocidental é a cientologia, por mais que mais de 90% des
 
 Mas afinal, como já perguntei, será que [ciência e religião são tão diferentes][5]? Não são simplesmente duas crenças diferentes? Na minha opinião, acreditar é correr perigo de estar errado. Não há como dizer se o mundo é fruto de uma grande explosão, se foi uma música que o criou, ou se ele é somente fruto da minha imaginação. O que você acha?
 
- [1]: http://pt.wikipedia.org/wiki/Kepler
- [2]: http://pt.wikipedia.org/wiki/Tolkien
- [3]: http://1001gatos.org/
- [4]: http://1001gatos.org/o-pop-como-religiao/
- [5]: http://malvicioso.com/mundo-absurdo
-
+[1]: http://pt.wikipedia.org/wiki/Kepler
+[2]: http://pt.wikipedia.org/wiki/Tolkien
+[3]: http://1001gatos.org/
+[4]: http://1001gatos.org/o-pop-como-religiao/
+[5]: http://malvicioso.com/mundo-absurdo

@@ -9,8 +9,8 @@ tags:
   - discordia
   - eris
   - fnord
-
 ---
+
 One day Mal-2 asked the messenger spirit Saint Gulik to approach the Goddess and request Her presence for some desperate advice. Shortly afterwards the radio came on by itself, and an ethereal female Voice said **YES**?
 
 _“O! Eris! Blessed Mother of Man! Queen of Chaos! Daughter of Discord! Concubine of Confusion! O! Exquisite Lady, I beseech You to lift a heavy burden from my heart!”_
@@ -28,4 +28,3 @@ _“But nobody wants it! Everybody hates it.”_
 At which moment She turned herself into an aspirin commercial and left The Polyfather stranded alone with his species.
 
 <small>Este texto é parte integrante do <a href="http://www.principiadiscordia.com/book/45.php">Principia Discordia</a>. É proibido vendê-lo separadamente.</small>
-

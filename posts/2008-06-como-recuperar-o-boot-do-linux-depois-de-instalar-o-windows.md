@@ -16,8 +16,8 @@ tags:
   - mbr
   - partições
   - windows
-
 ---
+
 Esse é um problema super comum que já resolvi para dezenas de pessoas e resolvi escrever aqui pra não ficar tendo que repetir a resolução toda vez que alguém me perguntar.
 
 O caso é o seguinte: você tem Linux numa das suas partições e por algum motivo estranho instala Windows (ou reinstala) na outra. O Windows, como todo sistema operacional para idiotas, simplesmente limpa sua MBR (master boot record do HD) sem lhe perguntar nada e com isso deleta seu gerenciador de boots (neste post estarei tratando o Grub e o Lilo).
@@ -26,8 +26,8 @@ Aí você se vê triste, desiludido e em muitos casos resolve reinstalar o Linux
 
 Tudo o que você precisará para recuperar sua MBR (com Grub ou Lilo) é:
 
-  1. Um livecd (não precisa ser um daqueles pesadões, um disco 1 do Slackware ou Gentoo Minimal resolve) com a mesma arquitetura do seu Linux. Se você não tem, sugiro o Gentoo Minimal porque é leve: [o download você faz aqui][1]. Se você não sabe o que é arquitetura, você provavelmente usa x86.
-  2. Saber em que partição se encontra seu Linux (tipo: /dev/hda1, /dev/sda1, ou algo do gênero) e em que HD ele se encontra (tipo: /dev/hda, /dev/sda… é só tirar o número da partição)
+1. Um livecd (não precisa ser um daqueles pesadões, um disco 1 do Slackware ou Gentoo Minimal resolve) com a mesma arquitetura do seu Linux. Se você não tem, sugiro o Gentoo Minimal porque é leve: [o download você faz aqui][1]. Se você não sabe o que é arquitetura, você provavelmente usa x86.
+2. Saber em que partição se encontra seu Linux (tipo: /dev/hda1, /dev/sda1, ou algo do gênero) e em que HD ele se encontra (tipo: /dev/hda, /dev/sda… é só tirar o número da partição)
 
 Se você não sabe em que partição/hd está seu Linux, é fácil descobrir através do comando `fdisk -l`
 
@@ -35,7 +35,7 @@ Boote o livecd (considerarei que você sabe fazer isso, do contrário não teria
 
 Agora o que vamos fazer é montar a partição root do seu Linux (e considerarei que /boot não está numa partição separada, se estiver monte ela também), entrar nela e reinstalar o Grub ou o Lilo.
 
-Se o seu terminal terminar com um caractere $ (cifrão), digite “sudo su” para virar root. Agora pode digitar o que segue:
+Se o seu terminal terminar com um caractere \$ (cifrão), digite “sudo su” para virar root. Agora pode digitar o que segue:
 
 ```
 # mkdir linux
@@ -106,5 +106,4 @@ Se você usa Lilo, é necessário que depois de salvar o arquivo você entre no 
 
 É isso. Reinicie seu computador e divirta-se com seu gerenciador de boots funcionando novamente. Qualquer dúvida, escrevam comentários.
 
- [1]: http://www.gentoo.org/main/en/where.xml
-
+[1]: http://www.gentoo.org/main/en/where.xml

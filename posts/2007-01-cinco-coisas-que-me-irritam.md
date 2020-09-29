@@ -12,8 +12,8 @@ tags:
   - religião
   - televisão
   - trabalho manual
-
 ---
+
 Parece que tags estão na moda… O [j. noronha][1] me convidou pra escrever cinco coisas que me irritam. O que mais me irrita no momento é essa tela gorda e a [dificuldade para configurá-la][2], mas tem muita coisa no mundo que me irrita. Mas abaixo vão as cinco que eu pensei agora e que considero as coisas que mais me irritam… :-)
 
 ### #1 – Religiosos fanáticos
@@ -44,22 +44,21 @@ Sei lá se a televisão a cabo é melhor. A que eu tenho aqui em casa é ridícu
 
 ### Passo a tag para…
 
-  * [Bruno][8]
-  * [Carol][9]
-  * [Fabricio][10]
-  * [Thássius][11]
-  * [Wendel][12]
+- [Bruno][8]
+- [Carol][9]
+- [Fabricio][10]
+- [Thássius][11]
+- [Wendel][12]
 
- [1]: http://www.ofimdavarzea.com/2007/01/17/cinco-coisas-irritantes/
- [2]: /2007/01/emerge-happiness/
- [3]: http://malvicioso.com/2007/01/12/almas-a-venda/
- [4]: http://www.ofimdavarzea.com/
- [5]: http://malvicioso.com/2007/01/15/mundo-machista-eh/
- [6]: http://malvicioso.com/2007/01/16/como-funciona-a-escola/
- [7]: http://malvicioso.com/2007/01/01/vai-trabalhar-vagabundo/
- [8]: http://brunomadeira.com/
- [9]: http://malvicioso.com/
- [10]: http://fabricio.wordpress.com/
- [11]: http://memoriasfracas.semjuizo.com/
- [12]: http://wendel.scardua.net/
-
+[1]: http://www.ofimdavarzea.com/2007/01/17/cinco-coisas-irritantes/
+[2]: /2007/01/emerge-happiness/
+[3]: http://malvicioso.com/2007/01/12/almas-a-venda/
+[4]: http://www.ofimdavarzea.com/
+[5]: http://malvicioso.com/2007/01/15/mundo-machista-eh/
+[6]: http://malvicioso.com/2007/01/16/como-funciona-a-escola/
+[7]: http://malvicioso.com/2007/01/01/vai-trabalhar-vagabundo/
+[8]: http://brunomadeira.com/
+[9]: http://malvicioso.com/
+[10]: http://fabricio.wordpress.com/
+[11]: http://memoriasfracas.semjuizo.com/
+[12]: http://wendel.scardua.net/

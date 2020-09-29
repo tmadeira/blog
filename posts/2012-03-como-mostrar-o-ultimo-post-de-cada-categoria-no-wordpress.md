@@ -17,8 +17,8 @@ tags:
   - scripts
   - sql
   - wordpress
-
 ---
+
 O [WordPress][1] é um dos meus programas preferidos e um dos que mais consome as madrugadas já faz alguns anos. Escrevi inúmeros temas, alguns plugins ([um único genérico o suficiente para ser público][2]) e já modifiquei algumas partes do código (embora hoje seja raro isso ser necessário).
 
 Acho muito simples e me divirto ao programar em PHP para a web (talvez porque eu faça isso há uns dez anos). Gosto muito da forma como o WordPress é escrito e, com efeito, seu lema é **Code is poetry** — _Código é poesia_. Sua documentação e seu código são muito didáticos e foram, assim como seus temas e as tabelas no banco de dados, evoluindo de acordo com o tempo: as atualizações sempre têm novas features e formas mais genéricas e mais elegantes de fazer as coisas.
@@ -157,9 +157,8 @@ Acho que as relações necessárias já ficaram explícitas na query que eu escr
 
 ![Diagrama do banco de dados do WordPress](/wp-content/uploads/2012/03/WP3.0-ERD1.png)
 
- [1]: http://wordpress.org/
- [2]: /2012/01/retrospective/
- [3]: http://w3techs.com/technologies/overview/content_management/all
- [4]: http://www.pblog.com.br/2007/12/03/camisas-do-wordpress-de-graca-quem-vai-querer/
- [5]: https://codex.wordpress.org/Function_Reference/get_categories
-
+[1]: http://wordpress.org/
+[2]: /2012/01/retrospective/
+[3]: http://w3techs.com/technologies/overview/content_management/all
+[4]: http://www.pblog.com.br/2007/12/03/camisas-do-wordpress-de-graca-quem-vai-querer/
+[5]: https://codex.wordpress.org/Function_Reference/get_categories

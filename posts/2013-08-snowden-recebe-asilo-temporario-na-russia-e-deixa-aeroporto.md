@@ -12,8 +12,8 @@ tags:
   - internet
   - liberdade
   - Rússia
-
 ---
+
 Edward Snowden acaba de obter asilo temporário na Rússia por um ano. O ex-agente da inteligência americana saiu da zona de trânsito internacional do aeroporto de Moscou por volta das 8:30 no horário de Brasília acompanhado de Sarah Harrison, assessora do WikiLeaks. Ele estava lá desde o dia 23 de junho, quando chegou de Hong Kong.
 
 ![Passaporte de Edward Snowden.](/wp-content/uploads/2016/12/snowden.jpeg)

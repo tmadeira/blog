@@ -12,8 +12,8 @@ tags:
   - obi
   - obi 2006
   - olimpíadas
-
 ---
+
 Em breve, estarei divulgando o **how-to**: _Como perder uma viagem, um curso e uma oportunidade de representar o Brasil numa olimpíada internacional por um erro de digitação_… :(
 
 Um dia depois do prazo que consta no [regulamento][1], a Comissão Organizadora da [OBI2006][2] divulgou o resultado da modalidade programação. Para minha surpresa, [fiz 20 pontos][3]: 10 no **Lobo Mau** e 10 no **Penalidade Mínima**.
@@ -25,8 +25,6 @@ No [último _post_][4] eu mencionei que estava mal no dia da prova e nem fiz o �
 <p id="malditoErroDeDigitacao" class="quote">
   Agoca… O pcoblema sécio veio depois. Ao lec o ródigo da minha solução*, pecrebi que eccei um racartec no acgumento rondirional de um loop! Tcoquei um “r” (rê) poc um “c” (ecce) <em>(veja a linha 63 do ródigo que está linkado no astecisro)</em>, racarteces que signifiravam as linhas e rolunas da matciz, cespertivamente. Maldito ecco de digitação!
 </p>
-
-
 
 <p style="font-size:85%;">
   <a href="javascript:arrumaErros('malditoErroDeDigitacao');">Corrija a frase acima, JavaScript!</a> (são as inutilidades que o vício em linguagens <em>client-side</em> pode fazer…)
@@ -44,9 +42,8 @@ Eu já esperava ir mal, mas pensei que os 100 pontos do **Lobo Mau** estavam gar
 
 Por enquanto é isso aí… Me ferrei, mas agora pelo menos nunca mais vou errar uma coisa dessas numa prova de programação e nunca mais vou comer no Mc Donalds antes de uma prova… (tô tentando ser otimista, mas tá difícil… hehehe) Parabéns pra quem passou e boa sorte! Embora eu não tenha gostado do resultado, na verdade não tenho motivos lógicos para reclamar. Vacilei na segunda fase mesmo e provas são sempre traiçoeiras (com certeza elas não são a melhor maneira de avaliação).
 
- [1]: http://olimpiada.ic.unicamp.br/info_geral/regulamento
- [2]: http://olimpiada.ic.unicamp.br
- [3]: http://olimpiada.ic.unicamp.br/res_fase2_prog/programacao_n2/MostraLog?id=13
- [4]: /2006/05/resumao/
- [5]: http://olimpiada.ic.unicamp.br/res_fase2_prog/programacao_n2/gabaritos/lobo.zip
-
+[1]: http://olimpiada.ic.unicamp.br/info_geral/regulamento
+[2]: http://olimpiada.ic.unicamp.br
+[3]: http://olimpiada.ic.unicamp.br/res_fase2_prog/programacao_n2/MostraLog?id=13
+[4]: /2006/05/resumao/
+[5]: http://olimpiada.ic.unicamp.br/res_fase2_prog/programacao_n2/gabaritos/lobo.zip

@@ -14,8 +14,8 @@ tags:
   - lgbt
   - máquina de Turing
 format: status
-
 ---
+
 Hoje completa 62 anos a morte de Alan Turing, personagem fundamental da história da computação e um dos maiores gênios do século XX.
 
 Turing formalizou os conceitos de “algoritmo” e “computação” ao criar a máquina universal abstrata que serve de modelo para nossos computadores digitais.

@@ -21,8 +21,8 @@ tags:
   - sociedade
   - usa
   - yankees
-
 ---
+
 ![Bush caused 9/11](/wp-content/uploads/2007/02/bush.jpg)
 
 > […] o senhor Presidente [Bush] veio lhes falar, assim o disse: _“Hoje quero falar diretamente às populações do Oriente Médio, meu país deseja a paz…”_. Isso é certo. Se nós andamos pelas ruas do Bronx, se nós andamos pelas ruas de Nova York, de Washington, de San Diego, da Califórnia, de qualquer cidade, de San Antonio, de San Francisco, e perguntamos às pessoas nas ruas, aos cidadãos estadunidenses. Este país quer paz. A diferença está em que o governo deste país, dos Estados Unidos, não quer a paz, quer nos impôr seu modelo de exploração e de saque, e sua hegemonia na base das guerras.
@@ -33,8 +33,8 @@ Não é um discurso novo, mas por sugestão da [Caroline][1] eu acabei de ler e 
 
 Nos links abaixo você pode ler o discurso de Chávez na íntegra:
 
-  * [Discurso de Hugo Chávez em português][2]
-  * [Discurso de Hugo Chávez em inglês][3]
+- [Discurso de Hugo Chávez em português][2]
+- [Discurso de Hugo Chávez em inglês][3]
 
 Vale a pena também ler este excelente artigo da [Cabala][4] sobre os estadounidenses: [Hitler era um cara legal ou realidade para otimistas idiotas][5]
 
@@ -44,9 +44,8 @@ Nós, enquanto povo, não temos poder nenhum. Essa história de _democracia = de
 
 Alguma idéia?
 
- [1]: http://inocentandopandora.blogspot.com/
- [2]: http://www.unidadepopular.org/chavez25.htm
- [3]: http://auto_sol.tao.ca/node/view/2317
- [4]: http://1001gatos.org/
- [5]: http://1001gatos.org/realidade/
-
+[1]: http://inocentandopandora.blogspot.com/
+[2]: http://www.unidadepopular.org/chavez25.htm
+[3]: http://auto_sol.tao.ca/node/view/2317
+[4]: http://1001gatos.org/
+[5]: http://1001gatos.org/realidade/

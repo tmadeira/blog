@@ -11,8 +11,8 @@ tags:
   - hipocrisia
   - mal vicioso
   - sociedade
-
 ---
+
 ![A idade determina a responsabilidade de uma pessoa?](/wp-content/uploads/2007/01/11_telefono_01.jpg)
 
 Os adultos vivem impondo limites para menores de idade. Eles são superiores e sábios porque já passaram pela mesma fase que as crianças passaram. Parece que quando você completa 18 anos, de repente você muda por completo e abandona toda uma mentalidade para começar a ser “adulto”, uma nova fase onde você é dominado por um egoísmo e uma mentalidade de pessoas que se acham inteligentes o suficiente para poderem tomar decisões sem consultar ninguém, pessoas totalmente responsáveis por si mesmas, sem dúvidas de nada.
@@ -29,6 +29,5 @@ O **Mal Vicioso** não tem distinção de idade, porque nós não gostamos de xi
 
 Se não abandonar, você _há de viver eternamente sendo escravo dessa gente que cultiva a hipocrisia_.
 
- [1]: /2006/12/maieutica/
- [2]: http://pt.wikipedia.org/wiki/Peter_Pan
-
+[1]: /2006/12/maieutica/
+[2]: http://pt.wikipedia.org/wiki/Peter_Pan

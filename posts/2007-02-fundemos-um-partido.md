@@ -11,8 +11,8 @@ tags:
   - partido
   - pblog
   - política
-
 ---
+
 R\$ 140.000,00 reais por mês. É a previsão do dinheiro que o PCO ganhará do fundo partidário (= nossos impostos). Com o fim da Cláusula de Barreira, qualquer minipartido ganha uma grana.
 
 O Rafael [sugere que fundemos um partido][1]. O **PBLOG** seria o partido oficial da Blogosfera Brasileira. O Celso, [babando pelo dinheiro][2], consultou o [Google][3] e descobriu [como criar um partido político no Brasil][4]:
@@ -47,15 +47,14 @@ Será que é muita viagem achar que isso pode dar certo? Eu acho que não temos 
 
 Meus objetivos com o partido seriam:
 
-  1. Mostrar para o mundo que blogs existem (sim, é para o mundo – com certeza isso teria repercussão fora do Brasil)
-  2. Protestar contra a política ridícula do Brasil, com uma manifestação pacífica e bem humorada.
-  3. Ensinar pra gente como o nosso querido deputado Eduardo Azeredo o que é a internet.
+1. Mostrar para o mundo que blogs existem (sim, é para o mundo – com certeza isso teria repercussão fora do Brasil)
+2. Protestar contra a política ridícula do Brasil, com uma manifestação pacífica e bem humorada.
+3. Ensinar pra gente como o nosso querido deputado Eduardo Azeredo o que é a internet.
 
 Então, rumo às assinaturas! Quem vai ser o presidente do nosso partido pra organizar toda essa bagunça?
 
- [1]: http://novo-mundo.org/log/2007/02/08/como-criar-um-partido-politico/
- [2]: http://www.celsojunior.net/blog/2007/02/08/campanha-a-favor-do-pblog/
- [3]: http://www.google.com/
- [4]: http://www.tre-pr.gov.br/eleitorfuturo/down/partido_politico.doc
- [5]: http://1001gatos.org/
-
+[1]: http://novo-mundo.org/log/2007/02/08/como-criar-um-partido-politico/
+[2]: http://www.celsojunior.net/blog/2007/02/08/campanha-a-favor-do-pblog/
+[3]: http://www.google.com/
+[4]: http://www.tre-pr.gov.br/eleitorfuturo/down/partido_politico.doc
+[5]: http://1001gatos.org/

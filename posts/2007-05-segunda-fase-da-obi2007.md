@@ -15,8 +15,8 @@ tags:
   - pizza
   - problemas
   - telemarketing
-
 ---
+
 A prova de segunda fase da [Olimpíada Brasileira de Informática][1] aconteceu há duas semanas e eu havia me esquecido de comentar aqui no blog como eu fui. O resultado deve sair amanhã ou depois de amanhã, segundo um dos caras responsáveis pela organização no orkut. Se tudo der certo e Éris quiser eu participarei pela quarta vez do curso de programação e da seletiva para a IOI.
 
 ### Telemarketing (OBI2007 – Programação Nível 2 – Segunda Fase)
@@ -252,4 +252,4 @@ int main() {
 
 O resultado da olimpíada deve sair amanhã ou depois de amanhã e a nota de corte deve ser entre 100 e 150 pontos. Pelos meus cálculos, eu devo ter feito 140 (20+20+100), o que talvez me classifique para a próxima fase. Mais notícias a qualquer momento ;)
 
- [1]: http://olimpiada.ic.unicamp.br/
+[1]: http://olimpiada.ic.unicamp.br/

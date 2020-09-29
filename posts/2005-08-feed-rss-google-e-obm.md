@@ -15,8 +15,8 @@ tags:
   - php
   - rss
   - xml
-
 ---
+
 Finalmente implementei o feed RSS que estava faltando na minha página… O **Gustavo Custódio**, do Colégio, me lembrou de criá-lo e fiz isso agora a noite mesmo…
 
 Segui o padrão do [Bruno Torres][1], porque não tenho muita experiência com feeds XML/RSS e criei até um XSL para não ficar só o feed mesmo, mas ter um _“estilo associado a ele”_, como diz o Mozilla.
@@ -33,4 +33,4 @@ Sábado é a segunda fase da OBM (Olimpíada Brasileira de Matemática) e també
 
 Depois da semana do festival de música, quero voltar a programar logicamente. Essa semana só tentei fazer coisas em GTK, mas sem muito sucesso (aprendi um pouco de C/GTK, mas depois resolvi PHP/GTK porque PHP é uma linguagem mais completa, mas ainda não decidi nada)…
 
- [1]: http://www.brunotorres.net
+[1]: http://www.brunotorres.net

@@ -4,7 +4,7 @@ type: post
 date: 2009-04-09T11:46:27+00:00
 url: /2009/04/estatisticas-estranhas/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Metablogagem
 tags:
@@ -13,8 +13,8 @@ tags:
   - feedburner
   - Metablogagem
   - rss
-
 ---
+
 A linha verde é a quantidade de _subscribers_ do feed desse blog, segundo o [Feedburner][1]. A linha azul é a quantidade de vezes que um artigo foi lido (ou clicado) por algum desses leitores.
 
 ![Feed Stats Dashboard](/wp-content/uploads/2009/04/stats.png)
@@ -23,4 +23,4 @@ Como vocês podem notar, antes de eu criar este blog o feed estava estabilizado 
 
 Alguém tem algum palpite para o que está havendo?
 
- [1]: http://www.feedburner.com/
+[1]: http://www.feedburner.com/

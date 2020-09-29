@@ -11,8 +11,8 @@ tags:
   - olimpíada de maio
   - olimpíadas
   - resultados
-
 ---
+
 Ontem saiu no [site da OBM][1] o resultado do Brasil na Olimpíada de Maio nesse ano. Ganhei bronze com 30 pontos! Mais um bicampeonato nesse ano… Hehehe… :D
 
 Nessa semana, o laptop voltou a ter um problema de HD (quer dizer, o problema é o mesmo que aquela vez, mas voltou a dar pau e eu tive que formatar tudo de novo!). Tô revoltado aqui, ainda mais porque nessa semana tô refazendo as provas e trabalhos da semana que eu faltei por causa do curso da OBI. Tenho um trabalho (Flash, The Little Dog Corporation) sobre o Pitágoras que devo acabar até sexta-feira e não tô nem com um sistema estável aqui…
@@ -31,10 +31,10 @@ A Olimpíada de Maio é uma olimpíada iberoamericana (acontece em países colon
 
 ### Esta notícia em outros lugares…
 
-  * [Site da OBM][3]
-  * [Lista OBM-L][4]
+- [Site da OBM][3]
+- [Lista OBM-L][4]
 
- [1]: http://www.obm.org.br/maio.htm
- [2]: http://www.salesianoitajai.g12.br/quersaber
- [3]: http://www.google.com.br/url?sa=t&ct=res&cd=1&url=http%3A//www.obm.org.br/maio.htm
- [4]: http://www.google.com.br/url?sa=t&ct=res&cd=4&url=http%3A//www.mat.puc-rio.br/%7Enicolau/olimp/obm-l.200506/msg00168.html
+[1]: http://www.obm.org.br/maio.htm
+[2]: http://www.salesianoitajai.g12.br/quersaber
+[3]: http://www.google.com.br/url?sa=t&ct=res&cd=1&url=http%3A//www.obm.org.br/maio.htm
+[4]: http://www.google.com.br/url?sa=t&ct=res&cd=4&url=http%3A//www.mat.puc-rio.br/%7Enicolau/olimp/obm-l.200506/msg00168.html

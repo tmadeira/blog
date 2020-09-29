@@ -13,8 +13,8 @@ tags:
   - javascript
   - paywall
   - programação
-
 ---
+
 <span class="embed-youtube" style="text-align:center; display: block;"></span>
 
 Depois de ouvir esse improviso do André Mehmari sobre Odeon e Choro pro Zé, fiquei com vontade de encontrar a partitura desse belo choro do Guinga. Porém, descobri que infelizmente [é extremamente difícil encontrar][1] o songbook “A música de Guinga”.
@@ -32,11 +32,17 @@ Percebi que ele passa todas as imagens corretamente para o navegador e só no la
 // @require http://code.jquery.com/jquery-2.0.3.min.js
 // ==/UserScript==
 
-(function($) {
-    $(document).ready(function() {
-        window.setInterval(function(){$(".absimg").css("opacity", "1")}, 1000);
-        $(".autogen_class_views_read_show_page_blur_promo").on("click", function(e) { $(this).hide(); });
+(function ($) {
+  $(document).ready(function () {
+    window.setInterval(function () {
+      $(".absimg").css("opacity", "1");
+    }, 1000);
+    $(".autogen_class_views_read_show_page_blur_promo").on("click", function (
+      e
+    ) {
+      $(this).hide();
     });
+  });
 })(jQuery);
 ```
 
@@ -44,11 +50,10 @@ Para usar, é só instalar o Greasemonkey no Firefox e depois [baixar o userscri
 
 ![Partitura da música Choro pro Zé no songbook do Guinga no Scribd.](/wp-content/uploads/2013/08/choro-pro-ze-650x532.png)
 
- [1]: http://www.violao.org/topic/6896-songbook-a-musica-de-guinga/
- [2]: https://torrentz.eu/efd777a6a64d1dd7e53f358e388a6409925f5af6
- [3]: http://pt.scribd.com/doc/47928303/Songbook-A-Musica-de-Guinga
- [4]: /2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
- [6]: http://jquery.com/
- [7]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
- [8]: /wp-content/uploads/2013/08/scribd.user.js
-
+[1]: http://www.violao.org/topic/6896-songbook-a-musica-de-guinga/
+[2]: https://torrentz.eu/efd777a6a64d1dd7e53f358e388a6409925f5af6
+[3]: http://pt.scribd.com/doc/47928303/Songbook-A-Musica-de-Guinga
+[4]: /2013/07/como-ler-noticias-ilimitadas-de-folha-estadao-e-globo-sem-cadastro/
+[6]: http://jquery.com/
+[7]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+[8]: /wp-content/uploads/2013/08/scribd.user.js

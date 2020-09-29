@@ -13,15 +13,15 @@ tags:
   - html
   - php
   - site
-
 ---
+
 <p><strong>Atenção: os códigos desta postagem, além de inúteis, estão com muitos erros de sintaxe. Foram convertidos entre várias plataformas de blog e perderam muita coisa. Estão guardados aqui apenas para registro.</strong></p>
 
 Ultimamente fiz várias alterações no site. Refiz quase que todas as páginas e deixei tudo um pouco mais leve e mais fácil para mudar depois. :D Depois de conhecer a POO, me viciei nela no final de semana e converti meu site inteiro para classes. E agora, que seu script tá um pouco melhor organizado, vou colocar aqui para quem quiser copiar, usar alguma idéia, saber como eu estou indo em POO, ver as besteiras que eu faço enquanto programo, etc. :lol: resolvi disponibilizar todo o código de meu blog aqui.
 
 Já que meu blog tem alguns bugs (_known bugs_ de pouca importância, como o caso de se alguém escreve CHARESPC no meio de um comentário ele deve criar um _&;_), peço somente que ninguém destrua-o sabendo disso. Se alguém descobrir algum bug, pode me enviar um e-mail que ficarei bastante grato. :)
 
-Já que não passei a sessão de administração para POO não vou publicá-la aqui, mas depois de resolver alguns bugzinhos pretendo disponibilizar o código completo, inclusive com um arquivo de instalação que cria as tabelas no banco de dados, para todos poderem usar um sisteminha de blog simples e prático (só que acho que vai ser algo mais voltado a programadores, porque tem vantagens como o uso do GeSHi, e desvantagens como eu publicar todos os posts escrevendo em **HTML** – isso mesmo, até os & que eu escrevo são & que são & *e um loop infinito pela frente). Hmmm, aliás, quem quiser me ajudar a fazer parte desse projeto para tornar o meu blog um software livre, sinta-se livre para me mandar um e-mail também. :p
+Já que não passei a sessão de administração para POO não vou publicá-la aqui, mas depois de resolver alguns bugzinhos pretendo disponibilizar o código completo, inclusive com um arquivo de instalação que cria as tabelas no banco de dados, para todos poderem usar um sisteminha de blog simples e prático (só que acho que vai ser algo mais voltado a programadores, porque tem vantagens como o uso do GeSHi, e desvantagens como eu publicar todos os posts escrevendo em **HTML** – isso mesmo, até os & que eu escrevo são & que são & \*e um loop infinito pela frente). Hmmm, aliás, quem quiser me ajudar a fazer parte desse projeto para tornar o meu blog um software livre, sinta-se livre para me mandar um e-mail também. :p
 
 Então, uma última observação é que eu substituí todos os _<code_ (note a ausência do > ) por _tag code_ e todos os _</code>_ por _tag /code_, porque senão minhas expressões regulares do código dariam bug (quer saber por que? Então leia os códigos!)
 
@@ -496,4 +496,3 @@ RewriteRule ^rss.xml$ http://tableless.tiagomadeira.net/rss.php
 RewriteRule ^index.rss$ http://tableless.tiagomadeira.net/rss.php
 RewriteRule ^sitemap.xml$ http://tableless.tiagomadeira.net/sitemap.php
 ```
-

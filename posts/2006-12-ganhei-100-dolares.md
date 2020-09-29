@@ -11,11 +11,11 @@ tags:
   - dinheiro
   - prêmio
   - resultado
-
 ---
+
 > Congratulations Tiago, you are one of the winners of the ProBlogger Group Writing Project.
 >
-> You’ve won $100 cash
+> You’ve won \$100 cash
 >
 > The sponsor of this prize will be notified of your email address for you to arrange for it to be sent to you.
 >
@@ -29,8 +29,7 @@ Entre 300 concorrentes, este que vos blogga [ganhou 100 dólares][2] escrevendo 
 
 Eu achei que fosse impossível ganhar esse negócio, fiz mais pra ganhar um link na página do [ProBlogger][4] e porque realmente queria falar bem da blogosfera brasileira. Mas… ganhei! :-) Valeu por todos que estavam torcendo (tinha alguém torcendo?), agora quero ver como eu vou fazer pra pegar esse dinheiro!
 
- [1]: http://problogger.net/
- [2]: http://www.problogger.net/archives/2006/12/22/group-writing-project-winners-2/
- [3]: /2006/12/a-blogosfera-brasileira-de-2006/
- [4]: http://www.problogger.net
-
+[1]: http://problogger.net/
+[2]: http://www.problogger.net/archives/2006/12/22/group-writing-project-winners-2/
+[3]: /2006/12/a-blogosfera-brasileira-de-2006/
+[4]: http://www.problogger.net

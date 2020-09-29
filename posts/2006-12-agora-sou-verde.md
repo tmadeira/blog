@@ -9,10 +9,9 @@ tags:
   - criatividade
   - design
   - Metablogagem
-
 ---
+
 Novo _design_ (isso mesmo, pare de ler esse _post_ no feed agora mesmo pra abrir o site e ver como ficou). Já [disse][1] com o que ele se parece e agora só vou adicionar que eu fiz o tema copiando o do [Mal Vicioso][2] e apenas mudando alguns detalhes no CSS. Ficou bonito pra um design feito em umas duas horas, não? Dêem sugestões, comentem!
 
- [1]: /2006/12/como-se-adquire-criatividade/
- [2]: http://malvicioso.com
-
+[1]: /2006/12/como-se-adquire-criatividade/
+[2]: http://malvicioso.com

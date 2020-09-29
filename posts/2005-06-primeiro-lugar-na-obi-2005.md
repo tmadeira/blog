@@ -12,8 +12,8 @@ tags:
   - obi 2005
   - olimpíadas
   - resultado
-
 ---
+
 ![Quadro de Mérito OBI2005 Programação Nível 1](https://farm1.staticflickr.com/15/20324573_9a04423e14.jpg)
 
 Esse post é uma edição do **395 pontos!**
@@ -82,12 +82,12 @@ Este foi bastante modificado depois e fiz várias versões melhores dele para pe
 
 #### Essa conquista em outros sites
 
-  * [Rede Salesiana de Escolas][2]
-  * [DomBosco.net][3]
-  * [Escol@24Horas.com.br][4]
-  * [Quadro de Mérito no site da OBI][5]
+- [Rede Salesiana de Escolas][2]
+- [DomBosco.net][3]
+- [Escol@24Horas.com.br][4]
+- [Quadro de Mérito no site da OBI][5]
 
- [2]: http://www.portalsalesianas.com.br/noticiasinst/noticias_fma292.asp
- [3]: http://www.dombosco.net/index.asp?SECAO=4&SUBSECAO=16&EDITORIA=379
- [4]: http://www4.escola24h.com.br/cf/patio/aco-popup.cfm?ac_codigo=43012&status=55505F5F46
- [5]: http://olimpiada.ic.unicamp.br/res_prelim/programacao/FormConsultaClassifProg
+[2]: http://www.portalsalesianas.com.br/noticiasinst/noticias_fma292.asp
+[3]: http://www.dombosco.net/index.asp?SECAO=4&SUBSECAO=16&EDITORIA=379
+[4]: http://www4.escola24h.com.br/cf/patio/aco-popup.cfm?ac_codigo=43012&status=55505F5F46
+[5]: http://olimpiada.ic.unicamp.br/res_prelim/programacao/FormConsultaClassifProg

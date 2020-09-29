@@ -11,11 +11,10 @@ tags:
   - texto
   - universidade
   - usp
-
 ---
+
 <p style="text-align:center; font-weight:bold;">
   Se fazem traduções de qualquer tipo de documento seja, textos, artículos, trabalhos, propaganda, cartas, etc. Falo perfeitamente Espanhol Inglês Português. Estudo aqui na USP.
 </p>
 
 Cópia precisa de um texto que li num ponto de ônibus da Cidade Universitária. Dispensa comentários.
-

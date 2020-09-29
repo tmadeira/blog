@@ -13,8 +13,8 @@ tags:
   - sala de aula
   - universidade
   - usp
-
 ---
+
 Entidades estudantis têm como costume passar em salas de aula para espalhar eventos, boletins e campanhas. Tenho certeza que fazem isso com a melhor das intenções e concordo que é fundamental que centros acadêmicos e diretórios centrais de estudantes construam seus projetos com todos os iguais que representam. Porém, após pensar um pouco a respeito, cheguei a conclusão que essa é uma péssima modalidade de divulgação (além de um gasto desnecessário de tempo e papel) e aqui explicarei meus porquês.
 
 Antes de mais nada faço questão de lembrar que isso é um blog, portanto sinta-se livre para discordar através da caixa de comentários ou via trackback. Como me ensinou meu amigo [Ibrahim Cesar][1]: _“A mídia tradicional manda mensagens. Blogs iniciam conversações.”_
@@ -45,5 +45,4 @@ Creio que um convite para um debate não pode ser feito num ambiente de missa co
 
 É preciso haver muita motivação para um aluno que não se sente diretamente tocado por uma questão e nunca debateu ela resolva participar de uma entidade por causa de uma propaganda na sala de aula. Uma motivação que não existe no mundo que eu considero real. Por isso, acho que as passagens em sala de aula precisam ser repensadas imediatamente por todos que buscam construir um movimento estudantil mais amplo e democrático.
 
- [1]: http://www.ibrahimcesar.com/
-
+[1]: http://www.ibrahimcesar.com/

@@ -18,8 +18,8 @@ tags:
   - projeto
   - teoria
   - utilidade
-
 ---
+
 No primeiro artigo desta série, o [Hélio][1] comentou: <q>‘Algoritmos’ é um tema pouco valorizado por muitos programadores iniciantes, que querem logo botar a mão na massa.</q>
 
 É a mais pura verdade. Quando eu tive a minha primeira noção do que são algoritmos (no dia 12 de julho de 2004, no **Curso de Programação** da **Olimpíada Brasileira de Informática** na **UNICAMP**), confesso que fiquei decepcionado. Qual a utilidade de algo tão formal pra algo que já sabemos fazer? Eu já programava em C e achei um saco o professor escrevendo no quadro aqueles [pseudocódigos][2] de problemas super simples, perdendo tempo com isso ao invés de programar. Porém, hoje percebo que _algoritmos_ são muito mais legais (_e importantes_) do que eu pensava. Claro que para somar dois inteiros não há necessidade de escrever um pseudocódigo, mas algoritmos são representações essenciais para problemas mais complexos e grandes aplicações.
@@ -38,6 +38,5 @@ Outra utilidade do algoritmo é compartilhar idéias de problemas complexos. Tod
 
 Existe uma série de algoritmos comuns que todo programador deve conhecer (projetos prontos para muitas coisas complicadas que precisamos implementar no dia-a-dia) e isso é o que vamos começar a estudar no próximo artigo. :)
 
- [1]: http://www.hlegius.pro.br
- [2]: /2006/01/algoritmos-como-representar-um-algoritmo/
-
+[1]: http://www.hlegius.pro.br
+[2]: /2006/01/algoritmos-como-representar-um-algoritmo/

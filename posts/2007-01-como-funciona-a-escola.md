@@ -12,8 +12,8 @@ tags:
   - instituição
   - pedagogia
   - sociedade
-
 ---
+
 **Uma imagem vale mais do que mil palavras.** E o que me dizem de 11?
 
 ![](/wp-content/uploads/2007/01/escola/escola001.jpg)
@@ -39,4 +39,3 @@ tags:
 ![](/wp-content/uploads/2007/01/escola/escola011.jpg)
 
 Desenhos feitos pela minha mãe ;)
-

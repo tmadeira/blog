@@ -10,8 +10,8 @@ tags:
   - goethe
   - ideias
   - palavras
-
 ---
+
 > As pessoas tendem a colocar palavras onde faltam idéias.
 
 (Goethe)

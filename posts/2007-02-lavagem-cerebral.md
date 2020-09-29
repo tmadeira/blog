@@ -16,8 +16,8 @@ tags:
   - lógica corintiana
   - missa
   - religião
-
 ---
+
 Ontem fui à missa da Igreja Católica. Deixo a reflexão e a explicação do título por conta de vocês.
 
 ### Primeira leitura – Confie ou vá ao inferno
@@ -62,6 +62,5 @@ E, por favor, sem comentários como [a lógica de Pascal][1] e [esse da Patríci
 
 > “Não há amor e bondade suficientes no mundo, para que ainda se possa oferecê-los a seres imaginários”
 
- [1]: http://1001gatos.org/contra-pascal/
- [2]: http://1001gatos.org/obvioululante/#comment-577
-
+[1]: http://1001gatos.org/contra-pascal/
+[2]: http://1001gatos.org/obvioululante/#comment-577

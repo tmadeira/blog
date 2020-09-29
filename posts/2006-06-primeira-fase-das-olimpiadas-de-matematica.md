@@ -10,7 +10,6 @@ tags:
   - obm
   - olimpíadas
   - orm
-
 ---
-Ocorreu hoje a tarde a prova da primeira fase da **Olimpíada Brasileira de Matemática** (e da **Regional**/catarinense também, a primeira fase é igual). A prova tava difícil, ao menos pros padrões daqui… :) Acertei 16 de 25 questões, segundo _gabarito extra-oficial_, três delas foram chutes! Mas tá bom, creio que isso classifique pra segunda fase sem problemas.
 
+Ocorreu hoje a tarde a prova da primeira fase da **Olimpíada Brasileira de Matemática** (e da **Regional**/catarinense também, a primeira fase é igual). A prova tava difícil, ao menos pros padrões daqui… :) Acertei 16 de 25 questões, segundo _gabarito extra-oficial_, três delas foram chutes! Mas tá bom, creio que isso classifique pra segunda fase sem problemas.

@@ -1,5 +1,5 @@
 ---
-title: 'Condenar quem fala a verdade a 35 anos de prisão: Yes, we can'
+title: "Condenar quem fala a verdade a 35 anos de prisão: Yes, we can"
 type: post
 date: 2013-08-21T14:39:50+00:00
 url: /2013/08/condenar-quem-fala-a-verdade-a-35-anos-de-prisao-yes-we-can/
@@ -13,8 +13,8 @@ tags:
   - snowden
   - whistleblowers
   - wikileaks
-
 ---
+
 Bradley Manning acaba de ser condenado a 35 anos de prisão. Motivo: denunciar crimes de guerra cometidos pelos EUA no Iraque. Quem o acusou foi o governo de Barack Obama, vencedor do prêmio nobel da paz de 2009, que em sua campanha prometia incentivar e proteger os whistleblowers (como são chamados, em inglês, os que delatam condutas ilegais ou desonestas que ocorrem numa organização).
 
 Como escreveu o jornalista Glenn Greenwald no seu perfil no Twitter logo após a leitura da sentença, “os Estados Unidos nunca mais vão poder falar sobre o valor da transparência e da liberdade de imprensa sem provocarem ataques de risos mundiais”. De fato, a perseguição que esse país e seus aliados têm protagonizado contra aqueles que revelam as suas verdades torna claros os limites da falsa democracia que eles tanto propagandeiam.

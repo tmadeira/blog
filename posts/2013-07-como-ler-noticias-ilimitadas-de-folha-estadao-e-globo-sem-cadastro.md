@@ -18,11 +18,11 @@ tags:
   - programação
   - scripts
   - web
-
 ---
+
 **TL;DR**: Instale o [Adblock Plus][1] em seu navegador, entre nas suas opções, peça para adicionar seu próprio filtro e adicione o filtro: _\*paywall\*_. Você agora deve ser capaz de ler notícias de Folha, Estadão e Globo sem cadastro. Caso tenha interesse em saber o caminho que levou a solução até aqui, continue lendo o post.
 
-* * *
+---
 
 A mídia tradicional mudou a forma como publica na internet. A regra agora é que sem cadastro você só pode acessar um determinado número (pequeno) de notícias. O nome do sistema é [paywall][2]. Ao chegar no limite, você recebe mensagens como as seguintes:
 
@@ -36,7 +36,7 @@ No caso da Folha, só o cadastro pago dá acesso ilimitado. Nos outros, aparente
 
 Para além da preocupação com privacidade e anonimato, esse sistema funciona como um bloqueio para que as pessoas não possam ler e disseminar as notícias da internet. Torna a circulação de informações mais difícil e o espaço internético mais privado e menos democrático. Por isso, compartilho aqui um pouco sobre o funcionamento do paywall e algumas formas de contorná-lo.
 
-* * *
+---
 
 Os sites não querem que buscadores tenham dificuldade de acessar e indexar seu conteúdo. Tampouco querem bloquear endereços de IP, já que a quantidade de pessoas que usa internet via NAT (compartilhando o mesmo endereço de IP com outras pessoas numa mesma rede) é enorme. Por isso, eles fazem todo o controle não no computador deles (servidor), mas no seu computador (cliente).
 
@@ -83,14 +83,13 @@ No caso de Folha e Estadão (que sobrepõe um fundo preto semi-transparente e um
 ||oglobo.globo.com/plataforma/js/*/minificados/paywall/registraConteudosLidos.js
 ```
 
-<small>(Depois de escrever, fiquei pensando que talvez seja razoável bloquear simplesmente <strong>*paywall*</strong> de uma vez.)</small>
+<small>(Depois de escrever, fiquei pensando que talvez seja razoável bloquear simplesmente <strong>_paywall_</strong> de uma vez.)</small>
 
 Para usar, basta ter instalado o Adblock Plus, copiar essas regras (todas juntas) e colá-las em **Ferramentas → Adblock Plus → Preferências de filtros → Filtros personalizados**.
 
- [1]: https://adblockplus.org/
- [2]: https://en.wikipedia.org/wiki/Paywall
- [3]: https://addons.mozilla.org/en/firefox/addon/noscript/
- [4]: https://addons.mozilla.org/en-US/firefox/addon/web-developer/
- [5]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
- [6]: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/
-
+[1]: https://adblockplus.org/
+[2]: https://en.wikipedia.org/wiki/Paywall
+[3]: https://addons.mozilla.org/en/firefox/addon/noscript/
+[4]: https://addons.mozilla.org/en-US/firefox/addon/web-developer/
+[5]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+[6]: https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/

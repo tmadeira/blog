@@ -14,8 +14,8 @@ tags:
   - l92
   - linux
   - notebook
-
 ---
+
 O [problema do meu Amazon PC Slim L92][1] é uma incompatibilidade da sua placa-mãe com seu processador.
 
 Fontes afirmam que testes realizados na [Amazon PC][2] revelaram que trocando o meu processador (Merom T5750) por um Penryn T8100 (US\$ 230 nos EUA) ou T9300 (US\$ 350 nos EUA) não há mais problema pra usar o computador com 4GB de memória RAM e um sistema operacional de 64 bits.
@@ -28,9 +28,8 @@ Informo a todos os leitores que tomarei todas as providências que estiverem ao 
 
 **[update 27/ago/2009]** O pessoal do [Fórum Clube do Hardware][5] afirma que a Intelbras resolveu o problema trocando por Penryn T6400. Este é melhor porque é mais barato que os sugeridos pela Amazon. Estou convencido que qualquer Penryn resolve o problema.
 
- [1]: /2009/08/sobre-os-meus-5%C2%B2%C2%B3-problemas-com-meu-laptop/
- [2]: http://www.amazonpc.com.br/
- [3]: http://www.compal.com/
- [4]: /wp-content/uploads/2009/08/Altera%C3%A7%C3%A3o-na-configura%C3%A7%C3%A3o-do-Vista-no-L92.doc
- [5]: http://forum.clubedohardware.com.br/archive/intelbras-i50/649787
-
+[1]: /2009/08/sobre-os-meus-5%C2%B2%C2%B3-problemas-com-meu-laptop/
+[2]: http://www.amazonpc.com.br/
+[3]: http://www.compal.com/
+[4]: /wp-content/uploads/2009/08/Altera%C3%A7%C3%A3o-na-configura%C3%A7%C3%A3o-do-Vista-no-L92.doc
+[5]: http://forum.clubedohardware.com.br/archive/intelbras-i50/649787

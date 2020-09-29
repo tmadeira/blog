@@ -2,7 +2,7 @@
 title: De volta à resolução de problemas
 type: post
 date: 2005-09-16T19:33:06+00:00
-excerpt: 'Depois de umas férias de uns dois meses, hoje resolvi um problema lógico do USACO Training Gateway: Superprime Rib.'
+excerpt: "Depois de umas férias de uns dois meses, hoje resolvi um problema lógico do USACO Training Gateway: Superprime Rib."
 url: /2005/09/de-volta-a-resolucao-de-problemas/
 categorias:
   - Cotidiano
@@ -19,7 +19,6 @@ tags:
   - superprime rib
   - usaco
   - xdirectfb
-
 ---
 
 ![Resultado do Superprime Rib](https://farm1.staticflickr.com/26/44020730_e9246b13ef_o.png)
@@ -111,6 +110,5 @@ O Paulo Matias (Thotypous) me convidou para fazer parte da equipe de desenvolvim
 
 Dia 24 é a segunda fase da **Olimpíada Regional de Matemática**. Essa semana fiz a folhinha de treinamento e dos seis problemas, consegui fazer cinco (na verdade, alguns problemas - ou todos - eram repetidos do ano anterior e por isso fica mais fácil, porque eu já lembrava o caminho).
 
- [1]: http://www.flickr.com/photos/tiago/44020730/ "Resultado do Problema"
- [2]: /2005/08/linux-xdirectfb-e-wine/
-
+[1]: http://www.flickr.com/photos/tiago/44020730/ "Resultado do Problema"
+[2]: /2005/08/linux-xdirectfb-e-wine/

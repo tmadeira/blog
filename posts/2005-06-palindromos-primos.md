@@ -17,8 +17,8 @@ tags:
   - problemas
   - programação
   - usaco
-
 ---
+
 Fiquei um bom tempo sem fazer o treinamento da USACO, porque há algum tempo tinha parado no programa **Prime Palindromes**, cujo objetivo é listar todos os palíndromos primos entre dois números (limites: 5, 10.000.000).
 
 Esta demora aconteceu porque eu, além de ter ficado muito tempo sem entrar na USACO e já ter me esquecido do problema, estava testando todos os números, vendo se eles eram palíndromos, depois primos e então imprimia. Quando eu entrei na USACO essa semana (idéia do César Kawakami, que também vai pra UNICAMP mês que vem e foi um cara que também me ajudou nesse problema) vi que tinham **Hints** que eu nunca tinha visto antes. E elas diziam que eu devia **gerar** palíndromos. Com isso ficou fácil…
@@ -132,4 +132,3 @@ Nos últimos dias não aconteceu nada demais. Só fiquei emocionado por ter rece
 Ah, e vou finalizar citando um trecho d’**O Homem que Calculava** em homenagem ao Vavá, que não respira oxigênio… :D
 
 <q>Conta-se que o famoso rei Salomão, para demonstrar a finura e a sabedoria de seu espírito, deu à sua noiva, a rainha de Sabá – a famosa Belquiss – uma caixa com 529 pérolas. Por que 529? <strong>Sabe-se</strong> que 529 é o quadrado de 23, isto é, 529 é igual a 23 multiplicado por 23. E 23 era, exatamente, a idade da rainha.</q>
-

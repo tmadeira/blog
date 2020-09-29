@@ -13,8 +13,8 @@ tags:
   - Software Livre
   - telecentro
   - universidade
-
 ---
+
 A [notícia da visita de Steve Ballmer à USP][1] me preocupou, em especial seu último parágrafo:
 
 > Para Massambani, a Microsoft pode acelerar os processos e alavancar os projetos já existentes no desenvolvimento de processos de criatividade na área digital, laboratório de criatividade e inovação. “A Microsoft pode ajudar a USP em projetos relacionados com infraestrutura, suporte, educação, sociocultural, servindo como popularização da ciência, inclusão social e digital. As duas podem cooperar para o desenvolvimento de pesquisas, capital intelectual e responsabilidade social”, considera.
@@ -29,5 +29,4 @@ Se a Microsoft quer tanto assim um mundo melhor e leva a sério seu próprio dis
 
 <small>Já tinha escrito <a href="http://adolfont.posterous.com/interessante-sequencia-de-tuites-de-tmadeira">um resumo disso</a> no <a href="http://twitter.com/tmadeira">Twitter</a>, mas achei conveniente repetir aqui.</small>
 
- [1]: http://www4.usp.br/index.php/tecnologia/18862-presidente-da-microsoft-visita-usp-e-ministra-palestra-a-comunidade-universitaria
-
+[1]: http://www4.usp.br/index.php/tecnologia/18862-presidente-da-microsoft-visita-usp-e-ministra-palestra-a-comunidade-universitaria

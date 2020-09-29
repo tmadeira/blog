@@ -11,8 +11,8 @@ tags:
   - fluxbox
   - gentoo
   - portage
-
 ---
+
 Criei um ebuild para o Fluxbox com uma USE flag “ddate” baseado no fluxbox-1.1.1-r2 (que é o último ebuild no Portage neste exato momento). Usando ele, é possível ter [o calendário santo-discordiano no Fluxbox do Gentoo][1].
 
 Siga os passos abaixo para ter Fluxbox com suporte a ddate no seu Gentoo.
@@ -76,4 +76,4 @@ Ele não baixa o pacote inteiro do ddate, mas apenas aplica, além dos patches d
 
 Divirta-se!
 
- [1]: /2010/08/calendario-santo-discordiano-no-fluxbox/
+[1]: /2010/08/calendario-santo-discordiano-no-fluxbox/

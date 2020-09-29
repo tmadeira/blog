@@ -16,8 +16,8 @@ tags:
   - scripts
   - spider
   - web
-
 ---
+
 Alguém _quase sem nada pra fazer_ resolveu mandar o Lynx baixar todas as médias do ENEM, rodou um programa em PHP com expressões regulares para separar os valores e agora apresenta-lhes a escola com a melhor média de Santa Catarina:
 
 ```
@@ -71,5 +71,4 @@ mysql> select id, nome, media from enem where estado='sc' order by media desc li
 
 A [melhor escola][1] possui também o melhor site, que deve ter sido feito por alguém **realmente muito bom**. ;)
 
- [1]: http://www.salesianoitajai.g12.br/
-
+[1]: http://www.salesianoitajai.g12.br/

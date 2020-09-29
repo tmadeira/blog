@@ -17,8 +17,8 @@ tags:
   - string
   - tableless
   - xul
-
 ---
+
 Estou finalmente começando a aprender _orientação a objetos_. É claro que o conceito eu já conhecia e até como usar “cin” e “cout” no C++, mas agora resolvi estudar a fundo a **Programação Orientada a Objetos**, porque vejo que ela está cada vez mais comum entre os programadores. Estou aproveitando pra aprender C++, o que pode ser bastante útil em olimpíadas, para ter strings com o tipo **string**, poder declarar variáveis no meio, além de programar orientado a objetos.
 
 Hmmm… Eu estava lendo uns tutoriais de introdução a POO e agora vou tentar fazer algumas coisas em C++ e em PHP também (porque é uma linguagem que eu domino mais, fica mais fácil entender POO). Se alguém quiser estudar comigo, entre em contato (e a mesma coisa se alguém tiver uma apostila legal e está afim de ajudar).
@@ -43,5 +43,4 @@ Ontem fiz a prova da segunda fase (final) da Olimpíada Regional (catarinense) d
 
 Estou meio parado quanto a solução de problemas lógicos, mas estou estudando bastante para resolvê-los de forma melhor. Por enquanto, nenhum código novo. Tenho uma lista de problemas da UVa para resolver e ainda falta o último problema do capítulo 1 do USACO Training Gateway (Checkers Challenge).
 
- [1]: http://www.meetweb.com.br
-
+[1]: http://www.meetweb.com.br

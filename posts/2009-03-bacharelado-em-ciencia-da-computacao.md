@@ -9,8 +9,8 @@ tags:
   - computação
   - juventude
   - universidade
-
 ---
+
 Em primeiro lugar quero afirmar aos desavisados que o curso de Ciência da Computação hoje é, na maioria dos lugares, não mais do que o estereótipo indica: um curso de viciados em jogos. Até aí tudo bem; afinal cada um faz o que bem entende nos seus momentos de lazer.
 
 Porém, eu acho que esse fato colaborou para esse bacharelado se transformar num reduto de _usuários_ de computador, pessoas que leram “Computação” no nome e pensaram: _“Eu gosto de mexer no computador, acho que este é o meu curso”_.
@@ -39,5 +39,4 @@ Edsger Dijkstra, um dos grandes cientistas da computação de nossa história, d
 
 Declaro-me a favor de um curso de Ciência da Computação onde os computadores sejam tratados apenas como ferramentas. Há outros cursos (técnicos) para quem não pensa assim e entra na universidade buscando uma formação sobre desenvolvimento ágil e produtividade. Não estou criticando quem busca isto. Porém, na minha opinião, estes definitivamente não deveriam entrar num curso chamado **Bacharelado em Ciência da Computação**.
 
- [1]: http://pt.wikipedia.org/wiki/Ciência_da_computação
-
+[1]: http://pt.wikipedia.org/wiki/Ciência_da_computação

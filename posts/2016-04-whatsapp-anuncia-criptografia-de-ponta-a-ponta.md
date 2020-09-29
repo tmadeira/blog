@@ -13,8 +13,8 @@ tags:
   - ponta a ponta
   - telegram
   - whatsapp
-
 ---
+
 A criptografia de ponta-a-ponta do WhatsApp, muito aguardada por mais de um ano, é uma ótima notícia para a nossa privacidade. Ser de ponta-a-ponta significa que, a partir de agora, nenhum intermediário consegue ler ou ouvir nossas conversas, nem mesmo o próprio WhatsApp.
 
 Tecnicamente, o celular A encripta cada uma das mensagens que envia diretamente com a chave pública do celular B; ou seja, é como se a mensagem fosse protegida por um cadeado que apenas o celular B pode abrir. A segurança de que só B pode abrir é garantida pela dificuldade de problemas matemáticos antigos que a humanidade não sabe como resolver de forma eficiente, como fatorar um número composto grande em primos ou encontrar o logaritmo discreto sobre um grupo bem escolhido.
@@ -29,5 +29,5 @@ A única questão ainda não resolvida pela qual eu acho que alguns poderiam pre
 
 <small>Publicado originalmente no <a href="https://www.facebook.com/timadeira/posts/10209199118593847">Facebook</a>.</small>
 
- [1]: https://whispersystems.org/blog/whatsapp-complete/
- [2]: https://www.whatsapp.com/security/
+[1]: https://whispersystems.org/blog/whatsapp-complete/
+[2]: https://www.whatsapp.com/security/

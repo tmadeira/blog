@@ -1,5 +1,5 @@
 ---
-title: 'HOWTO: Como usar Pandora Radio no Brasil'
+title: "HOWTO: Como usar Pandora Radio no Brasil"
 type: post
 date: 2008-04-10T20:47:58+00:00
 url: /2008/04/ssh-tunneling/
@@ -16,8 +16,8 @@ tags:
   - ssh
   - ssh tunneling
   - unix
-
 ---
+
 O projeto [Pandora][1] é uma rádio on-line que funciona como um catálogo bem categorizado de milhares de CDs e é capaz de reproduzir músicas parecidas com o tipo que você diz para ele que gosta. Ficou confuso? É assim: eu entro lá e escrevo que gosto de Chico Buarque. Aí ele me diz: vamos tocar uma música do Chico que tem suas características principais como canto em português, violão leve, etc. Responda se você gostou ou não e baseado nessa escolha tocaremos outro estilo ou continuaríamos no mesmo.
 
 É uma idéia muito legal porque no fim você ouve apenas o que gosta, mas também descobre novas músicas (porque ele não fica repetindo artista, álbum, música, mas só as características da música ou do artista que você selecionou a princípio).
@@ -40,13 +40,12 @@ E configure seu navegador para usar Socks (eu usei V5, mas a V4 deve funcionar t
 
 As opções do SSH que eu utilizei no exemplo são:
 
-  * **-C**: comprime entrada e saída. Nos exemplos que eu peguei vinha, acredito que seja pras transferências serem mais rápidas.
-  * **-D [bind:]port**: porta (e um endereço opcional) pro servidor rodar
-  * **-N**: não executa nenhum comando (ie não abre um shell)
+- **-C**: comprime entrada e saída. Nos exemplos que eu peguei vinha, acredito que seja pras transferências serem mais rápidas.
+- **-D [bind:]port**: porta (e um endereço opcional) pro servidor rodar
+- **-N**: não executa nenhum comando (ie não abre um shell)
 
 Esta dica funciona em sistemas operacionais que tem SSH (Linux, FreeBSD e provavelmente qualquer outro Unix-like). Para usá-la no Windows, você deve usar o [PuTTy][3].
 
- [1]: http://www.pandora.com/
- [2]: http://www.publicproxyservers.com/
- [3]: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
-
+[1]: http://www.pandora.com/
+[2]: http://www.publicproxyservers.com/
+[3]: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html

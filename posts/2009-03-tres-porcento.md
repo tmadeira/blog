@@ -1,17 +1,17 @@
 ---
-title: '3%'
+title: "3%"
 type: post
 date: 2009-03-30T16:26:50+00:00
 url: /2009/03/tres-porcento/
 categorias:
   - Pensamentos aleatórios
 tags:
-  - '3%'
+  - "3%"
   - aulas
   - professores
   - universidade
-
 ---
+
 Um de meus melhores professores conta que há muito tempo atrás houve um professor na UFRGS que, inconformado com a dificuldade de concentração de sua turma, parou de escrever no quadro por um tempo, virou-se para os seus alunos e disse:
 
 _As estatísticas mostram que apenas 3% de vocês vai aproveitar este curso. Ah, se eu soubesse quem são os 3% para dar aulas apenas para esses…_

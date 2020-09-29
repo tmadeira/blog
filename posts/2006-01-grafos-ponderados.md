@@ -15,8 +15,8 @@ tags:
   - grafos ponderados
   - pseudocódigos
   - teoria
-
 ---
+
 Um grafo é _ponderado_ quando suas arestas possuem um **peso**. O que significa isso? Bom… Vamos supor que eu queira ir de um lugar pra outro, mas o mais importante pra mim não seja a distância entre eles mas o pedágio que vou ter que pagar para pegar cada aresta (estrada). Nesse caso, o **peso** de cada aresta seria o **custo** que eu tenho pra passar pela estrada. O problema então seria calcular o caminho onde eu pago menos (o caminho que tem a menor soma de preços) e não o menor caminho no grafo “não-ponderado” (onde consideramos aresta=1 e nada=0).
 
 ![Grafo ponderado](/wp-content/uploads/2006/01/GRVIZ04113_001.png)
@@ -197,4 +197,3 @@ struct edge {
   int destino, peso;
 };
 ```
-

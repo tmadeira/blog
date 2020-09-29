@@ -17,8 +17,8 @@ tags:
   - scripts
   - uol
   - utilidades
-
 ---
+
 _Se você não é nerd, não tem tempo, não tem coração e não tem curiosidade, recomendo que ignore todo o texto e leia somente o item 3._
 
 Por causa da forma como os álbuns de fotos do UOL são feitas, copiar suas fotos é uma tarefa difícil para a maioria dos usuários. Não acho que a UOL faça assim de propósito, mas por uma questão de usabilidade mesmo: há dois botões enormes em cima das fotos para você avançar para a próxima foto ou voltar para a anterior, e é por causa deles que você não consegue ver o “Copiar endereço da imagem” quando clica com a tecla direita na área da imagem (porque você não está realmente clicando na imagem, mas num botão transparente).
@@ -46,7 +46,10 @@ Desativar o CSS da página é uma forma fácil de acabar com todo seu leiaute e 
 Em geral, você pode escrever um script na barra de endereço para executá-lo na página em que você está. Há um tempo atrás todos os navegadores aceitavam isso, mas aparentemente muitos têm desativado esse recurso por questões de segurança, inclusive o Firefox. De qualquer maneira, se seu navegador suportar, você pode simplesmente digitar:
 
 ```javascript
-javascript:document.getElementById("setaEsq").style.width=document.getElementById("setaDir").style.width="50px";void(0);
+javascript: document.getElementById(
+  "setaEsq"
+).style.width = document.getElementById("setaDir").style.width = "50px";
+void 0;
 ```
 
 na barra de endereço quando estiver na página do álbum do qual quer baixar fotos.
@@ -74,11 +77,11 @@ Se você usa Firefox e tem instalada a extensão GreaseMonkey, instale o seguint
 // @version 0.9
 // ==/UserScript==
 
-(function(){
-    window.onload = (function() {
-        document.getElementById("setaEsq").style.width = "50px";
-        document.getElementById("setaDir").style.width = "50px";
-    });
+(function () {
+  window.onload = function () {
+    document.getElementById("setaEsq").style.width = "50px";
+    document.getElementById("setaDir").style.width = "50px";
+  };
 })();
 ```
 
@@ -96,7 +99,6 @@ A solução 1 (desativar estilos) funciona em 99% dos casos. Não quer ver sites
 
 Há inúmeras soluções mais nerds, mas quis manter a lista com sugestões fáceis e que não precisam de nada além do seu navegador. Alguma outra ideia simples, criativa e divertida? Blogue por aí ou me conte pra eu aumentar a lista!
 
- [1]: http://educacao.uol.com.br/album/2012/04/04/protesto-de-professores-da-rede-municipal-de-sao-paulo.htm
- [2]: javascript:document.getElementById("setaEsq").style.width=document.getElementById("setaDir").style.width="50px";void(0);
- [3]: /wp-content/uploads/2012/04/fotosuol.user.js
-
+[1]: http://educacao.uol.com.br/album/2012/04/04/protesto-de-professores-da-rede-municipal-de-sao-paulo.htm
+[2]: javascript:document.getElementById("setaEsq").style.width=document.getElementById("setaDir").style.width="50px";void(0);
+[3]: /wp-content/uploads/2012/04/fotosuol.user.js

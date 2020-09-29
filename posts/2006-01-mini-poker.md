@@ -2,7 +2,7 @@
 title: Mini-Poker
 type: post
 date: 2006-01-13T16:58:45+00:00
-excerpt: 'Uma pausa nos algoritmos de ordenação para usar nossos conhecimentos de forma prática solucionando um problema que caiu na prova da categoria Programação Nível 2 da Olimpíada Brasileira de Informática do ano passado: Mini-Poker.'
+excerpt: "Uma pausa nos algoritmos de ordenação para usar nossos conhecimentos de forma prática solucionando um problema que caiu na prova da categoria Programação Nível 2 da Olimpíada Brasileira de Informática do ano passado: Mini-Poker."
 url: /2006/01/mini-poker/
 ordem:
   - eeemn
@@ -18,8 +18,8 @@ tags:
   - problemas
   - programação
   - pseudocódigos
-
 ---
+
 Resolvi fazer uma pausa nos algoritmos de ordenação para mostrar como podemos usar os conhecimentos já adquiridos de maneira prática. Vamos neste artigo resolver o problema **Mini-Poker**, que caiu na prova da **Programação Nível 2** (categoria para pessoas até 19 anos ou primeiro ano da faculdade) da **Olimpíada Brasileira de Informática** de 2005.
 
 Esse post ficou gigante, mas é muito simples. Leia com atenção e acho que você não terá problemas… ;)
@@ -28,10 +28,10 @@ Esse post ficou gigante, mas é muito simples. Leia com atenção e acho que voc
 
 Com esta resolução de problema, espero treinar com vocês o conceito de:
 
-  * Interpretação do Probema
-  * Entrada e Saída
-  * Ordenação por Inserção
-  * Pseudocódigo
+- Interpretação do Probema
+- Entrada e Saída
+- Ordenação por Inserção
+- Pseudocódigo
 
 Acho que será legal para pôrmos em prática o que já estudamos sobre algoritmos.
 
@@ -45,13 +45,13 @@ No início do jogo, cada jogador recebe cinco cartas. O conjunto de cinco cartas
 
 As regras para pontuação em Mini-Poker são as seguintes:
 
-  1. Se as cinco cartas estão em seqüência a partir da carta $x$ (ou seja, os valores das cartas são $x$, $x+1$, $x+2$, $x+3$ e $x+4$), a pontuação é $x+200$ pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
-  2. Se há quatro cartas iguais $x$ (uma _quadra_, ou seja, os valores das cartas são $x$, $x$, $x$, $x$ e $y$), a pontuação é $x+180$ pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
-  3. Se há três cartas iguais $x$ e outras duas cartas iguais $y$ (uma _trinca_ e um _par_, ou seja, os valores das cartas são $x$, $x$, $x$, $y$ e $y$), a pontuação é $x+160$ pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
-  4. Se há três cartas iguais $x$ e duas outras cartas diferentes $y$ e $z$ (uma _trinca_, ou seja, os valores das cartas são $x$, $x$, $x$, $y$ e $z$), a pontuação é $x+140$ pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
-  5. Se há duas cartas iguais $x$, duas outras cartas iguais $y$ ($x \neq{} y$) e uma outra carta distinta $z$ (dois _pares_, ou seja, os valores das cartas são $x$, $x$, $y$, $y$ e $z$), a pontuação é $3 \times{} x + 2 \times{} y + 20$ pontos, em que $x > y$. Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
-  6. Se há apenas duas cartas iguais $x$ e as outras são distintas (um _par_, ou seja, os valores das cartas são $x$, $x$, $y$, $z$ e $t$), a pontuação é $x$ pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
-  7. Se todas as cartas são distintas, não há pontuação.
+1. Se as cinco cartas estão em seqüência a partir da carta $x$ (ou seja, os valores das cartas são $x$, $x+1$, $x+2$, $x+3$ e $x+4$), a pontuação é $x+200$ pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
+2. Se há quatro cartas iguais $x$ (uma _quadra_, ou seja, os valores das cartas são $x$, $x$, $x$, $x$ e $y$), a pontuação é $x+180$ pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
+3. Se há três cartas iguais $x$ e outras duas cartas iguais $y$ (uma _trinca_ e um _par_, ou seja, os valores das cartas são $x$, $x$, $x$, $y$ e $y$), a pontuação é $x+160$ pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
+4. Se há três cartas iguais $x$ e duas outras cartas diferentes $y$ e $z$ (uma _trinca_, ou seja, os valores das cartas são $x$, $x$, $x$, $y$ e $z$), a pontuação é $x+140$ pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
+5. Se há duas cartas iguais $x$, duas outras cartas iguais $y$ ($x \neq{} y$) e uma outra carta distinta $z$ (dois _pares_, ou seja, os valores das cartas são $x$, $x$, $y$, $y$ e $z$), a pontuação é $3 \times{} x + 2 \times{} y + 20$ pontos, em que $x > y$. Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
+6. Se há apenas duas cartas iguais $x$ e as outras são distintas (um _par_, ou seja, os valores das cartas são $x$, $x$, $y$, $z$ e $t$), a pontuação é $x$ pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
+7. Se todas as cartas são distintas, não há pontuação.
 
 #### Tarefa
 
@@ -92,7 +92,7 @@ Teste 2
 201
 ```
 
-* * *
+---
 
 ### Comentários sobre os problemas de olimpíadas
 
@@ -106,7 +106,7 @@ Mas vamos a solução deste problema…
 
 Com o tempo você pode decidir fazer um caminho diferente, mas eu sugiro começar sempre pelo recebimento da entrada. Aliás, acho que isto é atípico, porque a maioria das pessoas prefere ler bastante o problema e desenvolver todo o algoritmo a mão antes de botar a mão na massa. Eu acho que depois que a gente recebe a entrada, fica bem mais fácil fazer o resto e a gente pode ir pensando enquanto a gente recebe a entrada! Então, depois que lemos o problema e já entendemos tudo o que ele quer, vamos fazer a entrada!
 
-O problema fala que começa nos dando um número _N_ que será o número de casos de teste que teremos que receber depois. Sem dificuldade podemos escrever o _pseudo_código a seguir:
+O problema fala que começa nos dando um número _N_ que será o número de casos de teste que teremos que receber depois. Sem dificuldade podemos escrever o \_pseudo_código a seguir:
 
 <pre><code>recebe</strong> N
 <strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
@@ -311,16 +311,15 @@ Este problema é muito chato. É trivial, mas perdemos um tempo enorme escrevend
 
 Sugiro que quem esteja aprendendo algoritmos com meus artigos e já saiba programar um pouquinho, resolva alguns problemas simples do [site da OBI][1], que separei especialmente pra vocês!
 
-  * [Bits Trocados][2]
-  * [Calculando][3]
-  * [Cofrinhos da Vó Vitória][4]
-  * [Quermesse][5]
+- [Bits Trocados][2]
+- [Calculando][3]
+- [Cofrinhos da Vó Vitória][4]
+- [Quermesse][5]
 
 E, gostaria de fixar, mais importante é a interpretação e o seu pensamento… Programar é fácil!
 
- [1]: http://olimpiada.ic.unicamp.br
- [2]: http://olimpiada.ic.unicamp.br/programacao/tarefas/bits_trocados
- [3]: http://olimpiada.ic.unicamp.br/programacao/tarefas/calculando
- [4]: http://olimpiada.ic.unicamp.br/programacao/tarefas/cofre
- [5]: http://olimpiada.ic.unicamp.br/programacao/tarefas/quermesse
-
+[1]: http://olimpiada.ic.unicamp.br
+[2]: http://olimpiada.ic.unicamp.br/programacao/tarefas/bits_trocados
+[3]: http://olimpiada.ic.unicamp.br/programacao/tarefas/calculando
+[4]: http://olimpiada.ic.unicamp.br/programacao/tarefas/cofre
+[5]: http://olimpiada.ic.unicamp.br/programacao/tarefas/quermesse

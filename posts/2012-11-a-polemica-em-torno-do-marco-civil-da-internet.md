@@ -13,8 +13,8 @@ tags:
   - política
   - pt
   - Software Livre
-
 ---
+
 O Marco Civil da Internet surgiu em oposição ao projeto de lei do então senador Eduardo Azeredo (PSDB/MG) conhecido como AI-5 Digital, que buscava vigiar e controlar o que nós fazemos na internet. O conteúdo original daquele projeto era bizarro, prevendo cadastro prévio e identificação de todos os usuários de internet, utilização dessa identificação para prender para quem baixa músicas online, censura de sites arbitrariamente sem aviso prévio e outros absurdos do tipo. Algo muito parecido com [a lei SOPA nos EUA][1].
 
 ![Charge do Latuff sobre violação de direitos autorais](/wp-content/uploads/2012/11/430731.jpg)
@@ -43,8 +43,7 @@ Já o segundo foi um dos pontos mais polêmicos dos projetos SOPA, PIPA e Azered
 
 Sem consenso sobre esses pontos (ainda bem), a votação do Marco Civil já foi adiada cinco vezes. Na última terça (13), foi adiada para a próxima terça (20). Fiquemos atentos, porque o texto que será votado e o resultado dessa regulamentação podem ter consequências muito importantes, para o bem ou para o mal, para a internet. De fato, o futuro da internet como a conhecemos hoje dependerá muito (embora não só) das decisões sobre neutralidade na rede que forem tomadas em legislações pelo mundo inteiro.
 
- [1]: http://juntos.org.br/2012/01/nao-a-lei-sopa/
- [5]: https://imo.im/
- [6]: https://pt.wikipedia.org/wiki/Neutralidade_da_rede
- [7]: /2005/09/nem-tao-livre-assim/
-
+[1]: http://juntos.org.br/2012/01/nao-a-lei-sopa/
+[5]: https://imo.im/
+[6]: https://pt.wikipedia.org/wiki/Neutralidade_da_rede
+[7]: /2005/09/nem-tao-livre-assim/

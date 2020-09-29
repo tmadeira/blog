@@ -4,7 +4,7 @@ type: post
 date: 2009-05-16T12:46:17+00:00
 url: /2009/05/objetivos/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Pensamentos aleatórios
 tags:
@@ -17,8 +17,8 @@ tags:
   - segurança
   - turing award
   - vida
-
 ---
+
 Listo aqui cinco objetivos (talvez utópicos, talvez eu desista deles na próxima semana) para os próximos 50, 60 anos.
 
 **0. Ganhar uma medalha numa final mundial de um [ACM ICPC][1].**
@@ -41,6 +41,5 @@ Na minha opinião o câncer é o mais cruel dos problemas de saúde. Atinge muit
 
 Creio que será natural depois dos itens 2 e 3.
 
- [1]: http://icpc.baylor.edu/icpc/
- [2]: http://en.wikipedia.org/wiki/Turing_Award
-
+[1]: http://icpc.baylor.edu/icpc/
+[2]: http://en.wikipedia.org/wiki/Turing_Award

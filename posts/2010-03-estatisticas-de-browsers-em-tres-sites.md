@@ -12,8 +12,8 @@ tags:
   - internet explorer
   - microsoft
   - navegadores
-
 ---
+
 Fui ver como estavam as estatísticas de uso do Internet Explorer nos meus sites com esperança de ver seu uso reduzido a ponto de eu não precisar me preocupar com ele no desenvolvimento web. Infelizmente, meus números confirmaram que a maioria da população leiga ainda utiliza o IE e, pior, uma parte considerável ainda usa a versão 6, que não é digna nem mesmo de ser chamada de navegador nos dias de hoje. Abaixo os dados:
 
 ### Um site com público nem um pouco nerd
@@ -50,11 +50,10 @@ Além disso, é de código fechado, é mantido pela Microsoft (que é uma empres
 
 **Por fim, por tudo isso, faço um apelo:** para tornar a web melhor, se você usa IE, troque de navegador. É rápido, simples, gratuito e você só tem a ganhar em segurança, velocidade, recursos e estabilidade. Recomendo meus dois preferidos, ambos de código aberto:
 
-  * [Mozilla Firefox][9]
-  * [Google Chrome][10]
+- [Mozilla Firefox][9]
+- [Google Chrome][10]
 
- [2]: /tags/algoritmos/
- [8]: http://www.findmebyip.com/litmus/#target-selector
- [9]: http://www.getfirefox.com/
- [10]: http://www.google.com/chrome/
-
+[2]: /tags/algoritmos/
+[8]: http://www.findmebyip.com/litmus/#target-selector
+[9]: http://www.getfirefox.com/
+[10]: http://www.google.com/chrome/

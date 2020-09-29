@@ -15,8 +15,8 @@ tags:
   - movimento estudantil
   - sawaya
   - usp
-
 ---
+
 Uma memória me surgiu de repente. Precisava escrever.
 
 Era maio de 2009. Não lembro o dia.

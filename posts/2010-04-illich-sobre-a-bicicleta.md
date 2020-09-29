@@ -12,8 +12,8 @@ tags:
   - illich
   - trânsito
   - transporte
-
 ---
+
 “O homem move-se com eficácia sem ajuda de qualquer aparelho. Faz caminho a caminhar. A locomoção de cada grama do seu próprio corpo ou da sua carga, por cada quilômetro percorrido em cada dez minutos, consome-lhe 0,75 calorias. Comparando-o a uma máquina termodinâmica, o homem é mais rendível que qualquer veículo motorizado, que consome pelo menos quatro vezes mais calorias no mesmo trajecto. Além disso, é mais eficiente que todos os animais de peso comparável. […]
 
 O homem inventou, há um século, uma máquina que o dotou de uma eficiência maior ainda: a bicicleta. Tratava-se de uma invenção cheia de novidade, à base de materiais novos, impensados nos tempos do jovem Marx e combinados numa engenhosa tecnologia. […] Com a bicicleta o homem ultrapassa o rendimento possível de qualquer máquina e de qualquer animal evoluído.

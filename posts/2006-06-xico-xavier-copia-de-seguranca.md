@@ -10,8 +10,8 @@ tags:
   - parábolas
   - paródia
   - xico xavier
-
 ---
+
 Venho percebendo que o [Atum][1] está fora do ar, então fiz uma busca no cache do [Google][2] para copiar um documento que não poderia ser perdido: as parábolas de **Xico Xavier**, o maior programador da história. Estavam no [wiki do Ribamar][3], um cara que conheci em Campinas em 2004 e que me apresentou três dos meus softwares preferidos: [Slackware][4], [Mutt][5] e [LaTeX][6]. Nem pedi autorização dele para copiar essa página, mas espero que ele não se importe… :) Não modifiquei absolutamente nada no texto.
 
 <div class="quote">
@@ -140,10 +140,9 @@ Venho percebendo que o [Atum][1] está fora do ar, então fiz uma busca no cache
   </p>
 </div>
 
- [1]: http://atum.lab.ic.unicamp.br
- [2]: http://www.google.com
- [3]: http://atum.lab.ic.unicamp.br/~ribamar/wiki/moin.cgi
- [4]: http://www.slackware.com
- [5]: http://www.mutt.org
- [6]: http://www.latex-project.org
-
+[1]: http://atum.lab.ic.unicamp.br
+[2]: http://www.google.com
+[3]: http://atum.lab.ic.unicamp.br/~ribamar/wiki/moin.cgi
+[4]: http://www.slackware.com
+[5]: http://www.mutt.org
+[6]: http://www.latex-project.org

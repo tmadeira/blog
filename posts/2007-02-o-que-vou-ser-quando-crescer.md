@@ -28,8 +28,8 @@ tags:
   - venezuela
   - vestibular
   - vida
-
 ---
+
 Estou no terceiro ano do Ensino Médio. Isso… aquele ano em que todos os professores na escola querem lhe preparar para o vestibular.
 
 Confesso que o vestibular não é a coisa mais importante que tenho em mente e que há coisas que vocês diriam que tem bem menos importância que vem na frente na minha lista. Mas é melhor não confessar isso. Porque preocuparia minha mãe, minha namorada, minha família, meus professores, todo mundo, que talvez seja mais sábio do que eu por acreditar no futuro que todos acreditam… então é melhor deixar pra lá.
@@ -42,9 +42,9 @@ Creio que a visão de que faculdade é necessária pra um homem pensar é ilógi
 
 Então eu estava pensando em começar a carreira estudando computação. Porque:
 
-  1. Eu gosto disso
-  2. Eu sou muito bom nisso
-  3. Isso dá dinheiro
+1. Eu gosto disso
+2. Eu sou muito bom nisso
+3. Isso dá dinheiro
 
 Quero fazer ciência da computação desde que aprendi o que é uma faculdade, e isso foi antes da terceira série, aos 9 anos, antes de quando eu fiz o meu primeiro site. Aí minha idéia atual é fazer **Ciência da Computação** na [UNICAMP][1] e talvez tentar transformá-la no meio do ano em **Computer Science** no [MIT][2]. A idéia de fazer na USP também está _me gustando_ bastante. Não sei se é possível fazer vestibular na USP **e** na UNICAMP. Alguém sabe me responder?
 
@@ -72,7 +72,6 @@ Aí no meio de tudo isso, mergulhado nesses pensamentos sobre o meu futuro e o f
 
 Eu sei lá o que eu quero. Eu, eu, eu, eu, eu… Nem sei quem eu sou, como eu vou saber quem eu quero ser? Desisto. Eu respondi a professora, com a cara mais normal que consegui representar: “Ciência da Computação na UNICAMP”. Na minha cabeça, eu concluí: “E enquanto isso, um monte de gente perde o futuro, os ianques continuam com seus genocídios e o nosso mundo chega mais perto do seu fim.” Mas isso com certeza não é nem um pouco importante perto da minha graduação.
 
- [1]: http://ic.unicamp.br/
- [2]: http://web.mit.edu/
- [3]: http://1001gatos.org/
-
+[1]: http://ic.unicamp.br/
+[2]: http://web.mit.edu/
+[3]: http://1001gatos.org/

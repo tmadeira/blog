@@ -15,13 +15,13 @@ tags:
   - regex
   - salesiano
   - Trabalho
-
 ---
+
 Publiquei hoje o novo site do **Colégio Salesiano Itajaí**, um site totalmente administrável (até o título pode ser mudado via formulários) que usa a linguagem PHP e o banco de dados MySql. O site também segue os padrões web, mesmo com formulários rich text que às vezes deixam o site pouco semântico (é que os monitores do Colégio devem poder atualizar) e está disponível em: [salesianoitajai.g12.br][1].
 
 A notícia de estréia da página está disponível [aqui][2] e conta com um lindo screenshot do meu Fluxbox com Mrxvt e o Vim com três splits. Embora o site já esteja publicado, ainda tenho que arrumar alguns detalhes como por exemplo o Sitemap que eu cito nesta notícia.
 
-Uma coisa bem legal que eu coloquei no site foi um JavaScript, usando a função addGlobalStyle do **Dive into Greasemonkey**, que nos Mozillas _(ereg(“Gecko/”, $\_SERVER[“HTTP\_USER_AGENT”]))_ faz o site ficar maior se o usuário usar uma resolução igual ou maior a 1024×768. Dá pra fazer pra todos os navegadores, mas eu sou meio newbie em JavaScript e por isso só usei esse código do Greasemonkey, que só funciona nos Mozillas mesmo… Mas o resultado ficou ótimo! :)
+Uma coisa bem legal que eu coloquei no site foi um JavaScript, usando a função addGlobalStyle do **Dive into Greasemonkey**, que nos Mozillas _(ereg(“Gecko/”, \$\_SERVER[“HTTP\_USER_AGENT”]))_ faz o site ficar maior se o usuário usar uma resolução igual ou maior a 1024×768. Dá pra fazer pra todos os navegadores, mas eu sou meio newbie em JavaScript e por isso só usei esse código do Greasemonkey, que só funciona nos Mozillas mesmo… Mas o resultado ficou ótimo! :)
 
 Ontem o Sr. Paulo Matias me ensinou como trabalhar com operadores bit-a-bit no C. Achei muito massa! Agora comecei até a economizar fazendo:
 
@@ -43,7 +43,7 @@ numero = outronumero * 2;
 
 ### Editado!
 
-Corrigi o problema... Confira abaixo o novo trecho de ERs da função de emoticons, onde **$o** é o vetor de origem (com as carinhas originais), **$d** é o vetor de desgino (com o <img src...) e **replace()** é uma função que eu criei para substituir os emoticons:
+Corrigi o problema... Confira abaixo o novo trecho de ERs da função de emoticons, onde **\$o** é o vetor de origem (com as carinhas originais), **\$d** é o vetor de desgino (com o <img src...) e **replace()** é uma função que eu criei para substituir os emoticons:
 
 ```php
 <?php
@@ -66,5 +66,5 @@ if (!ereg("<code", $texto)) {
 
 Ficou _feio_, né? Não consegui pensar em outra coisa mais fácil que usar o **strrev()** ali... :blink:
 
- [1]: http://www.salesianoitajai.g12.br
- [2]: http://www.salesianoitajai.g12.br/?sp=vernoticia&id=31
+[1]: http://www.salesianoitajai.g12.br
+[2]: http://www.salesianoitajai.g12.br/?sp=vernoticia&id=31

@@ -11,8 +11,8 @@ tags:
   - google talk
   - hippie
   - vida
-
 ---
+
 > **12:13 AM me:** nós vivemos e acreditamos em algo que quando eu paro pra pensar eu acho ridículo. às vezes acho que é melhor não pensar pra não ter vontade de se matar…
 
 > **12:14 AM joão:** falas de dinheiro?
@@ -64,4 +64,3 @@ tags:
 O que você quer ser?
 
 <small>Trecho de uma conversa que acabou de acontecer no Google Talk. Não editei nada, por preguiça mesmo…</small>
-

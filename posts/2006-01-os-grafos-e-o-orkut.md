@@ -2,7 +2,7 @@
 title: Os Grafos e o Orkut
 type: post
 date: 2006-01-22T17:43:22+00:00
-excerpt: 'Grafo: uma forma de representar uma relação binária entre elementos de um conjunto. Ficou muito difícil? Então vamos trabalhar com o exemplo do Orkut! :)'
+excerpt: "Grafo: uma forma de representar uma relação binária entre elementos de um conjunto. Ficou muito difícil? Então vamos trabalhar com o exemplo do Orkut! :)"
 url: /2006/01/os-grafos-e-o-orkut/
 ordem:
   - eeepp
@@ -19,8 +19,8 @@ tags:
   - orkut
   - problemas
   - vértice
-
 ---
+
 Vou neste e nos próximos artigos falar-lhes sobre a **Teoria dos Grafos**. É uma coisa que **poderia** ser complicada, então pra facilitar o entendimento eu resolvi que trabalharemos sempre com exemplos da “vida real”. Neste artigo, vamos trabalhar com o Orkut como base, partindo do princípio que todo mundo sabe o que é o Orkut.
 
 Neste primeiro artigo, só falarei sobre a definição do grafo e sua utilidade. Apresentarei as definições de: **vértice**, **aresta**, **grau**, **grafo orientado**, **grau de entrada** e **grau de saída**. Então, vamos lá!
@@ -31,11 +31,11 @@ A definição de **grafo** é muito simples. Segundo o [Professor Cid Carvalho d
 
 Estão vendo esta árvore? Esta é a representação que chamamos de grafo. Vamos supor que este é o grafo das amizades do Orkut e as bolinhas nele são as seguintes pessoas:
 
-  1. Eu
-  2. João
-  3. Maria
-  4. José
-  5. Pedro
+1. Eu
+2. João
+3. Maria
+4. José
+5. Pedro
 
 Eu (número 1) tenho dois amigos: o **João** (número 2) e a **Maria** (número 3), porque estou **ligado** a eles. O **João** (número 2) tem três amigos: **eu** (número 1), a **Maria** (número 3) e o **José** (número 4). E assim podemos fazer com os outros contando as linhas que saem de cada pessoa.
 
@@ -43,11 +43,11 @@ Cada pessoa é um **vértice** e cada linha (relação entre duas pessoas) é um
 
 Os números de amigos que cada pessoa tem (o número de relações que cada vértice tem) é o que chamamos de “grau” de um vértice. Grau dos vértices do exemplo acima:
 
-  1. 2
-  2. 3
-  3. 2
-  4. 2
-  5. 1
+1. 2
+2. 3
+3. 2
+4. 2
+5. 1
 
 ### Pra quê serve o grafo?
 
@@ -59,9 +59,9 @@ Brincadeiras a parte… Grafos são extremamente úteis porque são representaç
 
 Traduzindo os conceitos do Orkut para os grafos:
 
-  * **Vértice:** Pessoa.
-  * **Aresta:** Amizade entre uma pessoa e outra.
-  * **Grau de um vértice:** Número de amigos de uma pessoa.
+- **Vértice:** Pessoa.
+- **Aresta:** Amizade entre uma pessoa e outra.
+- **Grau de um vértice:** Número de amigos de uma pessoa.
 
 ### Grafos Orientados
 
@@ -71,9 +71,9 @@ Um grafo é _orientado_ quando eu sou seu amigo, mas você não é meu amigo. Vo
 
 Vamos supor que isso aí é um mapa do Brasil. Ele despreza as cidades que não são importantes para o país, levando apenas em consideração portanto: **São Paulo**, **Florianópolis** e **Itajaí**.
 
-  * **São Paulo** é a bolinha vermelha.
-  * **Florianópolis** é a bolinha amarela.
-  * **Itajaí** é a bolinha azul.
+- **São Paulo** é a bolinha vermelha.
+- **Florianópolis** é a bolinha amarela.
+- **Itajaí** é a bolinha azul.
 
 As arestas indicam que há uma estrada para você ir de uma cidade para a outra, mas só dá pra ir no sentido da estrada, que as setas representam. Portanto, você pode ir de **São Paulo** a **Florianópolis**, de **São Paulo** a **Itajaí** e **Florianópolis** a **Itajaí**, mas não de **Itajaí** para qualquer outro lugar.
 
@@ -81,36 +81,36 @@ As arestas indicam que há uma estrada para você ir de uma cidade para a outra,
 
 Os graus dos vértices neste segundo grafo seriam os seguintes, certo?
 
-  * **São Paulo:** 2
-  * **Florianópolis:** 2
-  * **Itajaí:** 2
+- **São Paulo:** 2
+- **Florianópolis:** 2
+- **Itajaí:** 2
 
 Quase… Porém, nos grafos orientados nós temos dois tipos de grau diferentes. Dizemos que:
 
-  * **grau de entrada** é o número de arestas que apontam para o vértice; _e_
-  * **grau de saída** é o número de arestas que saem do vértice.
+- **grau de entrada** é o número de arestas que apontam para o vértice; _e_
+- **grau de saída** é o número de arestas que saem do vértice.
 
 Portanto, os **graus de entrada** do nosso grafo são:
 
-  * **São Paulo:** 0
-  * **Florianópolis:** 1
-  * **Itajaí:** 2
+- **São Paulo:** 0
+- **Florianópolis:** 1
+- **Itajaí:** 2
 
 E os **graus de saída**:
 
-  * **São Paulo:** 2
-  * **Florianópolis:** 1
-  * **Itajaí:** 0
+- **São Paulo:** 2
+- **Florianópolis:** 1
+- **Itajaí:** 0
 
 ### Onde mais posso utilizar grafos?
 
 Existem vários casos onde você vai **querer** usar grafos:
 
-  * Mapas
-  * Sua árvore genealógica
-  * Hierarquia de uma empresa
-  * Sistema de amizades do seu sistema de comunidades virtuais
-  * … e muito mais. Na [OBI][5] já apareceu até um jogo de dominó como problema de grafos!
+- Mapas
+- Sua árvore genealógica
+- Hierarquia de uma empresa
+- Sistema de amizades do seu sistema de comunidades virtuais
+- … e muito mais. Na [OBI][5] já apareceu até um jogo de dominó como problema de grafos!
 
 Como veremos nos próximos artigos, tem algoritmo pra fazer “tudo” em grafos… Então representar alguma coisa em grafos é muito útil pra poder descobrir uma série de coisas.
 
@@ -118,7 +118,6 @@ A maioria das páginas que eu conheço sobre grafos são muito malignas porque a
 
 **No próximo artigo:** Como representar um grafo na programação? Você já pode ir pensando nisso…
 
- [1]: http://www.ic.unicamp.br/~cid/Welcome2.html
- [2]: http://www.orkut.com
- [5]: http://olimpiada.ic.unicamp.br
-
+[1]: http://www.ic.unicamp.br/~cid/Welcome2.html
+[2]: http://www.orkut.com
+[5]: http://olimpiada.ic.unicamp.br

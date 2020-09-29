@@ -23,8 +23,8 @@ tags:
   - topcoder
   - Trabalho
   - w-4
-
 ---
+
 _Originalmente [publicado no Facebook][1] às 21h45 (UTC-8) da quarta-feira 08/02. Um pouco modificado pra registrar no blog._
 
 Até queria falar do sol e da manhã de carnaval (a canção do Orfeu Negro tocava na Starbucks, com letra em português, quando entrei lá hoje), das crianças que caminhavam pra escola, das moças de bicicleta que pilotavam na direção oposta, do piano de cauda numa casa com porta aberta (eu quase entrei pra tocar, mas fiquei com medo de ser preso), da forma diferente como as pessoas aqui se relacionam, do céu estrelado e dos olhos das ruas às 19h00, mas (maldito jet lag!) são só 21h20 e já estou morrendo de sono pra escrever sobre essas coisas românticas agora (e, além do mais, no Brasil acho que deve estar todo mundo dormindo mesmo, já que aí são 3h20).
@@ -55,4 +55,4 @@ Por falar em Stanford, só hoje lembrei que é a universidade do grande Donald K
 
 Melhor parar de escrever antes que eu caia em cima do teclado de sono e que o texto fique tão grande que ninguém leia.
 
- [1]: https://www.facebook.com/madeira.usp/posts/3259486444828
+[1]: https://www.facebook.com/madeira.usp/posts/3259486444828

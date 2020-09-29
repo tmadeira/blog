@@ -17,8 +17,8 @@ tags:
   - religião
   - sugestão
   - valor
-
 ---
+
 ![Além do bem e do mal](/wp-content/uploads/2007/06/alem.jpg)
 
 **Mais uma sugestão de leitura do Mal Vicioso!** O livro da vez é: [Além do bem e do mal][1]
@@ -29,6 +29,5 @@ Escrito por [Nietzsche][2] e publicado por várias editoras aqui no Brasil, **�
 
 O prelúdio a uma filosofia do futuro é um livro pesado, que deve ser digerido com muita atenção. Ainda estou no terceiro capítulo (A natureza religiosa), mas não posso deixar de recomendar esta obra excepcional de Nietzsche, que talvez hoje não fosse tão incompreendido (ou talvez o mundo não tenha mudado tanto assim nos últimos cem anos…).
 
- [1]: http://www.livrariasaraiva.com.br/produto/produto.dll/detalhe?pro_id=175265&ID=C902D9DA7D7061016211F0715 "Comprar na Saraiva"
- [2]: http://pt.wikipedia.org/wiki/Nietzsche
-
+[1]: http://www.livrariasaraiva.com.br/produto/produto.dll/detalhe?pro_id=175265&ID=C902D9DA7D7061016211F0715 "Comprar na Saraiva"
+[2]: http://pt.wikipedia.org/wiki/Nietzsche

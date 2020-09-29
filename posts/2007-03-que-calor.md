@@ -15,8 +15,8 @@ tags:
   - política
   - poluição
   - sociedade
-
 ---
+
 ![Nosso planeta vai derreter...](/wp-content/uploads/2007/03/aquecimento_global.jpg)
 
 > A mudança climática global está acontecendo mais rápido do que era previsto e o impacto é pior do que o esperado, segundo informações da segunda parte de um relatório da Organização das Nações Unidas ainda não publicado, mas que o site Spiegel Online teve acesso. Nenhuma região do planeta será poupada e algumas serão especialmente atingidas.
@@ -39,16 +39,15 @@ Como disse o presidente venezuelano Hugo Chávez, os políticos americanos põe 
 
 Porém, a Caroline está certa. Infelizmente não adiantam manifestações e nem mesmo escrever sobre isso. Os nossos colegas da Casa Branca não estão nem aí pra nós. Pelo menos já que o aquecimento global é um problema de todos, nós também podemos fazer algo pra mudar esse quadro. O [Greenpeace][3] traz sugestões muito interessantes que gostaria de compartilhar com vocês:
 
-  * Economize energia elétrica: não guarde alimentos quentes na geladeira, use lavagem a frio na máquina de lavar, troque lâmpadas incandescentes por fluorescentes;
-  * Dispense sempre que puder os saquinhos plásticos, e quando não for possível, reutilize-os para armazenar o lixo;
-  * Separe os materiais recicláveis e incentive a coleta seletiva no seu condomínio, bairro ou cidade;
-  * Use sempre materiais de limpeza biodegradáveis;
-  * Ao comprar produtos de madeira, verifique sempre a origem e exija o selo FSC;
-  * Peça e ofereça carona, além de divertido, você contribui para diminuir a poluição.
+- Economize energia elétrica: não guarde alimentos quentes na geladeira, use lavagem a frio na máquina de lavar, troque lâmpadas incandescentes por fluorescentes;
+- Dispense sempre que puder os saquinhos plásticos, e quando não for possível, reutilize-os para armazenar o lixo;
+- Separe os materiais recicláveis e incentive a coleta seletiva no seu condomínio, bairro ou cidade;
+- Use sempre materiais de limpeza biodegradáveis;
+- Ao comprar produtos de madeira, verifique sempre a origem e exija o selo FSC;
+- Peça e ofereça carona, além de divertido, você contribui para diminuir a poluição.
 
 Tudo isso é possível, nada disso é complicado e nada disso nos custará muito. O que vocês acham de adotar essas medidas? Quem sabe assim conseguimos evitar uma realidade que realmente parece fantasia:
 
 > A Organização das Nações Unidas estima que 150.000 pessoas morrem anualmente por causa de secas, inundações e outros fatores relacionados diretamente ao aquecimento global. Estima-se que em 2030, o número dobrará.
 
- [3]: http://www.greenpeace.org.br/
-
+[3]: http://www.greenpeace.org.br/

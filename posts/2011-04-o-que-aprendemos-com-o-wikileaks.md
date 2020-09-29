@@ -11,8 +11,8 @@ tags:
   - julian assange
   - payback
   - wikileaks
-
 ---
+
 **Certamente não é surpresa a política imperialista estadounidense. Então qual é a novidade?**
 
 O Wikileaks e seu porta-voz, Julian Assange, vêm atuando na publicação de documentos secretos pela internet desde o ano de 2006.

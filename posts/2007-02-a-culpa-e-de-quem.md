@@ -14,22 +14,22 @@ tags:
   - furto
   - roubo
   - sociedade
-
 ---
+
 [Bicicleta roubada][1]. A culpa é de quem? Pense nas alternativas e responda nos comentários:
 
-  * Do filho da puta que roubou a minha bicicleta.
-  * Dos pais do cara que roubou a minha bicicleta que não souberam educá-lo ou não tinham condições de tê-lo.
-  * Dos políticos que excluíram o cara que roubou minha bicicleta.
-  * De toda a sociedade que excluiu o cara que roubou minha bicicleta.
-  * Das drogas que fazem pessoas irem à loucura.
-  * Da polícia que não está cuidando da segurança dos cidadãos.
-  * Minha, que não deveria ter deixado a bicicleta naquele local. Aceite o mundo do jeito que ele é.
-  * Minha, que deveria ter saído mais cedo da casa da Carol. O mundo é assim.
-  * Minha, que nem deveria andar de bicicleta em Itajaí. É perigoso, não há o que fazer pra mudar isso.
-  * Minha, que aliás não deveria nem sair de casa, porque o mundo é assim e pronto.
-  * Do meu irmão, que comprou um cadeado vagabundo.
-  * Roubar bicicleta não é errado. Posse e propriedade não deveriam existir.
+- Do filho da puta que roubou a minha bicicleta.
+- Dos pais do cara que roubou a minha bicicleta que não souberam educá-lo ou não tinham condições de tê-lo.
+- Dos políticos que excluíram o cara que roubou minha bicicleta.
+- De toda a sociedade que excluiu o cara que roubou minha bicicleta.
+- Das drogas que fazem pessoas irem à loucura.
+- Da polícia que não está cuidando da segurança dos cidadãos.
+- Minha, que não deveria ter deixado a bicicleta naquele local. Aceite o mundo do jeito que ele é.
+- Minha, que deveria ter saído mais cedo da casa da Carol. O mundo é assim.
+- Minha, que nem deveria andar de bicicleta em Itajaí. É perigoso, não há o que fazer pra mudar isso.
+- Minha, que aliás não deveria nem sair de casa, porque o mundo é assim e pronto.
+- Do meu irmão, que comprou um cadeado vagabundo.
+- Roubar bicicleta não é errado. Posse e propriedade não deveriam existir.
 
 Às vezes eu perco a esperança de transformar as pessoas, mudar as suas mentalidades. Às vezes eu acho que eu estou tentando fazer algo por gente que não merece. Mas aí minha cabeça volta ao lugar e acho que o problema não é do cara que roubou a minha bicicleta, mas de uma porção de erros de todos nós.
 
@@ -43,5 +43,4 @@ A minha bicicleta foi roubada por uma série de erros, uma série de problemas s
 
 E afinal… o que importa de quem é a culpa?
 
- [1]: /2007/02/bicicleta-roubada/
-
+[1]: /2007/02/bicicleta-roubada/

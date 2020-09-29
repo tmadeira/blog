@@ -13,7 +13,6 @@ tags:
   - algoritmos gulosos
   - programação dinâmica
 description: "A partir de um problema do mundo real, discutimos duas técnicas para resolver problemas de otimização: algoritmos gulosos e programação dinâmica."
-
 ---
 
 Eventos com inscrição prévia, do Fórum Internacional do Software Livre às plenárias do Congresso do PSOL nas grandes cidades, costumam ter mesas de credenciamento pelas quais os presentes precisam passar para pegar um crachá.

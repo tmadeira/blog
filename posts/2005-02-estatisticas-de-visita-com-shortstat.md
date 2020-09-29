@@ -13,12 +13,12 @@ tags:
   - php
   - shortstat
   - web
-
 ---
+
 Comecei a usar o Shortstat para acompanhar as estatísticas do site. Porém, tive alguns problemas com ele (não exatamente problemas, mas coisas que eu acho melhor mudar). Exemplos:
 
-  * As estatísticas de browser e sistema são contadas por hit… Eu acho muito mais sensato contar por visita (única), pois algumas pessoas contam vários hits (exemplo: eu) e daí as minhas estatísticas estavam dizendo que 80% dos visitantes usavam Linux!
-  * Os webcrawlers e alguns browsers são registrados como sistema operacional desconhecido
+- As estatísticas de browser e sistema são contadas por hit… Eu acho muito mais sensato contar por visita (única), pois algumas pessoas contam vários hits (exemplo: eu) e daí as minhas estatísticas estavam dizendo que 80% dos visitantes usavam Linux!
+- Os webcrawlers e alguns browsers são registrados como sistema operacional desconhecido
 
 Já que o sistema é feito em PHP, achei legal consertar estes problemas e até traduzir e colocar uma bandeira do lado dos países. emoticon Vou postar aqui um passo-a-passo de instalação e esas configuração do Shortstat para quem precisar. Achei ele um ótimo sistema de estatísticas (código super simples e bem direto) e tem tudo que eu preciso. :)
 
@@ -38,11 +38,11 @@ No Windows, use um programa como WinZip ou WinRar (ou o descompactador do Window
 
 #### Arquivos Descompactados
 
-  * configuration.php – Configuração do banco de dados
-  * functions.php – Funções do programa (toda a parte de PHP)
-  * inc.stats.php – Arquivo que deve ser incluído em cada página do site pra contar visita
-  * index.php – Página onde se vê as estatísticas
-  * styles.css – Estilos (css) da página index.php
+- configuration.php – Configuração do banco de dados
+- functions.php – Funções do programa (toda a parte de PHP)
+- inc.stats.php – Arquivo que deve ser incluído em cada página do site pra contar visita
+- index.php – Página onde se vê as estatísticas
+- styles.css – Estilos (css) da página index.php
 
 E ainda tem os arquivos de instalação (que poderão ser deletados logo que acabar a instalação).
 
@@ -65,7 +65,7 @@ $shortstat=true;
 ?>
 ```
 
-E rode o script de instalação (_install.php) no seu browser. Ele irá criar as tabelas no seu banco de dados. Daí basta acrescentar:
+E rode o script de instalação (\_install.php) no seu browser. Ele irá criar as tabelas no seu banco de dados. Daí basta acrescentar:
 
 ```php
 <?php @include_once("diretorio_do_shortstat/inc.stats.php"); ?>
@@ -92,7 +92,7 @@ function verCodigoPais($ip) {
 ?>
 ```
 
-No arquivo **inc.stats.php**, depois de atribuir um valor para a variável **$ip**, coloquei:
+No arquivo **inc.stats.php**, depois de atribuir um valor para a variável **\$ip**, coloquei:
 
 ```php
 <?php
@@ -100,7 +100,7 @@ $cd     = verCodigoPais($ip);
 ?>
 ```
 
-… e depois de colocar valor em todas as variáveis alterei a $query para:
+… e depois de colocar valor em todas as variáveis alterei a \$query para:
 
 ```php
 <?php
@@ -166,7 +166,7 @@ function SI_getCountries() {
 
 (note que a imagem é buscada direto do servidor do ip-to-country)
 
-Então, agora é só instalar o ip-to-country, mas o arquivo de instalação só está servindo para colocar o nome do país no banco de dados (não o código). Basta modificar o arquivo **_ip-to-country.php**, alterando:
+Então, agora é só instalar o ip-to-country, mas o arquivo de instalação só está servindo para colocar o nome do país no banco de dados (não o código). Basta modificar o arquivo **\_ip-to-country.php**, alterando:
 
 ```php
 <?php
@@ -201,7 +201,7 @@ if ($result = mysql_query($query)) {
 ?>
 ```
 
-Daí é só rodar o arquivo _ip-to-country.php e o ip-to-country estará funcionando junto com o shortstat com bandeira do lado do país! :)
+Daí é só rodar o arquivo \_ip-to-country.php e o ip-to-country estará funcionando junto com o shortstat com bandeira do lado do país! :)
 
 #### Estatísticas por visitas, não por hits
 
@@ -249,7 +249,7 @@ function SI_getPlatforms() {
 ?>
 ```
 
-A mudança foi o count usar distinct(remote_ip) e o $th ter o valor dos hits únicos (daí a porcentagem é contada a partir deles). A mudança na função **SI_getBrowsers** é semelhante:
+A mudança foi o count usar distinct(remote_ip) e o \$th ter o valor dos hits únicos (daí a porcentagem é contada a partir deles). A mudança na função **SI_getBrowsers** é semelhante:
 
 ```php
 <?php

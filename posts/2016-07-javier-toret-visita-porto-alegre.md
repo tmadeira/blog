@@ -14,8 +14,8 @@ tags:
   - porto alegre
   - tecnopolítica
 format: image
-
 ---
+
 Obrigado pela visita a Porto Alegre e pelo intercâmbio de idéias, Toret!
 
 ![Com Javier Toret no Café República, em Porto Alegre](/wp-content/uploads/2016/12/13627236_10209929540773945_2063206286471458495_n-1.jpg)

@@ -9,16 +9,16 @@ tags:
   - filosofia
   - livros
   - religião
-
 ---
+
 A partir de hoje publicaremos sugestões de livros com temática parecida com a do nosso site, junto com os habituais artigos do Mal Vicioso. Queremos compartilhar com você algumas das fontes de nossas idéias e também queremos que você compartilhe conosco livros que você leu e gostou.
 
 O primeiro que vamos sugerir é **A Viagem de Théo**.
 
-  * **Autora:** [Catherine Clément][1] (francesa)
-  * **Editora (no Brasil):** [Cia. das Letras][2]
-  * **Páginas:** 614
-  * **Sinopse:** Por que tantas pessoas se aproximam de uma religião ou sentem vontade de ter uma vivência espiritual qualquer? Por que não somos todos ateus? Foram perguntas assim que levaram Catherine Clément a escrever _A viagem de Théo_, um romance sobre os fundamentos das religiões mais praticadas no mundo: catolicismo, judaísmo, budismo, protestantismo, islamismo, etc. Com um conhecimento profundo do tema e um admirável equilíbio intelectual, ela nos faz viajar na companhia de Théo e Marthe – ele, um adolescente que vive enfiado nos livros e sofre de uma doença grave; ela, uma mulher cosmopolita que esbanja vitalidade. Juntos eles vão aos principais centros sagrados do mundo e, enquanto visitam os templos e participam das festas rituais, oferecem-nos a certeza de que as religiões são uma das maiores aventuras que a humanidade já pôde sonhar.
+- **Autora:** [Catherine Clément][1] (francesa)
+- **Editora (no Brasil):** [Cia. das Letras][2]
+- **Páginas:** 614
+- **Sinopse:** Por que tantas pessoas se aproximam de uma religião ou sentem vontade de ter uma vivência espiritual qualquer? Por que não somos todos ateus? Foram perguntas assim que levaram Catherine Clément a escrever _A viagem de Théo_, um romance sobre os fundamentos das religiões mais praticadas no mundo: catolicismo, judaísmo, budismo, protestantismo, islamismo, etc. Com um conhecimento profundo do tema e um admirável equilíbio intelectual, ela nos faz viajar na companhia de Théo e Marthe – ele, um adolescente que vive enfiado nos livros e sofre de uma doença grave; ela, uma mulher cosmopolita que esbanja vitalidade. Juntos eles vão aos principais centros sagrados do mundo e, enquanto visitam os templos e participam das festas rituais, oferecem-nos a certeza de que as religiões são uma das maiores aventuras que a humanidade já pôde sonhar.
 
 ![Capa do livro](/wp-content/uploads/2007/01/theo0.jpg)
 
@@ -32,6 +32,5 @@ Ainda não terminei a leitura, (eu e a Carol estamos na página 234), mas vale a
 
 <small>A primeira pessoa do texto é o Tiago, mas foi a Carol que editou as palavras pro texto ficar legível…</small>
 
- [1]: http://fr.wikipedia.org/wiki/Catherine_Clément
- [2]: http://www.ciadasletras.com.br/
-
+[1]: http://fr.wikipedia.org/wiki/Catherine_Clément
+[2]: http://www.ciadasletras.com.br/

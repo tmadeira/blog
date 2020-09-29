@@ -14,8 +14,8 @@ tags:
   - olimpíadas
   - problemas
   - programação
-
 ---
+
 Baixei a prova da OBI99. Ao invés de ficar demorando nos difíceis, resolvi procurar os mais fáceis mas tentar fazer mais para não ter que pensar muito pois estava meio cansado. A prova de 1999 é muito boa. Os códigos que é preciso fazer pra maioria dos problemas são bastante simples, mas exigem bastante lógica. Precisa parar pra pensar mesmo…
 
 Bom… Resolvi os três que achei mais fácil lendo o enunciado (depois farei o resto):
@@ -133,4 +133,3 @@ Fiquei com saudade da simplicidade do meu Slackware e formatei novamente minha p
 Minhas aulas começam segunda-feira e minha banda (Zibian) vai fazer um show no meio da aula. Hoje ensaiamos e tá ficando legal (embora ainda não esteja bom pra tocar segunda). Já fiz um layout básico no TeX para meus cadernos, configurei Vim, Bash, Firefox, aMSN, etc. no Slack além de trocar splash do KDE, wallpaper, screensaver, configurar o X, LiLo, etc. Já tô ficando acostumado em configurar Linux de forma rápida por causa de tanta formatação... :lol:
 
 _OBS.: Acabei de constatar que meu site é o segundo resultado no Google quando se procura por "tableless" em português. :) Está atrás apenas de www.tableless.com.br._
-

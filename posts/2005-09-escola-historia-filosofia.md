@@ -22,8 +22,8 @@ tags:
   - olimpíadas
   - php
   - salesiano
-
 ---
+
 Para não citar os fatos inúteis da escola (que são maioria), resolvi elogiar as aulas de história deste terceiro bimestre escrevendo neste artigo principalmente sobre filosofia. (e dessa vez não é só a do software livre!)
 
 ![Pitágoras](https://static.flickr.com/33/42829996_812bc11c2f_o.jpg)
@@ -40,7 +40,7 @@ Ahnnn… E acho que esse post foi só pra falar disso mesmo, só para não concl
 
 Agora em História, continuamos estudando a Grécia, e agora partindo para os etruscos para chegar em Roma, mas fica registrada aqui a minha felicidade por estar tendo a oportunidade de _pensar_ (usando o raciocínio lógico) mesmo nesta disciplina.
 
-* * *
+---
 
 Agora mudando radicalmente de assunto para dizer as últimas novidades, além da filosofia…
 
@@ -71,4 +71,3 @@ Para finalizar, não tenho produzido muitos códigos / solucionado problemas ló
 <p style="font-size:11px;font-style:italic;">
   Coloquei várias imagens aí em cima pro post não ficar muito sem graça, já que ficou um pouco grande… A maioria delas não é tão importante, mas são boas pra saber em que pedaço do texto estamos… :)
 </p>
-

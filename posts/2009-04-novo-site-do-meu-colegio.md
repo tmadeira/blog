@@ -4,7 +4,7 @@ type: post
 date: 2009-04-08T19:30:56+00:00
 url: /2009/04/novo-site-do-meu-colegio/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Cotidiano
 tags:
@@ -13,8 +13,8 @@ tags:
   - salesiano
   - site
   - Trabalho
-
 ---
+
 Estudei no Colégio Salesiano Itajaí por 11 anos, da primeira série do Ensino Fundamental ao terceiro ano do Ensino Médio. Desde a oitava série (2004) trabalhei desenvolvendo o seu site em troca de bolsa de estudos. Durante a maior parte deste tempo o site esteve hospedado no [meu servidor][1].
 
 Quando eu concluí minha vida escolar lá (em 2007) fiquei devendo uma reformulação no site para passar para um servidor novo e deixar tudo bonitinho para outra pessoa poder assumi-lo. Ano passado acabei não conseguindo trabalhar nele e hoje, um ano e meio depois, ele foi publicado. Um alívio.
@@ -25,7 +25,6 @@ Programei em PHP e em JavaScript (usando o [JQuery][2], que é uma mão na roda)
 
 ![Site do Colégio Salesiano Itajaí](/wp-content/uploads/2009/04/salesiano.png)
 
- [1]: http://www.dreamhost.com/ "Dreamhost"
- [2]: http://www.jquery.com/
- [3]: http://www.salesianoitajai.g12.br/
-
+[1]: http://www.dreamhost.com/ "Dreamhost"
+[2]: http://www.jquery.com/
+[3]: http://www.salesianoitajai.g12.br/

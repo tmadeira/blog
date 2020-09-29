@@ -9,8 +9,8 @@ tags:
   - carol
   - mal vicioso
   - Metablogagem
-
 ---
+
 <p style="font-weight:bold;">
   Cada vez mais a sociedade se acomoda com a exploração do homem pelo homem, mal que se torna um vício. Ainda que a angústia de não saber o que fazer nos persiga, podemos, juntos, descobrir a saída.
 </p>
@@ -19,6 +19,6 @@ Visite o novo blog onde eu e a [Carol][1] estamos escrevendo sobre filosofia, po
 
 **[update]** Ahhh… Esqueci de dizer: Quando alguém faz algo novo, ele gosta de saber a sua opinião. Então seja bonzinho e mesmo que tenha achado o site uma merda, comente lá dizendo isso de maneira bem educada pra nós podermos melhorar. =) **[/update]**
 
- [1]: http://www.fotolog.com/carol_krol
- [2]: http://malvicioso.com/feed "Mal Vicioso: feed RSS"
- [3]: http://pt.wikipedia.org/wiki/O_Mundo_de_Sofia
+[1]: http://www.fotolog.com/carol_krol
+[2]: http://malvicioso.com/feed "Mal Vicioso: feed RSS"
+[3]: http://pt.wikipedia.org/wiki/O_Mundo_de_Sofia

@@ -12,8 +12,8 @@ tags:
   - design
   - html
   - javascript
-
 ---
+
 Novo template feito em tempo recorde… Três dias foram necessários para eu finalizar o novo design do meu site, agora mais leve e acessível (e mais bonito).
 
 Com a folha de estilos CSS mais organizada, menos ícones, mais simplicidade, texto mais legível (com detalhes pouco aproveitados em muitos sites como _line-height_ e _text-indent_) e um logo que o [Cosme][1] fez pra mim por caridade; espero que curtam o novo design e, se quiserem, sugiram mudanças!
@@ -22,6 +22,5 @@ Agora eu também fiz um [arquivo][2] de _JavaScript_ já preparado para futuras 
 
 Comentem dando as suas opiniões!
 
- [1]: http://www.cosmeweb.com.br
- [2]: /wp-content/themes/2006/scripts.js
-
+[1]: http://www.cosmeweb.com.br
+[2]: /wp-content/themes/2006/scripts.js

@@ -15,8 +15,8 @@ tags:
   - programação
   - resultado
   - xul
-
 ---
+
 ![Museu do Ipiranga](https://farm1.staticflickr.com/21/28481998_87a2fe24ad.jpg)
 
 Hoje cheguei em Itajaí pela manhã depois de uma semana muito legal visitando pontos turísticos e participando de eventos de vários tipos em São Paulo (as fotos estão disponíveis no meu [álbum do Flickr][2]).
@@ -41,4 +41,4 @@ O curso desse ano foi bem interessante, aprendi bastante e mesmo não indo tão 
 
 Vou estender o tópico para fazer uma propaganda da **Semana Azul**. A Semana Azul é um evento on-line que ocorre entre 25 e 31 de julho de 2005. Para acessar as palestras que acontecem todos os dias da semana às 20h00, o participante precisa ter algum cliente de IRC e entrar na rede da Freenode (irc.freenode.net) no canal #mozilla-br. Irão ocorrer palestras legais sobre projetos que envolvem XUL e Mozilla… A programação completa está disponível aqui: <http://www.mozilla.org.br/semanaazul/?n=SAr1.ProgramacaoIRC>. :) Participem!
 
- [2]: http://www.flickr.com/photos/tiago
+[2]: http://www.flickr.com/photos/tiago

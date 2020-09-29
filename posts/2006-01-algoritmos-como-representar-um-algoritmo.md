@@ -19,8 +19,8 @@ tags:
   - programação
   - pseudocódigo
   - representação
-
 ---
+
 No [primeiro artigo desta série][1], expliquei o que é um algoritmo e até citei exemplos do cotidiano, como **acordar** ou **falar com outra pessoa**. Talvez você nem tenha se dado conta, mas usando _listas numeradas_ eu representei os algoritmos ali presentes, inclusive destacando a **entrada** e a **saída** de cada situação-problema. Porém, não é sempre assim que representamos algoritmos.
 
 Não existe uma regra padrão para a representação de algoritmos. Cada pessoa escreve de forma diferente, mas o importante é ser legível e convencionado. Por exemplo, o livro **Algoritmos: Teoria e Prática**\* traz nas páginas 14 e 15 convenções do [pseudocódigo][2] que utiliza no livro inteiro. Já eu, quando vou passar o mesmo algoritmo, utilizaria outro tipo de código, você pode utilizar outro, e por aí vai. Mas todos têm que ter o mesmo foco: legibilidade e fácil implementação para qualquer linguagem.
@@ -69,7 +69,6 @@ end;
 
 Linha por linha ela é exatamente igual! A única diferença é que o pseudocódigo é traduzido… Geralmente os pseudocódigos são parecidos sempre com essa base e suas implementações não são muito diferentes. E vai ser sempre dessa maneira que eu vou representar os algoritmos (usando pseudocódigos e alguns traduzindo para C para mostrar implementações). No entanto, qualquer dúvida sobre essa representação, fique a vontade para perguntar através dos comentários.
 
- [1]: /2006/01/algoritmos-o-que-e-um-algoritmo/
- [2]: http://pt.wikipedia.org/wiki/Pseudoc%C3%B3digo
- [3]: http://pt.wikipedia.org/wiki/Pascal_%28linguagem_de_programa%C3%A7%C3%A3o%29
-
+[1]: /2006/01/algoritmos-o-que-e-um-algoritmo/
+[2]: http://pt.wikipedia.org/wiki/Pseudoc%C3%B3digo
+[3]: http://pt.wikipedia.org/wiki/Pascal_%28linguagem_de_programa%C3%A7%C3%A3o%29

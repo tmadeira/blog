@@ -13,8 +13,8 @@ tags:
   - ruby
   - scripts
   - taglib
-
 ---
+
 Vamos fingir que você é um cara mau que ao invés de comprar CDs legalmente (como eu sempre faço e você também) [baixa discografias completas na internet][1], como por exemplo [a do Beatles][2]. Ao terminar de baixar 3 GB com mais de 20 CDs você nota que os arquivos não estão corretamente taggeados e com isso você bagunçaria a organização perfeita do seu computador, do seu iPod ou de qualquer outro aparelho que você use pra ouvir música. **O que fazer?** Apelar para o Ruby com a [Taglib][3], é claro! (Ubuntu: _apt-get install libtagc0-ruby_)
 
 Vejam como é simples e adaptem para as suas necessidades:
@@ -48,6 +48,6 @@ require "taglib"
 end
 ```
 
- [1]: /2008/07/howto-como-baixar-filmes-com-legenda-na-internet/
- [2]: http://www.mininova.org/tor/982312
- [3]: http://www.hakubi.us/ruby-taglib/
+[1]: /2008/07/howto-como-baixar-filmes-com-legenda-na-internet/
+[2]: http://www.mininova.org/tor/982312
+[3]: http://www.hakubi.us/ruby-taglib/

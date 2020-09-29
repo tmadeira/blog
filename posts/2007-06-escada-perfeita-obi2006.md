@@ -17,8 +17,8 @@ tags:
   - pa
   - problemas
   - programação
-
 ---
+
 Depois de meses sem postar, resolvi que a partir de agora darei mais atenção pra este blog. Muita gente me manda e-mail e comentários com dúvidas e gostaria de deixar bem claro que eu não faço trabalhos de faculdade pra ninguém, mas que se você tiver uma dúvida real onde eu possa ajudar eu ajudarei de bom grado.
 
 Pensei muito sobre o que postar aqui, tenho rascunhos sobre buscas em grafos e sobre resoluções de problemas de grafos, mas resolvi quebrar toda a ordem e, a partir de um _scrap_ de orkut, acabei me lembrando do problema **Escada perfeita**, da [OBI 2006][1], e me deu vontade de resolvê-lo aqui.
@@ -80,7 +80,7 @@ Saída
 -1
 ```
 
-* * *
+---
 
 OK. Estão prontos?
 
@@ -120,13 +120,13 @@ $$
 
 #### Variáveis
 
-  * **n**: número de degraus (fileiras de blocos)
-  * **a**: $a\_{1}$, número de blocos do primeiro degrau.
-  * **b**: $a\_{n}$ , número de blocos do último degrau.
-  * **soma**: $S\_{n}$ , soma da PA.
-  * **pilha[]**: vetor de degraus.
-  * **movimentos** e **moves**: explicados no quinto passo da solução.
-  * **i** e **j**: variáveis auxiliares para fazer os _loops_.
+- **n**: número de degraus (fileiras de blocos)
+- **a**: $a\_{1}$, número de blocos do primeiro degrau.
+- **b**: $a\_{n}$ , número de blocos do último degrau.
+- **soma**: $S\_{n}$ , soma da PA.
+- **pilha[]**: vetor de degraus.
+- **movimentos** e **moves**: explicados no quinto passo da solução.
+- **i** e **j**: variáveis auxiliares para fazer os _loops_.
 
 #### Codeado em C
 
@@ -171,6 +171,5 @@ int main() {
 
 Prontinho! Qualquer dúvida escrevam seus comentários.
 
- [1]: http://olimpiada.ic.unicamp.br
- [3]: http://pt.wikipedia.org/wiki/Progress%C3%A3o_aritm%C3%A9tica
-
+[1]: http://olimpiada.ic.unicamp.br
+[3]: http://pt.wikipedia.org/wiki/Progress%C3%A3o_aritm%C3%A9tica

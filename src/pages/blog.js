@@ -1,11 +1,11 @@
-import React from 'react';
-import {graphql} from 'gatsby';
+import React from "react";
+import { graphql } from "gatsby";
 
-import Article from '../components/Article';
-import Head from '../components/Head';
-import Layout from '../components/Layout';
+import Article from "../components/Article";
+import Head from "../components/Head";
+import Layout from "../components/Layout";
 
-export default function({data}) {
+export default function ({ data }) {
   return (
     <Layout>
       <Head />
@@ -15,13 +15,13 @@ export default function({data}) {
       ))}
     </Layout>
   );
-};
+}
 
 export const pageQuery = graphql`
   {
     allMarkdownRemark(
-      limit: 5,
-      sort: {fields: frontmatter___date, order: DESC}
+      limit: 5
+      sort: { fields: frontmatter___date, order: DESC }
     ) {
       edges {
         node {

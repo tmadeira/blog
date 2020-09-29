@@ -4,7 +4,7 @@ type: post
 date: 2009-04-05T01:43:40+00:00
 url: /2009/04/probabilidade/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Matemática
 tags:
@@ -15,8 +15,8 @@ tags:
   - probabilidade
   - universidade
   - usp
-
 ---
+
 Curiosamente as melhores aulas (em conteúdo e rigor matemático) que estou tendo no <acronym title="Instituto de Matemática e Estatística">IME</acronym>–<acronym title="Universidade de São Paulo">USP</acronym> neste semestre são as de _Introdução à Probabilidade e Estatística I_ (MAE 121). Digo _“curiosamente”_ porque
 
 **0.** Nunca gostei de estatística (e acreditava que este seria o foco da disciplina);
@@ -30,4 +30,3 @@ Surpreendi-me porque, de fato, desde que entramos na matéria de _Probabilidade_
 Muito interessante. A probabilidade é uma área que eu desconhecia completamente (e discriminava em pensamento por andar sempre junto com _Estatística_), mas que é muito mais legal (em nível matemático) do que eu pensava.
 
 ![Probability and Measure (crédito: John Morgan/Flickr)](https://farm4.static.flickr.com/3023/3249101355_bcf4aa50cb.jpg)
-

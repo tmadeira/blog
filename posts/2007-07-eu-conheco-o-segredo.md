@@ -16,8 +16,8 @@ tags:
   - o segredo
   - pensamento
   - sentimento
-
 ---
+
 Cometi um pecado: não levei a sério o [bom conselho][1] do meu sábio amigo e reverendo discordiano: assisti _“O Segredo”_.
 
 ![O Segredo](/wp-content/uploads/2007/07/segredo_02_330.jpg)
@@ -38,5 +38,4 @@ Trata-se de um conto de odos vivem felizes para sempre. Para fazer o seu filho d
 
 O incrível é a quantidade de pessoas que assistem este filme e que levam a sério, acreditam e dão depoimentos como “Eu sou uma pessoa realizada agora que leu/assistiu O Segredo”. Que grande idiotice! Acho que aprendi mais lendo **Os Três Porquinhos**…
 
- [1]: http://1001gatos.org/o-segredo/
-
+[1]: http://1001gatos.org/o-segredo/

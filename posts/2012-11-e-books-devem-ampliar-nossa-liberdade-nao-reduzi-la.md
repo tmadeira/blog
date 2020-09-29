@@ -15,7 +15,6 @@ tags:
   - richard stallman
   - Software Livre
   - stallman
-
 ---
 
 Li o texto [“E-books must increase our freedom, not decrease it”][2] (de Richard Stallman) no boletim da Free Software Foundation de julho/2012. É sobre os livros digitais e os dispositivos (como o Kindle, da Amazon) que estamos usando para lê-los. O texto foi escrito especialmente para o jornal britânico _The Guardian_, mas achei os problemas que o Stallman levanta bem relevantes e suas ideias para solucioná-los muito interessantes. Por isso, fiz uma tradução livre e descompromissada, que compartilho abaixo. Quem tiver sugestões para melhorar a tradução, por favor entre em contato.
@@ -48,5 +47,4 @@ Li o texto [“E-books must increase our freedom, not decrease it”][2] (de Ric
 >
 > O compartilhamento é bom e, com tecnologia digital, o compartilhamento é fácil. (Digo, a redistribuição não-comercial de cópias exatas.) Então o compartilhamento tem que ser legal e evitar compartilhamentos não pode uma desculpa para transformar e-books em algemas para os leitores. Se e-books significam que a liberdade dos usuários precisa ou ser ampliada ou ser reduzida, nós precisamos exigir que ela seja ampliada.
 
- [2]: https://www.gnu.org/philosophy/ebooks-must-increase-freedom.html
-
+[2]: https://www.gnu.org/philosophy/ebooks-must-increase-freedom.html

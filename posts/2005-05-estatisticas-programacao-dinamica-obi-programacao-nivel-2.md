@@ -16,18 +16,18 @@ tags:
   - obi 2005
   - programação
   - programação dinâmica
-
 ---
+
 Em primeiro lugar, quero dar a notícia de que as visitas do site só tem crescido. Nesse mês, o site tem recebido 100 ips únicos por dia e uns 500 hits. Para um pequeno blog, são estatísticas boas. As palavras-chave mais procuradas e a posição do meu site na procura por ela no Google (somente em português) são:
 
-  * **tableless** – sétima posição
-  * **qemu** – décima-primeira posição
-  * **problemas lógicos** – quarta posição
-  * **dobradura** – décima-sexta posição
-  * **gráfico de setores** – décima-oitava posição
-  * **permutação** – sexta posição
-  * **obi2005** – nona posição E **“obi 2005”** – terceira posição
-  * **biografia de linus torvalds** – sexta posição emoticon
+- **tableless** – sétima posição
+- **qemu** – décima-primeira posição
+- **problemas lógicos** – quarta posição
+- **dobradura** – décima-sexta posição
+- **gráfico de setores** – décima-oitava posição
+- **permutação** – sexta posição
+- **obi2005** – nona posição E **“obi 2005”** – terceira posição
+- **biografia de linus torvalds** – sexta posição emoticon
 
 Ainda tem outras procuras interessantes e outras nada a ver, mas essas são as mais procuradas. É incrível como as pessoas clicam na minha biografia quando procuram pela biografia do criador do Linux! :blink: Acho legal as pessoas acharem meu site procurando por tableless, problemas lógicos, algoritmos, OBI2005 e nomes de problemas lógicos que eu fiz (também tem muita gente que procura por [MMC e MDC][1]).
 
@@ -37,8 +37,8 @@ Por causa dos trabalhos, tenho programado muito em PHP, feito muitos designs no 
 
 Hmmm… Estive procurando umas coisas no **livro vermelho** (Algoritmos: Teoria e Prática) e descobri duas coisas desse livro.
 
-  1. Ele tem tudo. É um livro completo, procura qualquer coisa de algoritmos ali que se acha tudo.
-  2. É ilegível. :blink:
+1. Ele tem tudo. É um livro completo, procura qualquer coisa de algoritmos ali que se acha tudo.
+2. É ilegível. :blink:
 
 É muito complicado entender as coisas contidas nele, então tenho estudado um pouco por materiais na internet mais simples e só depois que peguei mesmo a coisa que leio no livro. Mas mesmo assim, bóio um pouco quanto a custos.
 
@@ -267,4 +267,4 @@ int main() {
 
 Saiu o gabarito da iniciação... Meu irmão, Lucas, acertou 14 no nível de quintas e sextas séries (ele tá na quinta) e ganhou **Menção Honrosa**. E o nosso, não vai sair não?
 
- [1]: /2005/04/desafios-logicos-e-sites/
+[1]: /2005/04/desafios-logicos-e-sites/

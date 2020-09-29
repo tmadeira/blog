@@ -12,8 +12,8 @@ tags:
   - estados unidos
   - imperialismo
   - política
-
 ---
+
 ![Fora Bush!](/wp-content/uploads/2007/03/475715-9338-it2.jpg)
 
 > “O objetivo desta viagem é lembrar as pessoas dos laços que nos unem, e da **importância desta região para o futuro dos Estados Unidos**“, disse Bush, que tenta reverter a idéia de que os EUA estão negligenciando a América Latina. “Estou muito contente de estar aqui”.
@@ -28,5 +28,4 @@ Não vejo nossos políticos como pessoas de coragem, nem a nossa esquerda como e
 
 Por isso, o que resta ao povo fazer é apenas dizer: [yankee imperialist go home!][1]
 
- [1]: /2007/02/yankee-imperialist-go-home/
-
+[1]: /2007/02/yankee-imperialist-go-home/

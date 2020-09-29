@@ -11,8 +11,8 @@ tags:
   - Matemática
   - potências
   - praia
-
 ---
+
 Esses dias, tomando banho de mar, me vi pensando na forma das potências de dois em base dez.
 
 É fácil ver que não existe potência de 2 que termine em 0, já que qualquer número que termina em 0 é múltiplo de 5.

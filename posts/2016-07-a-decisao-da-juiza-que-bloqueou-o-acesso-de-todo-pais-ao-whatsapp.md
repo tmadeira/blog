@@ -17,8 +17,8 @@ tags:
   - tim cook
   - whatsapp
 format: aside
-
 ---
+
 A decisão da juíza que bloqueou o acesso de todo país ao WhatsApp é uma ameaça à nossa segurança.
 
 Segundo o [G1][1], ela pede que o Facebook implemente um backdoor para que mensagens sejam passadas para a justiça em tempo real ou que use algoritmos mais fracos que possam ser quebrados.
@@ -33,5 +33,5 @@ Abrir brechas de segurança num aplicativo usado por mais de 1 bilhão de pessoa
 
 <small>Publicado originalmente no <a href="https://www.facebook.com/timadeira/posts/10210052974179703">Facebook</a>.</small>
 
- [1]: http://glo.bo/2ae6UAc
- [2]: http://www.apple.com/customer-letter/
+[1]: http://glo.bo/2ae6UAc
+[2]: http://www.apple.com/customer-letter/

@@ -14,8 +14,8 @@ tags:
   - londres
   - nsa
   - terrorismo
-
 ---
+
 ![David Miranda e Glenn Greenwald no Rio de Janeiro.](/wp-content/uploads/2016/12/david.jpg)
 
 O brasileiro David Miranda, companheiro de Glenn Greenwald, foi detido e interrogado por 9 horas sem direito a advogado numa escala no aeroporto de Heathrow (Londres). Ele estava retornando ao Rio de Janeiro de uma viagem a Berlim, onde havia passado a última semana com a cineasta americana Laura Poitras, que trabalhou nas reportagens sobre a NSA.
@@ -30,5 +30,5 @@ A tentativa de intimidação não funcionou. Pelo contrário. Como Glenn Greenwa
 
 <small>Publicado originalmente no <a href="https://juntos.org.br/2013/08/companheiro-de-jornalista-do-caso-snowden-e-interrogado-por-9-horas/">Juntos</a>.</small>
 
- [1]: http://www.itamaraty.gov.br/sala-de-imprensa/notas-a-imprensa/retencao-de-nacional-brasileiro-em-londres
- [2]: http://www.theguardian.com/commentisfree/2013/aug/18/david-miranda-detained-uk-nsa
+[1]: http://www.itamaraty.gov.br/sala-de-imprensa/notas-a-imprensa/retencao-de-nacional-brasileiro-em-londres
+[2]: http://www.theguardian.com/commentisfree/2013/aug/18/david-miranda-detained-uk-nsa

@@ -16,8 +16,8 @@ tags:
   - olimpíadas
   - problemas
   - programação
-
 ---
+
 Impressionante a quantidade de besteiras que todo programador faz… Às vezes, uma semana depois de fazer um programa ou um site, eu já sinto raiva do script que acabei de fazer e me sinto obrigado a refazê-lo. Brincando um pouco nas férias, estou refazendo vários problemas da [OBI][1] e cada vez mais percebo a quantidade de lixo que achamos nos nossos scripts. E o pior é perceber o tempo que eu levava pra fazer aqueles problemas que podiam ser resolvidos de maneira tão simples (e eu pensava que tinha uma solução muito boa)… Estou resolvendo a lista de tarefas da modalidade **Programação Nível 2**, mas apenas os problemas de grafos (todos eles eu já tinha resolvido, mas estou agora programando-os melhor). Confiram as besteiras que eu fiz nos primeiros deles:
 
 #### Aeroporto
@@ -185,15 +185,14 @@ Bom... Simplificando... Se você não é programador, não seja; você vai ficar
 
 Quando eu acabar de re-resolver todos os problemas da seção de [códigos lógicos][7] eu vou publicar todos juntos. Por enquanto, vou deixar tudo do jeito que tá pra vocês apreciarem meus scripts mal-feitos. ;)
 
-* * *
+---
 
 Quem costuma visitar meu blog perceberá que apareceu um ícone lá no canto inferior direito, escrito **Bom Demais para o IE**. A imagem, posicionada lá embaixo usando um _position:fixed;_ (que o IE não suporta) é de uma campanha muito legal que você pode conhecer clicando no link. Participem e tenham um site _"bom demais para o Internet Explorer"_! :)
 
- [1]: http://olimpiada.ic.unicamp.br
- [2]: http://olimpiada.ic.unicamp.br/programacao/tarefas/aeroporto
- [3]: http://olimpiada.ic.unicamp.br/programacao/tarefas/batuira
- [4]: /wp-content/uploads/c/batuira.c
- [5]: http://olimpiada.ic.unicamp.br/programacao/tarefas/dengue
- [6]: /wp-content/uploads/c/dengue.c
- [7]: /wp-content/uploads/c/
-
+[1]: http://olimpiada.ic.unicamp.br
+[2]: http://olimpiada.ic.unicamp.br/programacao/tarefas/aeroporto
+[3]: http://olimpiada.ic.unicamp.br/programacao/tarefas/batuira
+[4]: /wp-content/uploads/c/batuira.c
+[5]: http://olimpiada.ic.unicamp.br/programacao/tarefas/dengue
+[6]: /wp-content/uploads/c/dengue.c
+[7]: /wp-content/uploads/c/

@@ -11,8 +11,8 @@ tags:
   - piada
   - política
   - prisão
-
 ---
+
 ![Governador da Califórnia](/wp-content/uploads/2007/05/arnold.jpg)
 
 > Na terça-feira, Paris Hilton iniciou uma campanha na Internet pedindo a seus fãs que assinem uma carta de perdão a ser enviada ao governador da Califórnia, Arnold Schwarzenegger.
@@ -21,5 +21,4 @@ tags:
 
 Sou só eu que ainda não sou capaz de visualizar o exterminador do futuro como governador de um estado americano? Prefiro não escrever o que a minha mente maliciosa pensou sobre o que Paris poderia oferecer para Arnold nessa carta.
 
- [1]: http://exclusivo.terra.com.br/interna/0,,OI1604015-EI1118,00.html
-
+[1]: http://exclusivo.terra.com.br/interna/0,,OI1604015-EI1118,00.html

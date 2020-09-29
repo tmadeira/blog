@@ -10,8 +10,8 @@ tags:
   - bulletin
   - fsf
   - peter brown
-
 ---
+
 _by **Peter Brown**, [FSF][1] Executive Director_
 
 _(Free Software Foundation Bulletin, Issue 16, May 2010)_
@@ -32,11 +32,10 @@ We need to strengthen the free software movement for the long haul. The key to t
 
 Working Together for Free Software means:
 
-  * Telling all users that they _deserve_ to have freedom and that they should be in control of their computing.
-  * Promoting free software as a civil liberty, that protects citizens from government and undue influence in their lives.
-  * Prioritizing software development for free platforms, and to recognize that the aim is to eliminate proprietary software like any anti-social behavior.
+- Telling all users that they _deserve_ to have freedom and that they should be in control of their computing.
+- Promoting free software as a civil liberty, that protects citizens from government and undue influence in their lives.
+- Prioritizing software development for free platforms, and to recognize that the aim is to eliminate proprietary software like any anti-social behavior.
 
 Please join us in promoting our Working Together for Free Software campaign.
 
- [1]: http://www.fsf.org/
-
+[1]: http://www.fsf.org/

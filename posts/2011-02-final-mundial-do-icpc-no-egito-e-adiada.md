@@ -12,8 +12,8 @@ tags:
   - egito
   - icpc
   - maratona
-
 ---
+
 > Dear Participant,
 >
 > The 2011 World Finals is postponed.

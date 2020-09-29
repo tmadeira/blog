@@ -14,8 +14,8 @@ tags:
   - linux
   - radeon
   - radeon xpress 1100
-
 ---
+
 [Gentoo][1] tem se mostrado uma ótima distribuição. Não sei por quê, eu achava que ele era difícil, mas não… Talvez a instalação a partir da **minimal** seja, mas do jeito que eu estou fazendo está tudo bem, com exceção da [dor de cabeça pra configurar os drivers][2] aqui no meu Acer Aspire 5050-3205.
 
 Instalar os drivers proprietários da ATI foi muito fácil:
@@ -66,6 +66,5 @@ Concluindo, falta uma coisa na portage do Gentoo para quem usa placas de vídeo 
 # emerge paracetamol
 ```
 
- [1]: http://www.gentoo.org/
- [2]: /2007/01/dor-de-cabeca/
-
+[1]: http://www.gentoo.org/
+[2]: /2007/01/dor-de-cabeca/

@@ -1,5 +1,5 @@
 ---
-title: 'Nem tão livre assim: balanço do NETmundial'
+title: "Nem tão livre assim: balanço do NETmundial"
 type: post
 date: 2014-04-28T23:02:17+00:00
 url: /2014/04/nem-tao-livre-assim-balanco-do-netmundial/
@@ -19,8 +19,8 @@ tags:
   - marco civil
   - netmundial
   - pnbl
-
 ---
+
 O título deste texto é o mesmo de uma [entrevista][1] publicada pela Revista IstoÉ em setembro de 2005. Naquela ocasião, Sérgio Amadeu explicava por que deixou seu posto de presidente do Instituto Nacional de Tecnologia da Informação (ITI), órgão ligado ao Ministério da Casa Civil: _É bonito apoiar telecentro, computador barato para pobre, mas na hora de enfrentar interesses a favor do software livre, falta apoio, falta cara na reta._
 
 Nove anos depois, já no terceiro governo do PT e na fase final do Plano Nacional de Banda Larga (que não empolgou muito ninguém além das empresas de telecomunicações), as revelações de Edward Snowden levaram a presidenta Dilma Rousseff a receber no Brasil 1229 pessoas de 97 países num encontro para decidir junto com o ICANN sobre o futuro da governança da Internet. O NETmundial aconteceu nos dias 23 e 24 de abril no Grand Hyatt Hotel, em São Paulo, 50 dias antes do início do Mundial da FIFA.
@@ -71,7 +71,7 @@ Segue o manifesto que apresentamos na ArenaNETmundial (em português e inglês).
 >
 > Com sua coragem, Edward Snowden apoiou o Brasil, defendendo os direitos de seu povo e de seu governo. Devemos retribuir-lhe por seus gestos generosos em consonância com a tradição democrática de nosso país, que em anos recentes corretamente recebeu em seu território diversas pessoas na condição de asilados. O Brasil não pode, agora, ignorar a situação de Snowden. Por isto, nos dirigimos à Presidenta Dilma Rousseff e lhe fazemos um apelo: queremos que o Brasil conceda asilo imediato a Edward Snowden.
 
-* * *
+---
 
 > #### Manifesto in English: We say “yes” to Edward Snowden!
 >
@@ -87,12 +87,12 @@ Segue o manifesto que apresentamos na ArenaNETmundial (em português e inglês).
 
 <small>Publicado originalmente no <a href="https://juntos.org.br/2014/04/nem-tao-livre-assim-balanco-do-netmundial/">Juntos</a>.</small>
 
- [1]: http://www.istoe.com.br/reportagens/detalhePrint.htm?idReportagem=10069&txPrint=completo
- [3]: http://www.huffingtonpost.com/jeanchristophe-nothias/for-more-internet-and-mor_b_5175698.html?ncid=txtlnkusaolp00000592
- [4]: http://juntos.org.br/2014/03/pela-aprovacao-do-marco-civil-da-internet-com-o-principio-da-neutralidade/
- [5]: http://juntos.org.br/2014/03/um-passo-a-frente-na-disputa-pela-internet/
- [6]: http://www.camara.gov.br/proposicoesWeb/prop_mostrarintegra?codteor=1238705&filename=Tramitacao-PL+2126/2011
- [7]: https://netmundial.net/
- [9]: http://juntos.org.br/2014/04/natalia-viana-nao-falar-sobre-asilo-a-snowden-e-como-nao-ver-o-elefante-branco-na-sala/
- [10]: http://netmundial.br/wp-content/uploads/2014/04/NETmundial-Multistakeholder-Document.pdf
- [11]: http://www.wired.co.uk/news/archive/2014-04/28/internet-diplomacy-netmundial
+[1]: http://www.istoe.com.br/reportagens/detalhePrint.htm?idReportagem=10069&txPrint=completo
+[3]: http://www.huffingtonpost.com/jeanchristophe-nothias/for-more-internet-and-mor_b_5175698.html?ncid=txtlnkusaolp00000592
+[4]: http://juntos.org.br/2014/03/pela-aprovacao-do-marco-civil-da-internet-com-o-principio-da-neutralidade/
+[5]: http://juntos.org.br/2014/03/um-passo-a-frente-na-disputa-pela-internet/
+[6]: http://www.camara.gov.br/proposicoesWeb/prop_mostrarintegra?codteor=1238705&filename=Tramitacao-PL+2126/2011
+[7]: https://netmundial.net/
+[9]: http://juntos.org.br/2014/04/natalia-viana-nao-falar-sobre-asilo-a-snowden-e-como-nao-ver-o-elefante-branco-na-sala/
+[10]: http://netmundial.br/wp-content/uploads/2014/04/NETmundial-Multistakeholder-Document.pdf
+[11]: http://www.wired.co.uk/news/archive/2014-04/28/internet-diplomacy-netmundial

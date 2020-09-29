@@ -15,8 +15,8 @@ tags:
   - pdf
   - script
   - shell
-
 ---
+
 Tive necessidade de baixar um documento do Issuu. Segue um _script_ simples que escrevi para baixar as páginas, convertê-las para PDF e mesclá-las. Ele não tem checagem de erros, mas pode ser útil para mais pessoas:
 
 ```bash
@@ -57,12 +57,11 @@ rm -rf $tmp
 echo "-> Pronto: '${title}.pdf'"
 ```
 
-
 O script requer Bash, wget, GhostScript e ImageMagick. A maioria das distribuições de Linux já tem esses aplicativos, mas por via das dúvidas cheque se você tem o ImageMagick instalado.
 
 **Download do script:** <a href="/wp-content/uploads/2014/09/issuu_download.sh">issuu_download.sh</a> (932 bytes)
 
-Para instalar, é só baixar o arquivo, torná-lo executável e movê-lo para alguma pasta do seu $PATH:
+Para instalar, é só baixar o arquivo, torná-lo executável e movê-lo para alguma pasta do seu \$PATH:
 
 ```bash
 $ wget https://tiagomadeira.com/wp-content/uploads/2014/09/issuu_download.sh

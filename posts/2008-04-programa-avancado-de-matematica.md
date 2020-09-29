@@ -12,8 +12,8 @@ tags:
   - programa avançado de matemática
   - ufsc
   - universidade
-
 ---
+
 Dica: O Programa Avançado de Matemática é um _honors course_ de Cálculo e Álgebra Linear, com 15-20 vagas por ano, aberto a todos os alunos das áreas de ciências exatas da UFSC. Os alunos do PAM são hoje avidamente disputados por diversos grupos de pesquisa das engenharias e da matemática para trabalharem junto a laboratórios ou projetos de pesquisa.
 
 Se tiver interesse em participar, entre em contato com o professor Mário César Zambaldi, do Depto. de Matemática.

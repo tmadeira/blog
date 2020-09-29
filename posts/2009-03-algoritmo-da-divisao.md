@@ -10,8 +10,8 @@ tags:
   - euclides
   - Matemática
   - ufsc
-
 ---
+
 **Warning!** Isto não é ficção.
 
 Acabara de provar o Algoritmo da Divisão. Olhou pro quadro maravilhado. Contemplou o seu resultado por quase um minuto. Então, virou para os seus alunos. E disse:

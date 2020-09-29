@@ -18,8 +18,8 @@ tags:
   - revolução industrial
   - sociedade
   - Trabalho
-
 ---
+
 > _“Do suor do teu rosto comerás o teu pão, até que te tornes à terra; porque dela foste tomado; porquanto és pó e em pó te tornarás.”_ (Gênesis, 3:19)
 
 Quando você pensa no futuro, o que vem à sua mente? A não ser que você tenha sido criado em outro planeta ou em outros tempos, a sua resposta é: trabalho. É com trabalho que conseguimos dinheiro, pra poder descansar. É uma lógica tão estúpida que não sei como ainda funciona.
@@ -106,7 +106,7 @@ Qual é a solução? Um comunismo? Não sei, acho que não, mas também não ten
 
 ([Hakim Bay][4])
 
- [1]: http://pt.wikipedia.org/wiki/Chico_Buarque
- [2]: http://www.marxists.org/portugues/marx/1847/11/principios-comunismo-oe.htm
- [3]: /2006/12/a-necessidade-de-ter-dinheiro/
- [4]: http://pt.wikipedia.org/wiki/Hakim_Bey
+[1]: http://pt.wikipedia.org/wiki/Chico_Buarque
+[2]: http://www.marxists.org/portugues/marx/1847/11/principios-comunismo-oe.htm
+[3]: /2006/12/a-necessidade-de-ter-dinheiro/
+[4]: http://pt.wikipedia.org/wiki/Hakim_Bey

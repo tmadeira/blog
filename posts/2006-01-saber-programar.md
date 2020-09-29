@@ -11,11 +11,11 @@ tags:
   - lógica
   - Matemática
   - programação
-
 ---
+
 Este artigo pode ter ficado meio confuso… Acho que acabei me perdendo no meio… :S Deixe um comentário se quiser discutir. ;)
 
-* * *
+---
 
 **Lógica da Programação**
 
@@ -38,7 +38,7 @@ _Eu não gosto de quem mexe nas minhas coisas._ E _O meu irmão mexeu nas minhas
 
 ### Lógica Matemática
 
-Aí lembrei-me que da lógica matemática, algo que não aprendi formalmente, mas, bom… O Professor Vavá me mencionou no meio desse ano, num dos nossos encontros matemáticos. Ele, decepcionado, mencionou que estava ensinando _“lógica”_ para uma turma de sexta série e passou uma prova com a seguinte questão: <q>As duas afirmações a seguir são corretas: ‘Todo professor de matemática é bonito.’ e ‘O Fabiano é professor de matemática.’ Sabendo disso, o que podemos deduzir?</q> E aí tinham opções como: _O Fabiano é feio._, _O Fabiano é bonito_, entre várias outras coisas. Bom… Como é possível alguém errar uma questão dessas?* E, é claro, um monte de gente errou!
+Aí lembrei-me que da lógica matemática, algo que não aprendi formalmente, mas, bom… O Professor Vavá me mencionou no meio desse ano, num dos nossos encontros matemáticos. Ele, decepcionado, mencionou que estava ensinando _“lógica”_ para uma turma de sexta série e passou uma prova com a seguinte questão: <q>As duas afirmações a seguir são corretas: ‘Todo professor de matemática é bonito.’ e ‘O Fabiano é professor de matemática.’ Sabendo disso, o que podemos deduzir?</q> E aí tinham opções como: _O Fabiano é feio._, _O Fabiano é bonito_, entre várias outras coisas. Bom… Como é possível alguém errar uma questão dessas?\* E, é claro, um monte de gente errou!
 
 ### Condições Compostas
 
@@ -68,6 +68,5 @@ Concorda? Não concorda? Comente!
 
 \* Importante observar que o Professor Vavá nunca elogiaria o seu "Professor Rival"... Na verdade, ele colocou um aviso bem grande na questão: "Deduções lógicas podem às vezes estar erradas, como acontece, por exemplo, nesse caso." :)
 
- [1]: http://www.leandromatos.com.br
- [2]: http://www.leandromatos.com.br/pt/artigo.php?id=9
-
+[1]: http://www.leandromatos.com.br
+[2]: http://www.leandromatos.com.br/pt/artigo.php?id=9

@@ -17,8 +17,8 @@ tags:
   - rio
   - rio de janeiro
   - sociedade
-
 ---
+
 > “Aquilo é terrorismo, aquilo não é bandido comum. Pegar um ônibus, tocar fogo e ver pessoas morrendo, tem que ser tratado como terrorismo de Estado, porque é uma provocação ao Estado brasileiro. Não tem meio termo nisso. Não é um bandido comum, é uma ação preparada de desacato ao Estado brasileiro e, portanto, nós temos que tratar assim e enfrentar.”
 
 ![Força Nacional](/wp-content/uploads/2007/01/foto5505.jpg)
@@ -50,6 +50,6 @@ Minha mente esperançosa torce pra que esse plano dê certo. E que assim o Rio d
 
 ![E o Rio de Janeiro continua lindo...](/wp-content/uploads/2007/01/rio.jpg)
 
- [1]: http://pt.wikipedia.org/wiki/Partido_da_Social_Democracia_Brasileira
- [2]: http://pt.wikipedia.org/wiki/Comando_Vermelho
- [3]: http://pt.wikipedia.org/wiki/Tom_Jobim
+[1]: http://pt.wikipedia.org/wiki/Partido_da_Social_Democracia_Brasileira
+[2]: http://pt.wikipedia.org/wiki/Comando_Vermelho
+[3]: http://pt.wikipedia.org/wiki/Tom_Jobim

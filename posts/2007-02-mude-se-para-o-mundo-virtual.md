@@ -16,8 +16,8 @@ tags:
   - roubo
   - rua
   - violência
-
 ---
+
 ![Second Life](/wp-content/uploads/2007/02/sl.jpg)
 
 O meu irmão [foi assaltado ontem][1] lá em Campinas. Um dia depois daqueles [caras me abordarem aqui em Itajaí][2], um cara ameaçou espancá-lo porque ele não seguiu o [meu conselho][2]: não saia de casa. Ou saia em gangues e faça uma cara de mau pro assaltante pensar que vocês é que vão assaltá-lo.
@@ -30,9 +30,8 @@ Aí, quem sabe daqui a uns anos, esses moleques assaltantes de hoje vão ter sum
 
 Que situação ridícula. Sinto-me como se estivesse proclamando: _“Burgueses de todo mundo, uni-vos!”_
 
- [1]: http://blog.brunomadeira.com/vou-te-espancar-mano
- [2]: http://malvicioso.com/2007/02/20/nao-saia-de-casa/
- [3]: http://novo-mundo.org/log/
- [4]: /2007/02/20/nao-saia-de-casa/#comment-471
- [5]: http://www.secondlife.com/
-
+[1]: http://blog.brunomadeira.com/vou-te-espancar-mano
+[2]: http://malvicioso.com/2007/02/20/nao-saia-de-casa/
+[3]: http://novo-mundo.org/log/
+[4]: /2007/02/20/nao-saia-de-casa/#comment-471
+[5]: http://www.secondlife.com/

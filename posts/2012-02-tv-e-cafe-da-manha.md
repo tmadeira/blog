@@ -15,8 +15,8 @@ tags:
   - palo alto
   - redes sociais
   - twitter
-
 ---
+
 _(originalmente publicado no Facebook na manhã da quinta-feira 09/02 — horários em UTC-8 — estou copiando pra cá pra registrar)_
 
 7:32 — Passou uma propaganda de car title loan aqui na TV que pareceu muito aquela propaganda “Refinancie sua casa” do filme “Capitalismo: uma história de amor” do Michael Moore.
@@ -25,4 +25,4 @@ _(originalmente publicado no Facebook na manhã da quinta-feira 09/02 — horár
 
 7:50 — Rá! Descobri ([pela internet][1]) como abrir uma caixa de leite. Da próxima vez nem vou precisar de tesoura :)
 
- [1]: http://www.instructables.com/id/How-to-Open-a-Milk-Carton/step3/Start-opening/
+[1]: http://www.instructables.com/id/How-to-Open-a-Milk-Carton/step3/Start-opening/

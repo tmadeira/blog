@@ -12,8 +12,8 @@ tags:
   - Metablogagem
   - planos
   - vida
-
 ---
+
 Eu estou viciado [nesse mal][1]. Totalmente inspirado pra publicar nele, com dezenas de rascunhos e novas idéias no papel.
 
 Enquanto isso, não tenho idéias pra postar aqui. Entendam meu dilema:
@@ -32,10 +32,9 @@ Mas, se Alá quiser, amanhã aquela inspiração bate e eu publico algo bem lega
 
 Ahh.. E idéias são mais que bem-vindas.
 
- [1]: http://malvicioso.com/
- [2]: http://www.dreamhost.com/
- [3]: http://www.br-linux.org/
- [4]: http://olimpiada.ic.unicamp.br
- [5]: /wp-content/uploads/c/
- [6]: /tags/algoritmos/
-
+[1]: http://malvicioso.com/
+[2]: http://www.dreamhost.com/
+[3]: http://www.br-linux.org/
+[4]: http://olimpiada.ic.unicamp.br
+[5]: /wp-content/uploads/c/
+[6]: /tags/algoritmos/

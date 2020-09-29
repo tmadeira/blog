@@ -17,8 +17,8 @@ tags:
   - julian assange
   - política
   - wikileaks
-
 ---
+
 **O que começou como um meio de manter a liberdade individual pode agora ser usado por estados menores para afastar as ambições dos maiores.**
 
 <p style="text-align:right;">

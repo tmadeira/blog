@@ -10,8 +10,8 @@ tags:
   - mozilla
   - xml
   - xul
-
 ---
+
 Por influência da **Semana Azul**, acabei pesquisando e procurando aprender algo sobre XUL. Achei o máximo! Nas palestras, sinceramente, não consegui retirar muita informação útil, mesmo achando que os caras que deram as palestras eram muito bons. Foi mais uma explicação básica sobre conceitos não tão relacionados ao XUL. Na de quarta-feira, sobre Tableless, por exemplo, o Diego só passou o conceito. Bom… Penso que deve ser difícil fazer um evento desses dar certo, mas achei muito legal a idéia e a iniciativa. Acho que as próximas “Semanas azuis” serão cada vez melhores.
 
 Mas o importante disso tudo é que eu acabei conhecendo o XUL olhando o site da Semana Azul, do XUL:Brasil, entre outros links deles. E achei essa linguagem muito massa! É realmente uma forma bem legal de trabalhar com interfaces gráficas multi-plataforma e é uma linguagem bem simples (parece um XHTML).
@@ -34,6 +34,6 @@ O Internet Explorer 7 Beta 1 saiu! Mas eu não tô conseguindo baixar… Quem qu
 
 **[update]** Baixei e achei uma porcaria! Mas pelo menos dá pra navegar com abas, embora o recurso seja meio lagger (não é instantâneo como no Mozilla)… Não vou falar muito porque já falaram muita coisa sobre isso na internet! **[/update]**
 
- [1]: http://www.brunotorres.net
- [2]: http://www.tableless.com.br
- [3]: http://blogs.msdn.com/ie/
+[1]: http://www.brunotorres.net
+[2]: http://www.tableless.com.br
+[3]: http://blogs.msdn.com/ie/

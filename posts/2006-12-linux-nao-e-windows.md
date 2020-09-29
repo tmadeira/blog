@@ -13,8 +13,8 @@ tags:
   - Software Livre
   - unix
   - windows
-
 ---
+
 > Linux não está interessado em _market share_. Linux não tem clientes. Linux não tem acionistas, ou uma responsabilidade no rodapé. Linux não foi criado para fazer dinheiro. Linux não tem a meta de ser o sistema operacional mais popular e espalhado do planeta.
 >
 > O que toda a comunidade do Linux quer é criar um sistema operacional realmente bom, cheio de recursos e livre. Se isso resultar em Linux ser um sistema bem popular, então isso é ótimo. Se isso resultar em Linux ter a interface mais intuitiva e amigável já criada, então isso é ótimo. Se isso resultar em Linux se tornar a base de uma indústria multi-bilionária, então isso é ótimo.
@@ -53,7 +53,6 @@ Quero aproveitar o artigo para citar o excelente [Falcon Dark][3]:
 
 Tenho certeza que o Linux não decepcionará quem estiver disposto a perder um tempo pra aprender a dirigir. E para quem precisar de ajuda sempre haverá uma grande comunidade disposta a ajudar (eu inclusive). Vamos inovar! Vamos fazer o melhor sistema operacional do mundo, pra nós! _Usuários não-preguiçosos de todo mundo, uni-vos!_
 
- [1]: http://linux.oneandoneis2.org/LNW.htm
- [2]: /2006/12/dialogo-entre-programas/
- [3]: http://falcon-dark.blogspot.com/2006/02/filosofia-e-o-sistema.html
-
+[1]: http://linux.oneandoneis2.org/LNW.htm
+[2]: /2006/12/dialogo-entre-programas/
+[3]: http://falcon-dark.blogspot.com/2006/02/filosofia-e-o-sistema.html

@@ -14,8 +14,8 @@ tags:
   - gentoo
   - linux
   - nspluginwrapper
-
 ---
+
 Para rodar o plug-in do Flash num Gentoo a 64 bits, baixe o plug-in para 32 bits na [página da Adobe][1]. Descompacte o .tar.gz e na pasta onde você descompactou, escreva:
 
 ```
@@ -42,6 +42,5 @@ Se sua distribuição não for Gentoo, é só instalar o _nspluginwrapper_ de ou
 
 A dica foi do **Renato** e foi obtida no [Gentoo Wiki][2], que é muito útil; realmente uma grande vantagem de quem usa Gentoo.
 
- [1]: http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash
- [2]: http://gentoo-wiki.com/HOWTO_Flash_9_and_Firefox
-
+[1]: http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash
+[2]: http://gentoo-wiki.com/HOWTO_Flash_9_and_Firefox

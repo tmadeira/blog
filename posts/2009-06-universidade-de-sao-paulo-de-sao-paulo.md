@@ -4,7 +4,7 @@ type: post
 date: 2009-06-02T14:19:17+00:00
 url: /2009/06/universidade-de-sao-paulo-de-sao-paulo/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Pensamentos aleatórios
 tags:
@@ -13,8 +13,8 @@ tags:
   - universidade
   - usp
   - vestibular
-
 ---
+
 Eu gostaria de confirmar algo que percebia na USP. Após dois minutos de código…
 
 ```bash
@@ -35,13 +35,13 @@ done
 
 Das 106 pessoas que foram convocadas para a matrícula no Bacharelado em Ciência da Computação do IME-USP, temos, por estado:
 
-  * **São Paulo:** 100
-  * **Santa Catarina:** 1 (eu)
-  * **Pernambuco:** 1
-  * **Mato Grosso:** 1
-  * **Bahia:** 1
-  * **Minas Gerais:** 1
-  * **Distrito Federal:** 1
+- **São Paulo:** 100
+- **Santa Catarina:** 1 (eu)
+- **Pernambuco:** 1
+- **Mato Grosso:** 1
+- **Bahia:** 1
+- **Minas Gerais:** 1
+- **Distrito Federal:** 1
 
 ![Mapa do Brasil (crédito: thejourney1972/flickr)](https://farm4.static.flickr.com/3352/3474503026_2652267fd1.jpg)
 
@@ -52,4 +52,3 @@ O que nos leva rapidamente a concluir o porquê de as redondezas da USP não ter
 Além disso, são dados suficientes para eu entender por quê não havia _nenhum_ bar frequentado por estudantes aqui perto passando São Paulo e Cruzeiro…
 
 Enfim, os dados explicam muita coisa. Só não explicam por quê a FUVEST não faz provas nos outros estados… ou a USP gosta de só ter paulistas na graduação?
-

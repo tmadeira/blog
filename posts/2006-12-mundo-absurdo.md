@@ -14,8 +14,8 @@ tags:
   - história
   - religião
   - sociedade
-
 ---
+
 > Ver as estrelas? Quem se incomoda? Quem tem tempo? Quem sabe? Para ver é necessário saber… Aos poucos elas se vão do espaço, pela luz elétrica e pela fumaça. E o céu perdeu o encanto. Os deuses e anjos que lá moravam foram expulsos. O firmamento foi, assim, separado do nosso destino, a não ser para aqueles que ainda acreditam na astrologia… A ciência _desencantou_, tirou o encanto, a magia, a aura sagrada do universo.
 >
 > Que distância entre nós e Galileu! Galileu foi levado à Inquisição por afirmar que os astros estavam arrumados de uma forma diferente da tradicionalmente acreditada. E isso fez com que almas tremessem, lá no fundo, porque a ordem do céu estava ligada ao sentido da vida. Hoje, pouco importa como girem os astros, pouco importa que haja buracos negros no universo e que a luz siga caminhos curvos ou retos. As maravilhas e os enigmas do universo nada têm a ver com os caminhos do homem. O firmamento deixou de falar. Dele não mais vêm nem os sinais dos deuses, nem os sinais para os namorados. Tudo ficou frio.
@@ -42,6 +42,5 @@ Ainda do Rubem Alves:
 >
 > Anote isso: _é a ciência e não o senso comum que parece ser o mais absurdo._
 
- [1]: http://pt.wikipedia.org/wiki/Rubem_Alves
- [2]: /2006/12/maieutica/
-
+[1]: http://pt.wikipedia.org/wiki/Rubem_Alves
+[2]: /2006/12/maieutica/

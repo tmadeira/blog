@@ -1,5 +1,5 @@
 ---
-title: 'WordPress plugin: Admin Anti-forget Alarm'
+title: "WordPress plugin: Admin Anti-forget Alarm"
 type: post
 date: 2012-03-15T06:11:03+00:00
 url: /2012/03/admin-anti-forget-alarm/
@@ -14,8 +14,8 @@ tags:
   - scripts
   - Software Livre
   - wordpress
-
 ---
+
 I wrote a small WordPress plugin to prevent users from publishing a post without excerpt or thumbnail, or with a too big excerpt, or with a too small thumbnail, or with an uppercase-only title.
 
 ![Screenshot do plugin](/wp-content/uploads/2012/03/wordpress1.png)
@@ -36,6 +36,6 @@ I thought of not releasing the plugin (because it’s written in Portuguese and 
 
 **Download:** [antiforget.zip][3] _(this is pre-alpha: I provide no warranty!)_
 
- [1]: http://meyerweb.com/eric/thoughts/2008/06/10/wanted-excerpt-exacter/
- [2]: https://wordpress.org/extend/plugins/require-thumbnail/
- [3]: https://github.com/tmadeira/antiforget/zipball/master
+[1]: http://meyerweb.com/eric/thoughts/2008/06/10/wanted-excerpt-exacter/
+[2]: https://wordpress.org/extend/plugins/require-thumbnail/
+[3]: https://github.com/tmadeira/antiforget/zipball/master

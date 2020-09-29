@@ -16,15 +16,15 @@ tags:
   - stephen crocker
   - ucla
   - web
-
 ---
+
 Há exatos 43 anos foi escrito o primeiro RFC (Request for Comments), motivo pelo qual muitos comemoramos no dia 7 de abril o nascimento da Internet. Imagino que poucas pessoas já leram ou sabem o que são RFCs fora do meio nerd: em resumo, são simples documentos de texto com não mais de 80 caracteres de largura que regulamentam os protocolos usados na Internet e são fundamentais para o desenvolvimento dos programas que você usa diariamente, inclusive o que você está usando para abrir o meu blog (seja no seu computador, no seu celular, ou no seu [óculos][1]).
 
 Traduzi para o português (meio correndo e talvez porcamente; me corrijam se acharem alguma coisa muito errada) e recomendo a leitura do texto abaixo, escrito pelo cara que fez o primeiro RFC e publicado pelo [The New York Times][2] há três anos (para o aniversário de 40 anos da Internet). Além do valor histórico, acho que é um texto que tem muito a ver com o debate sobre as possibilidades que a internet do Wikileaks e do Mega Upload nos abre hoje e sobre os valores democráticos da rede, que têm sido duramente combatidos pelo conservadorismo do governo dos Estados Unidos e por iniciativas como a SOPA nos EUA e a Lei Azeredo no Brasil.
 
 > ### Como a Internet obteve suas regras
 >
-> _* Stephen Crocker_
+> _\* Stephen Crocker_
 >
 > Hoje é uma data importante na história da Internet: é o aniversário de 40 anos dos chamados RFCs (Request for Comments). Fora da comunidade técnica, poucos sabem o que são RFCs, mas esses simples documentos moldaram o funcionamento interno da Internet e têm desempenhado um papel significativo no seu sucesso.
 >
@@ -54,9 +54,8 @@ Traduzi para o português (meio correndo e talvez porcamente; me corrijam se ach
 >
 > Me lembrei do poder e da vitalidade dos RFCs quando eu fiz a minha primeira viagem para Bangalore, India, há 15 anos atrás. Fui convidado a dar uma palestra no Indian Institute of Science e durante a visita fui apresentado a um estudante que construiu um sistema de software bastante complexo. Impressionado, perguntei onde ele havia aprendido a fazer tudo aquilo. Ele respondeu simplesmente: “Eu baixei os RFCs e li.”
 >
-> _* Stephen D. Crocker escreveu o [primeiro RFC][3] há exatos 43 anos._
+> _\* Stephen D. Crocker escreveu o [primeiro RFC][3] há exatos 43 anos._
 
- [1]: https://www.youtube.com/watch?v=9c6W4CCU9M4
- [2]: https://www.nytimes.com/2009/04/07/opinion/07crocker.html
- [3]: https://tools.ietf.org/html/rfc1
-
+[1]: https://www.youtube.com/watch?v=9c6W4CCU9M4
+[2]: https://www.nytimes.com/2009/04/07/opinion/07crocker.html
+[3]: https://tools.ietf.org/html/rfc1

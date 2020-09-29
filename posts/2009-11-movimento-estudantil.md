@@ -12,8 +12,8 @@ tags:
   - rodas
   - serra
   - usp
-
 ---
+
 <p style="text-align:right; font-style:italic;">
   “Eu não tenho nada a ver com isso,<br /> Nem sequer nasci em Niterói.<br /> Não me chamo João<br /> E não tenho não<br /> Qualquer vocação pra ser herói.”
 </p>
@@ -104,11 +104,10 @@ while (você não estiver convencido) {
 }
 ```
 
- [1]: http://www.salesianoitajai.g12.br/
- [2]: http://www.redebrasilatual.com.br/temas/educacao/reitor-escolhido-por-serra-chega-ao-cargo-com-historico-de-repressao-policial/view
- [3]: http://democracianauspja.wordpress.com/2009/09/23/rodas-candidato-a-linha-dura-reaparece/
- [4]: http://democracianauspja.files.wordpress.com/2009/09/faculdadedireito.jpg
- [5]: http://feraneto.blog.uol.com.br/arch2008-03-02_2008-03-08.html
- [6]: http://transformartedioemmelodia.wordpress.com/2009/11/12/manifesto-da-chapa-para-transformar-o-tedio-em-melodia/
- [7]: http://twitter.com/tedioemmelodia
-
+[1]: http://www.salesianoitajai.g12.br/
+[2]: http://www.redebrasilatual.com.br/temas/educacao/reitor-escolhido-por-serra-chega-ao-cargo-com-historico-de-repressao-policial/view
+[3]: http://democracianauspja.wordpress.com/2009/09/23/rodas-candidato-a-linha-dura-reaparece/
+[4]: http://democracianauspja.files.wordpress.com/2009/09/faculdadedireito.jpg
+[5]: http://feraneto.blog.uol.com.br/arch2008-03-02_2008-03-08.html
+[6]: http://transformartedioemmelodia.wordpress.com/2009/11/12/manifesto-da-chapa-para-transformar-o-tedio-em-melodia/
+[7]: http://twitter.com/tedioemmelodia

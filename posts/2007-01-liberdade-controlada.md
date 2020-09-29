@@ -16,8 +16,8 @@ tags:
   - liberdade
   - sociedade
   - youtube
-
 ---
+
 ![Google e China](/wp-content/uploads/2007/01/googlechina.jpg)
 
 > Colocam na nossa cabeça que o nosso mundo é perfeito e que só em contos de fada existem pessoas más, dizem que só na China existe ditadura, dizem que aqui somos livres… Temos que abrir os olhos!
@@ -42,10 +42,9 @@ Só pode ser jogada de _marketing_ da modelo, como já [disse o Ataliba][6]. Ass
 
 Esse controle de acesso à internet é ridículo. A internet é o que é porque é livre. Achei que já havíamos passado dessa fase de ditadura, de censura, de controle… mas parece que ainda não. Não sei como a nossa justiça é capaz de bloquear o Youtube, não sei como várias empresas no mundo desenvolvem e implementam [DRM][7] e o pior de tudo: não sei como a gente vê tudo isso e permanece calado.
 
- [1]: http://novo-mundo.org/log/2007/01/06/brasiltelecom-acata-censura-no-video-da-cicarelli-mas-o-youtube-inteiro-sai-do-ar/
- [2]: http://www.youtube.com/
- [3]: http://www.contraditorium.com/2007/01/09/iraque-um-exemplo-para-o-brasil/
- [4]: http://video.google.com/videosearch?q=cicarelli
- [6]: http://www.ataliba.eti.br/?section=blog&op=view&idBlog=470
- [7]: /2006/10/defective-by-design/
-
+[1]: http://novo-mundo.org/log/2007/01/06/brasiltelecom-acata-censura-no-video-da-cicarelli-mas-o-youtube-inteiro-sai-do-ar/
+[2]: http://www.youtube.com/
+[3]: http://www.contraditorium.com/2007/01/09/iraque-um-exemplo-para-o-brasil/
+[4]: http://video.google.com/videosearch?q=cicarelli
+[6]: http://www.ataliba.eti.br/?section=blog&op=view&idBlog=470
+[7]: /2006/10/defective-by-design/

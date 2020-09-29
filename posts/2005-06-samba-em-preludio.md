@@ -11,8 +11,8 @@ tags:
   - exemplos
   - geshi
   - testes
-
 ---
+
 GeSHi Highlight funcionando! Página “oficial” de testes…
 
 ```c
@@ -58,9 +58,9 @@ echo "Sou chama sem luz..."
 
 ```css
 .jardim {
-   sem:luar;
-   luar:sem amor;
-   amor:sem se dar;
+  sem: luar;
+  luar: sem amor;
+  amor: sem se dar;
 }
 ```
 
@@ -91,4 +91,3 @@ response.write("Um campo sem flor.");
 ```
 
 E por aí vai… Heheh…
-

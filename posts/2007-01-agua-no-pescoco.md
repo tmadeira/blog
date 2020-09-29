@@ -17,8 +17,8 @@ tags:
   - onu
   - poluição
   - sociedade
-
 ---
+
 A [ONU dobra previsão de aumento de temperatura][1] e enquanto isso os sábios donos do mundo continuam não estando nem aí pro fim do mundo e continuam com a poluição e devastação em massa. E com os outros poderosos não é diferente.
 
 Achava-se que quando a água chegasse na bunda as pessoas começariam a cuidar do meio ambiente, mas a água já está quase no pescoço e nada. É uma ambição incontrolável! Não entendo o sentido disso tudo, a não ser o já conhecido efeito [Gollum][2].
@@ -29,7 +29,6 @@ Achava-se que quando a água chegasse na bunda as pessoas começariam a cuidar d
 
 ([Nietzsche][3])
 
- [1]: http://noticias.terra.com.br/ciencia/interna/0,,OI1374877-EI299,00.html
- [2]: /2007/01/gollum-gollum/
- [3]: http://pt.wikipedia.org/wiki/Nietzsche
-
+[1]: http://noticias.terra.com.br/ciencia/interna/0,,OI1374877-EI299,00.html
+[2]: /2007/01/gollum-gollum/
+[3]: http://pt.wikipedia.org/wiki/Nietzsche

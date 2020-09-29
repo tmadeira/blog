@@ -11,13 +11,13 @@ tags:
   - liberdade de expressão
   - pseudonimato
   - pseudônimos
-
 ---
+
 **Tradução por [Tiago Madeira][1] do artigo [A case for pseudonyms][2] (29/jul/2011), escrito pela [Jillian York][3] ([Electronic Frontier Foundation][4]).**
 
 **pseu·dô·ni·mo**
 
-    — substantivo _nome fictício usado por um autor para ocultar sua identidade_
+— substantivo _nome fictício usado por um autor para ocultar sua identidade_
 
 Existem inúmeras razões pelas as quais os indivíduos podem desejar usar um nome diferente daquele com o qual nasceram. Eles podem estar preocupados com ameaças às suas vidas, empregos ou com retaliações políticas ou econômicas. Eles podem querer evitar discriminação ou podem preferir usarem um nome que é mais fácil de pronunciar ou de soletrar em determinada cultura.
 
@@ -51,16 +51,15 @@ No entanto, políticas que requerem nomes “reais” são quase impossíveis de
 
 É direito das empresas — Google, Facebook ou outra qualquer — criar políticas como acharem melhor para seus serviços. Mas é uma visão curta dessas empresas sugerir que uma política de “nomes reais” cria maior potencial para a civilidade, quando elas a fazem às custas da diversidade e da liberdade de expressão. De fato, esse giro para a elaboração de políticas que requerem nomes “reais” vai ter um efeito inibidor sobre a liberdade de expressão online.
 
- [1]: /2011/08/em-defesa-dos-pseudonimos/
- [2]: https://www.eff.org/deeplinks/2011/07/case-pseudonyms
- [3]: https://www.eff.org/about/staff/jillian
- [4]: https://www.eff.org/
- [5]: http://www.google.com/support/accounts/bin/answer.py?answer=107107
- [6]: http://infotrope.net/2011/07/25/preliminary-results-of-my-survey-of-suspended-google-accounts/
- [7]: https://www.facebook.com/ElShaheeed
- [8]: https://secure.wikimedia.org/wikipedia/en/wiki/Death_of_Khaled_Mohamed_Saeed
- [9]: http://www.thedailybeast.com/articles/2011/02/24/middle-east-uprising-facebooks-back-channel-diplomacy.html
- [10]: http://geekfeminism.wikia.com/wiki/Who_is_harmed_by_a_%22Real_Names%22_policy%3F
- [11]: http://www.cpj.org/internet/2011/03/michael-antis-exile-from-facebook-over-real-name-p.php
- [12]: https://plus.google.com/113116318008017777871/posts/VJoZMS8zVqU
-
+[1]: /2011/08/em-defesa-dos-pseudonimos/
+[2]: https://www.eff.org/deeplinks/2011/07/case-pseudonyms
+[3]: https://www.eff.org/about/staff/jillian
+[4]: https://www.eff.org/
+[5]: http://www.google.com/support/accounts/bin/answer.py?answer=107107
+[6]: http://infotrope.net/2011/07/25/preliminary-results-of-my-survey-of-suspended-google-accounts/
+[7]: https://www.facebook.com/ElShaheeed
+[8]: https://secure.wikimedia.org/wikipedia/en/wiki/Death_of_Khaled_Mohamed_Saeed
+[9]: http://www.thedailybeast.com/articles/2011/02/24/middle-east-uprising-facebooks-back-channel-diplomacy.html
+[10]: http://geekfeminism.wikia.com/wiki/Who_is_harmed_by_a_%22Real_Names%22_policy%3F
+[11]: http://www.cpj.org/internet/2011/03/michael-antis-exile-from-facebook-over-real-name-p.php
+[12]: https://plus.google.com/113116318008017777871/posts/VJoZMS8zVqU

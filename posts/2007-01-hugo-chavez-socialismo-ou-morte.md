@@ -1,5 +1,5 @@
 ---
-title: 'Hugo Chávez: socialismo ou morte'
+title: "Hugo Chávez: socialismo ou morte"
 type: post
 date: 2007-01-10T23:32:19+00:00
 url: /2007/01/hugo-chavez-socialismo-ou-morte/
@@ -20,8 +20,8 @@ tags:
   - sociedade
   - solidariedade
   - venezuela
-
 ---
+
 ![Hugo Chávez: Pátria, socialismo ou morte, eu juro!](/wp-content/uploads/2007/01/442167-1648-cp.jpg)
 
 > Ao longo do discurso, ele deu alguns exemplos do que deve entender-se por socialismo do século XXI, quando indicou que é um sistema baseado nos princípios básicos do cristianismo, as idéias pré-socialistas de Simón Bolívar e a doutrina básica de Karl Marx.
@@ -44,7 +44,6 @@ Hugo Chávez mostrou que vai mudar a Venezuela. Se suas mudanças são boas ou r
 
 Ah… E Jesus Cristo? O cristianismo merecia um _post_ especial! Bom… O [Ibrahim já falou sobre isso][3]. Gente extremamente contraditória… Jesus foi um cara cheio de idéias socialistas. O papa deve estar de cabelo em pé lá na sua mansão milionária no Vaticano ao ouvir tais palavras, mas é a mais pura verdade. Embora os cristãos sejam ricos, conservadores e capitalistas; os ensinamentos cristãos são socialistas; são de humildade, solidariedade e igualdade.
 
- [1]: http://pt.wikipedia.org/wiki/Jesus_Cristo
- [2]: http://pt.wikipedia.org/wiki/Fidel_Castro
- [3]: http://1001gatos.org/5/
-
+[1]: http://pt.wikipedia.org/wiki/Jesus_Cristo
+[2]: http://pt.wikipedia.org/wiki/Fidel_Castro
+[3]: http://1001gatos.org/5/

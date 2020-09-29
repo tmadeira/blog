@@ -16,11 +16,11 @@ tags:
   - piter punk
   - slackware
   - udev
-
 ---
+
 Participei nos dias 8 e 9 do [IV Encontro Nacional Linuxchix Brasil][1] em Florianópolis. O evento teve umas palestras interessantes, entre as quais destaco as do pessoal do [FreeBSD][2], a do [Luiz Fernando Capitulino][3] sobre o desenvolvimento do Kernel, a do [Hélio Castro][4] sobre interfaces gráficas 3D, mas em especial a do [Piter PUNK][5] sobre o [udev][6] (talvez porque eu sou um usuário [Slackware][7] =). E é sobre o **udev** que eu resolvi falar nesse artigo…
 
-* * *
+---
 
 Tenho até vergonha de dizer que até semana passada eu não tinha percebido que o **hotplug** não estava mais sendo inicializado no meu [Slackware][7]… Só depois da palestra que aprendi que o [Kernel][8] 2.6 acaba com a necessidade do **hotplug** substituindo por um novo e poderoso aplicativo chamado **udev**. Isso é uma mudança e tanto, que traz alguns prós e contras (na verdade, eu só vi prós).
 
@@ -44,12 +44,12 @@ O **udev** possue um diretório de regras (_/etc/udev/rules.d_) onde adicionamos
 
 Hmmm… Isso depende muito da sua necessidade, mas deixe-me citar algumas possibilidades das regras do **udev**:
 
-  * **Dar nome aos dispositivos** – Pra que uma pasta /dev cheia de nomes difíceis que você não entende? Com o **udev**, você pode chamar seu **sda1** de **pendrive** ou o seu **hdc** de **cdrom**.
-  * **Dar nomes diferentes para dispositivos _iguais_** – Hoje em dia vivemos pluggando _pendrives_, _máquinas digitais_, _MP3 players_, etc. em nossas placas USB. Com o **udev**, podemos fazer com que a nossa _máquina_ da Canon chame-se _/dev/canon_, a nossa _máquina_ da Sony chame-se _/dev/sony_, o _pendrive_ da mamãe chame-se _/dev/mamae_ e o nosso _MP3 Player_ chame-se _/dev/mp3player_.
-  * **Adicionar links simbólicos aos dispositivos** – Podemos fazer nosso CD-ROM ter vários links como _cdrom, dvd, cdrw, cdwriter_…
-  * **Mudar permissões dos dispositivos** – Podemos fazer com que o _pendrive_ da mamãe possa, logo que for pluggado em qualquer porta USB, ser acessado por ela (e somente por ela).
-  * **Executar comandos quando ocorrem alterações nos dispositivos** – Sempre que a mamãe colocar o seu _pendrive_ numa porta USB podemos montá-lo para ela e já abrir o dispositivo no [Konqueror][9] e quando ela pluggar a sua máquina digital da Canon podemos mudar suas permissões, linká-la para /dev/camera e abrir o [digiKam][10].
-  * … entre provavelmente muitas outras coisas que eu não me lembro ou não sei fazer (eu só conheço o **udev** há quatro dias!)
+- **Dar nome aos dispositivos** – Pra que uma pasta /dev cheia de nomes difíceis que você não entende? Com o **udev**, você pode chamar seu **sda1** de **pendrive** ou o seu **hdc** de **cdrom**.
+- **Dar nomes diferentes para dispositivos _iguais_** – Hoje em dia vivemos pluggando _pendrives_, _máquinas digitais_, _MP3 players_, etc. em nossas placas USB. Com o **udev**, podemos fazer com que a nossa _máquina_ da Canon chame-se _/dev/canon_, a nossa _máquina_ da Sony chame-se _/dev/sony_, o _pendrive_ da mamãe chame-se _/dev/mamae_ e o nosso _MP3 Player_ chame-se _/dev/mp3player_.
+- **Adicionar links simbólicos aos dispositivos** – Podemos fazer nosso CD-ROM ter vários links como _cdrom, dvd, cdrw, cdwriter_…
+- **Mudar permissões dos dispositivos** – Podemos fazer com que o _pendrive_ da mamãe possa, logo que for pluggado em qualquer porta USB, ser acessado por ela (e somente por ela).
+- **Executar comandos quando ocorrem alterações nos dispositivos** – Sempre que a mamãe colocar o seu _pendrive_ numa porta USB podemos montá-lo para ela e já abrir o dispositivo no [Konqueror][9] e quando ela pluggar a sua máquina digital da Canon podemos mudar suas permissões, linká-la para /dev/camera e abrir o [digiKam][10].
+- … entre provavelmente muitas outras coisas que eu não me lembro ou não sei fazer (eu só conheço o **udev** há quatro dias!)
 
 Claro que o _udev_ pode ser útil para servidores também, para trocar hardware ou reiniciar o computador com segurança (ex.: você pode dizer que o HD principal seja sempre /dev/principal e assim mesmo que ele passe a ser o seu **Second Slave** ele funciona), mas estou focando mais o uso doméstico. A “mamãe” é um usuário leigo que não precisa saber montar dispositivos ou qual o nome do programa que baixa as fotos da máquina. Ela simplesmente plugga a sua máquina e o digiKam abre.
 
@@ -76,20 +76,20 @@ export DISPLAY=":0"
 
 ##### Sinais do exemplo
 
-  * Os dois iguais (==) são para expressar condição, como no C (e em um monte de linguagens derivadas dele).
-  * O “=” atribui
-  * O “+=” atribui “mais uma coisa” (_append_)
-  * O “:=” atribui uma coisa como constante (ou seja, neste caso eu ou os scripts de regras da minha distro não conseguem mais mudar o valor do “RUN”).
+- Os dois iguais (==) são para expressar condição, como no C (e em um monte de linguagens derivadas dele).
+- O “=” atribui
+- O “+=” atribui “mais uma coisa” (_append_)
+- O “:=” atribui uma coisa como constante (ou seja, neste caso eu ou os scripts de regras da minha distro não conseguem mais mudar o valor do “RUN”).
 
 ##### Variáveis do exemplo
 
-  * **ACTION**: A ação que está sendo feita com o dispositivo (neste caso é a adição dele – _add_)
-  * **BUS**: Barramento. Neste caso, a USB.
-  * **SYSFS**: Variáveis específicas deste dispositivo (depois vou mostrar como encontramos elas)
-  * **GROUP**: Grupo em que o dispositivo está.
-  * **MODE**: Permissões do dispositivo.
-  * **SYMLINK**: Links simbólicos para o dispositivo.
-  * **RUN**: Comando Shell para executar.
+- **ACTION**: A ação que está sendo feita com o dispositivo (neste caso é a adição dele – _add_)
+- **BUS**: Barramento. Neste caso, a USB.
+- **SYSFS**: Variáveis específicas deste dispositivo (depois vou mostrar como encontramos elas)
+- **GROUP**: Grupo em que o dispositivo está.
+- **MODE**: Permissões do dispositivo.
+- **SYMLINK**: Links simbólicos para o dispositivo.
+- **RUN**: Comando Shell para executar.
 
 Não conheço todas as variáveis, mas para saber mais você pode consultar o [Writing udev rules][11] (o objetivo desse post não é entrar em detalhes).
 
@@ -229,16 +229,15 @@ $ man udev
 
 … e a [página do udev][12]
 
- [1]: http://www.linuxchix.org.br/?q=node/71
- [2]: http://www.fug.com.br
- [3]: http://www.linuxchix.org.br/?q=programacao#kernel
- [4]: http://www.linuxchix.org.br/?q=programacao#kde
- [5]: http://www.piterpunk.info02.com.br
- [6]: http://www.linuxchix.org.br/?q=programacao#udev
- [7]: http://www.slackware.com
- [8]: http://www.kernel.org
- [9]: http://konqueror.kde.org
- [10]: http://www.digikam.org
- [11]: http://www.reactivated.net/writing_udev_rules.html
- [12]: http://www.kernel.org/pub/linux/utils/kernel/hotplug/udev.html
-
+[1]: http://www.linuxchix.org.br/?q=node/71
+[2]: http://www.fug.com.br
+[3]: http://www.linuxchix.org.br/?q=programacao#kernel
+[4]: http://www.linuxchix.org.br/?q=programacao#kde
+[5]: http://www.piterpunk.info02.com.br
+[6]: http://www.linuxchix.org.br/?q=programacao#udev
+[7]: http://www.slackware.com
+[8]: http://www.kernel.org
+[9]: http://konqueror.kde.org
+[10]: http://www.digikam.org
+[11]: http://www.reactivated.net/writing_udev_rules.html
+[12]: http://www.kernel.org/pub/linux/utils/kernel/hotplug/udev.html

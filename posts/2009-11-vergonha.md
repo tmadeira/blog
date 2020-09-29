@@ -13,8 +13,8 @@ tags:
   - ime
   - usp
   - vergonha
-
 ---
+
 O disciplina é “Princípios de Desenvolvimento de Algoritmos” e ela está sendo ministrada neste semestre pelo [Prof. Dr. Carlos Eduardo Ferreira][1], participante do grupo de otimização combinatória, diretor nacional da [Maratona de Programação][2] e orientador da minha iniciação científica.
 
 A turma é do [Bacharelado em Ciência da Computação][3] no IME-USP.
@@ -25,8 +25,7 @@ Acabei de receber a seguinte mensagem de um dos monitores:
 
 Preciso dizer mais alguma coisa?
 
- [1]: http://www.ime.usp.br/~cef/
- [2]: http://maratona.ime.usp.br/
- [3]: /2009/03/bacharelado-em-ciencia-da-computacao/
- [4]: http://twitpic.com/qrs7g
-
+[1]: http://www.ime.usp.br/~cef/
+[2]: http://maratona.ime.usp.br/
+[3]: /2009/03/bacharelado-em-ciencia-da-computacao/
+[4]: http://twitpic.com/qrs7g

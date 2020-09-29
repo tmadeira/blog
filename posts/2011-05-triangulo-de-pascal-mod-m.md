@@ -12,8 +12,8 @@ tags:
   - mod
   - programação
   - triângulo de pascal
-
 ---
+
 _Este post possui intencionalmente apenas imagens e códigos._
 
 ![Uso do programa que gera triângulo de Pascal mod m](/wp-content/uploads/2011/05/screenshot.png)
@@ -238,4 +238,3 @@ int main(int argc, char **argv) {
 ```
 
 <a href='/wp-content/uploads/2011/05/pascal.c' title='Program written in C for generating colored Pascal Triangles mod M'>(Download -- 5kb)</a>
-

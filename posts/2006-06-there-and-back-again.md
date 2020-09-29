@@ -18,8 +18,8 @@ tags:
   - programming challenges
   - provas
   - resultado
-
 ---
+
 Eu até tentei escrever um artigo por dia na semana passada, durante o curso da [seletiva brasileira][1] para a [Olimpíada Internacional de Informática][2], mas não deu tempo… Então aqui vai um resumo feito uma semana depois do final do curso, separado em tópicos, com o título pouco criativo _“There and back again…”_
 
 ### Nível mais alto
@@ -76,25 +76,24 @@ O legal é que esse curso sempre dá vontade de estudar, além de ensinar bastan
 
 #### Objetivos
 
-  * Medalha de ouro na [Olimpíada Brasileira de Informática][3] do ano que vem.
-  * Visitar a **Croácia** representando o Brasil na [Olimpíada Internacional de Informática][12] do ano que vem.
-  * Vencer a [Olimpíada Regional de Matemática][13] (não dá pra ficar sem nenhuma medalha nesse ano, né?)
+- Medalha de ouro na [Olimpíada Brasileira de Informática][3] do ano que vem.
+- Visitar a **Croácia** representando o Brasil na [Olimpíada Internacional de Informática][12] do ano que vem.
+- Vencer a [Olimpíada Regional de Matemática][13] (não dá pra ficar sem nenhuma medalha nesse ano, né?)
 
 #### Metas
 
-  * Comprar e ler **Programming Challenges**.
-  * Estudar **programação dinâmica**. Conhecer os algoritmos mais comuns.
-  * Estudar **fluxos em rede** e **ordenação topológica**.
-  * Estudar **matemática**, inclusive recorrências e geometria (que não ajudam só para olimpíada de matemática, mas pras olimpíadas de informática também)
+- Comprar e ler **Programming Challenges**.
+- Estudar **programação dinâmica**. Conhecer os algoritmos mais comuns.
+- Estudar **fluxos em rede** e **ordenação topológica**.
+- Estudar **matemática**, inclusive recorrências e geometria (que não ajudam só para olimpíada de matemática, mas pras olimpíadas de informática também)
 
- [1]: http://olimpiada.ic.unicamp.br/
- [2]: http://www.ioi2006.org/
- [3]: http://olimpiada.ic.unicamp.br
- [4]: http://acm.uva.es/p/
- [5]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_d3.pdf
- [6]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_d1.pdf
- [8]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_d2.pdf
- [10]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_final.pdf
- [12]: http://olympiads.win.tue.nl/ioi/
- [13]: http://orm.mtm.ufsc.br
-
+[1]: http://olimpiada.ic.unicamp.br/
+[2]: http://www.ioi2006.org/
+[3]: http://olimpiada.ic.unicamp.br
+[4]: http://acm.uva.es/p/
+[5]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_d3.pdf
+[6]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_d1.pdf
+[8]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_d2.pdf
+[10]: http://olimpiada.ic.unicamp.br/seletivaIOI/pdf/provas/ProvaOBI2006_sele_final.pdf
+[12]: http://olympiads.win.tue.nl/ioi/
+[13]: http://orm.mtm.ufsc.br

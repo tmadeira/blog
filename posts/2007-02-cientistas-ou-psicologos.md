@@ -14,13 +14,12 @@ tags:
   - mentira
   - psicólogos
   - universidade
-
 ---
+
 > Cientistas da Universidade de Cornell, nos Estados Unidos, disseram ser capazes de identificar uma mentira contada por e-mail. Analisando cinco características comuns a textos falaciosos, eles identificaram ‘pistas’ que usuários cometem ao tentar passar adiante suas lorotas no texto escrito.
 
 [[fonte]][1]
 
 Uau! Isso é incrível!
 
- [1]: http://tecnologia.terra.com.br/interna/0,,OI1437660-EI4802,00.html
-
+[1]: http://tecnologia.terra.com.br/interna/0,,OI1437660-EI4802,00.html

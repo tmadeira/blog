@@ -15,8 +15,8 @@ tags:
   - filosofia
   - futuro
   - sociedade
-
 ---
+
 ![Sala de aula](/wp-content/uploads/2007/06/salaaula.jpg)
 
 > “Educai as crianças e não será necessário punir os homens.” (Pitágoras)
@@ -35,13 +35,12 @@ Seriam eles inferiores? Creio que essa mentalidade está presente na construçã
 
 Mas refletindo somente sobre a pergunta da Caroline individualmente e de maneira muito egoísta, resolvi que a melhor maneira de **eu** aproveitar as duas horas e meia semanais de história que temos (três aulas de cinqüenta minutos) é:
 
-  1. **Segunda-feira:** discussão cultural-filosófica do conteúdo que todos pesquisaram e estudaram final de semana.
-  2. **Terça-feira:** prova sobre o conteúdo que todos estudaram no final de semana e discutiram segunda-feira.
-  3. **Quarta-feira, quinta-feira:** não tem aula de história. A professora corrige a prova.
-  4. **Sexta-feira:** a professora entrega da prova, há uma socialização dos resultados e uma discussão para fechar o conteúdo. Tarefa para segunda-feira: pesquisar sobre um novo conteúdo (professora sugere um tema).
-  5. **Sábado, domingo:** Alunos pesquisam e aprendem sobre o tema que a professora passou.
+1. **Segunda-feira:** discussão cultural-filosófica do conteúdo que todos pesquisaram e estudaram final de semana.
+2. **Terça-feira:** prova sobre o conteúdo que todos estudaram no final de semana e discutiram segunda-feira.
+3. **Quarta-feira, quinta-feira:** não tem aula de história. A professora corrige a prova.
+4. **Sexta-feira:** a professora entrega da prova, há uma socialização dos resultados e uma discussão para fechar o conteúdo. Tarefa para segunda-feira: pesquisar sobre um novo conteúdo (professora sugere um tema).
+5. **Sábado, domingo:** Alunos pesquisam e aprendem sobre o tema que a professora passou.
 
 Já sobre a escola como um todo, sua obrigatoriedade, sua divisão por matérias e por idade, etc. é preciso um outro post, muito maior. Assim que Éris me inspirar escreverei sobre isto.
 
- [1]: http://inocentandopandora.blogspot.com/
-
+[1]: http://inocentandopandora.blogspot.com/

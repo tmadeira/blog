@@ -14,16 +14,16 @@ tags:
   - ime
   - usp
   - vestibular
-
 ---
+
 Resolvi fazer Ciência da Computação há muito tempo. Faz tanto tempo que eu não lembro quando foi, mas acho que eu tinha uns oito anos. Minha única certeza é que eu não fazia ideia do que era o curso (mas isso não importa — hoje acho que escolhi estudar uma das coisas mais legais que existem).
 
 O tempo passou e cogitei fazer outras faculdades, mas nunca seriamente. Começou o 3º ano do Ensino Médio e comparei os currículos de <acronym title="Universidade Federal de Santa Catarina">UFSC</acronym>, <acronym title="Universidade Estadual de Campinas">UNICAMP</acronym>, <acronym title="Instituto de Ciências Matemáticas e Computação da Universidade de São Paulo">ICMC-USP</acronym> e <acronym title="Instituto de Matemática e Estatística da Universidade de São Paulo">IME-USP</acronym> pra decidir que curso escolher. Ordenei-os (por motivos teóricos) da seguinte forma:
 
-  1. IME-USP
-  2. ICMC-USP
-  3. IC-UNICAMP (engenharia)
-  4. UFSC
+1. IME-USP
+2. ICMC-USP
+3. IC-UNICAMP (engenharia)
+4. UFSC
 
 Desde lá minha meta foi entrar no lugar onde hoje, felizmente, estou. Mas não foi fácil.
 
@@ -54,14 +54,14 @@ for (int pos = 0; tem_vagas_sobrando() && pos < n; pos++) {
 
 São os institutos que decidem em que carreira seus cursos vão entrar e o negócio fica uma bagunça. A maioria das carreiras têm cursos iguais com diferença apenas de período (diurno e noturno), mas há carreiras de institutos inteiros (a FEA, por exemplo, tem apenas uma carreira onde coloca Economia [diurno e noturno], Administração [diurno e noturno], Ciências contábeis [diurno e noturno] e Bacharelado em Ciências Atuariais), de cursos iguais em diferentes campi (na carreira de Direito, por exemplo, o candidato pode escolher entre o Largo São Francisco e Ribeirão Preto) e, por fim, carreiras como a minha: **Engenharia na Escola Politécnica e Computação**, que oferece (versão Fuvest 2010):
 
-  * Engenharia Civil e Engenharia Ambiental (poli)
-  * Engenharia Elétrica (ênfases: Automação e controle, energia e automação elétricas, sistemas eletrônicos, telecomunicações) (poli)
-  * Engenharia Mecânica e Engenharia Naval (poli)
-  * Engenharia Química, Engenharia Metalúrgica, Engenharia de Materiais, Engenharia de Minas e Engenharia de Petróleo (poli)
-  * Engenharia de Computação e Engenharia Elétrica (ênfase Computação) (poli)
-  * Engenharia Mecânica - Automação e Sistemas (Mecatrônica) (poli)
-  * Engenharia de Produção (poli)
-  * **Bacharelado em Ciência da Computação (IME!)**
+- Engenharia Civil e Engenharia Ambiental (poli)
+- Engenharia Elétrica (ênfases: Automação e controle, energia e automação elétricas, sistemas eletrônicos, telecomunicações) (poli)
+- Engenharia Mecânica e Engenharia Naval (poli)
+- Engenharia Química, Engenharia Metalúrgica, Engenharia de Materiais, Engenharia de Minas e Engenharia de Petróleo (poli)
+- Engenharia de Computação e Engenharia Elétrica (ênfase Computação) (poli)
+- Engenharia Mecânica - Automação e Sistemas (Mecatrônica) (poli)
+- Engenharia de Produção (poli)
+- **Bacharelado em Ciência da Computação (IME!)**
 
 Reza a lenda que essa era uma carreira que tinha todos os cursos que classificam como Exatas (uma classificação ridícula, na minha opinião) e todos eles foram saindo, até que no meu ano sobraram só as engenharias da Poli e o BCC.
 
@@ -81,6 +81,5 @@ Será criada nesse ano na Fuvest uma carreira chamada _“Bacharelado em Ciênci
 
 A decisão é fantástica e será fundamental pra vida de diversos futuros estudantes desta faculdade. Já estou ansioso pelo ano que vem...
 
- [1]: http://principiadiscordia.com/book/23.php
- [2]: http://www.youtube.com/watch?v=M_bvT-DGcWw
-
+[1]: http://principiadiscordia.com/book/23.php
+[2]: http://www.youtube.com/watch?v=M_bvT-DGcWw

@@ -17,8 +17,8 @@ tags:
   - religião
   - teatro
   - terrorismo
-
 ---
+
 ![Religion is the root cause of all terrorism](/wp-content/uploads/2007/05/517692-8552-it2.jpg)
 
 > Os manifestantes acreditam que o museu trata a religião de uma forma extremista. Eles reclamam ainda que o local nega a ciência, pois classifica as histórias da Bíblia como uma verdade absoluta.
@@ -30,4 +30,3 @@ tags:
 <small><a href="http://noticias.terra.com.br/ciencia/interna/0,,OI1649068-EI238,00.html">Notícia completa no Terra.</a></small>
 
 Eu gostaria de saber se por acaso eu sou o único anti-religioso que acho os manifestantes idiotas ou se vocês concordam comigo. Afinal, há algum problema de criar representações de um livro? Isso me lembra aqueles indivíduos que criticam **O Código da Vinci** por ser uma história inventada. Em algum ponto na história do mundo foi errado criar obras de ficção? Adorarei ler o seu comentário.
-

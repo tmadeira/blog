@@ -4,7 +4,7 @@ type: post
 date: 2009-04-08T00:05:52+00:00
 url: /2009/04/o-dia-em-que-passei-na-usp/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Cotidiano
 tags:
@@ -17,8 +17,8 @@ tags:
   - usp
   - vestibular
   - viagem
-
 ---
+
 Agora faz quase um mês. Do nada me veio na cabeça e lembrei que preciso registrar. Era 11 de março, quarta-feira. Floripa estava extremamente ensolarada e andar na rua me fazia suar.
 
 O dia corria normalmente. Acordei cedo e fui para a <acronym title="Universidade Federal de Santa Catarina">UFSC</acronym>, porque estava dando aulas de preparação para a <acronym title="Olimpíada Brasileira de Informática">OBI</acronym> para os calouros todos os dias. Estava com muito sono, porque na terça dois amigos tinham vindo à minha casa comer um bife e acabei indo dormir tarde. Não lembro ao certo o que ensinei para os calouros, mas ainda estava no básico de C. Se eu não me engano, foi vetores.
@@ -57,7 +57,6 @@ No dia seguinte acordei cedo novamente e, após mais uma aula para calouros e a 
 
 ![São Paulo - Consolação (crédito: Jefferson Breves/flickr)](https://farm4.static.flickr.com/3331/3417439301_a9e9182374.jpg)
 
- [1]: http://www.fuvest.br/
- [3]: http://www.fuvest.br/vest2009/chamada4/62389409.stm
- [4]: http://maratona.ime.usp.br/resultados08/
-
+[1]: http://www.fuvest.br/
+[3]: http://www.fuvest.br/vest2009/chamada4/62389409.stm
+[4]: http://maratona.ime.usp.br/resultados08/

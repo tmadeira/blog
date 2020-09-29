@@ -13,8 +13,8 @@ tags:
   - programação
   - programação orientada a objetos
   - swing
-
 ---
+
 Nesse final de semana, comecei a estudar **Programação Orientada a Objetos**. Eu nunca tinha experimentado essa maneira de programar e venho gostando bastante. :)
 
 No início, fiz alguma coisa em C++; Depois mudei todo o sistema do meu blog para usar classes (ou “bibliotecas”, como o **hlegius** prefere, não sei porquê…) e agora então, por sugestão do **Zé**, comecei a aprender Java.
@@ -23,10 +23,10 @@ Acho que é uma excelente maneira de me aprofundar na orientação a objetos. De
 
 Pelo pouco que programei até agora (comecei hoje), percebi quatro vantagens legais que o C não tinha:
 
-  1. Declaração de variáveis em qualquer lugar do documento. <small>O C++, o PHP e várias outras linguagens permitem isso também…</small>
-  2. Multi-plataforma. Linux, Windows, Mac, Solaris… O mesmo código roda em tudo! :) <small>C também roda em tudo, mas não exatamente da mesma maneira como o Java</small>
-  3. Desenvolvimento para web via applets.
-  4. Parece muito fácil criar interfaces gráficas. <small>Não sei se é mesmo, mas parece.</small>
+1. Declaração de variáveis em qualquer lugar do documento. <small>O C++, o PHP e várias outras linguagens permitem isso também…</small>
+2. Multi-plataforma. Linux, Windows, Mac, Solaris… O mesmo código roda em tudo! :) <small>C também roda em tudo, mas não exatamente da mesma maneira como o Java</small>
+3. Desenvolvimento para web via applets.
+4. Parece muito fácil criar interfaces gráficas. <small>Não sei se é mesmo, mas parece.</small>
 
 Bom… Não entendi direito o negócio de **plataforma** Java, pra ser sincero… Mas ainda tô iniciando aí nesse mundo do Java e da POO. :)
 

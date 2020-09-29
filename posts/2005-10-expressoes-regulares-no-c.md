@@ -11,8 +11,8 @@ tags:
   - expressões regulares
   - funções zz
   - regex
-
 ---
+
 Sem querer, visitando a página do cara que desenvolve as [Funções ZZ][1] com o [Aurélio][2], o Thobias, acabei descobrindo que o C possue uma biblioteca para expressões regulares! Não sei porquê, mas sempre pensei que o C não tivesse esse suporte e nunca parei pra investigar…
 
 Agora descobri que o C tem uma biblioteca chamada **regex.h** com quatro funções simples para ERs:
@@ -32,7 +32,6 @@ E já que falei sobre ERs e Funções ZZ, vou por último falar de um patch que 
 
 Hmmm… Eu resolvi começar a floodar mais aqui no blog, isso é, usar a idéia de assuntos diferentes em posts diferentes… Espero que ninguém que recebe e-mails sempre que eu publico uma coisa nova se estresse muito; mas se tiver chato eu dou um jeito de fazer um cron (meu novo servidor tem suporte a cronjobs! E já que eu nunca usei, seria muito legal aprender…) ;)
 
- [1]: http://funcoeszz.net
- [2]: http://aurelio.net
- [3]: http://www.thobias.org/doc/er_c.html
-
+[1]: http://funcoeszz.net
+[2]: http://aurelio.net
+[3]: http://www.thobias.org/doc/er_c.html

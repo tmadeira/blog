@@ -4,7 +4,7 @@ type: post
 date: 2009-04-07T12:37:29+00:00
 url: /2009/04/semana-santa/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Cotidiano
 tags:
@@ -16,8 +16,8 @@ tags:
   - semana santa
   - universidade
   - usp
-
 ---
+
 Acordei às 06:30. Às terças eu tenho aula de Álgebra ás 08:00 e não queria perder essa, porque a professora ficou de corrigir minha nota. Peguei o circular às 07:35. Cheguei no <acronym title="Instituto de Matemática e Estatística">IME</acronym> às 07:45. Horário perfeito.
 
 Porém, observei que as salas estavam fechadas e não havia alunos. Vi apenas seguranças, moças da limpeza e um ou outro professor. Perguntei para um segurança _what the hell_ estava havendo. Ele informou que não tem aula na Semana Santa.
@@ -53,4 +53,3 @@ Após três quilômetros e uns 30 minutos, cheguei (cansado) aqui (e, é claro, 
 ![Ok, menos, também não foi tão ruim quanto o dele (crédito: FADB/Flickr)](https://farm4.static.flickr.com/3466/3267278675_6aceaa1994.jpg)
 
 Ao menos nunca mais me esquecerei que na USP não tem aula na Semana Santa.
-

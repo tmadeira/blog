@@ -4,7 +4,7 @@ type: post
 date: 2009-04-09T12:31:28+00:00
 url: /2009/04/assaltos-no-entorno-da-usp/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Cotidiano
 tags:
@@ -15,8 +15,8 @@ tags:
   - universidade
   - usp
   - violência
-
 ---
+
 Sidney, estudante de geologia na USP, foi assaltado (e espancado) na semana passada numa das saídas de pedestre da USP e relatou sua [história chocante][1] em seu blog no Stoa. Vale muito a pena ler, inclusive os comentários onde se discute uma solução. O mais impressionante é o descaso da Guarda Universitária e da Polícia.
 
 O último comentário até o momento (número 34) é sobre a entrada de pedestres que _eu uso_:
@@ -27,5 +27,4 @@ O último comentário até o momento (número 34) é sobre a entrada de pedestre
 >
 > Apesar de saber que não surte muito efeito, peço para todos que foram atacados fazerem B.O.s, pois só assim ele podem mapear a área e verem que essa região está sendo muito visada.
 
- [1]: http://stoa.usp.br/sidneysg/weblog/46787.html
-
+[1]: http://stoa.usp.br/sidneysg/weblog/46787.html

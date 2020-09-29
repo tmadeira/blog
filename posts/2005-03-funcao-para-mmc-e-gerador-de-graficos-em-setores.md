@@ -17,8 +17,8 @@ tags:
   - mdc
   - mmc
   - programação
-
 ---
+
 Baseando-me no programa **KBruch** (um joguinho educativo do KDE que serve pra somar e subtrair duas frações) resolvi fazer uma função que calculasse MMC (pra dar o resultado do KBruch bem rápido! Hehehe). A função recebe _dois argumentos_: o número de termos e os termos (num vetor) e ficou bem simpes (e eu até comentei). Vejam:
 
 ```c
@@ -302,4 +302,3 @@ int main() {
 ```
 
 Hmmm... Tirei um 5,8 em biologia numa prova sobre biomas (minha menor nota em três anos) :blink: e errei uma questão numa prova de física, justamente aquilo que eu tinha feito um programa, a força gravitacional. Eu esqueci de elevar a notação científica da distância ao quadrado e com isto, meu resultado na prova foi 1,27 . 10^22 ao invés de 1,27 . 10^32. Mas tudo bem...
-

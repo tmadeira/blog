@@ -15,8 +15,8 @@ tags:
   - php
   - scripts
   - wordpress
-
 ---
+
 O [Cosme][1] me apresentou hoje um projeto chamado [LiveSearch][2]. É uma aplicação Ajax bem simples (eu mesmo conseguiria fazer), mas uma idéia que eu ainda não havia tido.
 
 Resolvi então implementar o negócio no meu blog e estou escrevendo esse artigo pra explicar como instalamos o LiveSearch de forma que ele funcione com o WordPress e dentro dos padrões de XHTML Strict (ele pede originalmente que utilizamos **name** num **form** e exige que o nome de um campo seja “q” ao invés do “s” do WordPress).
@@ -51,21 +51,21 @@ Para começar, você deve criar um arquivo e chamá-lo **livesearch.php**. O seu
 
 Para facilitar para quem quer aprender PHP, vou explicar linha por linha:
 
-  1. <span style="color:red;">Se houver posts, faça:</span>
-  2. <span style="color:blue;">Lista HTML</span>
-  3. <span style="color:green;">Enquanto houver posts: Execute a função the_post().</span>
-  4. <span style="color:orange;">Item da Lista HTML</span>
-  5. Linca para o permalink do post com o texto do link = seu título.
-  6. <span style="color:orange;">Fim do “Item da Lista HTML”</span>
-  7. <span style="color:green;">Fim do “Enquanto houver posts”</span>
-  8. <span style="color:blue;">Fim da “Lista HTML”</span>
-  9. <span style="color:red;">Fim do “Se houver posts”</span>
+1. <span style="color:red;">Se houver posts, faça:</span>
+2. <span style="color:blue;">Lista HTML</span>
+3. <span style="color:green;">Enquanto houver posts: Execute a função the_post().</span>
+4. <span style="color:orange;">Item da Lista HTML</span>
+5. Linca para o permalink do post com o texto do link = seu título.
+6. <span style="color:orange;">Fim do “Item da Lista HTML”</span>
+7. <span style="color:green;">Fim do “Enquanto houver posts”</span>
+8. <span style="color:blue;">Fim da “Lista HTML”</span>
+9. <span style="color:red;">Fim do “Se houver posts”</span>
 
 <p style="font-size:11px; font-style:italic;">
   <strong>Observação:</strong> As cores são só para reforçar a hierarquia.
 </p>
 
-O que este arquivo faz, portanto, é criar uma lista com o título dos posts. Essas funções são todas do WordPress (have\_posts, the\_title, the_permalink, etc.). Se você quisesse colocar outras coisas na lista que vai aparecer no resultado, pode colocar aí nesse arquivo.
+O que este arquivo faz, portanto, é criar uma lista com o título dos posts. Essas funções são todas do WordPress (have_posts, the_title, the_permalink, etc.). Se você quisesse colocar outras coisas na lista que vai aparecer no resultado, pode colocar aí nesse arquivo.
 
 No fim, salve esse arquivo em **/wp-content/themes/SEU_TEMA/livesearch.php**.
 
@@ -80,10 +80,10 @@ Coloque no início do arquivo **/wp-content/themes/SEU_TEMA/search.php** o segui
 	} ?>
 ```
 
-  1. <span style="color:red;">Se a query string <strong>live</strong> “existir”, faça:</span>
-  2. Inclua o arqiuvo **livesearch.php** nessa página.
-  3. Morra!!! :D Isso significa para ele parar de executar qualquer coisa que esteja debaixo disso.
-  4. <span style="color:red;">Fim do “Se”</span>
+1. <span style="color:red;">Se a query string <strong>live</strong> “existir”, faça:</span>
+2. Inclua o arqiuvo **livesearch.php** nessa página.
+3. Morra!!! :D Isso significa para ele parar de executar qualquer coisa que esteja debaixo disso.
+4. <span style="color:red;">Fim do “Se”</span>
 
 Isso serve para que possamos fazer as buscas de duas maneiras. Uma é a busca normal, que é acessada por **/?s=queries** e outra é a live que será acessada por **/?live=1&s=queries** (ou seja, a mesma coisa mas dando valor à variável “live”).
 
@@ -93,10 +93,10 @@ Baixe o arquivo [livesearch.js][3] e coloque-o na pasta **/wp-content/themes/SEU
 
 Agora faremos uma série de mudanças pra manter o negócio nos padrões web… Substitua as seguintes linhas pelo texto que aparece depois do seu número:
 
-  * 122: if (liveSearchLast != document.getElementBy(‘livesearch’).value) {
-  * 126: if ( document.getElementById(‘livesearch’).value == “”) {
-  * 136: liveSearchReq.open(“GET”, liveSearchRoot + “/?live=1&s=” + document.getElementById(‘livesearch’).value + liveSearchParams2);
-  * 137: livesearchLast = document.getElementById(“livesearch”).value;
+- 122: if (liveSearchLast != document.getElementBy(‘livesearch’).value) {
+- 126: if ( document.getElementById(‘livesearch’).value == “”) {
+- 136: liveSearchReq.open(“GET”, liveSearchRoot + “/?live=1&s=” + document.getElementById(‘livesearch’).value + liveSearchParams2);
+- 137: livesearchLast = document.getElementById(“livesearch”).value;
 
 Isso serve para ele não depender do nome do formulário e da query, mas somente do ID do campo do formulário e para ele abrir no xmlHttpRequest _/?live=1&s=QUERY_ ao invés do padrão _/livesearch.php?q=QUERY_.
 
@@ -137,7 +137,7 @@ E ao final desse arquivo, coloque:
 
 Se você fez tudo certo e eu não errei aqui no tutorial, o seu script deve sair funcionando! Agora personalize usando estilos pra fazer um negócio bonito! (algo que eu não fiz porque tô pra trocar totalmente o design do meu site)
 
-* * *
+---
 
 ### A Lógica do Negócio
 
@@ -149,7 +149,6 @@ Deixei o meu site meio feio com isso aí (uma lista de bullets normais e tal…)
 
 Qualquer dúvida, comente ou me mande um e-mail.
 
- [1]: http://www.cosmeweb.com.br
- [2]: http://blog.bitflux.ch/wiki/LiveSearch
- [3]: http://blog.bitflux.ch/livesearch.js
-
+[1]: http://www.cosmeweb.com.br
+[2]: http://blog.bitflux.ch/wiki/LiveSearch
+[3]: http://blog.bitflux.ch/livesearch.js

@@ -12,8 +12,8 @@ tags:
   - permutação
   - programação
   - regex
-
 ---
+
 > #### permutar (dicionário Priberam)
 >
 > **permutar** | v. tr. | v. tr. e int.
@@ -89,6 +89,5 @@ Esse cara é um pouco maluco, mas o que ele faz com expressões regulares é mui
 
 Consultando as estatísticas hoje, fiquei feliz ao ver meu blog citado em projetando.blogspot.com. Nunca sei se meus textos estão sendo compreendidos e por isso acho legal quando vejo que alguém _linkou_ para meu site.
 
- [1]: http://www.aurelio.net
- [2]: http://guia-er.sourceforge.net
-
+[1]: http://www.aurelio.net
+[2]: http://guia-er.sourceforge.net

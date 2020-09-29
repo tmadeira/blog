@@ -15,8 +15,8 @@ tags:
   - the pursuit of happyness
   - vale do silício
   - will smith
-
 ---
+
 Lá por volta de 2007, na época em que saiu, assisti [À Procura da Felicidade (The Pursuit of Happ<em>y</em>ness)][1] em Santa Catarina. Na ocasião, minha impressão sobre o filme não foi boa e, com efeito, na minha memória não restava nada de positivo sobre ele. Me incomodou muito a mensagem do roteiro, algo como _“não importa quão ferrado você está; se esforçando e acreditando nos seus sonhos você só depende de você para subir na vida”_.
 
 Inspirado pela ideia de assistir filmes que se passam em San Francisco e particularmente por ter visto um cartaz de um músico de rua na Chinatown dizendo que ele apareceu no filme, resolvi encará-lo novamente na semana passada. Dessa vez, achei tão brilhante que me vejo obrigado a escrever esta nota, que quero compartilhar com meus amigos no Brasil, para recomendá-lo.
@@ -35,8 +35,8 @@ A minha ideia, antes de vir pra cá, era que aqui as pessoas tivessem mais condi
 
 <small>Publicado originalmente no <a href="https://juntos.org.br/2012/03/o-sonho-americano-dos-que-mal-dormem/">Juntos</a>.</small>
 
- [1]: https://www.youtube.com/watch?v=doLdmYhpNyc
- [2]: https://www.youtube.com/watch?v=bch1_Ep5M1s
- [3]: http://articles.cnn.com/2009-03-10/us/homeless.children_1_homeless-children-family-homelessness-child-homelessness?_s=PM:US
- [4]: http://norcalsocialism.org/
- [5]: https://en.wikipedia.org/wiki/Incarceration_in_the_United_States
+[1]: https://www.youtube.com/watch?v=doLdmYhpNyc
+[2]: https://www.youtube.com/watch?v=bch1_Ep5M1s
+[3]: http://articles.cnn.com/2009-03-10/us/homeless.children_1_homeless-children-family-homelessness-child-homelessness?_s=PM:US
+[4]: http://norcalsocialism.org/
+[5]: https://en.wikipedia.org/wiki/Incarceration_in_the_United_States

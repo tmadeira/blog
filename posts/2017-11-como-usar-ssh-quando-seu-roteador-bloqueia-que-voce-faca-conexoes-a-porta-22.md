@@ -15,8 +15,8 @@ tags:
   - ssh
   - tunnel
   - vpn
-
 ---
+
 Alguns roteadores distribuídos pela NET (como alguns da marca TechniColor, mas possivelmente outros) estão bloqueando conexões para a porta 22, o que atrapalha bastante quem precisa fazer conexões via SSH.
 
 A solução óbvia para o problema seria reconfigurar o roteador. Porém, a NET parece estar dificultando cada vez mais o acesso aos roteadores dela.
@@ -25,7 +25,7 @@ E é difícil explicar na central de relacionamento que você precisa do usuári
 
 Então, sem paciência para resolver o problema da forma correta, resta fazer gambiarras. Felizmente, tais gambiarras podem também ser usadas em outros lugares que bloqueiam conexões para a porta 22 (por exemplo, algumas universidades, escolas e aeroportos, locais de trabalho etc).
 
-* * *
+---
 
 A gambiarra trivial seria usar alguma VPN, mas isso não valeria um post.
 
@@ -98,7 +98,7 @@ Host github.com
 
 Se conhecer outras soluções interessantes, fique à vontade para compartilhar na caixa de comentários!
 
- [1]: https://randyfay.com/content/git-over-ssh-tunnel-through-firewall-or-vpn
- [2]: https://www.jethrocarr.com/2013/03/13/ssh-via-socks-proxies/
- [3]: https://help.github.com/articles/using-ssh-over-the-https-port/
- [4]: http://www.garbers.co.za/2014/03/03/connecting-to-bitbucket-on-https-port/
+[1]: https://randyfay.com/content/git-over-ssh-tunnel-through-firewall-or-vpn
+[2]: https://www.jethrocarr.com/2013/03/13/ssh-via-socks-proxies/
+[3]: https://help.github.com/articles/using-ssh-over-the-https-port/
+[4]: http://www.garbers.co.za/2014/03/03/connecting-to-bitbucket-on-https-port/

@@ -1,5 +1,5 @@
 ---
-title: 'downloadsubtitle: script para baixar legendas de filmes automaticamente no shell do GNU/Linux'
+title: "downloadsubtitle: script para baixar legendas de filmes automaticamente no shell do GNU/Linux"
 type: post
 date: 2013-06-28T05:34:39+00:00
 url: /2013/06/script-para-baixar-legendas-de-filmes-automaticamente-no-linux/
@@ -17,8 +17,8 @@ tags:
   - scripts
   - shell
   - spider
-
 ---
+
 Me acostumei a usar o **legendas.tv** para baixar legendas de filmes e acabei nunca me perguntando se haveria um jeito mais fácil de baixá-las. Hoje fui assistir um filme e, ao entrar no navegador para baixar sua legenda, me deparei com a mensagem de que o site estava fora do ar:
 
 ![Mensagem do legendas.tv fora do ar.](/wp-content/uploads/2013/06/legendas.png)
@@ -133,7 +133,6 @@ O programa ainda não está empacotado bonitinho (não tem nem Makefile ou instr
 
 Sugestões e correções são bem-vindas.
 
- [2]: http://trac.opensubtitles.org/projects/opensubtitles/wiki/HashSourceCodes
- [3]: https://github.com/tmadeira/downloadsubtitle
- [4]: https://github.com/tmadeira/downloadsubtitle/archive/master.zip
-
+[2]: http://trac.opensubtitles.org/projects/opensubtitles/wiki/HashSourceCodes
+[3]: https://github.com/tmadeira/downloadsubtitle
+[4]: https://github.com/tmadeira/downloadsubtitle/archive/master.zip

@@ -18,12 +18,12 @@ tags:
   - sed
   - shell
   - Trabalho
-
 ---
+
 Em primeiro lugar, publiquei dois projetos do colégio (dentro dos padrões web, um que não funciona direito no IE) sexta-feira. O pessoal tava reclamando que a página tava desatualizada e tinha gente procurando por “ginsal 2005” no Google e chegando aqui, então estou postando os links para o projeto **Ginsal 2005** e **Páginas Literárias** aqui mesmo:
 
-  * ~`GINSAL~~
-  * ~~Páginas Literárias~~
+- ~`GINSAL~~
+- ~~Páginas Literárias~~
 
 (links perdidos com o tempo)
 
@@ -110,4 +110,3 @@ Agora já modifiquei bastante esse programa e ele tá na minha seção **Portif�
 Eu nunca tinha feito nada tão evoluído no Bash e agora tô até começando a me achar um programador bash. Incrível como é legal desenvolver nele! :)
 
 No mais, não aconteceu nada de novo. Só tô decepcionado por ter errado um problema da OBI, cheio de trabalhos de escola mas desenvolvendo bastante coisa legal aqui agora que meus sistemas estão ficando estáveis.
-

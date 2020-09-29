@@ -1,8 +1,8 @@
 ---
-title: 'Mercury: The Messenger of the Gods'
+title: "Mercury: The Messenger of the Gods"
 type: post
 date: 2005-11-13T02:10:50+00:00
-excerpt: 'Continuando com os programas para imigrantes (mas não só pra eles), aí está mais um excelente programa para Linux (e em Windows também funciona!): Mercury.'
+excerpt: "Continuando com os programas para imigrantes (mas não só pra eles), aí está mais um excelente programa para Linux (e em Windows também funciona!): Mercury."
 url: /2005/11/mercury-the-messenger-of-the-gods/
 categorias:
   - Dicas
@@ -12,8 +12,8 @@ tags:
   - mercury
   - microsoft
   - msn
-
 ---
+
 Continuando com os programas para imigrantes (mas não só pra eles), aí está mais um excelente programa para Linux (e em Windows também funciona!)
 
 Conheci hoje um cliente para a rede do [MSN Messenger][1] chamado [Mercury][2]. Foi feito em [Java][3], é multi-plataforma e tem **todas** as funcionalidades do cliente proprietário da [Microsoft][4].
@@ -44,11 +44,10 @@ options="-Djava.library.path=/home/usuario/Mercury"
 
 Meu irmão criou uma [comunidade no Orkut][7] para o mensageiro.
 
- [1]: http://messenger.msn.com
- [2]: http://www.mercury.to
- [3]: http://java.sun.com
- [4]: http://www.microsoft.com
- [5]: http://www.mercury.to/index.php?sub=WhatIsMercury
- [6]: http://amarok.kde.org
- [7]: http://www.orkut.com/Community.aspx?cmm=6447843
-
+[1]: http://messenger.msn.com
+[2]: http://www.mercury.to
+[3]: http://java.sun.com
+[4]: http://www.microsoft.com
+[5]: http://www.mercury.to/index.php?sub=WhatIsMercury
+[6]: http://amarok.kde.org
+[7]: http://www.orkut.com/Community.aspx?cmm=6447843

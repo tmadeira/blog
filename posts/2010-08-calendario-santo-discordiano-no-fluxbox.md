@@ -14,8 +14,8 @@ tags:
   - fnord
   - linux
   - x
-
 ---
+
 Acabei de implementar o [calendário santo-discordiano][1] no Fluxbox 1.1.1 (última versão).
 
 **Link para download do código:** [fluxbox-ddate-1.1.1-0.tar.bz2][2]
@@ -82,10 +82,10 @@ Quando você coloca um **|fnord|** no formato, o Fluxbox interpretará tudo que 
 
 _Exemplos de uso:_
 
-  * Formato: **%c** → Saída: **Sat 28 Aug 2010 11:50:26 PM BRT**
-  * Formato: **%e of %B of %Y|fnord|** → Saída: **21st of Bureaucracy of 3176**
-  * Formato: **%d %b %Y|fnord|, %H:%M:%S** → Saída: **21 Bcy 3176, 23:50:26**
-  * Formato: **%.|fnord|** → Saída: **All Hail Discordia!**
+- Formato: **%c** → Saída: **Sat 28 Aug 2010 11:50:26 PM BRT**
+- Formato: **%e of %B of %Y|fnord|** → Saída: **21st of Bureaucracy of 3176**
+- Formato: **%d %b %Y|fnord|, %H:%M:%S** → Saída: **21 Bcy 3176, 23:50:26**
+- Formato: **%.|fnord|** → Saída: **All Hail Discordia!**
 
 ### Dúvidas, sugestões?
 
@@ -120,10 +120,10 @@ time_string_len+= strftime(&time_string[time_string_len], 255 - time_string_len,
 
 ### Known bugs
 
-  1. Colocar ‘ (aspas simples) no lado esquerdo do |fnord| faz com que a data discordiana não apareça.
-  2. Requer [util-linux-ng][6] e faz uma chamada de sistema ao _ddate_ uma vez por segundo.
-  3. Não trabalha ainda com [horas métricas][7].
-  4. _… me informe se achar mais algum!_
+1. Colocar ‘ (aspas simples) no lado esquerdo do |fnord| faz com que a data discordiana não apareça.
+2. Requer [util-linux-ng][6] e faz uma chamada de sistema ao _ddate_ uma vez por segundo.
+3. Não trabalha ainda com [horas métricas][7].
+4. _… me informe se achar mais algum!_
 
 ### Screenshots
 
@@ -133,11 +133,10 @@ time_string_len+= strftime(&time_string[time_string_len], 255 - time_string_len,
 
 ![Screenshot 3](/wp-content/uploads/2010/08/c.png)
 
- [1]: http://www.cabaladada.org/discordiapedia/Calend%C3%A1rio_Santo-Discordiano
- [2]: /wp-content/uploads/2010/08/fluxbox-ddate-1.1.1-0.tar.bz2
- [3]: http://www.cabaladada.org/
- [4]: http://aur.archlinux.org/packages.php?ID=40364
- [5]: /2010/08/fluxbox-ddate-no-gentoo/
- [6]: http://www.kernel.org/pub/linux/utils/util-linux-ng/
- [7]: http://www.cabaladada.org/discordiapedia/Horas_M%C3%A9tricas
-
+[1]: http://www.cabaladada.org/discordiapedia/Calend%C3%A1rio_Santo-Discordiano
+[2]: /wp-content/uploads/2010/08/fluxbox-ddate-1.1.1-0.tar.bz2
+[3]: http://www.cabaladada.org/
+[4]: http://aur.archlinux.org/packages.php?ID=40364
+[5]: /2010/08/fluxbox-ddate-no-gentoo/
+[6]: http://www.kernel.org/pub/linux/utils/util-linux-ng/
+[7]: http://www.cabaladada.org/discordiapedia/Horas_M%C3%A9tricas

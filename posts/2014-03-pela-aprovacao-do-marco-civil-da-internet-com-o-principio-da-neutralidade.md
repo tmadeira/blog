@@ -15,8 +15,8 @@ tags:
   - marco civil
   - neutralidade
   - sopa
-
 ---
+
 Para quem vem acompanhando os projetos de lei relacionados à Internet nos últimos anos, faz todo sentido desconfiar de qualquer nova tentativa de regulamentação da rede. Afinal, vimos parlamentares defenderem a lei Azeredo no Brasil, as leis SOPA e PIPA nos Estados Unidos e a lei Sinde na Espanha, entre outras, sempre evocando argumentos furados para justificar o controle e a censura da Internet.
 
 No entanto, é preciso ter cuidado: nem toda lei que tem como objeto a rede é ruim para nós. Neste momento, não podemos hesitar em defender a aprovação do Marco Civil. Essa é uma importante trincheira na luta pela liberdade na Internet, que certamente não terminará nela.

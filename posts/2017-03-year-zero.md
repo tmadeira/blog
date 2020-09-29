@@ -16,8 +16,8 @@ tags:
   - wikileaks
   - year zero
   - zero day
-
 ---
+
 Hoje de manhã o WikiLeaks começou a publicar a maior série de vazamentos da CIA da história, “Vault 7”.
 
 A primeira parte, publicada hoje, se chama “Year Zero” e tem 8761 documentos da divisão hacker da CIA: mais páginas do que todos os vazamentos de Snowden sobre a NSA publicados desde 2013.
@@ -38,20 +38,20 @@ A consequência do vazamento é, por um lado, uma democratização das ciberarma
 
 <small>(Edward Snowden <a href="https://twitter.com/Snowden/status/839157182872576000">sobre o vazamento</a>)</small>
 
-* * *
+---
 
 **Update** (15h52):
 
 Um dos documentos da CIA vazados pelo WikiLeaks é uma [lista de coisas que os desenvolvedores de malware devem fazer e não fazer][4]. Tem dicas como:
 
-  * DO NOT leave dates/times such as compile timestamps, linker timestamps, build times, access times, etc. that correlate to general US core working hours (i.e. 8am-6pm Eastern time)
-  * DO NOT use US-centric timestamp formats such as MM-DD-YYYY. YYYYMMDD is generally preferred.
+- DO NOT leave dates/times such as compile timestamps, linker timestamps, build times, access times, etc. that correlate to general US core working hours (i.e. 8am-6pm Eastern time)
+- DO NOT use US-centric timestamp formats such as MM-DD-YYYY. YYYYMMDD is generally preferred.
 
 (entre muitas outras)
 
 Se os caras se preocupam com isso, “evidências” podem apontar que um software escrito pela CIA tenha sido feito, sei lá, por russos...
 
-* * *
+---
 
 **Update** (17h43):
 
@@ -59,7 +59,7 @@ A [nota da Open Whisper Systems][5] sobre o #Vault7 é otimista e mostra como, c
 
 > “A reportagem CIA/WikiLeaks de hoje é sobre colocar malware nos telefones; nenhum dos exploits é no Signal ou quebra a criptografia do protocolo do Signal. A reportagem não é sobre Signal ou WhatsApp, mas na medida em que ela é, nós a vemos como a confirmação de que o que estamos fazendo está funcionando. Criptografia de ponta a ponta em toda parte está empurrando as agências de inteligência da vigilância em massa não detectável para ataques caros, de alto risco e direcionados.”
 
- [1]: https://wikileaks.org/ciav7p1/
- [3]: https://wikileaks.org/ciav7p1/cms/page_13205587.html
- [4]: https://wikileaks.org/ciav7p1/cms/page_14587109.html
- [5]: https://twitter.com/whispersystems/status/839204973921501184
+[1]: https://wikileaks.org/ciav7p1/
+[3]: https://wikileaks.org/ciav7p1/cms/page_13205587.html
+[4]: https://wikileaks.org/ciav7p1/cms/page_14587109.html
+[5]: https://twitter.com/whispersystems/status/839204973921501184

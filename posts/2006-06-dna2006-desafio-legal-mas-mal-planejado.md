@@ -1,5 +1,5 @@
 ---
-title: 'DNA2006: Desafio legal, mas mal planejado…'
+title: "DNA2006: Desafio legal, mas mal planejado…"
 type: post
 date: 2006-06-11T00:44:30+00:00
 url: /2006/06/dna2006-desafio-legal-mas-mal-planejado/
@@ -13,8 +13,8 @@ tags:
   - microsoft
   - mp3
   - Rússia
-
 ---
+
 > Você, que é aluno do ensino médio, não pode ficar de fora do maior evento virtual já organizado no Brasil.
 >
 > Serão milhares de escolas inscrevendo seus representantes para participar do Desafio Nacional Acadêmico – DNA 2006.
@@ -59,5 +59,4 @@ Ah, no fim o russo perguntou pra quê queríamos saber o que as palavras signifi
 
 **[editado de novo]** Se for fácil como parece, acho que descobrimos a resposta do desafio final (sem nem ter a pergunta)! Agora é só digitar rápido na quinta-feira… :) **[/editado de novo]**
 
- [2]: http://www.dna2006.org
-
+[2]: http://www.dna2006.org

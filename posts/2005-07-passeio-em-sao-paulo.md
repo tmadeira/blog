@@ -12,8 +12,8 @@ tags:
   - pinacoteca
   - São Paulo
   - vida
-
 ---
+
 Acabou o **Curso de Programação** da Olimpíada de Informática em Campinas e agora eu e o Bruno (meu irmão) viemos para São Paulo.
 
 Chegamos em SP anteontem (domingo) com nosso primo Edu e ficaremos hospedados na casa da minha tia até o final de semana, quando voltaremos para Itajaí descansar um pouco na última semana de férias.

@@ -15,14 +15,14 @@ tags:
   - microsoft
   - programação
   - shell
-
 ---
+
 Ultimamente não tenho me dedicado muito a resolução de problemas lógicos utilizando algoritmos e não tenho programado em C, mas andei estudando um pouco LaTeX e demonstrando teoremas matemáticos. Quarta-feira, o professor Vavá sugeriu ao nosso grupo de estudo da Olimpíada de Matemática provar 10 teoremas da matemática (entre eles, a fórmula de Bhaskara, o Teorema de Pitágoras, Relação Fundamental da Trigonometria, etc.) e estou tentando demonstrá-los com até q.e.d. no fim… :D
 
 Bom, já que estava estudando LaTeX e o objetivo era provar de forma clara os teoremas, acabei transformando alguns em PDF.
 
-  * <del>Provar que, dentre todos os retângulos de perímetro constante, o de maior área é o quadrado</del>
-  * <del>Provar, a partir de um quadrado de lado “a”, o famoso Teorema de Pitágoras.</del>
+- <del>Provar que, dentre todos os retângulos de perímetro constante, o de maior área é o quadrado</del>
+- <del>Provar, a partir de um quadrado de lado “a”, o famoso Teorema de Pitágoras.</del>
 
 **Atualizado em 2012:** esses arquivos — area-quadrilatero.pdf e teorema-pitagoras.pdf — foram perdidos no servidor.
 
@@ -44,5 +44,4 @@ Hoje configurei o Slackware inteiro do Héliton via SSH (ainda bem que a interne
 
 Bom… Mês que vem é a prova da OBI, o Papa morreu (90000 pessoas no Vaticano!? Alguém quer tentar calcular a densidade demográfica?), houve uma chacina totalmente cruel na Baixada Fluminense, assassinaram a Terri nos EUA… Acontece tanta coisa no mundo! :blink:
 
- [1]: http://www.brunotorres.net
-
+[1]: http://www.brunotorres.net

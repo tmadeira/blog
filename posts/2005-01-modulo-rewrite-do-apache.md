@@ -11,8 +11,8 @@ tags:
   - Metablogagem
   - rewrite
   - web
-
 ---
+
 Como sempre por acaso, encontrei a “solução” para o desaparecimento de meu site no Google e uma forma muito legal de organizar os links do site. Descobri o módulo ReWrite do Apache! É uma coisa super legal que usa expressões regulares pra fazer redirecionamentos direto no .htaccess. Usando as simples regras abaixo:
 
 ```apache
@@ -26,4 +26,3 @@ RewriteRule ^script/(.+)$ http://tableless.tiagomadeira.net/index.php?l=script&s
 … estou com um site com endereços bem mais fáceis e bem mais simples (além de mais seguro se eu não tivesse colocado as regras aqui).
 
 Achei bem interessante esse método de expressões regulares e acho que asism o site parece mais “organizado” pois os links ficam mais fáceis.
-

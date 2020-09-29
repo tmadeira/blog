@@ -15,8 +15,8 @@ tags:
   - fnord
   - lewis carroll
   - literatura
-
 ---
+
 Chega de enrolação. Criei coragem para falar e começarei pelo começo, continuarei depois até chegar ao fim e então pararei.
 
 ![Alice in Wonderland](/wp-content/uploads/2007/07/alice.jpg)
@@ -31,5 +31,4 @@ A lógica do autor é absolutamente absurda e os diálogos e poemas nos levam a 
 
 Nietzsche escreveu em “Além do bem e do mal” que a loucura é algo raro em indivíduos mas que em certas épocas e sociedades é a norma. Talvez nós é que sejamos loucos e os personagens maravilhosos sejam a realidade. Ou talvez sejamos nós os personagens maravilhosos. Quem sabe?
 
- [1]: http://1001gatos.org/downloads/
-
+[1]: http://1001gatos.org/downloads/

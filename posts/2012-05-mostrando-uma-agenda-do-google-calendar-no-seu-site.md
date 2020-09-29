@@ -21,8 +21,8 @@ tags:
   - scripts
   - wordpress
   - xml
-
 ---
+
 Escrito em PHP. Pode ser usado no tema do seu WordPress. Requer CURL. Faz cache do calendário para não ter que baixá-lo sempre que alguém entra no seu site. Desenvolvido para um site que vai sair nos próximos dias. Use, modifique e distribua como quiser. (Não me responsabilizo por qualquer problema. Fiz pra um caso específico. A checagem de erros é meio porca.)
 
 ```php

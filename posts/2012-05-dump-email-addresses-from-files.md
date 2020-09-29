@@ -21,8 +21,8 @@ tags:
   - scripts
   - shell
   - unix
-
 ---
+
 Suppose you have a lot of .doc, .docx, .xls, .xlsx, .gz, .bz2, .pdf and text in general (.csv, .txt etc.) files and want to dump all the (unique) email addresses from them. How would you do it? Here is a simple solution I’ve just implemented (and probably didn’t test enough, so tell me if you find any bug):
 
 ```bash
@@ -77,4 +77,4 @@ rm $tmp
 
 (the email regexp is explained here: [regular-expressions.info/email.html][1])
 
- [1]: http://www.regular-expressions.info/email.html
+[1]: http://www.regular-expressions.info/email.html

@@ -14,8 +14,8 @@ tags:
   - vigilância
   - webcam
   - yahoo
-
 ---
+
 Imagens de webcams de milhões de usuários do Yahoo foram interceptadas e guardadas pelo GCHQ com ajuda da NSA. Segundo documentos vazados por Edward Snowden e divulgados ontem pelo [The Guardian][1], a coleta dessas imagens faz parte de um programa chamado _Optic Nerve_, que começou em 2008 e ainda estava ativo em 2012.
 
 O programa foi usado para realizar experimentos em reconhecimento facial, monitorar os alvos existentes do GCHQ e descobrir novos alvos de interesse. A vigilância foi feita em massa e as fotos puderam ser coletadas e salvas independentemente de elas pertencerem a uma lista de suspeitos ou não.
@@ -28,7 +28,7 @@ Diante disso, o combate pelo direito à privacidade e a defesa desses “espiõe
 
 <small>Publicado originalmente no <a href="https://juntos.org.br/2014/02/webcams-de-milhoes-de-usuarios-da-internet-sao-espionadas/">Juntos</a>.</small>
 
- [1]: http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo
- [2]: http://www.huffingtonpost.com/2013/11/26/nsa-porn-muslims_n_4346128.html
- [3]: http://freesnowden.is/revelations/index.html
- [4]: http://juntos.org.br/2014/02/11-de-fevereiro-o-dia-em-que-nos-revoltamos-contra-a-vigilancia-em-massa-da-nsa/
+[1]: http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo
+[2]: http://www.huffingtonpost.com/2013/11/26/nsa-porn-muslims_n_4346128.html
+[3]: http://freesnowden.is/revelations/index.html
+[4]: http://juntos.org.br/2014/02/11-de-fevereiro-o-dia-em-que-nos-revoltamos-contra-a-vigilancia-em-massa-da-nsa/

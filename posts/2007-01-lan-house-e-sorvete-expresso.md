@@ -13,8 +13,8 @@ tags:
   - itapirubá
   - lan house
   - sorvete
-
 ---
+
 Estou passando uma semana das férias com a família numa pousada em Itapirubá, uma “vila” dentro de Imbituba-SC. Quando passei pela primeira vez pelas ruas do local, de carro, vi uma construção laranja de uns _10m x 4m_ onde estava escrito **Lan House – Sorvete Expresso**. No início, pensei: _Legal, uma lan house!_ Mas olhei melhor e vi que só tinha preço de sorvetes por fora do local e cheguei a conclusão de que, numa “vila” dessas, as pessoas nem deveriam saber o que é uma lan house – aquele era só o nome de uma sorveteria.
 
 No dia seguinte, passando a pé pelo local, eu olhei lá pra dentro e vi sete computadores!
@@ -31,8 +31,7 @@ A _lan house_ ainda pode melhorar em alguns aspectos. Ela precisa aumentar sua b
 
 Ah… E acho que por essa propaganda eu merecia mais um sorvete… ;-)
 
- [1]: http://www.mozilla.com/firefox/
- [2]: http://www.opera.com/
- [3]: http://www.ie7.com/
- [4]: http://www.portableapps.com/
-
+[1]: http://www.mozilla.com/firefox/
+[2]: http://www.opera.com/
+[3]: http://www.ie7.com/
+[4]: http://www.portableapps.com/

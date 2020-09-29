@@ -13,8 +13,8 @@ tags:
   - mundo
   - nazismo
   - reflexão
-
 ---
+
 ![O mundo poderia ser assim...](/wp-content/uploads/2007/02/mundoestranho.jpg)
 
 Talvez se a Alemanha tivesse vencido a guerra o nosso mundo fosse melhor atualmente. Já pensaram nisso?

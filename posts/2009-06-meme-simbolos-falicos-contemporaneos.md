@@ -1,10 +1,10 @@
 ---
-title: 'Meme: Símbolos fálicos contemporâneos'
+title: "Meme: Símbolos fálicos contemporâneos"
 type: post
 date: 2009-06-06T02:56:41+00:00
 url: /2009/06/meme-simbolos-falicos-contemporaneos/
 sociableoff:
-  - 'false'
+  - "false"
 categorias:
   - Futilidades
 tags:
@@ -13,8 +13,8 @@ tags:
   - São Paulo
   - torre do relógio
   - usp
-
 ---
+
 A [Carol][1] me convidou para participar do [meme do Rev. Beraldo][2] que tem por objetivo identificar alguns símbolos fálicos da atualidade.
 
 De fato escolhi a primeira coisa que me veio a cabeça, sem pensar muito. E depois de um dia em que professores e estudantes entraram em greve na Universidade de São Paulo, a primeira coisa que me veio a cabeça foi a **Torre do Relógio**.
@@ -35,8 +35,7 @@ Hoje o topo da Torre do Relógio continha uma grande faixa **“FORA PM”**, ma
 
 Sinto muito, mas não convidarei ninguém pro meme porque ando com medo de coisas que crescem exponencialmente.
 
- [1]: http://carolinapeters.com/meme-simbolos-falicos-contemporaneos/
- [2]: http://cabaladada.wordpress.com/2009/05/31/meme-simbolos-falicos-contemporaneos/
- [4]: http://www.usp.br/gr/torre.php
- [5]: http://www.usp.br/gr/torredet.php
-
+[1]: http://carolinapeters.com/meme-simbolos-falicos-contemporaneos/
+[2]: http://cabaladada.wordpress.com/2009/05/31/meme-simbolos-falicos-contemporaneos/
+[4]: http://www.usp.br/gr/torre.php
+[5]: http://www.usp.br/gr/torredet.php

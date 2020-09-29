@@ -2,7 +2,7 @@
 title: Mensageiros Instantâneos, OBM, Novos Programas, Música
 type: post
 date: 2005-08-26T18:51:52+00:00
-excerpt: 'Em primeiro lugar, venho comunicar que não uso mais MSN Messenger. Cheguei a conclusão de quem quer falar comigo deve usar o que eu uso e não ao contrário, por um motivo óbvio: o meu é melhor que o deles.'
+excerpt: "Em primeiro lugar, venho comunicar que não uso mais MSN Messenger. Cheguei a conclusão de quem quer falar comigo deve usar o que eu uso e não ao contrário, por um motivo óbvio: o meu é melhor que o deles."
 url: /2005/08/mensageiros-instantaneos-obm-novos-programas-musica/
 categorias:
   - Cotidiano
@@ -26,8 +26,8 @@ tags:
   - programação
   - programação dinâmica
   - sequências
-
 ---
+
 Em primeiro lugar, venho por meio deste post comunicar que não uso mais **MSN Messenger**. O mensageiro instantâneo da Microsoft saiu da minha lista de contas do CenterICQ para a entrada de dois novos e melhores: IRC e GoogleTalk/Jabber. Cheguei a conclusão de que quem quer falar comigo deve usar o que eu uso e não ao contrário, por um motivo óbvio: o meu é melhor que o deles.
 
 Esta decisão fez com que eu perdesse centenas de contatos, mas acho que foi a decisão certa a ser tomada. Quem quiser me contatar agora, pode me adicionar no ICQ como 147330555, GoogleTalk como tmadeira em gmail.com e no IRC/Freenode, como tiagomadeira.
@@ -174,5 +174,5 @@ int main() {
 
 No começo do mês que vem é o Festival de Música de Itajaí. Acho que vou fazer oficina de Piano Popular avançado com o Prof. Michel Freidenson, que foi quem me deu aulas numa oficina semelhante há dois anos. A semana da música vai contar também com uns shows bem legais e o site oficial é [este aqui][2].
 
- [1]: /script/pa.c
- [2]: http://www.fundacaoculturaldeitajai.com.br
+[1]: /script/pa.c
+[2]: http://www.fundacaoculturaldeitajai.com.br

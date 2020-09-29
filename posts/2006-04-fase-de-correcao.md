@@ -14,8 +14,8 @@ tags:
   - obi 2006
   - olimpíadas
   - resultado
-
 ---
+
 OBI2006 em fase de correção…
 
 _As tarefas da modalidade Programação estão sendo corrigidas. Os gabaritos das provas da modalidade iniciação estão disponíveis, por enquanto apenas para professores (algumas escolas atrasaram a realização da prova, por isso a demora na divulgação do gabarito). Solicitamos os professores que consultem a área de acesso restrito para informações de como proceder para enviar os resultados de sua escola._ (retirado do [site da OBI][1])
@@ -38,11 +38,11 @@ Mas é só um palpite…
 
 Já que não é mais possível submeter resultados (as tarefas já estão sendo corrigidas), agora publiquei meus códigos-fonte na seção de [scripts][3] do meu site.
 
-  * [Truco][4]
-  * [Colheita de Caju][5]
-  * [Museu][6]
-  * [Jogo de Cartas][7]
-  * [Escada Perfeita][8]
+- [Truco][4]
+- [Colheita de Caju][5]
+- [Museu][6]
+- [Jogo de Cartas][7]
+- [Escada Perfeita][8]
 
 ### Colheita de Caju
 
@@ -54,11 +54,11 @@ A solução _ótima_ seria usando programação dinâmica; um algoritmo que depo
 
 Quase duas semanas depois da prova, meu chute para a nota da primeira fase é 420/500. Mas nunca se sabe… :)
 
- [1]: http://olimpiada.ic.unicamp.br
- [2]: http://www.salesianoitajai.g12.br
- [3]: /wp-content/uploads/c/
- [4]: /wp-content/uploads/c/truco.c
- [5]: /wp-content/uploads/c/caju.c
- [6]: /wp-content/uploads/c/museu.c
- [7]: /wp-content/uploads/c/cartas.c
- [8]: /wp-content/uploads/c/escada.c
+[1]: http://olimpiada.ic.unicamp.br
+[2]: http://www.salesianoitajai.g12.br
+[3]: /wp-content/uploads/c/
+[4]: /wp-content/uploads/c/truco.c
+[5]: /wp-content/uploads/c/caju.c
+[6]: /wp-content/uploads/c/museu.c
+[7]: /wp-content/uploads/c/cartas.c
+[8]: /wp-content/uploads/c/escada.c

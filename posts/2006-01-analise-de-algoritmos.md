@@ -18,8 +18,8 @@ tags:
   - omega
   - ordem de crescimento
   - theta
-
 ---
+
 **Analisar** um algoritmo é prever o que o algoritmo irá precisar. Às vezes o hardware é importante, mas acho que o que acontece com mais freqüência, ao menos em olimpíadas, maratonas e problemas em casa, é precisarmos medir o tempo que ele irá demorar.
 
 Eu expliquei em algum dos artigos anteriores que o **tempo de um algoritmo** depende geralmente do tamanho de sua entrada. Com este artigo, pretendo explicar como analisamos um algoritmo baseado nesse tamanho de sua entrada para compará-lo com outros algoritmos e ter uma noção de quanto tempo ele vai demorar.
@@ -36,10 +36,10 @@ O que este algoritmo faz é, depois de receber a entrada $n$ do usuário, imprim
 
 Para medir o custo do algoritmo, nossa análise consistirá em ver quantas vezes cada passo é executado. Mediremos o custo de cada linha (cada passo a ser executado), sempre em função de **n**, que para este algoritmo é a variável mais importante (aliás, a única variável). Por isso o pseudocódigo do **Algoritmo 1** está com suas linhas numeradas. Vamos analisar…
 
-  * **Linha 1:** Será executada $n + 1$ vezes.
-  * **Linha 2:** Será executada $n \times{} \sum\_{i=1}^{n} + n$ vezes.
-  * **Linha 3:** Será executada $n \times{} \sum\_{i=1}^{n}$ vezes.
-  * **Linhas 4 e 5:** Não tem custo. :)
+- **Linha 1:** Será executada $n + 1$ vezes.
+- **Linha 2:** Será executada $n \times{} \sum\_{i=1}^{n} + n$ vezes.
+- **Linha 3:** Será executada $n \times{} \sum\_{i=1}^{n}$ vezes.
+- **Linhas 4 e 5:** Não tem custo. :)
 
 ### Por que estes números de execução?
 
@@ -57,7 +57,7 @@ Este loop **para** será executado um número de vezes variável ($i$), que irá
 
 Exatamente o mesmo número que a **Linha 2**, mas sem “os últimos condicionais” ($-n$).
 
-* * *
+---
 
 Imprimir algo na tela pode demorar mais do que fazer uma operação, mas a análise de algoritmos é uma coisa bem _rústica_. Desprezamos todas as constantes, com isso só levando a sério a informação importante: neste caso, apenas $n$. Então agora, vamos escrever o tempo de execução do algoritmo, que é a soma dos tempos de execução para cada instrução executada.
 
@@ -87,11 +87,11 @@ Principalmente para pessoas pouco habituadas com matemática, essa parte é dif�
 
 As notações que usamos para descrever o tempo de execução de um algoritmo são **cinco**:
 
-  * <span class="tex-render">\Theta{}</span>
-  * <span class="tex-render">O</span>
-  * <span class="tex-render">\Omega{}</span>
-  * <span class="tex-render">o</span>
-  * <span class="tex-render">\omega{}</span>
+- <span class="tex-render">\Theta{}</span>
+- <span class="tex-render">O</span>
+- <span class="tex-render">\Omega{}</span>
+- <span class="tex-render">o</span>
+- <span class="tex-render">\omega{}</span>
 
 Embora essas notações sejam conjuntos, usamos o **sinal de igualdade** (=) para expressar que $f(n)$ pertence a algum deles, ao invés de usar o **sinal de pertinência** ($\in{}$).
 
@@ -129,7 +129,7 @@ $\omega{}(g(n)) = f(n)$, **se** _para qualquer constante_ $c > 0$, existe uma co
 
 Para analisar problemas mais complexos como, por exemplo, recorrências, existem métodos bastante interessantes, como o Teorema Mestre que o Cormen apresenta no Capítulo 4. É uma boa leitura pra quem se interessou.
 
-* * *
+---
 
 Podemos criar várias comparações entre estas funções, mas isto não vem ao caso. O importante é saber em que notação a nossa função se encontra. Com o tempo vamos compreendendo melhor essas fórmulas.
 
@@ -137,7 +137,7 @@ Vamos relembrar o custo de nosso algoritmo… $T(n) = n^{2} + 3n$.
 
 Vamos ver em que notação ele pode se encaixar, sabendo que $g(n)$ seria a **ordem de crescimento** (parte importante) do nosso custo; no caso, $n^{2}$.
 
-Testamos primeiro se ele encaixa na função $\Theta{}(n^{2})$. Vamos substituir $f(n)$ e  $g(n)$ (naquela função ali em cima, onde diz **A notação $\Theta{}$**) pelos valores que conhecemos.
+Testamos primeiro se ele encaixa na função $\Theta{}(n^{2})$. Vamos substituir $f(n)$ e $g(n)$ (naquela função ali em cima, onde diz **A notação $\Theta{}$**) pelos valores que conhecemos.
 
 $$
 c\_{1}n^{2} \leq{} n^{2} + 3 n \leq{} c\_{2} n^{2}
@@ -162,4 +162,3 @@ $n\_{0}$ (o menor valor de $n$) $= 1$; $c\_{1} = 1$; $c\_{2} = 4$.
 Logo, concluímos que $f(n) = n^{2} + 3n = \Theta{}(n^{2})$. Uma função que pertence a $\Theta{}$, tem um **limite assintótico superior** e **inferior** e, portanto, pertenceria também a $O(n^{2})$ e $\Omega{}(n^{2})$, mas nem é necessário testar os outros valores porque já identificamos nossa função como _“theta de ene ao quadrado”_, que é a função mais “retinha” que podemos esperar.
 
 Bom… Nos próximos artigos, veremos que um mesmo problema pode ter várias soluções diferentes com custos ainda mais diferentes! Por isso, é crucial sabermos analisar, mesmo que por cima, qual o algoritmo que é mais eficiente. Vou ficando por aqui…
-

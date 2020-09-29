@@ -14,8 +14,8 @@ tags:
   - pai
   - parábola
   - prisão
-
 ---
+
 > Um senhor idoso vivia sozinho em sua casa. Ele queria virar a terra de seu jardim para plantar flores, mas era um trabalho muito pesado. Seu único filho, que sempre o ajudava nesta tarefa, estava na prisão. O homem então escreveu a seguinte carta ao filho:
 >
 > _“Querido Filho…  
@@ -36,5 +36,4 @@ tags:
 >
 > Achei no [Falcon Dark][1], já faz um tempinho…
 
- [1]: http://falcon-dark.blogspot.com/2006/11/estratgia-tudo.html
-
+[1]: http://falcon-dark.blogspot.com/2006/11/estratgia-tudo.html

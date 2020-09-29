@@ -15,8 +15,8 @@ comments:
   requiredFields: ["name", "body"]
   reCaptcha:
     enabled: true
-    siteKey:  "6LcN4icTAAAAAAkdqOR-2RfdRB3WlkH0djPLN__H"
-    secret:  "BMld8MhtiEhPbhnHobwWgJ9u4O6Tv3Ra/APqet7zm1GlGO8kGSyLOu6eENxK+7lfyRlBTr4N6cFyrwKsSCMIkcumjuG70HlYUH/uUWpwNIB+cj3W6Dmf55yHge5pc0Uf9hVgVM1nYGpgXpzkjbhTlN8Qq0z6sBA/WXGedj4fVkM="
+    siteKey: "6LcN4icTAAAAAAkdqOR-2RfdRB3WlkH0djPLN__H"
+    secret: "BMld8MhtiEhPbhnHobwWgJ9u4O6Tv3Ra/APqet7zm1GlGO8kGSyLOu6eENxK+7lfyRlBTr4N6cFyrwKsSCMIkcumjuG70HlYUH/uUWpwNIB+cj3W6Dmf55yHge5pc0Uf9hVgVM1nYGpgXpzkjbhTlN8Qq0z6sBA/WXGedj4fVkM="
   notifications:
     enabled: true
     apiKey: "iNuRd5fdzqnJ/AWqncNErgUkp8ceCk9f2VeSv4sabbR9TzxNoJZk5SJq4yfpJalGwZdLlSEOBoza/n6ZKnVASko2YT1DqrqoglGOpumFcjFZijBOYD+unV+g/III2ywNLGXpVypwL9rbX4n+/OkWUJymTW9p3jzgIuH4arKbm2g="

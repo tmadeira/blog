@@ -10,10 +10,9 @@ tags:
   - linux
   - recomendo
   - Software Livre
-
 ---
+
 [Falcon Dark][1] escreveu novamente sobre o software livre em seu blog. Dessa vez foi um excelente artigo que chamou de: [Confusão sobre o Linux][2]. O texto me chamou a atenção falando sobre o uso do Linux para usuários leigos e talvez uma unificação de distribuições (idéia que eu sou totalmente contra!). Mesmo o post sendo grande, vale a pena a leitura!
 
- [1]: http://falcon-dark.blogspot.com
- [2]: http://falcon-dark.blogspot.com/2006/01/confuso-sobre-o-linux.html
-
+[1]: http://falcon-dark.blogspot.com
+[2]: http://falcon-dark.blogspot.com/2006/01/confuso-sobre-o-linux.html

@@ -15,8 +15,8 @@ tags:
   - São Paulo
   - universidade
   - usp
-
 ---
+
 Aprendo muito na Universidade. Não tanto nas aulas do currículo obrigatório, mas sem dúvidas naquelas que frequento porque realmente quero aprender, principalmente quando essas me desafiam. A falta de desafio nos torna medíocres e foi a falta de desafio que me tirou a vontade de ir para as aulas no semestre passado.
 
 Mais do que na sala de aula, porém, aprendo nas bibliotecas, corredores e gramados. Os espaços de vivência e debates são os locais mais importantes da universidade (e usuários do DaD — diploma a distância — infelizmente talvez nunca experimentem isso). Nestes espaços aprendemos e reproduzimos discursos e ideias que nos fazem pensar e criticar a realidade.
@@ -43,10 +43,9 @@ Agora vem a melhor parte: o problema em linguagem matemática parece assustador 
 
 Bem… Não vou me alongar porque escrever recordou-me que preciso resolver o problema pro caso geral. Aproveitem o ano & bons estudos!
 
- [1]: http://twitter.com/tmadeira/status/9637694523
- [2]: http://twitter.com/tmadeira/status/9620280363
- [3]: http://twitter.com/tmadeira/status/9620150496
- [4]: http://twitter.com/tmadeira/status/9620009675
- [5]: http://twitter.com/tmadeira/status/9619689785
- [6]: http://twitter.com/tmadeira/status/9639639949
-
+[1]: http://twitter.com/tmadeira/status/9637694523
+[2]: http://twitter.com/tmadeira/status/9620280363
+[3]: http://twitter.com/tmadeira/status/9620150496
+[4]: http://twitter.com/tmadeira/status/9620009675
+[5]: http://twitter.com/tmadeira/status/9619689785
+[6]: http://twitter.com/tmadeira/status/9639639949

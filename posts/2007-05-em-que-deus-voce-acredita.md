@@ -17,8 +17,8 @@ tags:
   - religião
   - roma
   - sociedade
-
 ---
+
 Uma [pesquisa do Datafolha][1] publicada hoje na Folha de São Paulo mostra que 97% dos brasileiros acreditam em Deus, 2% são agnósticos e 1% são ateus. Às vésperas da chegada do Papa Bento XVI no Brasil, 64% dos brasileiros se dizem católicos, **10% menos** do que numa pesquisa realizada em 1996. 22% são evangélicos, 6% não possuem religião, 3% são espíritas e os outros 5% pertencem a outras religiões.
 
 Acreditar em Deus… A [minha professora de história][2] me escreveu há algum tempo uma reflexão muito interessante:
@@ -39,20 +39,19 @@ Enfim, no que devemos acreditar? Bom… Justamente por religião ser uma crença
 
 O Mal Vicioso, melhor blog do Brasil, pela primeira vez resolveu criar um meme. E convida para responder a pergunta _“Em que Deus você acredita?”_ os seguintes amigos blogueiros:
 
-  * [Rafael Slonik do novo-MUNDO.org][7]
-  * [Rev. Ibrahim César da Cabala 1001 Gatos de Schrödinger][5]
-  * [John Artmann do Sócio Fusão][8]
-  * [Noronha d’O Fim da Várzea][9]
-  * [Ed do SemiÓtica][10]
+- [Rafael Slonik do novo-MUNDO.org][7]
+- [Rev. Ibrahim César da Cabala 1001 Gatos de Schrödinger][5]
+- [John Artmann do Sócio Fusão][8]
+- [Noronha d’O Fim da Várzea][9]
+- [Ed do SemiÓtica][10]
 
- [1]: http://datafolha.folha.uol.com.br/po/ver_po.php?session=447
- [2]: http://cantodacotovia.blogspot.com/
- [3]: http://1001gatos.org/julgandogodot-post/
- [4]: http://www.imdb.com/title/tt0416449/
- [5]: http://1001gatos.org/
- [6]: http://malvicioso.com/2006/12/25/mundo-absurdo/
- [7]: http://novo-mundo.org/log/
- [8]: http://socio.johnartmann.com/
- [9]: http://www.ofimdavarzea.com/
- [10]: http://eddcaulfield.wordpress.com/
-
+[1]: http://datafolha.folha.uol.com.br/po/ver_po.php?session=447
+[2]: http://cantodacotovia.blogspot.com/
+[3]: http://1001gatos.org/julgandogodot-post/
+[4]: http://www.imdb.com/title/tt0416449/
+[5]: http://1001gatos.org/
+[6]: http://malvicioso.com/2006/12/25/mundo-absurdo/
+[7]: http://novo-mundo.org/log/
+[8]: http://socio.johnartmann.com/
+[9]: http://www.ofimdavarzea.com/
+[10]: http://eddcaulfield.wordpress.com/

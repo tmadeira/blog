@@ -22,8 +22,8 @@ tags:
   - ufsc
   - usp
   - vida
-
 ---
+
 No início de 2005, logo antes de começar o Ensino Médio, eu escrevi [meu próprio sistema de blog][1] (tipo pra concorrer com o WordPress — só que não) e comecei a blogar no endereço _tableless.tiagomadeira.net_. Estava empolgado com a ideia de construir uma web semântica, com XHTML e com tableless. Foi um pouco antes do “estouro” da blogosfera que veio com o ascenso do WordPress mais pro final do mesmo ano e pelos dois anos seguintes.
 
 Desde lá e durante todo o ensino médio, eu bloguei muito. No final de 2005, o blog se transformou num WordPress e assumiu o endereço _tiagomadeira.net_. Além disso, no verão de 2005 para 2006 escrevi um blog-curso de [algoritmos][2] para estudar para a Olimpíada de Informática.
@@ -42,8 +42,7 @@ Estou inaugurando este blog com textos dos últimos oito anos, ou seja, que regi
 
 Acabei motivado a continuar escrevendo aqui para contar o que ando pensando e para que no futuro eu continue me divertindo com meus velhos projetos. Ansioso para ver se a motivação vai vingar.
 
- [1]: /2005/06/novo-site/
- [2]: /2006/01/algoritmos-o-que-e-um-algoritmo/
- [3]: /2009/02/conteudo-perdido/
- [4]: /2009/03/sobre-o-blog/
-
+[1]: /2005/06/novo-site/
+[2]: /2006/01/algoritmos-o-que-e-um-algoritmo/
+[3]: /2009/02/conteudo-perdido/
+[4]: /2009/03/sobre-o-blog/

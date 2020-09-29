@@ -15,8 +15,8 @@ tags:
   - nathalie drumond
   - thalie
   - vladimir safatle
-
 ---
+
 > Os Carabineros, los pacos hijos de Pinochet, saíram à caça. Pegavam qualquer um pelo caminho. Como zombies babando atrás de sangue novo. Corríamos para ajudar uns aos outros. Numa rua distante, sacaram um dos nossos.
 
 ([Nathalie Drumond, 25/08/2011][1])
@@ -39,8 +39,7 @@ O [Direto do Chile][5] é, nas palavras da Thalie: _uma espécie de diário de b
 
 **Visita (e divulgação) obrigatória:** [diretodochile.juntos.org.br][5]
 
- [1]: http://diretodochile.juntos.org.br/ha-milhoes-tomando-as-ruas-de-santiago-hoje-o-chile-nao-vai-dormir/
- [2]: http://www.youtube.com/watch?v=o-6goilce04
- [4]: http://www.lucianagenro.com.br/2011/08/maria-antonieta/
- [5]: http://diretodochile.juntos.org.br/
-
+[1]: http://diretodochile.juntos.org.br/ha-milhoes-tomando-as-ruas-de-santiago-hoje-o-chile-nao-vai-dormir/
+[2]: http://www.youtube.com/watch?v=o-6goilce04
+[4]: http://www.lucianagenro.com.br/2011/08/maria-antonieta/
+[5]: http://diretodochile.juntos.org.br/

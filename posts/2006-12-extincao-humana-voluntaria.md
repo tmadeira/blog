@@ -15,8 +15,8 @@ tags:
   - mundo
   - natureza
   - sociedade
-
 ---
+
 > VHEMT (sigla em inglês — pronuncia-se “veemente”) é um movimento, não uma instituição. É um movimento apoiado por pessoas que se preocupam com a vida na Terra. Não somos um bando de misantropos e anti-sociáveis, ou malthusianos desajustados, que morbidamente se deliciam sempre que um desastre atinge humanos. Nada poderia estar mais longe da verdade. A extinção humana voluntária é a alternativa humanitária aos desastres humanos.
 >
 > Não discorremos sobre como a raça humana mostrou ser um parasita ganancioso e amoral sobre a então saudável face deste planeta. Esse tipo de negativismo não oferece solução aos inexoráveis horrores causados pela ação humana.
@@ -37,5 +37,4 @@ A idéia do movimento é não ter filhos, porque, segundo eles, a espécie human
 
 Por que essas pessoas querem extingüir os humanos ao invés de ter filhos e educá-los para criar pessoas melhores para o futuro do mundo? Será que o mundo não tem mais volta?
 
- [1]: http://www.vhemt.org/pindex.htm
-
+[1]: http://www.vhemt.org/pindex.htm

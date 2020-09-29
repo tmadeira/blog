@@ -14,8 +14,8 @@ tags:
   - olimpíadas
   - problemas
   - prova
-
 ---
+
 Ontem, no período da tarde, foi aplicada a prova da primeira fase da [OBI2006][1], modalidade **Programação Nível 2**. Já que nem todos os colégios submeteram as soluções de seus alunos, ainda não vou publicar os meus códigos nem o enunciado dos problemas, mas apenas escrever sobre o que achei da prova (assuntos separados em tópicos).
 
 ### Tempo de Prova
@@ -36,11 +36,10 @@ O melhor problema da prova foi, na minha opinião, o **Escada Perfeita**. Infeli
 
 No meio de um problema de grafos (**Museu**), dois de coisas básicas tipo entrada/saída (**Truco** e **Jogo de Cartas**) e um problema para mostrar que sabemos mexer com matrizes (**Colheita de Caju**); o sistema de equações que dava pra montar neste problema (**Escada Perfeita**) baseado na fórmula de soma de PAs (aquela lenda do Gauss quando tinha cinco anos…) e depois um algoritmo guloso, fizeram com que eu ficasse mais de uma hora tentando encontrar a solução (que ficou com complexidade O(n)). Depois crio um post para comentar mais a respeito!
 
-* * *
+---
 
 Enfim… Não posso entrar em muitos detalhes por enquanto e nem tenho certeza de como fui. A fase pós-prova/pré-nota é sempre complicada… Mas, se não cometi erros que [se existirem] devo perceber e comentar nos próximos artigos, _rumo a segunda fase_!
 
 Pessoal que participou também, comentem aí dizendo como foram!
 
- [1]: http://olimpiada.ic.unicamp.br "Olimpíada Brasileira de Informática"
-
+[1]: http://olimpiada.ic.unicamp.br "Olimpíada Brasileira de Informática"

@@ -13,8 +13,8 @@ tags:
   - roubo
   - sociedade
   - violência
-
 ---
+
 ![Manifestação pela paz](/wp-content/uploads/2007/02/200px-stopessaismanif.jpg)
 
 Itajaí durante feriados é vazia. Eu andei mais de três quilômetros de manhã e não vi civilização, ninguém andava na rua a não ser bêbados. Tudo está fechado. Cheguei à casa da Carol. Resolvemos almoçar no shopping. A casa da Carol fica a cerca de 300m do shopping. Quando estávamos já a uns 50m do shopping, na frente da Vanel, aconteceu a inspiração desse post. Três moleques fumando, de bicicleta, nos observavam e então pararam para combinar alguma coisa. Eu percebi que aquela parada não foi uma parada “normal”.
@@ -36,4 +36,3 @@ Terceira vez que sou assaltado em Itajaí (ok, a segunda não foi bem um assalto
 Quando você é assaltado, você fica tenso. Uma pessoa te ameaçar, segurar sua camisa, _mandar_ você passar o seu celular pra ela… definitivamente não é uma sensação muito boa. De qualquer maneira, pelo menos ganhamos um post e ele não levou nada. Só conseguiu fazer com que ficássemos com medo de voltar pra casa.
 
 Andar na rua é muito perigoso. As pessoas são muito violentas. Pra terminar redações a minha professora de português ensinou que eu preciso sugerir alguma coisa para mudar essa situação. Na falta de idéias, vou deixar esse texto assim mesmo pra vocês comentarem.
-

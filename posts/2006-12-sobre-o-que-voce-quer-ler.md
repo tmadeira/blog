@@ -8,8 +8,8 @@ categorias:
 tags:
   - enquete
   - Metablogagem
-
 ---
+
 Afim de ter visitantes mais satisfeitos e na dúvida de sobre o quê publicar no meu blog resolvi fazer uma enquete. Por favor participe, porque a opinião de todos os leitores é muito importante. Se você quiser ler sobre algo que eu não lembrei de escrever nas opções de resposta, escreva nos comentários!
 
 **[update]** Conclusões…
@@ -26,8 +26,7 @@ _Filosofia e temas aleatórios_ não interessam muito, mas eu estou escrevendo u
 
 [Veja aqui o resultado parcial][4]
 
- [1]: /tags/algoritmos/
- [2]: http://www.bloglines.com/public/tmadeira
- [3]: http://malvicioso.com/
- [4]: http://www.enquetes.com.br/enquete.asp?id=704785&origem=http://tiagomadeira.net
-
+[1]: /tags/algoritmos/
+[2]: http://www.bloglines.com/public/tmadeira
+[3]: http://malvicioso.com/
+[4]: http://www.enquetes.com.br/enquete.asp?id=704785&origem=http://tiagomadeira.net

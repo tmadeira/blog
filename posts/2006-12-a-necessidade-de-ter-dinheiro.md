@@ -15,8 +15,8 @@ tags:
   - individualismo
   - lucro
   - sociedade
-
 ---
+
 > Em todo o mundo, nesse período de dois anos, Antonio Mugica faturou US\$ 500 milhões.
 >
 > “Isso não é nada”, diz ele a **Terra Magazine**, na manhã desse domingo, num salão do Hotel Tamanaco, onde se hospeda. Camisa cinza sem gola, blazer e calça pretos, barba por fazer, Mugica, emenda:
@@ -33,7 +33,6 @@ Ouvi numa aula de geografia que Cuba é um lixo, porque as pessoas não têm din
 
 Chegamos a um ponto em que o importante não é o que **compramos com o dinheiro**, mas apenas **termos dinheiro**! Isso é necessário? Cabe a cada um chegar a sua conclusão, mas ao menos pense sobre isso…
 
- [1]: http://terramagazine.terra.com.br/interna/0,,OI1281488-EI6580,00.html
- [2]: http://www.globalrichlist.com/
- [3]: http://www.google.com
-
+[1]: http://terramagazine.terra.com.br/interna/0,,OI1281488-EI6580,00.html
+[2]: http://www.globalrichlist.com/
+[3]: http://www.google.com

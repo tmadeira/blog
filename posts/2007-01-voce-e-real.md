@@ -10,7 +10,6 @@ tags:
   - física quântica
   - realidade
   - vida
-
 ---
-E eu… sou real? O mundo é real? O tempo é real? Às vezes fico na dúvida… Acho que é muita física quântica.
 
+E eu… sou real? O mundo é real? O tempo é real? Às vezes fico na dúvida… Acho que é muita física quântica.

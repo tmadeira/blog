@@ -14,8 +14,8 @@ tags:
   - javascript
   - scripts
   - userscript
-
 ---
+
 Já faz algum tempo que o Facebook tem um bug nas listas de membros dos grupos. As listas não mostram todos os membros do grupo. Mais: os membros que não aparecem na lista nem mesmo podem ser encontrados pelo formulário de busca de nomes. Quando você é administrador de um grupo, isso pode ser um grande inconveniente, porque na interface padrão do Facebook a lista de membros é o único lugar onde é possível excluir usuários de um grupo. Ou seja, os usuários que não aparecem lá são indeletáveis!
 
 ![Só ali na lista de membros aparece esses X para excluir os membros do grupo.](/wp-content/uploads/2011/12/fb1.png)
@@ -39,27 +39,32 @@ Sem mais enrolação, eis aqui **o código** para (des-)apreciação e aprimoram
 // @version 1.32
 // ==/UserScript==
 
-(function(){
-    var as = document.getElementsByTagName("a");
-    var gid = "";
+(function () {
+  var as = document.getElementsByTagName("a");
+  var gid = "";
 
-    for (var i = 0; i < as.length; i++) {
-        var a = as[i];
-        var hovercard = a.getAttribute("data-hovercard");
-        if (hovercard != null && hovercard != "") {
-            uid = hovercard.replace(/.*id=/, '');
-            if (gid != "") {
-                var button = '<a class="mhm auxiliaryButton closeButton uiCloseButton" ' +
-                    'title="Remove" rel="dialog-post" ' +
-                    'href="/ajax/groups/members/remove.php?group_id=' + gid + '&uid=' + uid + '"></a>';
-                a.innerHTML = a.innerHTML + " " + button;
-            }
-        }
-        var pattern = new RegExp("(^| )groupsCleanProfilePic( |$)");
-        if (pattern.test(a.className)) {
-            gid = a.getAttribute("href").replace(/.*id=/, '');
-        }
+  for (var i = 0; i < as.length; i++) {
+    var a = as[i];
+    var hovercard = a.getAttribute("data-hovercard");
+    if (hovercard != null && hovercard != "") {
+      uid = hovercard.replace(/.*id=/, "");
+      if (gid != "") {
+        var button =
+          '<a class="mhm auxiliaryButton closeButton uiCloseButton" ' +
+          'title="Remove" rel="dialog-post" ' +
+          'href="/ajax/groups/members/remove.php?group_id=' +
+          gid +
+          "&uid=" +
+          uid +
+          '"></a>';
+        a.innerHTML = a.innerHTML + " " + button;
+      }
     }
+    var pattern = new RegExp("(^| )groupsCleanProfilePic( |$)");
+    if (pattern.test(a.className)) {
+      gid = a.getAttribute("href").replace(/.*id=/, "");
+    }
+  }
 })();
 ```
 
@@ -69,5 +74,4 @@ Ou o **link direto para download (ou instalação no GreaseMonkey)**:
   <a href="/wp-content/uploads/2011/12/fb.group.remove.user.js">fb.group.remove.user.js</a> (1.08kb)
 </p>
 
- [1]: http://www.greasespot.net/
-
+[1]: http://www.greasespot.net/

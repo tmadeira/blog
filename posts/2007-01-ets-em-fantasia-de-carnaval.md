@@ -12,8 +12,8 @@ tags:
   - mundo
   - relações
   - sociedade
-
 ---
+
 ![O que estamos fazendo aqui?](/wp-content/uploads/2007/01/39.jpg)
 
 > Engraçado. Tudo é muito engraçado. Creio que todos os seres viventes neste mundo de aflições deveriam ter aulas de sociologia, antropologia e psicologia intrumentais. Tudo isso, sim, tudo isso. E por quê? porque as pessoas estão perdendo a noção de senso comum, de gentileza, de dor, de tudo isso que afeta o outro.
@@ -30,7 +30,6 @@ Procurando sobre o carnaval no [Technorati][1], conheci um blog novo muito bom: 
 
 Ela tem toda razão. As pessoas sempre estão competindo entre si e mentindo para levar vantagem, não estão nem aí se estão prejudicando o outro desde que seja para uma boa causa individual. Nosso mundo é egoísta e nós somos hipócritas.
 
- [1]: http://www.technorati.com/search/carnaval
- [2]: http://sweetvice.wordpress.com/
- [3]: http://sweetvice.wordpress.com/2007/01/27/14/
-
+[1]: http://www.technorati.com/search/carnaval
+[2]: http://sweetvice.wordpress.com/
+[3]: http://sweetvice.wordpress.com/2007/01/27/14/

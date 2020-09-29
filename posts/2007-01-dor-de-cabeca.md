@@ -20,8 +20,8 @@ tags:
   - radeon xpress 1100
   - slackware
   - xmodmap
-
 ---
+
 Anteontem formatei o [laptop][1] e instalei o **slamd64**. Por ordem de prioridade, lá vão os problemas…
 
 **Problema 1:** placa ATI Radeon Xpress 1100. O “ati” do [Xorg][2] não suporta. Eu não consigo instalar os drivers proprietários. Baixei lá do site da [ATI][3] e rodei normalmente o arquivo e ele não abre o instalador gráfico que deveria abrir:
@@ -59,9 +59,8 @@ Eu não sei como se faz pra emular um subsistema de 32bits pra rodar Flash por e
 
 **Conclusão:** Pelo visto esse mês (no mínimo) vai ser só dor de cabeça. Mas o aprendizado com certeza vai ser grande. ;) Quem já tiver passado por esses problemas e quiser me ajudar nessa aventura será muito bem recompensado (por Deus ou algum cara assim que você acreditar, porque meu dinheiro acabou na compra desse laptop… hehehe).
 
- [1]: /2007/01/ive-got-the-power/
- [2]: http://www.x.org
- [3]: http://www.ati.com/
- [4]: http://www.hlegius.pro.br/
- [5]: /2007/01/ive-got-the-power/#comment-1012
-
+[1]: /2007/01/ive-got-the-power/
+[2]: http://www.x.org
+[3]: http://www.ati.com/
+[4]: http://www.hlegius.pro.br/
+[5]: /2007/01/ive-got-the-power/#comment-1012

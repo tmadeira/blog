@@ -12,17 +12,17 @@ tags:
   - linux
   - slackware
   - windows
-
 ---
+
 Finalmente de HD novo, já intalei WinXP e Slackware (aliás, coloquei umas fotos no Flickr). Dessa vez, dividi o HD em sete partições.
 
-  * hda1 – 10gb, Linux ext3, Slackware
-  * hda2 – 7,5gb, NTFS, Windows XP
-  * hda3 – 7,5gb, FAT32, Windows 98\*
-  * hda5 – 5gb, Linux, \*\*
-  * hda6 – 1gb, Linux Swap
-  * hda7 – 5gb, FAT32, \*\*\*
-  * hda8 – 4gb, Linux ext3, homes\*\*\*\*
+- hda1 – 10gb, Linux ext3, Slackware
+- hda2 – 7,5gb, NTFS, Windows XP
+- hda3 – 7,5gb, FAT32, Windows 98\*
+- hda5 – 5gb, Linux, \*\*
+- hda6 – 1gb, Linux Swap
+- hda7 – 5gb, FAT32, \*\*\*
+- hda8 – 4gb, Linux ext3, homes\*\*\*\*
 
 \* – Ainda não instalei o Windows 98 nela, mas farei-o em breve. “Por que você quer ter um Win98 aí?” Porque eu gosto do DOS e quero fazer uns testes lá.  
 \*\* – É uma partição que eu criei pra instalar outros sistemas para testar. O hda1 sempre vai ser alguma coisa mais estável, como esse Slackware que eu tô usando agora.  
@@ -39,5 +39,5 @@ Além disso, andei fazendo outras coisas legais também, como apresentando o fó
 
 Bom, por enquanto é isso. Ontem foi a primeira vez que desenvolvi um problema lógico desde o curso da OBI (também, não deu tempo, o computador pifado aqui!), que foi de geometria (ver se um ponto está dentro ou fora de um polígono). Mas ainda estou corrigindo-o, então depois coloco na seção de códigos.
 
- [1]: http://www.salesianoitajai.g12.br/quersaber
- [2]: http://www.salesianoitajai.g12.br/quersaber/viewtopic.php?t=36
+[1]: http://www.salesianoitajai.g12.br/quersaber
+[2]: http://www.salesianoitajai.g12.br/quersaber/viewtopic.php?t=36

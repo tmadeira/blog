@@ -11,8 +11,8 @@ tags:
   - chico buarque
   - samba
   - vai passar
-
 ---
+
 E daí?
 
 Você está em casa? Ou saiu? Está dormindo? Ou está festando? Ou pra você isso não passa de um dia normal?
@@ -44,4 +44,4 @@ Pra entrar no clima, fique com a linda composição do mestre Chico Buarque, “
 > Ai que vida boa, o lelê, ai que vida boa, o lalá  
 > O estandarte do sanatório geral vai passar
 
- [1]: http://malvicioso.com/2007/02/05/o-carnaval-e-a-globalizacao/
+[1]: http://malvicioso.com/2007/02/05/o-carnaval-e-a-globalizacao/

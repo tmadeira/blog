@@ -50,6 +50,8 @@
 }
 @media (min-width: 600px) {
   .Award__box--baseMedium__PdrAMhTQV6_MVUpr {
+    width: auto;
+    display: inline-flex;
   }
 }
 .Award__box__d-2BI {
@@ -85,7 +87,4 @@
   .Award__slotDescription--baseMedium__c78elhTQV6_MVUpr {
     font-size: 14px;
   }
-}
-.Award__badge__QJFA4.__wab_instance {
-  position: relative;
 }

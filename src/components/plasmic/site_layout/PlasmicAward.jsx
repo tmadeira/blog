@@ -13,7 +13,6 @@ import {
   PlasmicSlot,
   deriveRenderOpts
 } from "@plasmicapp/react-web";
-import Badge from "../../Badge"; // plasmic-import: Zh0Xu99edL/component
 import "@plasmicapp/react-web/lib/plasmic.css";
 import "../plasmic__default_style.css"; // plasmic-import: global/defaultcss
 import "./plasmic_site_layout.css"; // plasmic-import: oH8FCw6CW4Lg76cBx26GoT/projectcss
@@ -72,7 +71,7 @@ function PlasmicAward__RenderFunc(props) {
           })}
         >
           <PlasmicSlot
-            defaultContents={"Honorable Mention at ACM-ICPC World Finals"}
+            defaultContents={""}
             value={args.title}
             className={classNames({
               "Award__slotTitle--baseMedium__sSzf1hTQV6_MVUpr": true,
@@ -90,7 +89,7 @@ function PlasmicAward__RenderFunc(props) {
           })}
         >
           <PlasmicSlot
-            defaultContents={"Orlando, USA"}
+            defaultContents={""}
             value={args.description}
             className={classNames({
               "Award__slotDescription--baseMedium__c78elhTQV6_MVUpr": true,
@@ -100,22 +99,7 @@ function PlasmicAward__RenderFunc(props) {
         </div>
       </div>
 
-      <PlasmicSlot
-        defaultContents={
-          <Badge
-            data-plasmic-name={"badge"}
-            data-plasmic-override={overrides.badge}
-            className={classNames({
-              Award__badge__QJFA4: true,
-              __wab_instance: true
-            })}
-            {...{}}
-          >
-            {"2011"}
-          </Badge>
-        }
-        value={args.badge}
-      />
+      <PlasmicSlot defaultContents={undefined} value={args.badge} />
     </li>
   );
 }
@@ -167,22 +151,6 @@ PlasmicAward.svg = function PlasmicAwardSvg(props) {
     args,
     overrides,
     forNode: "svg"
-  });
-};
-
-PlasmicAward.badge = function PlasmicAwardBadge(props) {
-  const { variants, args, overrides } = deriveRenderOpts(props, {
-    name: "badge",
-    descendantNames: [],
-    internalArgPropNames: PlasmicAward__ArgProps,
-    internalVariantPropNames: PlasmicAward__VariantProps
-  });
-
-  return PlasmicAward__RenderFunc({
-    variants,
-    args,
-    overrides,
-    forNode: "badge"
   });
 };
 

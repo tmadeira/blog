@@ -5,6 +5,11 @@ date: 2013-11-01T02:49:51+00:00
 url: /2013/10/como-baixar-videos-de-deutsche-welle-dw-de-e-outros-sites-que-usam-rtmp/
 categorias:
   - Dicas
+tags:
+  - rtmp
+  - wireshark
+  - video
+  - download
 ---
 
 **RTMP** ([Real Time Messaging Protocol][1]) é um protocolo desenvolvido pela Macromedia para fazer streaming de áudio e vídeo de um servidor para um Flash player.

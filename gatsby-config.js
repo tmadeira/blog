@@ -16,8 +16,14 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-remark-figure-caption`,
-          `gatsby-remark-prismjs`,
           `gatsby-remark-katex`,
+          `gatsby-remark-prismjs`,
+          {
+            resolve: `gatsby-remark-smartypants`,
+            options: {
+              dashes: `oldschool`,
+            },
+          },
         ],
       },
     },

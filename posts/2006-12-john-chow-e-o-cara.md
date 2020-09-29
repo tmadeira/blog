@@ -13,11 +13,11 @@ tags:
   - sociedade
 
 ---
-[John Chow][1] é um _blogueiro_ que está ganhando **bem**, talvez o suficiente pra viver de um _blog_. Ele [conta em seu blog][2] que ganhou US$ 355 em setembro, US$ 1362 em outubro e US$ 2140 em novembro. Mas John é um sujeito caridoso e ele escreveu que nunca foi sua intenção fazer dinheiro com o blog:
+[John Chow][1] é um _blogueiro_ que está ganhando **bem**, talvez o suficiente pra viver de um _blog_. Ele [conta em seu blog][2] que ganhou US\$ 355 em setembro, US\$ 1362 em outubro e US\$ 2140 em novembro. Mas John é um sujeito caridoso e ele escreveu que nunca foi sua intenção fazer dinheiro com o blog:
 
 > I have decided to donate the income from the blog to my church and other charities. John Chow dot Com is my personal blog and making a profit from it just seems strange to me. Please note, I am not downing anyone who makes money off his or her personal blog – I think that is great.
 
-Então, ele doou US$ 2000 para instituições de caridade e igrejas, para ajudar as pessoas e promover o natal de centenas de pobres.
+Então, ele doou US\$ 2000 para instituições de caridade e igrejas, para ajudar as pessoas e promover o natal de centenas de pobres.
 
 Assim como o [Rafael][3], não sei o que dizer. Achei que não existissem pessoas assim no mundo. A minha hipocrisia não me permitiria fazer isso com o meu dinheiro.
 

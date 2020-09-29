@@ -30,7 +30,7 @@ A **Lei da Atração**, tema principal (e na verdade o único) do filme, é uma 
 
 As crianças que vivem com AIDS na Uganda morrem porque não pensam positivamente. Porque, segundo o filme, ninguém que pensa positivo é miserável e a esse alguém não falta nada.
 
-A mensagem é super simples: Quer US$ 100,000? Ora, basta você pensar e acreditar. É um ladrão? Pense que a polícia não lhe pegará e ela não lhe pegará. Quer encontrar seu par perfeito? É só imaginar. Nada depende dos outros, é como se você vivesse no seu mundo e se você desejar o bem tudo de bom magicamente lhe acontecerá.
+A mensagem é super simples: Quer US\$ 100,000? Ora, basta você pensar e acreditar. É um ladrão? Pense que a polícia não lhe pegará e ela não lhe pegará. Quer encontrar seu par perfeito? É só imaginar. Nada depende dos outros, é como se você vivesse no seu mundo e se você desejar o bem tudo de bom magicamente lhe acontecerá.
 
 Sinceramente; pense na sua vida e me diga que a realidade é linda assim. Eu realmente gostaria qfadas onde o bonzinho sempre vence, a princesa encontra o príncipe encantado e tue fosse, mas se os loucos estudiosos de física quântica e visionários que participaram deste pseudofilme não vivessem em bolhas talvez eles pudessem enxergar que não, isso não faz sentido algum.
 

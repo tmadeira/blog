@@ -18,7 +18,7 @@ tags:
 ---
 Quem disse que a placa-mãe nova custaria [462 dólares][1] foi o suporte on-line da HP dos Estados Unidos. Eu deixei o _laptop_ em São José, numa [autorizada HP Brasil][2] pra ver o que eles podiam fazer por mim. Hoje eles me mandaram um orçamento de **3.222 reais**. Isso mesmo, eu não digitei errado: **três mil e duzentos e vinte e dois reais** para trocar minha placa-mãe. A única conclusão que eu consegui chegar é que o dólar tá valendo sete reais e eles me deram um pequeno desconto.
 
-Vejam bem: o laptop custou US$ 950. O conserto dele é 1,5x mais caro que ele inteiro!
+Vejam bem: o laptop custou US\$ 950. O conserto dele é 1,5x mais caro que ele inteiro!
 
 Com o dinheiro que eles querem, eu compro um Turion 64 X2, com o dobro de HD do meu e o dobro de memória RAM, e ainda [aqui em Floripa][3].
 

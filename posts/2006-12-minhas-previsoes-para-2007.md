@@ -45,7 +45,7 @@ tags:
   2. Meus _blogs_ começarão a render uns 100 dólares por mês e o Google me pagará mais de mil dólares no ano inteiro!
   3. Eu ganharei uma medalha de ouro na [Olimpíada Brasileira de Informática][8], assim como a [Carol][7], que vai viajar pra Campinas comigo.
   4. Em agosto, visitarei a Croácia [representando o Brasil][9].
-  5. Minha equipe (Carol, Kauê, Schneider, Red e eu) vencerá o [DNA][10], com ajuda de um monte de gente, e viajará para um local bem legal com R$ 10.000.
+  5. Minha equipe (Carol, Kauê, Schneider, Red e eu) vencerá o [DNA][10], com ajuda de um monte de gente, e viajará para um local bem legal com R\$ 10.000.
   6. Eu ganharei uma medalha de ouro na [Olimpíada Regional de Matemática][11].
   7. Eu e a Carol vamos completar um ano, o que não é muito importante já que completaremos vários outros depois.
   8. Eu passarei em primeiro lugar em **engenharia da computação** no vestibular da [UNICAMP][12]. Eu também passarei no [ITA][13], mas vou optar por cursar a UNICAMP.

@@ -28,7 +28,7 @@ Hoje, no SESC Pompéia, tem show de Charles da Flauta, Alessandro Penezzi e Dani
 
 Se der, devemos visitar o MASP hoje também, já que ontem tava fechado…
 
-Aqui em São Paulo as coisas são bem caras. Um aluguel de uma fita lançamento na Blockbuster é R$8,60! Três pedacinhos de frango numa padaria aqui embaixo do prédio da minha tia custam R$10,50! Chocolate quente, R$4,40! Mas ontem a gente encontrou um cara que vendia Suflair por R$1,00 no meio da Paulista. :)
+Aqui em São Paulo as coisas são bem caras. Um aluguel de uma fita lançamento na Blockbuster é R\$8,60! Três pedacinhos de frango numa padaria aqui embaixo do prédio da minha tia custam R\$10,50! Chocolate quente, R\$4,40! Mas ontem a gente encontrou um cara que vendia Suflair por R\$1,00 no meio da Paulista. :)
 
 ### Mais programas…
 

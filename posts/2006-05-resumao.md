@@ -42,7 +42,7 @@ Finalizado esse passo, reiniciei o computador bootando pelo CD do Slackware 10.0
 
 ### Desafio Nacional Acadêmico
 
-Esse ano vai acontecer pela primeira vez o [DNA][6]. É um dia com várias provas (segundo eles, _quase impossíveis_) solucionadas pela internet por equipes de cinco componentes. Tem prêmios para os três melhores colocados e já inscrevi minha equipe. A inscrição custa R$ 50,00. Quem puder, participe! É uma oportunidade legal…
+Esse ano vai acontecer pela primeira vez o [DNA][6]. É um dia com várias provas (segundo eles, _quase impossíveis_) solucionadas pela internet por equipes de cinco componentes. Tem prêmios para os três melhores colocados e já inscrevi minha equipe. A inscrição custa R\$ 50,00. Quem puder, participe! É uma oportunidade legal…
 
  [1]: http://olimpiada.ic.unicamp.br
  [2]: http://falcon-dark.blogspot.com

@@ -35,7 +35,7 @@ Não é um bom problema? Tente resolver antes de continuar a leitura.
 
 Certo. Para manter o texto divertido (e possivelmente confuso, confesso) prosseguirei de trás pra frente.
 
-[Tuitei][1] esse problema às 15h de quinta-feira. Antes eu havia passado algumas horas caído por causa do cansaço. Antes eu [tuitei][2] que nunca tinha pensado em inversas de funções com módulo. Isso porque eu [determinei a inversa][3] dessa [estranha função][4] que atribui uma quantidade inteira de dinheiro (em reais) a uma quantidade de cervejas. Cheguei a essa estranha função porque algumas horas antes estava vendendo fichas de cervejas na [festa da Calourada Unificada][5] do DCE da USP. Uma cerveja custava R$ 2,00 e três cervejas custavam R$ 5,00.
+[Tuitei][1] esse problema às 15h de quinta-feira. Antes eu havia passado algumas horas caído por causa do cansaço. Antes eu [tuitei][2] que nunca tinha pensado em inversas de funções com módulo. Isso porque eu [determinei a inversa][3] dessa [estranha função][4] que atribui uma quantidade inteira de dinheiro (em reais) a uma quantidade de cervejas. Cheguei a essa estranha função porque algumas horas antes estava vendendo fichas de cervejas na [festa da Calourada Unificada][5] do DCE da USP. Uma cerveja custava R\$ 2,00 e três cervejas custavam R\$ 5,00.
 
 Simplificando o caminho, agora de frente pra trás: Trabalhar de caixa correndo pra contar dinheiro (havia muita fila) inseriu na minha mente uma estranha função que me permitiu, mesmo com extremo cansaço, criar um problema muito divertido de matemática. (Eu passei o ano passado inteiro no IME e não inventei nenhum problema que eu tenha gostado.)
 

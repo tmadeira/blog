@@ -13,7 +13,7 @@ tags:
   - política
 
 ---
-R$ 140.000,00 reais por mês. É a previsão do dinheiro que o PCO ganhará do fundo partidário (= nossos impostos). Com o fim da Cláusula de Barreira, qualquer minipartido ganha uma grana.
+R\$ 140.000,00 reais por mês. É a previsão do dinheiro que o PCO ganhará do fundo partidário (= nossos impostos). Com o fim da Cláusula de Barreira, qualquer minipartido ganha uma grana.
 
 O Rafael [sugere que fundemos um partido][1]. O **PBLOG** seria o partido oficial da Blogosfera Brasileira. O Celso, [babando pelo dinheiro][2], consultou o [Google][3] e descobriu [como criar um partido político no Brasil][4]:
 

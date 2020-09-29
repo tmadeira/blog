@@ -19,9 +19,9 @@ tags:
   - wordpress
 
 ---
-Eu já conhecia a [Dreamhost][1] há algum tempo. Já cliquei algumas vezes no link da página do [Bruno Torres][2], que me levava pra esse servidor “louco” que dá quase 5gb de espaço, 120gb de banda e o preço é igual o da [GlobalHosts][3] (aquela que eu usava até mês passado), mas depois de me confrontar com a **taxa de setup** (US$ 50!) tinha resolvido que não precisava de tudo isso (pô, o servidor tem o dobro de espaço em disco que a [Nerdhost][4] tinha de banda) e não valia a pena.
+Eu já conhecia a [Dreamhost][1] há algum tempo. Já cliquei algumas vezes no link da página do [Bruno Torres][2], que me levava pra esse servidor “louco” que dá quase 5gb de espaço, 120gb de banda e o preço é igual o da [GlobalHosts][3] (aquela que eu usava até mês passado), mas depois de me confrontar com a **taxa de setup** (US\$ 50!) tinha resolvido que não precisava de tudo isso (pô, o servidor tem o dobro de espaço em disco que a [Nerdhost][4] tinha de banda) e não valia a pena.
 
-Mas acontece que hoje, procurando por servidores de hospedagem com SSH, encontro um post de semana passada do [Danilo Medeiros][5], no [DigitalMinds][5] com justamente o que eu sonhava: [DreamHost sem taxa de setup][6]. O negócio é bom pra ele e pra mim: Ele ganha US$ 47,00 por eu ter me cadastrado pelo site dele e eu ganho os outros US$ 50,00 (na Dreamhost, quando alguém se cadastra, o cara que sugeriu o site a ele ganha US$ 97,00!). Mas pra mim é melhor, porque finalmente eu tenho um servidor confiável (conheço vários usuários felizes), barato e tem bem mais recursos até do que eu precisava.
+Mas acontece que hoje, procurando por servidores de hospedagem com SSH, encontro um post de semana passada do [Danilo Medeiros][5], no [DigitalMinds][5] com justamente o que eu sonhava: [DreamHost sem taxa de setup][6]. O negócio é bom pra ele e pra mim: Ele ganha US\$ 47,00 por eu ter me cadastrado pelo site dele e eu ganho os outros US\$ 50,00 (na Dreamhost, quando alguém se cadastra, o cara que sugeriu o site a ele ganha US\$ 97,00!). Mas pra mim é melhor, porque finalmente eu tenho um servidor confiável (conheço vários usuários felizes), barato e tem bem mais recursos até do que eu precisava.
 
 _Nessa semana aconteceram muitas coisas…_ Vou começar falando do [Ubuntu][7]. A distribuição, com fama de simples, impressionou até a minha mãe!
 

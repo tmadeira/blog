@@ -123,7 +123,7 @@ Se você separar todas as funções que encontramos na tabela de preços do prob
 
 Uma forma de resolver o problema é fazer com que as interseções sejam nos pontos onde o preço das impressões muda. Isso se faz movendo cada uma das funções um pouquinho pra cima, isso é, adicionando constantes às funções de primeiro grau.
 
-Por exemplo: 3 cópias custam R$ 2,10. Se a partir de 4 cópias quisermos que as cópias custem R$ 0,50 em vez de R$ 0,70, podemos forçar que 4 cópias custem R$ 2,10 + R$ 0,50 = R$ 2,60. R$ 2,60 é R$ 2,00 + R$ 0,60. Logo, em vez de usarmos a função de preço $f(x) = 0.5x$ para _x_ entre 4 e 10, podemos usar a função $f(x) = 0.5x + 0.6$.
+Por exemplo: 3 cópias custam R\$ 2,10. Se a partir de 4 cópias quisermos que as cópias custem R\$ 0,50 em vez de R\$ 0,70, podemos forçar que 4 cópias custem R\$ 2,10 + R\$ 0,50 = R\$ 2,60. R\$ 2,60 é R\$ 2,00 + R\$ 0,60. Logo, em vez de usarmos a função de preço $f(x) = 0.5x$ para $x$ entre 4 e 10, podemos usar a função $f(x) = 0.5x + 0.6$.
 
 Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de preços final fica assim:
 

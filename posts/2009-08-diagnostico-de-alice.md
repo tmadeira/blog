@@ -18,7 +18,7 @@ tags:
 ---
 O [problema do meu Amazon PC Slim L92][1] é uma incompatibilidade da sua placa-mãe com seu processador.
 
-Fontes afirmam que testes realizados na [Amazon PC][2] revelaram que trocando o meu processador (Merom T5750) por um Penryn T8100 (US$ 230 nos EUA) ou T9300 (US$ 350 nos EUA) não há mais problema pra usar o computador com 4GB de memória RAM e um sistema operacional de 64 bits.
+Fontes afirmam que testes realizados na [Amazon PC][2] revelaram que trocando o meu processador (Merom T5750) por um Penryn T8100 (US\$ 230 nos EUA) ou T9300 (US\$ 350 nos EUA) não há mais problema pra usar o computador com 4GB de memória RAM e um sistema operacional de 64 bits.
 
 É evidente que a culpa originalmente não era da Amazon PC, mas da [Compal][3], que foi capaz de fabricar e vender um laptop com processador incompatível com a placa-mãe. Porém, a Amazon PC não só não testou suficientemente o produto, como sua política de solução do problema foi escondê-lo [aplicando este hack][4] no software.
 

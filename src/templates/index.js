@@ -7,9 +7,14 @@ import Layout from "../components/Layout";
 import Pagination from "../components/Pagination";
 
 export default function ({ data, pageContext }) {
+  let title = "Blog";
+  if (pageContext.humanPageNumber !== 1) {
+    title += ` (página ${pageContext.humanPageNumber})`;
+  }
+
   return (
     <Layout>
-      <Head title="Blog" />
+      <Head title={title} />
 
       {data.allMarkdownRemark.edges.map((edge, key) => (
         <Article key={key} post={edge.node} />

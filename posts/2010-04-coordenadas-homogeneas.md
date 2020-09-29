@@ -56,7 +56,9 @@ O problema geométrico está no segundo passo: determinar a reta de simetria ent
 
 Determinar o ponto médio sem usar ponto flutuante seria trivial de qualquer forma (basta multiplicar todas as coordenadas por dois), mas com coordenadas homogêneas isso é desnecessário. É fácil ver que o ponto médio $m$ entre $p = [w_0, x_0, y_0]$ e $q = [w_1, x_1, y_1]$ é:
 
-$$m = [ 2 w_0 w_1 , w_1 x_0 + w_0 x_1 , w_1 y_0 + w_0 q_1 ]$$
+$$
+m = [ 2 w_0 w_1 , w_1 x_0 + w_0 x_1 , w_1 y_0 + w_0 q_1 ]
+$$
 
 ```cpp
 ponto ponto_medio(ponto p, ponto q) {
@@ -66,11 +68,15 @@ ponto ponto_medio(ponto p, ponto q) {
 
 Três pontos $[w_0, x_0, y_0]$, $[w_1, x_1, y_1]$, $[w_2, x_2, y_2]$ são colineares se
 
-$$\left| \begin{array}{ccc} w_0 & x_0 & y_0 \\ w_1 & x_1 & y_1 \\ w_2 & x_2 & y_2 \end{array} \right| = 0$$
+$$
+\left| \begin{array}{ccc} w_0 & x_0 & y_0 \\ w_1 & x_1 & y_1 \\ w_2 & x_2 & y_2 \end{array} \right| = 0
+$$
 
 , o que nos permite concluir que a reta $r = \langle W, X, Y \rangle$ que passa por $p = [ w_0, x_0, y_0 ]$ e $q = [ w_1, x_1, y_1 ]$ é:
 
-$$r = \langle +x_0 y_1 - y_0 x_1, -w_0 y_1 + w_1 y_0, w_0 x_1 - w_1 x_0\rangle$$
+$$
+r = \langle +x_0 y_1 - y_0 x_1, -w_0 y_1 + w_1 y_0, w_0 x_1 - w_1 x_0\rangle
+$$
 
 Logo:
 

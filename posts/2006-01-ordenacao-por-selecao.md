@@ -269,15 +269,23 @@ Você pode estar se perguntando porque eu coloquei este custo para a linha 5. Af
 
 #### Primeiro cálculo
 
-$$T(n) = n + (n-1) + (\sum\_{j=1}^n n) + (\sum\\_{j=1}^n 1) \times 2 + 0 \times 3 + (n-1) \times 3 + 0$$
+$$
+T(n) = n + (n-1) + (\sum\_{j=1}^n n) + (\sum\\_{j=1}^n 1) \times 2 + 0 \times 3 + (n-1) \times 3 + 0
+$$
 
-$$T(n) = n^{2} + 6n - 3 = \Theta{}(n^2)$$
+$$
+T(n) = n^{2} + 6n - 3 = \Theta{}(n^2)
+$$
 
 #### Segundo cálculo
 
-$$T(n) = n + (n-1) + (\sum\_{j=1}^n n) + (\sum\\_{j=1}^n 1) \times 3 + 0 \times 2 + (n-1) \times 3 + 0$$
+$$
+T(n) = n + (n-1) + (\sum\_{j=1}^n n) + (\sum\\_{j=1}^n 1) \times 3 + 0 \times 2 + (n-1) \times 3 + 0
+$$
 
-$$T(n) = 1,5 n^{2} + 6,5 n - 3 = \Theta{}(n^2)$$
+$$
+T(n) = 1,5 n^{2} + 6,5 n - 3 = \Theta{}(n^2)
+$$
 
 #### Conclusão
 

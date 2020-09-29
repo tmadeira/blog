@@ -61,7 +61,9 @@ Exatamente o mesmo número que a **Linha 2**, mas sem “os últimos condicionai
 
 Imprimir algo na tela pode demorar mais do que fazer uma operação, mas a análise de algoritmos é uma coisa bem _rústica_. Desprezamos todas as constantes, com isso só levando a sério a informação importante: neste caso, apenas $n$. Então agora, vamos escrever o tempo de execução do algoritmo, que é a soma dos tempos de execução para cada instrução executada.
 
-$$T(n) = (n + 1) + (\sum\_{i=1}^{n} + n) + (\sum\_{i=1}^{n})$$
+$$
+T(n) = (n + 1) + (\sum\_{i=1}^{n} + n) + (\sum\_{i=1}^{n})
+$$
 
 _Os parênteses não são necessários, mas coloquei para ajudar na visualização separando o custo de cada instrução._
 
@@ -137,11 +139,15 @@ Vamos ver em que notação ele pode se encaixar, sabendo que $g(n)$ seria a **or
 
 Testamos primeiro se ele encaixa na função $\Theta{}(n^{2})$. Vamos substituir $f(n)$ e  $g(n)$ (naquela função ali em cima, onde diz **A notação $\Theta{}$**) pelos valores que conhecemos.
 
-$$c\_{1}n^{2} \leq{} n^{2} + 3 n \leq{} c\_{2} n^{2}$$
+$$
+c\_{1}n^{2} \leq{} n^{2} + 3 n \leq{} c\_{2} n^{2}
+$$
 
 Se dividirmos tudo por $n^{2}$, obteremos:
 
-$$c\_{1} \leq{} 1 + \frac{3}{n} \leq{} c\_{2}$$
+$$
+c\_{1} \leq{} 1 + \frac{3}{n} \leq{} c\_{2}
+$$
 
 Agora separaremos as inequações.
 

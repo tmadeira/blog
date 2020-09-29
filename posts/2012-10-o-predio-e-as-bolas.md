@@ -40,19 +40,27 @@ A cada passo numa busca binária você divide o intervalo de possibilidades por 
 
 Por que logaritmo de um bilhão na base dois? Como eu comentei anteriormente, a cada número que eu chuto e você diz se é maior ou menor do que o resultado eu corto meu intervalo por dois. Portanto, o número de chutes necessários (no pior caso) é precisamente a quantidade de vezes que preciso dividir um bilhão por dois até chegar a um (até sobrar um único número possível para eu chutar, que necessariamente vai ser o número que você pensou).
 
-$$1000000000 / 2 / 2 / \cdots / 2 = 1$$
+$$
+1000000000 / 2 / 2 / \cdots / 2 = 1
+$$
 
 Nosso problema é encontrar quantos 2 tem aí. Dividir um número por 2 _k_ vezes é o mesmo que dividir por $2^k$. Logo, nosso problema é encontrar quanto vale _k_:
 
-$$\frac{1000000000}{2^k} = 1$$
+$$
+\frac{1000000000}{2^k} = 1
+$$
 
 Multiplicando os dois lados da igualdade por $2^k$, temos:
 
-$$1000000000 = 2^k$$
+$$
+1000000000 = 2^k
+$$
 
 Tirando o logaritmo na base 2, concluímos:
 
-$$\log_2 1000000000 = k$$
+$$
+\log_2 1000000000 = k
+$$
 
 Ou seja, o logaritmo de _n_ na base 2 é o número de vezes que precisamos dividir _n_ por 2 para chegar em 1. Voltando ao problema inicial, como $log_2 100 < 7$, precisaremos jogar no máximo 7 bolas para determinar a partir de qual andar a bola quebrar. Quando você jogar uma bola, se ela quebrar é a mesma coisa que o seu amigo que pensou num número dizendo _"O número que eu pensei é menor."_ Se ela não quebrar, é equivalente ao seu amigo dizendo _"O número que eu pensei é maior."_
 

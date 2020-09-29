@@ -58,7 +58,9 @@ Há diferentes formas de medir o quão longe um valor se encontra do seu valor e
 
 Se $x_i$ é o número de participantes que devem se credenciar na $i$-ésima mesa (para $i$ variando de 1 a $k$), então o desvio padrão dessa solução é:
 
-$$\sigma := \sqrt{\frac{1}{k} \sum_{i=1}^k \left(x_i - \frac{t}{k}\right)^2}.$$
+$$
+\sigma := \sqrt{\frac{1}{k} \sum_{i=1}^k \left(x_i - \frac{t}{k}\right)^2}.
+$$
 
 > **Exemplo:** Suponha que temos 42 nomes que começam com A, 25 nomes que começam com B e 33 nomes que começam com C. Então temos $a_1 = 42$, $a_2 = 25$, $a_3 = 33$ e $t = a_1 + a_2 + a_3 = 42 + 25 + 33 = 100$. Suponha que precisamos dividir esses nomes em duas mesas de credenciamento, portanto $k = 2$. Podemos dividir as pessoas de duas formas diferentes:
 >
@@ -69,11 +71,15 @@ $$\sigma := \sqrt{\frac{1}{k} \sum_{i=1}^k \left(x_i - \frac{t}{k}\right)^2}.$$
 >
 > Então o desvio padrão da primeira solução é
 >
-> $$\sigma_1 = \sqrt{\frac{1}{2} ((42-50)^2 + (58-50)^2)} = 8$$
+> $$
+> \sigma_1 = \sqrt{\frac{1}{2} ((42-50)^2 + (58-50)^2)} = 8
+> $$
 >
 > e o desvio padrão da segunda solução é
 >
-> $$\sigma_2 = \sqrt{\frac{1}{2} ((67-50)^2 + (33-50)^2)}  = 17.$$
+> $$
+> \sigma_2 = \sqrt{\frac{1}{2} ((67-50)^2 + (33-50)^2)}  = 17.
+> $$
 >
 > Como $\sigma_1 < \sigma_2$, dizemos que a primeira solução é _mais equilibrada_ do que a segunda. Nosso objetivo, portanto, é encontrar uma solução que minimize o desvio padrão.
 
@@ -121,11 +127,15 @@ Afirmo que o algoritmo guloso apresentado acima não é capaz de encontrar a sol
 >
 > O desvio padrão dessa solução é:
 >
-> $$\sigma_g = \sqrt{\frac{1}{3} (3^2 + 13^2 + 10^2)} \approx 16.67.$$
+> $$
+> \sigma_g = \sqrt{\frac{1}{3} (3^2 + 13^2 + 10^2)} \approx 16.67.
+> $$
 >
 > Essa solução não é ótima para essa entrada, porque se tivéssemos colocado o primeiro corte entre A e B conseguiríamos um desvio padrão menor:
 >
-> $$\sigma_\star = \sqrt{\frac{1}{3} (5^2 + 5^2 + 10^2)} \approx 12.25.$$
+> $$
+> \sigma_\star = \sqrt{\frac{1}{3} (5^2 + 5^2 + 10^2)} \approx 12.25.
+> $$
 >
 > ![Ilustração da solução ótima, que não foi encontrada pelo algoritmo guloso.](/wp-content/uploads/2020/03/mesas-f.png)
 >
@@ -153,7 +163,9 @@ Essa recursão tem alguns casos-base para os quais podemos retornar imediatament
 
 Para os demais $s, m$, temos:
 
-$$f(s, m) = \min_{i=s}^{n-1}\left(\left(\mu - \sum_{j=s}^{i} a_j\right)^2 + f(i+1, m-1)\right).$$
+$$
+f(s, m) = \min_{i=s}^{n-1}\left(\left(\mu - \sum_{j=s}^{i} a_j\right)^2 + f(i+1, m-1)\right).
+$$
 
 Ou seja, fazemos todos os cortes possíveis (eles são representados por $i$) e minimizamos a variância correspondente a fazê-los: estamos somando a variância do conjunto $[s, i]$ (primeiro parâmetro da soma) com a variância da solução ótima para o conjunto $[i+1, n)$ com $m-1$ mesas (segundo parâmetro da soma).
 
@@ -200,11 +212,15 @@ Testar todas as possibilidades costuma levar um tempo exponencial no tamanho da 
 
 > **Um esboço relaxado para computar o tempo de execução da força bruta:** Para medir o custo de um algoritmo recursivo, temos que construir e resolver uma recorrência. No nosso caso, temos:
 >
-> $$T(n, k) = \sum_{i=1}^n T(n-i, k-1),$$
+> $$
+> T(n, k) = \sum_{i=1}^n T(n-i, k-1),
+> $$
 >
 > onde $T(n, k)$ denota o número de operações necessárias para resolver o problema com entrada $n, k$. Com alguma manipulação algébrica, podemos ver que, para $n > 1$, vale:
 >
-> $$T(n, k) = T(n-1, k) + T(n-1, k-1),$$
+> $$
+> T(n, k) = T(n-1, k) + T(n-1, k-1),
+> $$
 >
 > que é exatamente a propriedade dos coeficientes binomiais conforme conferimos no [Triângulo de Pascal](https://tiagomadeira.com/2011/05/triangulo-de-pascal-mod-m/). Os casos-base são um pouco diferentes dos coeficientes binomiais, por isso não se trata exatamente de dizer que o número de operações da solução seja ${n \choose k}$, mas dá para dizer que se aproxima disso por alguma constante. Portanto, o custo é exponencial no tamanho da entrada, na ordem de $2^n$.
 

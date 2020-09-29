@@ -25,7 +25,9 @@ Um algoritmo é um procedimento computacional definido que recebe um ou mais val
 
 Vamos supôr por exemplo que temos a função:
 
-$$f(x) = \frac{x^{2}}{3}$$
+$$
+f(x) = \frac{x^{2}}{3}
+$$
 
 A sua entrada é o **x** e a sua saída é o **y** (ou **f(x)**, o valor que a função retorna).
 

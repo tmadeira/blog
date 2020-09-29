@@ -90,11 +90,15 @@ Depois de pensar um pouco, conclui-se que:
 
 #### Termo geral da PA
 
-$$a\_{n} = a\_{1} + (n-1).r$$
+$$
+a\_{n} = a\_{1} + (n-1).r
+$$
 
 #### Soma de PA
 
-$$S\_{n} = (a\_{1}+a\_{n}).\frac{n}{2}$$
+$$
+S\_{n} = (a\_{1}+a\_{n}).\frac{n}{2}
+$$
 
 2. Sabemos quanto vale **n** (o número de pilhas, número de elementos da PA) e conseguimos calcular a **soma de todos os elementos** (podemos fazer isso até durante o loop da entrada, certo?)
 
@@ -102,9 +106,13 @@ $$S\_{n} = (a\_{1}+a\_{n}).\frac{n}{2}$$
 
 4. Substituindo o que sabemos nas fórmulas conseguimos formar um sistema de equações básico e desta forma torna-se fácil descobrir o valor do primeiro e do último termo da PA ($a\_{1}$ e $a\_{n}$). Resumindo um pouco os cálculos, depois de alguma manipulação algébrica você chega a:
 
-$$a\_{n} = \frac{\frac{2.S\_{n}}{n}+n-1}{2}$$
+$$
+a\_{n} = \frac{\frac{2.S\_{n}}{n}+n-1}{2}
+$$
 
-$$a\_{1} = 1 + a\_{n} - n$$
+$$
+a\_{1} = 1 + a\_{n} - n
+$$
 
 5. Agora que já sabemos onde começa e onde termina a escada basta fazer um loop em cada fila de blocos e adicionar à uma variável _movimentos_ a quantidade de quadradinhos que estão sobrando nesta fileira (por exemplo, na primeira fileira da figura do enunciado está sobrando três quadradinhos para chegar ao $a\_{1}=2$). Ao mesmo tempo, adicionamos à outra variável (_moves_) a quantidade de quadradinhos que devem ser retirados **ou** colocados na fileira (porque depois se esta variável não for igual a 0 imprimimos -1). Ficou claro?
 

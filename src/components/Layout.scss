@@ -12,6 +12,10 @@ $lighter-gray: #eee;
   padding: 0;
 }
 
+html, body, #___gatsby, #___gatsby > * {
+  height: 100%;
+}
+
 a {
   color: inherit;
   text-decoration: none;

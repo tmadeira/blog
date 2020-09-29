@@ -1,4 +1,5 @@
 import * as React from 'react';
+import {Link} from 'gatsby';
 import { PlasmicLayout } from "./plasmic/site_layout/PlasmicLayout";
 
 import './Layout.scss';
@@ -13,9 +14,12 @@ export default function Layout(props) {
       style: {position: 'fixed'},
     }}
 
-    title="Tiago Madeira"
+    title={<Link to="/">Tiago Madeira</Link>}
 
-    menuItem1={<MenuItem to="/">About</MenuItem>}
-    menuItem2={<MenuItem to="/blog">Blog</MenuItem>}
+    menu={<>
+      <MenuItem to="/">Home</MenuItem>
+      <MenuItem to="/blog">Blog</MenuItem>
+      <MenuItem to="/cv">CV</MenuItem>
+    </>}
   />;
 }

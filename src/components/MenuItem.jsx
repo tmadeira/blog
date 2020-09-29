@@ -4,9 +4,11 @@ import {Link} from 'gatsby';
 
 function MenuItem({to, ...props}) {
   return (
-    <Link to={to} style={{display: 'flex'}}>
-      <PlasmicMenuItem {...props} />
-    </Link>
+    <li style={{display: 'flex'}}>
+      <Link to={to} style={{display: 'flex'}}>
+        <PlasmicMenuItem {...props} />
+      </Link>
+    </li>
   );
 }
 

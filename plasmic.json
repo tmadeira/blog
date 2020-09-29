@@ -176,6 +176,18 @@
           },
           "cssFilePath": "plasmic/site_layout/PlasmicSectionItem.css",
           "scheme": "blackbox"
+        },
+        {
+          "id": "pt1RbgzI3D",
+          "name": "Pagination",
+          "type": "managed",
+          "projectId": "oH8FCw6CW4Lg76cBx26GoT",
+          "renderModuleFilePath": "plasmic/site_layout/PlasmicPagination.jsx",
+          "importSpec": {
+            "modulePath": "Pagination.jsx"
+          },
+          "cssFilePath": "plasmic/site_layout/PlasmicPagination.css",
+          "scheme": "blackbox"
         }
       ],
       "icons": [

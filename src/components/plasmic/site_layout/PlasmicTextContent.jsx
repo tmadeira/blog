@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import { ScreenContext } from "../PlasmicGlobalVariant__Screen"; // plasmic-import: fOWX3a-rE7c/globalVariant
 import "@plasmicapp/react-web/lib/plasmic.css";
@@ -26,7 +26,7 @@ export const PlasmicTextContent__ArgProps = new Array("children");
 function PlasmicTextContent__RenderFunc(props) {
   const { variants, args, overrides, forNode } = props;
   const globalVariants = {
-    screen: React.useContext(ScreenContext)
+    screen: React.useContext(ScreenContext),
   };
 
   return (
@@ -40,7 +40,7 @@ function PlasmicTextContent__RenderFunc(props) {
         "TextContent__root--baseMedium__PYF4afFuoP_MVUpr": true,
         TextContent__root__PYF4a: true,
         "plasmic-default__all": true,
-        "plasmic-default__div": true
+        "plasmic-default__div": true,
       })}
     >
       <PlasmicSlot
@@ -50,7 +50,7 @@ function PlasmicTextContent__RenderFunc(props) {
         value={args.children}
         className={classNames({
           "TextContent__slotChildren--baseMedium__s4_sIfFuoP_MVUpr": true,
-          TextContent__slotChildren__s4_sI: true
+          TextContent__slotChildren__s4_sI: true,
         })}
       />
     </div>
@@ -80,14 +80,14 @@ export const PlasmicTextContent = function PlasmicTextContentRoot(props) {
     name: "root",
     descendantNames: ["root"],
     internalArgPropNames: PlasmicTextContent__ArgProps,
-    internalVariantPropNames: PlasmicTextContent__VariantProps
+    internalVariantPropNames: PlasmicTextContent__VariantProps,
   });
 
   return PlasmicTextContent__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 

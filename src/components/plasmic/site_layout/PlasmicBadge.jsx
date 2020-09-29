@@ -12,7 +12,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
 import "../plasmic__default_style.css"; // plasmic-import: global/defaultcss
@@ -40,7 +40,7 @@ function PlasmicBadge__RenderFunc(props) {
 
         Badge__root__HcdhM: true,
         "plasmic-default__all": true,
-        "plasmic-default__div": true
+        "plasmic-default__div": true,
       })}
     >
       <div
@@ -49,7 +49,7 @@ function PlasmicBadge__RenderFunc(props) {
         className={classNames({
           Badge__box__DvTjy: true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         <PlasmicSlot
@@ -63,7 +63,7 @@ function PlasmicBadge__RenderFunc(props) {
               "featured"
             ),
 
-            Badge__slotChildren__86nGw: true
+            Badge__slotChildren__86nGw: true,
           })}
         />
       </div>
@@ -94,14 +94,14 @@ export const PlasmicBadge = function PlasmicBadgeRoot(props) {
     name: "root",
     descendantNames: ["root", "box"],
     internalArgPropNames: PlasmicBadge__ArgProps,
-    internalVariantPropNames: PlasmicBadge__VariantProps
+    internalVariantPropNames: PlasmicBadge__VariantProps,
   });
 
   return PlasmicBadge__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 
@@ -110,14 +110,14 @@ PlasmicBadge.box = function PlasmicBadgeBox(props) {
     name: "box",
     descendantNames: ["box"],
     internalArgPropNames: PlasmicBadge__ArgProps,
-    internalVariantPropNames: PlasmicBadge__VariantProps
+    internalVariantPropNames: PlasmicBadge__VariantProps,
   });
 
   return PlasmicBadge__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "box"
+    forNode: "box",
   });
 };
 

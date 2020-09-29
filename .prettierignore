@@ -3,3 +3,4 @@ node_modules
 public
 site
 src/components/plasmic
+src/components/plasmic-tokens.theo.json

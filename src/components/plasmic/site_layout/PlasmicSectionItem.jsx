@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
 import "../plasmic__default_style.css"; // plasmic-import: global/defaultcss
@@ -40,7 +40,7 @@ function PlasmicSectionItem__RenderFunc(props) {
       className={classNames({
         SectionItem__root__vQUdQ: true,
         "plasmic-default__all": true,
-        "plasmic-default__div": true
+        "plasmic-default__div": true,
       })}
     >
       <div
@@ -48,7 +48,7 @@ function PlasmicSectionItem__RenderFunc(props) {
         className={classNames({
           SectionItem__box__9E2uC: true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         <PlasmicSlot
@@ -56,7 +56,7 @@ function PlasmicSectionItem__RenderFunc(props) {
           value={args.title}
           className={classNames({
             "SectionItem__slotTitle--baseMedium___nVULYrWvl_MVUpr": true,
-            SectionItem__slotTitle___nVUL: true
+            SectionItem__slotTitle___nVUL: true,
           })}
         />
 
@@ -64,7 +64,7 @@ function PlasmicSectionItem__RenderFunc(props) {
           className={classNames({
             SectionItem__box__e1X66: true,
             "plasmic-default__all": true,
-            "plasmic-default__div": true
+            "plasmic-default__div": true,
           })}
         >
           <PlasmicSlot defaultContents={undefined} value={args.badge} />
@@ -76,7 +76,7 @@ function PlasmicSectionItem__RenderFunc(props) {
         value={args.subtitle}
         className={classNames({
           "SectionItem__slotSubtitle--baseMedium__OS36hYrWvl_MVUpr": true,
-          SectionItem__slotSubtitle__OS36h: true
+          SectionItem__slotSubtitle__OS36h: true,
         })}
       />
 
@@ -85,7 +85,7 @@ function PlasmicSectionItem__RenderFunc(props) {
         value={args.description}
         className={classNames({
           "SectionItem__slotDescription--baseMedium__EDhTxYrWvl_MVUpr": true,
-          SectionItem__slotDescription__EDhTx: true
+          SectionItem__slotDescription__EDhTx: true,
         })}
       />
 
@@ -94,7 +94,7 @@ function PlasmicSectionItem__RenderFunc(props) {
         value={args.subdescription}
         className={classNames({
           "SectionItem__slotSubdescription--baseMedium__55Z1tYrWvl_MVUpr": true,
-          SectionItem__slotSubdescription__55Z1t: true
+          SectionItem__slotSubdescription__55Z1t: true,
         })}
       />
     </div>
@@ -124,14 +124,14 @@ export const PlasmicSectionItem = function PlasmicSectionItemRoot(props) {
     name: "root",
     descendantNames: ["root"],
     internalArgPropNames: PlasmicSectionItem__ArgProps,
-    internalVariantPropNames: PlasmicSectionItem__VariantProps
+    internalVariantPropNames: PlasmicSectionItem__VariantProps,
   });
 
   return PlasmicSectionItem__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 

@@ -1,3 +1,5 @@
+const { paginate } = require("gatsby-awesome-pagination");
+
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
 
@@ -29,5 +31,13 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
         url: node.frontmatter.url,
       },
     });
+  });
+
+  paginate({
+    createPage,
+    items: result.data.allPosts.edges.map(({ node }) => node),
+    itemsPerPage: 5,
+    pathPrefix: "/blog",
+    component: require.resolve(`./src/templates/index.js`),
   });
 };

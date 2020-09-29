@@ -4,8 +4,9 @@ import { graphql } from "gatsby";
 import Article from "../components/Article";
 import Head from "../components/Head";
 import Layout from "../components/Layout";
+import Pagination from "../components/Pagination";
 
-export default function ({ data }) {
+export default function ({ data, pageContext }) {
   return (
     <Layout>
       <Head title="Blog" />
@@ -13,15 +14,18 @@ export default function ({ data }) {
       {data.allMarkdownRemark.edges.map((edge, key) => (
         <Article key={key} post={edge.node} />
       ))}
+
+      <Pagination ctx={pageContext} />
     </Layout>
   );
 }
 
 export const pageQuery = graphql`
-  {
+  query($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
-      limit: 5
       sort: { fields: frontmatter___date, order: DESC }
+      skip: $skip
+      limit: $limit
     ) {
       edges {
         node {

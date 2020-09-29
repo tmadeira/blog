@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import TextContent from "../../TextContent"; // plasmic-import: cLfqUBakSC/component
 import TagList from "../../TagList"; // plasmic-import: 5P9Z-2oNX3/component
@@ -36,7 +36,7 @@ function PlasmicArticle__RenderFunc(props) {
         "Article__root--baseMedium__AHmRZz0TSU_MVUpr": true,
         Article__root__AHmRZ: true,
         "plasmic-default__all": true,
-        "plasmic-default__article": true
+        "plasmic-default__article": true,
       })}
     >
       <h1
@@ -46,7 +46,7 @@ function PlasmicArticle__RenderFunc(props) {
           "Article__title--baseMedium__2ETOgz0TSU_MVUpr": true,
           Article__title__2ETOg: true,
           "plasmic-default__all": true,
-          "plasmic-default__h1": true
+          "plasmic-default__h1": true,
         })}
       >
         <PlasmicSlot
@@ -54,7 +54,7 @@ function PlasmicArticle__RenderFunc(props) {
           value={args.title}
           className={classNames({
             "Article__slotTitle--baseMedium__4AoPvz0TSU_MVUpr": true,
-            Article__slotTitle__4AoPv: true
+            Article__slotTitle__4AoPv: true,
           })}
         />
       </h1>
@@ -66,7 +66,7 @@ function PlasmicArticle__RenderFunc(props) {
           "Article__date--baseMedium__G2s7ez0TSU_MVUpr": true,
           Article__date__G2s7e: true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         <PlasmicSlot
@@ -74,7 +74,7 @@ function PlasmicArticle__RenderFunc(props) {
           value={args.date}
           className={classNames({
             "Article__slotDate--baseMedium__dZG6Ez0TSU_MVUpr": true,
-            Article__slotDate__dZG6E: true
+            Article__slotDate__dZG6E: true,
           })}
         />
       </div>
@@ -86,7 +86,7 @@ function PlasmicArticle__RenderFunc(props) {
           "Article__content--baseMedium__lMoNrz0TSU_MVUpr": true,
           Article__content__lMoNr: true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         <PlasmicSlot
@@ -96,7 +96,7 @@ function PlasmicArticle__RenderFunc(props) {
               data-plasmic-override={overrides.textContent}
               className={classNames({
                 Article__textContent__dUZP6: true,
-                __wab_instance: true
+                __wab_instance: true,
               })}
               {...{}}
             ></TextContent>
@@ -111,7 +111,7 @@ function PlasmicArticle__RenderFunc(props) {
         className={classNames({
           "Article__tags--baseMedium__ldbiSz0TSU_MVUpr": true,
           Article__tags__ldbiS: true,
-          __wab_instance: true
+          __wab_instance: true,
         })}
         {...{}}
       ></TagList>
@@ -142,14 +142,14 @@ export const PlasmicArticle = function PlasmicArticleRoot(props) {
     name: "root",
     descendantNames: ["root", "content", "textContent", "tags"],
     internalArgPropNames: PlasmicArticle__ArgProps,
-    internalVariantPropNames: PlasmicArticle__VariantProps
+    internalVariantPropNames: PlasmicArticle__VariantProps,
   });
 
   return PlasmicArticle__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 
@@ -158,14 +158,14 @@ PlasmicArticle.title = function PlasmicArticleTitle(props) {
     name: "title",
     descendantNames: [],
     internalArgPropNames: PlasmicArticle__ArgProps,
-    internalVariantPropNames: PlasmicArticle__VariantProps
+    internalVariantPropNames: PlasmicArticle__VariantProps,
   });
 
   return PlasmicArticle__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "title"
+    forNode: "title",
   });
 };
 
@@ -174,14 +174,14 @@ PlasmicArticle.date = function PlasmicArticleDate(props) {
     name: "date",
     descendantNames: [],
     internalArgPropNames: PlasmicArticle__ArgProps,
-    internalVariantPropNames: PlasmicArticle__VariantProps
+    internalVariantPropNames: PlasmicArticle__VariantProps,
   });
 
   return PlasmicArticle__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "date"
+    forNode: "date",
   });
 };
 
@@ -190,14 +190,14 @@ PlasmicArticle.content = function PlasmicArticleContent(props) {
     name: "content",
     descendantNames: ["content", "textContent"],
     internalArgPropNames: PlasmicArticle__ArgProps,
-    internalVariantPropNames: PlasmicArticle__VariantProps
+    internalVariantPropNames: PlasmicArticle__VariantProps,
   });
 
   return PlasmicArticle__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "content"
+    forNode: "content",
   });
 };
 
@@ -206,14 +206,14 @@ PlasmicArticle.textContent = function PlasmicArticleTextContent(props) {
     name: "textContent",
     descendantNames: ["textContent"],
     internalArgPropNames: PlasmicArticle__ArgProps,
-    internalVariantPropNames: PlasmicArticle__VariantProps
+    internalVariantPropNames: PlasmicArticle__VariantProps,
   });
 
   return PlasmicArticle__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "textContent"
+    forNode: "textContent",
   });
 };
 
@@ -222,14 +222,14 @@ PlasmicArticle.tags = function PlasmicArticleTags(props) {
     name: "tags",
     descendantNames: ["tags"],
     internalArgPropNames: PlasmicArticle__ArgProps,
-    internalVariantPropNames: PlasmicArticle__VariantProps
+    internalVariantPropNames: PlasmicArticle__VariantProps,
   });
 
   return PlasmicArticle__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "tags"
+    forNode: "tags",
   });
 };
 

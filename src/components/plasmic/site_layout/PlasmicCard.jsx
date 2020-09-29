@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import { ScreenContext } from "../PlasmicGlobalVariant__Screen"; // plasmic-import: fOWX3a-rE7c/globalVariant
 import "@plasmicapp/react-web/lib/plasmic.css";
@@ -26,7 +26,7 @@ export const PlasmicCard__ArgProps = new Array("description", "title");
 function PlasmicCard__RenderFunc(props) {
   const { variants, args, overrides, forNode } = props;
   const globalVariants = {
-    screen: React.useContext(ScreenContext)
+    screen: React.useContext(ScreenContext),
   };
 
   return (
@@ -40,7 +40,7 @@ function PlasmicCard__RenderFunc(props) {
         "Card__root--baseMedium__sLFG1z7huK_MVUpr": true,
         Card__root__sLFG1: true,
         "plasmic-default__all": true,
-        "plasmic-default__div": true
+        "plasmic-default__div": true,
       })}
     >
       <img
@@ -51,7 +51,7 @@ function PlasmicCard__RenderFunc(props) {
           "Card__avatar--baseMedium__ndFwzz7huK_MVUpr": true,
           Card__avatar__ndFwz: true,
           "plasmic-default__all": true,
-          "plasmic-default__img": true
+          "plasmic-default__img": true,
         })}
         role={"img"}
         src={
@@ -66,7 +66,7 @@ function PlasmicCard__RenderFunc(props) {
           "Card__box--baseMedium__jOtdyz7huK_MVUpr": true,
           Card__box__jOtdy: true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         <PlasmicSlot
@@ -74,7 +74,7 @@ function PlasmicCard__RenderFunc(props) {
           value={args.title}
           className={classNames({
             "Card__slotTitle--baseMedium__qx3NDz7huK_MVUpr": true,
-            Card__slotTitle__qx3ND: true
+            Card__slotTitle__qx3ND: true,
           })}
         />
 
@@ -83,7 +83,7 @@ function PlasmicCard__RenderFunc(props) {
           value={args.description}
           className={classNames({
             "Card__slotDescription--baseMedium__J1Fg7z7huK_MVUpr": true,
-            Card__slotDescription__J1Fg7: true
+            Card__slotDescription__J1Fg7: true,
           })}
         />
       </div>
@@ -114,14 +114,14 @@ export const PlasmicCard = function PlasmicCardRoot(props) {
     name: "root",
     descendantNames: ["root", "avatar", "box"],
     internalArgPropNames: PlasmicCard__ArgProps,
-    internalVariantPropNames: PlasmicCard__VariantProps
+    internalVariantPropNames: PlasmicCard__VariantProps,
   });
 
   return PlasmicCard__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 
@@ -130,14 +130,14 @@ PlasmicCard.avatar = function PlasmicCardAvatar(props) {
     name: "avatar",
     descendantNames: ["avatar"],
     internalArgPropNames: PlasmicCard__ArgProps,
-    internalVariantPropNames: PlasmicCard__VariantProps
+    internalVariantPropNames: PlasmicCard__VariantProps,
   });
 
   return PlasmicCard__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "avatar"
+    forNode: "avatar",
   });
 };
 
@@ -146,14 +146,14 @@ PlasmicCard.box = function PlasmicCardBox(props) {
     name: "box",
     descendantNames: ["box"],
     internalArgPropNames: PlasmicCard__ArgProps,
-    internalVariantPropNames: PlasmicCard__VariantProps
+    internalVariantPropNames: PlasmicCard__VariantProps,
   });
 
   return PlasmicCard__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "box"
+    forNode: "box",
   });
 };
 

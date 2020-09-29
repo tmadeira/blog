@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import Badge from "../../Badge"; // plasmic-import: Zh0Xu99edL/component
 import { ScreenContext } from "../PlasmicGlobalVariant__Screen"; // plasmic-import: fOWX3a-rE7c/globalVariant
@@ -27,7 +27,7 @@ export const PlasmicTagList__ArgProps = new Array("children");
 function PlasmicTagList__RenderFunc(props) {
   const { variants, args, overrides, forNode } = props;
   const globalVariants = {
-    screen: React.useContext(ScreenContext)
+    screen: React.useContext(ScreenContext),
   };
 
   return (
@@ -41,7 +41,7 @@ function PlasmicTagList__RenderFunc(props) {
         "TagList__root--baseMedium__mSZ5XQdOD1_MVUpr": true,
         TagList__root__mSZ5X: true,
         "plasmic-default__all": true,
-        "plasmic-default__div": true
+        "plasmic-default__div": true,
       })}
     >
       <div
@@ -51,7 +51,7 @@ function PlasmicTagList__RenderFunc(props) {
           "TagList__box--baseMedium__6-CGfQdOD1_MVUpr": true,
           "TagList__box__6-CGf": true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         {"Tags:"}
@@ -64,7 +64,7 @@ function PlasmicTagList__RenderFunc(props) {
             data-plasmic-override={overrides.badge}
             className={classNames({
               TagList__badge__VX6SN: true,
-              __wab_instance: true
+              __wab_instance: true,
             })}
             {...{}}
           >
@@ -100,14 +100,14 @@ export const PlasmicTagList = function PlasmicTagListRoot(props) {
     name: "root",
     descendantNames: ["root", "box", "badge"],
     internalArgPropNames: PlasmicTagList__ArgProps,
-    internalVariantPropNames: PlasmicTagList__VariantProps
+    internalVariantPropNames: PlasmicTagList__VariantProps,
   });
 
   return PlasmicTagList__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 
@@ -116,14 +116,14 @@ PlasmicTagList.box = function PlasmicTagListBox(props) {
     name: "box",
     descendantNames: ["box"],
     internalArgPropNames: PlasmicTagList__ArgProps,
-    internalVariantPropNames: PlasmicTagList__VariantProps
+    internalVariantPropNames: PlasmicTagList__VariantProps,
   });
 
   return PlasmicTagList__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "box"
+    forNode: "box",
   });
 };
 
@@ -132,14 +132,14 @@ PlasmicTagList.badge = function PlasmicTagListBadge(props) {
     name: "badge",
     descendantNames: ["badge"],
     internalArgPropNames: PlasmicTagList__ArgProps,
-    internalVariantPropNames: PlasmicTagList__VariantProps
+    internalVariantPropNames: PlasmicTagList__VariantProps,
   });
 
   return PlasmicTagList__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "badge"
+    forNode: "badge",
   });
 };
 

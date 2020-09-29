@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import { ScreenContext } from "../PlasmicGlobalVariant__Screen"; // plasmic-import: fOWX3a-rE7c/globalVariant
 import "@plasmicapp/react-web/lib/plasmic.css";
@@ -26,7 +26,7 @@ export const PlasmicSection__ArgProps = new Array("children", "title");
 function PlasmicSection__RenderFunc(props) {
   const { variants, args, overrides, forNode } = props;
   const globalVariants = {
-    screen: React.useContext(ScreenContext)
+    screen: React.useContext(ScreenContext),
   };
 
   return (
@@ -40,7 +40,7 @@ function PlasmicSection__RenderFunc(props) {
         "Section__root--baseMedium__1sLjB_2ZOq_MVUpr": true,
         Section__root__1sLjB: true,
         "plasmic-default__all": true,
-        "plasmic-default__section": true
+        "plasmic-default__section": true,
       })}
     >
       <div
@@ -48,7 +48,7 @@ function PlasmicSection__RenderFunc(props) {
           "Section__box--baseMedium__ESAna_2ZOq_MVUpr": true,
           Section__box__ESAna: true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         <h2
@@ -58,7 +58,7 @@ function PlasmicSection__RenderFunc(props) {
             "Section__h2--baseMedium__68yQt_2ZOq_MVUpr": true,
             Section__h2__68yQt: true,
             "plasmic-default__all": true,
-            "plasmic-default__h2": true
+            "plasmic-default__h2": true,
           })}
         >
           <PlasmicSlot
@@ -66,7 +66,7 @@ function PlasmicSection__RenderFunc(props) {
             value={args.title}
             className={classNames({
               "Section__slotTitle--baseMedium__dfLnz_2ZOq_MVUpr": true,
-              Section__slotTitle__dfLnz: true
+              Section__slotTitle__dfLnz: true,
             })}
           />
         </h2>
@@ -78,7 +78,7 @@ function PlasmicSection__RenderFunc(props) {
           "Section__box--baseMedium__6IQfr_2ZOq_MVUpr": true,
           Section__box__6IQfr: true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         <PlasmicSlot defaultContents={undefined} value={args.children} />
@@ -110,14 +110,14 @@ export const PlasmicSection = function PlasmicSectionRoot(props) {
     name: "root",
     descendantNames: ["root", "h2"],
     internalArgPropNames: PlasmicSection__ArgProps,
-    internalVariantPropNames: PlasmicSection__VariantProps
+    internalVariantPropNames: PlasmicSection__VariantProps,
   });
 
   return PlasmicSection__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 
@@ -126,14 +126,14 @@ PlasmicSection.h2 = function PlasmicSectionH2(props) {
     name: "h2",
     descendantNames: ["h2"],
     internalArgPropNames: PlasmicSection__ArgProps,
-    internalVariantPropNames: PlasmicSection__VariantProps
+    internalVariantPropNames: PlasmicSection__VariantProps,
   });
 
   return PlasmicSection__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "h2"
+    forNode: "h2",
   });
 };
 

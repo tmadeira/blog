@@ -10,7 +10,7 @@ import {
   classNames,
   Renderer,
   createPlasmicElementProxy,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
 import "../plasmic__default_style.css"; // plasmic-import: global/defaultcss
@@ -32,7 +32,7 @@ function PlasmicComments__RenderFunc(props) {
       className={classNames({
         Comments__root__WTQdA: true,
         "plasmic-default__all": true,
-        "plasmic-default__div": true
+        "plasmic-default__div": true,
       })}
     >
       <div
@@ -41,7 +41,7 @@ function PlasmicComments__RenderFunc(props) {
         className={classNames({
           Comments__box__dD6FA: true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         {
@@ -75,14 +75,14 @@ export const PlasmicComments = function PlasmicCommentsRoot(props) {
     name: "root",
     descendantNames: ["root", "box"],
     internalArgPropNames: PlasmicComments__ArgProps,
-    internalVariantPropNames: PlasmicComments__VariantProps
+    internalVariantPropNames: PlasmicComments__VariantProps,
   });
 
   return PlasmicComments__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 
@@ -91,14 +91,14 @@ PlasmicComments.box = function PlasmicCommentsBox(props) {
     name: "box",
     descendantNames: ["box"],
     internalArgPropNames: PlasmicComments__ArgProps,
-    internalVariantPropNames: PlasmicComments__VariantProps
+    internalVariantPropNames: PlasmicComments__VariantProps,
   });
 
   return PlasmicComments__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "box"
+    forNode: "box",
   });
 };
 

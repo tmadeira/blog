@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import { ScreenContext } from "../PlasmicGlobalVariant__Screen"; // plasmic-import: fOWX3a-rE7c/globalVariant
 import "@plasmicapp/react-web/lib/plasmic.css";
@@ -26,7 +26,7 @@ export const PlasmicBlockquote__ArgProps = new Array("children");
 function PlasmicBlockquote__RenderFunc(props) {
   const { variants, args, overrides, forNode } = props;
   const globalVariants = {
-    screen: React.useContext(ScreenContext)
+    screen: React.useContext(ScreenContext),
   };
 
   return (
@@ -40,7 +40,7 @@ function PlasmicBlockquote__RenderFunc(props) {
         "Blockquote__root--baseMedium__9XNE7P7WdO_MVUpr": true,
         Blockquote__root__9XNE7: true,
         "plasmic-default__all": true,
-        "plasmic-default__blockquote": true
+        "plasmic-default__blockquote": true,
       })}
     >
       <PlasmicSlot
@@ -50,7 +50,7 @@ function PlasmicBlockquote__RenderFunc(props) {
         value={args.children}
         className={classNames({
           "Blockquote__slotChildren--baseMedium__qy49pP7WdO_MVUpr": true,
-          Blockquote__slotChildren__qy49p: true
+          Blockquote__slotChildren__qy49p: true,
         })}
       />
     </blockquote>
@@ -80,14 +80,14 @@ export const PlasmicBlockquote = function PlasmicBlockquoteRoot(props) {
     name: "root",
     descendantNames: ["root"],
     internalArgPropNames: PlasmicBlockquote__ArgProps,
-    internalVariantPropNames: PlasmicBlockquote__VariantProps
+    internalVariantPropNames: PlasmicBlockquote__VariantProps,
   });
 
   return PlasmicBlockquote__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 

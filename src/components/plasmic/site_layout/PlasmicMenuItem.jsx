@@ -12,7 +12,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
 import "../plasmic__default_style.css"; // plasmic-import: global/defaultcss
@@ -41,7 +41,7 @@ function PlasmicMenuItem__RenderFunc(props) {
 
         MenuItem__root__QAqgk: true,
         "plasmic-default__all": true,
-        "plasmic-default__div": true
+        "plasmic-default__div": true,
       })}
     >
       <PlasmicSlot
@@ -55,7 +55,7 @@ function PlasmicMenuItem__RenderFunc(props) {
             "current"
           ),
 
-          MenuItem__slotChildren__1pWAN: true
+          MenuItem__slotChildren__1pWAN: true,
         })}
       />
     </div>
@@ -85,14 +85,14 @@ export const PlasmicMenuItem = function PlasmicMenuItemRoot(props) {
     name: "root",
     descendantNames: ["root"],
     internalArgPropNames: PlasmicMenuItem__ArgProps,
-    internalVariantPropNames: PlasmicMenuItem__VariantProps
+    internalVariantPropNames: PlasmicMenuItem__VariantProps,
   });
 
   return PlasmicMenuItem__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 

@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
 import "../plasmic__default_style.css"; // plasmic-import: global/defaultcss
@@ -34,7 +34,7 @@ function PlasmicCode__RenderFunc(props) {
         "Code__root--baseMedium__JhD_-e4T3i_MVUpr": true,
         "Code__root__JhD_-": true,
         "plasmic-default__all": true,
-        "plasmic-default__code": true
+        "plasmic-default__code": true,
       })}
     >
       <pre
@@ -44,7 +44,7 @@ function PlasmicCode__RenderFunc(props) {
           "Code__pre--baseMedium__rjIJ0e4T3i_MVUpr": true,
           Code__pre__rjIJ0: true,
           "plasmic-default__all": true,
-          "plasmic-default__pre": true
+          "plasmic-default__pre": true,
         })}
       >
         <PlasmicSlot
@@ -54,7 +54,7 @@ function PlasmicCode__RenderFunc(props) {
           value={args.children}
           className={classNames({
             "Code__slotChildren--baseMedium__H_Drwe4T3i_MVUpr": true,
-            Code__slotChildren__H_Drw: true
+            Code__slotChildren__H_Drw: true,
           })}
         />
       </pre>
@@ -85,14 +85,14 @@ export const PlasmicCode = function PlasmicCodeRoot(props) {
     name: "root",
     descendantNames: ["root", "pre"],
     internalArgPropNames: PlasmicCode__ArgProps,
-    internalVariantPropNames: PlasmicCode__VariantProps
+    internalVariantPropNames: PlasmicCode__VariantProps,
   });
 
   return PlasmicCode__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 
@@ -101,14 +101,14 @@ PlasmicCode.pre = function PlasmicCodePre(props) {
     name: "pre",
     descendantNames: ["pre"],
     internalArgPropNames: PlasmicCode__ArgProps,
-    internalVariantPropNames: PlasmicCode__VariantProps
+    internalVariantPropNames: PlasmicCode__VariantProps,
   });
 
   return PlasmicCode__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "pre"
+    forNode: "pre",
   });
 };
 

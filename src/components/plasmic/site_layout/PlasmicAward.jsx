@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import "@plasmicapp/react-web/lib/plasmic.css";
 import "../plasmic__default_style.css"; // plasmic-import: global/defaultcss
@@ -39,7 +39,7 @@ function PlasmicAward__RenderFunc(props) {
       className={classNames({
         Award__root__1LT3p: true,
         "plasmic-default__all": true,
-        "plasmic-default__li": true
+        "plasmic-default__li": true,
       })}
     >
       <AwardsvgIcon
@@ -49,7 +49,7 @@ function PlasmicAward__RenderFunc(props) {
           "Award__svg--baseMedium__Kys_EhTQV6_MVUpr": true,
           Award__svg__Kys_E: true,
           "plasmic-default__all": true,
-          "plasmic-default__svg": true
+          "plasmic-default__svg": true,
         })}
         role={"img"}
         {...{}}
@@ -60,14 +60,14 @@ function PlasmicAward__RenderFunc(props) {
           "Award__box--baseMedium__PdrAMhTQV6_MVUpr": true,
           Award__box__PdrAM: true,
           "plasmic-default__all": true,
-          "plasmic-default__div": true
+          "plasmic-default__div": true,
         })}
       >
         <div
           className={classNames({
             "Award__box__d-2BI": true,
             "plasmic-default__all": true,
-            "plasmic-default__div": true
+            "plasmic-default__div": true,
           })}
         >
           <PlasmicSlot
@@ -75,7 +75,7 @@ function PlasmicAward__RenderFunc(props) {
             value={args.title}
             className={classNames({
               "Award__slotTitle--baseMedium__sSzf1hTQV6_MVUpr": true,
-              Award__slotTitle__sSzf1: true
+              Award__slotTitle__sSzf1: true,
             })}
           />
         </div>
@@ -85,7 +85,7 @@ function PlasmicAward__RenderFunc(props) {
             "Award__box--baseMedium__Jgq_hhTQV6_MVUpr": true,
             Award__box__Jgq_h: true,
             "plasmic-default__all": true,
-            "plasmic-default__div": true
+            "plasmic-default__div": true,
           })}
         >
           <PlasmicSlot
@@ -93,7 +93,7 @@ function PlasmicAward__RenderFunc(props) {
             value={args.description}
             className={classNames({
               "Award__slotDescription--baseMedium__c78elhTQV6_MVUpr": true,
-              Award__slotDescription__c78el: true
+              Award__slotDescription__c78el: true,
             })}
           />
         </div>
@@ -127,14 +127,14 @@ export const PlasmicAward = function PlasmicAwardRoot(props) {
     name: "root",
     descendantNames: ["root", "svg"],
     internalArgPropNames: PlasmicAward__ArgProps,
-    internalVariantPropNames: PlasmicAward__VariantProps
+    internalVariantPropNames: PlasmicAward__VariantProps,
   });
 
   return PlasmicAward__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 
@@ -143,14 +143,14 @@ PlasmicAward.svg = function PlasmicAwardSvg(props) {
     name: "svg",
     descendantNames: ["svg"],
     internalArgPropNames: PlasmicAward__ArgProps,
-    internalVariantPropNames: PlasmicAward__VariantProps
+    internalVariantPropNames: PlasmicAward__VariantProps,
   });
 
   return PlasmicAward__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "svg"
+    forNode: "svg",
   });
 };
 

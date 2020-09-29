@@ -11,7 +11,7 @@ import {
   Renderer,
   createPlasmicElementProxy,
   PlasmicSlot,
-  deriveRenderOpts
+  deriveRenderOpts,
 } from "@plasmicapp/react-web";
 import MenuItem from "../../MenuItem"; // plasmic-import: HXZAepZU2F/component
 import { ScreenContext } from "../PlasmicGlobalVariant__Screen"; // plasmic-import: fOWX3a-rE7c/globalVariant
@@ -35,7 +35,7 @@ export const PlasmicLayout__ArgProps = new Array(
 function PlasmicLayout__RenderFunc(props) {
   const { variants, args, overrides, forNode } = props;
   const globalVariants = {
-    screen: React.useContext(ScreenContext)
+    screen: React.useContext(ScreenContext),
   };
 
   return (
@@ -48,7 +48,7 @@ function PlasmicLayout__RenderFunc(props) {
         "Layout__root--baseMedium__aI0qRpXt1y_MVUpr": true,
         Layout__root__aI0qR: true,
         "plasmic-default__all": true,
-        "plasmic-default__div": true
+        "plasmic-default__div": true,
       })}
     >
       <header
@@ -58,7 +58,7 @@ function PlasmicLayout__RenderFunc(props) {
           "Layout__header--baseMedium__UYLc5pXt1y_MVUpr": true,
           Layout__header__UYLc5: true,
           "plasmic-default__all": true,
-          "plasmic-default__header": true
+          "plasmic-default__header": true,
         })}
       >
         <h1
@@ -68,7 +68,7 @@ function PlasmicLayout__RenderFunc(props) {
             "Layout__h1--baseMedium__rIXDopXt1y_MVUpr": true,
             Layout__h1__rIXDo: true,
             "plasmic-default__all": true,
-            "plasmic-default__h1": true
+            "plasmic-default__h1": true,
           })}
         >
           <PlasmicSlot
@@ -76,7 +76,7 @@ function PlasmicLayout__RenderFunc(props) {
             value={args.title}
             className={classNames({
               "Layout__slotTitle--baseMedium__cDKfvpXt1y_MVUpr": true,
-              Layout__slotTitle__cDKfv: true
+              Layout__slotTitle__cDKfv: true,
             })}
           />
         </h1>
@@ -88,21 +88,21 @@ function PlasmicLayout__RenderFunc(props) {
             "Layout__menu--baseMedium__tzecmpXt1y_MVUpr": true,
             Layout__menu__tzecm: true,
             "plasmic-default__all": true,
-            "plasmic-default__ul": true
+            "plasmic-default__ul": true,
           })}
         >
           <li
             className={classNames({
               Layout__li__m5TbA: true,
               "plasmic-default__all": true,
-              "plasmic-default__li": true
+              "plasmic-default__li": true,
             })}
           >
             <a
               className={classNames({
                 Layout__link__EMr3f: true,
                 "plasmic-default__a": true,
-                "plasmic-default__all": true
+                "plasmic-default__all": true,
               })}
               href={"/"}
             >
@@ -110,7 +110,7 @@ function PlasmicLayout__RenderFunc(props) {
                 className={classNames({
                   "Layout__menuItem--baseMedium__jmD-jpXt1y_MVUpr": true,
                   "Layout__menuItem__jmD-j": true,
-                  __wab_instance: true
+                  __wab_instance: true,
                 })}
                 {...{}}
               >
@@ -123,21 +123,21 @@ function PlasmicLayout__RenderFunc(props) {
             className={classNames({
               Layout__li__C_VYS: true,
               "plasmic-default__all": true,
-              "plasmic-default__li": true
+              "plasmic-default__li": true,
             })}
           >
             <a
               className={classNames({
                 Layout__link__k2WhV: true,
                 "plasmic-default__a": true,
-                "plasmic-default__all": true
+                "plasmic-default__all": true,
               })}
               href={"/blog"}
             >
               <MenuItem
                 className={classNames({
                   Layout__menuItem__s2WLh: true,
-                  __wab_instance: true
+                  __wab_instance: true,
                 })}
                 {...{}}
               >
@@ -155,7 +155,7 @@ function PlasmicLayout__RenderFunc(props) {
           "Layout__main--baseMedium___Gr8wpXt1y_MVUpr": true,
           Layout__main___Gr8w: true,
           "plasmic-default__all": true,
-          "plasmic-default__main": true
+          "plasmic-default__main": true,
         })}
       >
         <div
@@ -166,7 +166,7 @@ function PlasmicLayout__RenderFunc(props) {
             "Layout__wrap--baseMedium__3hA2CpXt1y_MVUpr": true,
             Layout__wrap__3hA2C: true,
             "plasmic-default__all": true,
-            "plasmic-default__div": true
+            "plasmic-default__div": true,
           })}
         >
           <PlasmicSlot defaultContents={undefined} value={args.children} />
@@ -180,7 +180,7 @@ function PlasmicLayout__RenderFunc(props) {
           "Layout__footer--baseMedium__aBLS8pXt1y_MVUpr": true,
           Layout__footer__aBLS8: true,
           "plasmic-default__all": true,
-          "plasmic-default__footer": true
+          "plasmic-default__footer": true,
         })}
       >
         <div
@@ -191,7 +191,7 @@ function PlasmicLayout__RenderFunc(props) {
             "Layout__box--baseMedium__rgYZtpXt1y_MVUpr": true,
             Layout__box__rgYZt: true,
             "plasmic-default__all": true,
-            "plasmic-default__div": true
+            "plasmic-default__div": true,
           })}
         >
           <PlasmicSlot
@@ -199,7 +199,7 @@ function PlasmicLayout__RenderFunc(props) {
             value={args.copyright}
             className={classNames({
               "Layout__slotCopyright--baseMedium__ARz6EpXt1y_MVUpr": true,
-              Layout__slotCopyright__ARz6E: true
+              Layout__slotCopyright__ARz6E: true,
             })}
           />
 
@@ -211,7 +211,7 @@ function PlasmicLayout__RenderFunc(props) {
               "Layout__social--baseMedium__ejcDQpXt1y_MVUpr": true,
               Layout__social__ejcDQ: true,
               "plasmic-default__all": true,
-              "plasmic-default__ul": true
+              "plasmic-default__ul": true,
             })}
           >
             <li
@@ -219,14 +219,14 @@ function PlasmicLayout__RenderFunc(props) {
                 "Layout__li--baseMedium__r4FLEpXt1y_MVUpr": true,
                 Layout__li__r4FLE: true,
                 "plasmic-default__all": true,
-                "plasmic-default__li": true
+                "plasmic-default__li": true,
               })}
             >
               <a
                 className={classNames({
                   Layout__link__LjS1J: true,
                   "plasmic-default__a": true,
-                  "plasmic-default__all": true
+                  "plasmic-default__all": true,
                 })}
                 href={"https://github.com/tmadeira/"}
               >
@@ -235,7 +235,7 @@ function PlasmicLayout__RenderFunc(props) {
                     "Layout__svg--baseMedium__HRIUXpXt1y_MVUpr": true,
                     Layout__svg__HRIUX: true,
                     "plasmic-default__all": true,
-                    "plasmic-default__svg": true
+                    "plasmic-default__svg": true,
                   })}
                   role={"img"}
                   {...{}}
@@ -247,14 +247,14 @@ function PlasmicLayout__RenderFunc(props) {
               className={classNames({
                 Layout__li__o4yZy: true,
                 "plasmic-default__all": true,
-                "plasmic-default__li": true
+                "plasmic-default__li": true,
               })}
             >
               <a
                 className={classNames({
                   Layout__link__g74NJ: true,
                   "plasmic-default__a": true,
-                  "plasmic-default__all": true
+                  "plasmic-default__all": true,
                 })}
                 href={"https://gitlab.com/tmadeira/"}
               >
@@ -262,7 +262,7 @@ function PlasmicLayout__RenderFunc(props) {
                   className={classNames({
                     Layout__svg__TEQeF: true,
                     "plasmic-default__all": true,
-                    "plasmic-default__svg": true
+                    "plasmic-default__svg": true,
                   })}
                   role={"img"}
                   {...{}}
@@ -274,14 +274,14 @@ function PlasmicLayout__RenderFunc(props) {
               className={classNames({
                 Layout__li__dfAEI: true,
                 "plasmic-default__all": true,
-                "plasmic-default__li": true
+                "plasmic-default__li": true,
               })}
             >
               <a
                 className={classNames({
                   Layout__link__53gnk: true,
                   "plasmic-default__a": true,
-                  "plasmic-default__all": true
+                  "plasmic-default__all": true,
                 })}
                 href={"https://linkedin.com/in/tmadeira/"}
               >
@@ -289,7 +289,7 @@ function PlasmicLayout__RenderFunc(props) {
                   className={classNames({
                     Layout__svg__cEbZT: true,
                     "plasmic-default__all": true,
-                    "plasmic-default__svg": true
+                    "plasmic-default__svg": true,
                   })}
                   role={"img"}
                   {...{}}
@@ -301,14 +301,14 @@ function PlasmicLayout__RenderFunc(props) {
               className={classNames({
                 Layout__li__caRBI: true,
                 "plasmic-default__all": true,
-                "plasmic-default__li": true
+                "plasmic-default__li": true,
               })}
             >
               <a
                 className={classNames({
                   Layout__link__i7rjL: true,
                   "plasmic-default__a": true,
-                  "plasmic-default__all": true
+                  "plasmic-default__all": true,
                 })}
                 href={"https://twitter.com/tmadeira/"}
               >
@@ -316,7 +316,7 @@ function PlasmicLayout__RenderFunc(props) {
                   className={classNames({
                     Layout__svg__qz1sw: true,
                     "plasmic-default__all": true,
-                    "plasmic-default__svg": true
+                    "plasmic-default__svg": true,
                   })}
                   role={"img"}
                   {...{}}
@@ -360,18 +360,18 @@ export const PlasmicLayout = function PlasmicLayoutRoot(props) {
       "wrap",
       "footer",
       "box",
-      "social"
+      "social",
     ],
 
     internalArgPropNames: PlasmicLayout__ArgProps,
-    internalVariantPropNames: PlasmicLayout__VariantProps
+    internalVariantPropNames: PlasmicLayout__VariantProps,
   });
 
   return PlasmicLayout__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "root"
+    forNode: "root",
   });
 };
 
@@ -380,14 +380,14 @@ PlasmicLayout.header = function PlasmicLayoutHeader(props) {
     name: "header",
     descendantNames: ["header", "h1", "menu"],
     internalArgPropNames: PlasmicLayout__ArgProps,
-    internalVariantPropNames: PlasmicLayout__VariantProps
+    internalVariantPropNames: PlasmicLayout__VariantProps,
   });
 
   return PlasmicLayout__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "header"
+    forNode: "header",
   });
 };
 
@@ -396,14 +396,14 @@ PlasmicLayout.h1 = function PlasmicLayoutH1(props) {
     name: "h1",
     descendantNames: ["h1"],
     internalArgPropNames: PlasmicLayout__ArgProps,
-    internalVariantPropNames: PlasmicLayout__VariantProps
+    internalVariantPropNames: PlasmicLayout__VariantProps,
   });
 
   return PlasmicLayout__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "h1"
+    forNode: "h1",
   });
 };
 
@@ -412,14 +412,14 @@ PlasmicLayout.menu = function PlasmicLayoutMenu(props) {
     name: "menu",
     descendantNames: ["menu"],
     internalArgPropNames: PlasmicLayout__ArgProps,
-    internalVariantPropNames: PlasmicLayout__VariantProps
+    internalVariantPropNames: PlasmicLayout__VariantProps,
   });
 
   return PlasmicLayout__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "menu"
+    forNode: "menu",
   });
 };
 
@@ -428,14 +428,14 @@ PlasmicLayout.main = function PlasmicLayoutMain(props) {
     name: "main",
     descendantNames: ["main", "wrap"],
     internalArgPropNames: PlasmicLayout__ArgProps,
-    internalVariantPropNames: PlasmicLayout__VariantProps
+    internalVariantPropNames: PlasmicLayout__VariantProps,
   });
 
   return PlasmicLayout__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "main"
+    forNode: "main",
   });
 };
 
@@ -444,14 +444,14 @@ PlasmicLayout.wrap = function PlasmicLayoutWrap(props) {
     name: "wrap",
     descendantNames: ["wrap"],
     internalArgPropNames: PlasmicLayout__ArgProps,
-    internalVariantPropNames: PlasmicLayout__VariantProps
+    internalVariantPropNames: PlasmicLayout__VariantProps,
   });
 
   return PlasmicLayout__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "wrap"
+    forNode: "wrap",
   });
 };
 
@@ -460,14 +460,14 @@ PlasmicLayout.footer = function PlasmicLayoutFooter(props) {
     name: "footer",
     descendantNames: ["footer", "box", "social"],
     internalArgPropNames: PlasmicLayout__ArgProps,
-    internalVariantPropNames: PlasmicLayout__VariantProps
+    internalVariantPropNames: PlasmicLayout__VariantProps,
   });
 
   return PlasmicLayout__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "footer"
+    forNode: "footer",
   });
 };
 
@@ -476,14 +476,14 @@ PlasmicLayout.box = function PlasmicLayoutBox(props) {
     name: "box",
     descendantNames: ["box", "social"],
     internalArgPropNames: PlasmicLayout__ArgProps,
-    internalVariantPropNames: PlasmicLayout__VariantProps
+    internalVariantPropNames: PlasmicLayout__VariantProps,
   });
 
   return PlasmicLayout__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "box"
+    forNode: "box",
   });
 };
 
@@ -492,14 +492,14 @@ PlasmicLayout.social = function PlasmicLayoutSocial(props) {
     name: "social",
     descendantNames: ["social"],
     internalArgPropNames: PlasmicLayout__ArgProps,
-    internalVariantPropNames: PlasmicLayout__VariantProps
+    internalVariantPropNames: PlasmicLayout__VariantProps,
   });
 
   return PlasmicLayout__RenderFunc({
     variants,
     args,
     overrides,
-    forNode: "social"
+    forNode: "social",
   });
 };
 

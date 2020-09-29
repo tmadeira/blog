@@ -4,11 +4,7 @@
 import React from "react";
 import { classNames } from "@plasmicapp/react-web";
 
-export type AwardsvgIconProps = React.ComponentProps<"svg"> & {
-  title?: string;
-};
-
-export function AwardsvgIcon(props: AwardsvgIconProps) {
+export function AwardsvgIcon(props) {
   const { className, style, title, ...restProps } = props;
   return (
     <svg
@@ -18,7 +14,6 @@ export function AwardsvgIcon(props: AwardsvgIconProps) {
       width={"1em"}
       style={{
         fill: "currentcolor",
-
         ...(style || {}),
       }}
       className={classNames("plasmic-default__svg", className)}

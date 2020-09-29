@@ -93,12 +93,12 @@ Primeiramente, é bom observar que o Método D'Hondt é *exatamente* o que é ch
 
 A tabela abaixo, da distribuição de 8 vagas para 4 partidos, ajuda a visualizá-lo:
 
- | ÷ 1 | ÷ 2 | ÷ 3 | ÷ 4 | ÷ 5 | ÷ 6 | ÷ 7 | ÷ 8 | Vagas
---- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-Partido A | **100.000** | **50.000** | **33.333** | **25.000** | 20.000 | 16.666 | 14.286 | 12.500 | 4
-Partido B | **80.000** | **40.000** | **26.666** | 20.000 | 16.000 | 13.333 | 11.428 | 10.000 | 3
-Partido C | **30.000** | 15.000 | 10.000 | 7.500 | 6.000 | 5.000 | 4.286 | 3.750 | 1
-Partido D | 20.000 | 10.000 | 6.666 | 5.000 | 4.000 | 3.333 | 2.857 | 2.500 | 0
+| | ÷ 1 | ÷ 2 | ÷ 3 | ÷ 4 | ÷ 5 | ÷ 6 | ÷ 7 | ÷ 8 | Vagas
+| --- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+| Partido A | **100.000** | **50.000** | **33.333** | **25.000** | 20.000 | 16.666 | 14.286 | 12.500 | 4
+| Partido B | **80.000** | **40.000** | **26.666** | 20.000 | 16.000 | 13.333 | 11.428 | 10.000 | 3
+| Partido C | **30.000** | 15.000 | 10.000 | 7.500 | 6.000 | 5.000 | 4.286 | 3.750 | 1
+| Partido D | 20.000 | 10.000 | 6.666 | 5.000 | 4.000 | 3.333 | 2.857 | 2.500 | 0
 
 Mais interessante do que perceber que o Cálculo das Médias do Código Eleitoral é o Método D'Hondt, porém, é observar que o método completo brasileiro (não apenas o cálculo das médias) é equivalente matematicamente ao Método D'Hondt, isso é, os dois métodos distribuem as vagas da mesma forma.
 

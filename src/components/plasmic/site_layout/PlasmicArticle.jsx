@@ -14,10 +14,7 @@ import {
   deriveRenderOpts
 } from "@plasmicapp/react-web";
 import TextContent from "../../TextContent"; // plasmic-import: cLfqUBakSC/component
-import Blockquote from "../../Blockquote"; // plasmic-import: 7JhRlb0B4Y/component
-import Code from "../../Code"; // plasmic-import: xQNaB3lXQB/component
 import TagList from "../../TagList"; // plasmic-import: 5P9Z-2oNX3/component
-import Badge from "../../Badge"; // plasmic-import: Zh0Xu99edL/component
 import "@plasmicapp/react-web/lib/plasmic.css";
 import "../plasmic__default_style.css"; // plasmic-import: global/defaultcss
 import "./plasmic_site_layout.css"; // plasmic-import: oH8FCw6CW4Lg76cBx26GoT/projectcss
@@ -53,7 +50,7 @@ function PlasmicArticle__RenderFunc(props) {
         })}
       >
         <PlasmicSlot
-          defaultContents={"Problema das mesas de credenciamento"}
+          defaultContents={""}
           value={args.title}
           className={classNames({
             "Article__slotTitle--baseMedium__4AoPvz0TSU_MVUpr": true,
@@ -73,7 +70,7 @@ function PlasmicArticle__RenderFunc(props) {
         })}
       >
         <PlasmicSlot
-          defaultContents={"5 de abril de 2020"}
+          defaultContents={""}
           value={args.date}
           className={classNames({
             "Article__slotDate--baseMedium__dZG6Ez0TSU_MVUpr": true,
@@ -102,83 +99,7 @@ function PlasmicArticle__RenderFunc(props) {
                 __wab_instance: true
               })}
               {...{}}
-            >
-              <div
-                className={classNames({
-                  Article__box__lmCe6: true,
-                  "plasmic-default__all": true,
-                  "plasmic-default__div": true
-                })}
-              >
-                {
-                  "Eventos com inscrição prévia, do Fórum Internacional do Software Livre às plenárias do Congresso do PSOL nas grandes cidades, costumam ter mesas de credenciamento pelas quais os presentes precisam passar para pegar um crachá.\n"
-                }
-              </div>
-
-              <div
-                className={classNames({
-                  Article__box__MTv_T: true,
-                  "plasmic-default__all": true,
-                  "plasmic-default__div": true
-                })}
-              >
-                {
-                  "Quando há muitos participantes é comum que as letras do alfabeto sejam separadas entre essas mesas, de forma a dividir as pessoas pelas iniciais dos seus nomes e assim reduzir o tempo de espera nas filas que se formam.\n"
-                }
-              </div>
-
-              <Blockquote
-                data-plasmic-name={"blockquote"}
-                data-plasmic-override={overrides.blockquote}
-                className={classNames({
-                  Article__blockquote__aTsms: true,
-                  __wab_instance: true
-                })}
-                {...{}}
-              >
-                {
-                  "Exemplo: Se há três mesas de credenciamento, pode-se atribuir a elas os intervalos letras A-I, J-R e S-Z. Nesse caso, alguém com um nome que comece com B (como Bruno) deve se credenciar na mesa A-I, enquanto alguém com um nome que comece com T (como Tiago) deve se credenciar na mesa S-Z.\n"
-                }
-              </Blockquote>
-
-              <div
-                className={classNames({
-                  Article__box__YQ0gD: true,
-                  "plasmic-default__all": true,
-                  "plasmic-default__div": true
-                })}
-              >
-                {
-                  "Há uma restrição: As letras precisam ser divididas de forma que formem partições contíguas na ordem alfabética. Isso é, não se pode definir que A e C ficam num conjunto 1, enquanto B fica num conjunto 2. Se A e C estão no conjunto 1, todas as letras entre A e C (B, no caso) também precisam estar no conjunto 1.\n"
-                }
-              </div>
-
-              <Code
-                data-plasmic-name={"code"}
-                data-plasmic-override={overrides.code}
-                className={classNames({
-                  Article__code__rVWZF: true,
-                  __wab_instance: true
-                })}
-                {...{}}
-              >
-                {
-                  '#include <stdio.h>\n\nint main() {\n  printf("Hello World!");\n  return 0;\n}'
-                }
-              </Code>
-
-              <div
-                className={classNames({
-                  Article__box__9uydq: true,
-                  "plasmic-default__all": true,
-                  "plasmic-default__div": true
-                })}
-              >
-                {
-                  "Agradecimentos ao Pedro, que me apresentou o problema; ao Ulysses, que comentou que o problema apareceu na distribuição das vacinas do governo do Distrito Federal; e a todo mundo que chegou até aqui, pela leitura. Comentários são muito bem-vindos.\n"
-                }
-              </div>
-            </TextContent>
+            ></TextContent>
           }
           value={args.children}
         />
@@ -193,27 +114,7 @@ function PlasmicArticle__RenderFunc(props) {
           __wab_instance: true
         })}
         {...{}}
-      >
-        <Badge
-          className={classNames({
-            Article__badge__KeH39: true,
-            __wab_instance: true
-          })}
-          {...{}}
-        >
-          {"content"}
-        </Badge>
-
-        <Badge
-          className={classNames({
-            Article__badge__tO7BC: true,
-            __wab_instance: true
-          })}
-          {...{}}
-        >
-          {"content"}
-        </Badge>
-      </TagList>
+      ></TagList>
     </article>
   );
 }
@@ -239,15 +140,7 @@ class PlasmicArticle__Renderer extends Renderer {
 export const PlasmicArticle = function PlasmicArticleRoot(props) {
   const { variants, args, overrides } = deriveRenderOpts(props, {
     name: "root",
-    descendantNames: [
-      "root",
-      "content",
-      "textContent",
-      "blockquote",
-      "code",
-      "tags"
-    ],
-
+    descendantNames: ["root", "content", "textContent", "tags"],
     internalArgPropNames: PlasmicArticle__ArgProps,
     internalVariantPropNames: PlasmicArticle__VariantProps
   });
@@ -295,7 +188,7 @@ PlasmicArticle.date = function PlasmicArticleDate(props) {
 PlasmicArticle.content = function PlasmicArticleContent(props) {
   const { variants, args, overrides } = deriveRenderOpts(props, {
     name: "content",
-    descendantNames: ["content", "textContent", "blockquote", "code"],
+    descendantNames: ["content", "textContent"],
     internalArgPropNames: PlasmicArticle__ArgProps,
     internalVariantPropNames: PlasmicArticle__VariantProps
   });
@@ -311,7 +204,7 @@ PlasmicArticle.content = function PlasmicArticleContent(props) {
 PlasmicArticle.textContent = function PlasmicArticleTextContent(props) {
   const { variants, args, overrides } = deriveRenderOpts(props, {
     name: "textContent",
-    descendantNames: ["textContent", "blockquote", "code"],
+    descendantNames: ["textContent"],
     internalArgPropNames: PlasmicArticle__ArgProps,
     internalVariantPropNames: PlasmicArticle__VariantProps
   });
@@ -321,38 +214,6 @@ PlasmicArticle.textContent = function PlasmicArticleTextContent(props) {
     args,
     overrides,
     forNode: "textContent"
-  });
-};
-
-PlasmicArticle.blockquote = function PlasmicArticleBlockquote(props) {
-  const { variants, args, overrides } = deriveRenderOpts(props, {
-    name: "blockquote",
-    descendantNames: ["blockquote"],
-    internalArgPropNames: PlasmicArticle__ArgProps,
-    internalVariantPropNames: PlasmicArticle__VariantProps
-  });
-
-  return PlasmicArticle__RenderFunc({
-    variants,
-    args,
-    overrides,
-    forNode: "blockquote"
-  });
-};
-
-PlasmicArticle.code = function PlasmicArticleCode(props) {
-  const { variants, args, overrides } = deriveRenderOpts(props, {
-    name: "code",
-    descendantNames: ["code"],
-    internalArgPropNames: PlasmicArticle__ArgProps,
-    internalVariantPropNames: PlasmicArticle__VariantProps
-  });
-
-  return PlasmicArticle__RenderFunc({
-    variants,
-    args,
-    overrides,
-    forNode: "code"
   });
 };
 

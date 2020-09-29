@@ -4,11 +4,7 @@
 import React from "react";
 import { classNames } from "@plasmicapp/react-web";
 
-export type GithubIconProps = React.ComponentProps<"svg"> & {
-  title?: string;
-};
-
-export function GithubIcon(props: GithubIconProps) {
+export function GithubIcon(props) {
   const { className, style, title, ...restProps } = props;
   return (
     <svg
@@ -18,7 +14,6 @@ export function GithubIcon(props: GithubIconProps) {
       width={"1em"}
       style={{
         fill: "currentcolor",
-
         ...(style || {}),
       }}
       className={classNames("plasmic-default__svg", className)}

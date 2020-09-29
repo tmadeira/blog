@@ -5,7 +5,7 @@ import './Layout.scss';
 
 import MenuItem from "./MenuItem";
 
-function Layout(props) {
+export default function Layout(props) {
   return <PlasmicLayout
     {...props}
 
@@ -19,5 +19,3 @@ function Layout(props) {
     menuItem2={<MenuItem to="/blog">Blog</MenuItem>}
   />;
 }
-
-export default Layout;

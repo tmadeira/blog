@@ -3,6 +3,19 @@
 import * as React from "react";
 import { PlasmicCode } from "./plasmic/site_layout/PlasmicCode";
 
+/*
+import {Prism} from 'react-syntax-highlighter';
+import {vscDarkPlus} from 'react-syntax-highlighter/dist/cjs/styles/prism';
+
+export default function Code({language, value}) {
+  return (
+    <Prism language={language} style={vscDarkPlus}>
+      {value}
+    </Prism>
+  );
+};
+*/
+
 function Code(props) {
   // Use PlasmicCode to render this component as it was
   // designed in Plasmic, by activating the appropriate variants,

@@ -4,11 +4,7 @@
 import React from "react";
 import { classNames } from "@plasmicapp/react-web";
 
-export type TwitterIconProps = React.ComponentProps<"svg"> & {
-  title?: string;
-};
-
-export function TwitterIcon(props: TwitterIconProps) {
+export function TwitterIcon(props) {
   const { className, style, title, ...restProps } = props;
   return (
     <svg
@@ -18,7 +14,6 @@ export function TwitterIcon(props: TwitterIconProps) {
       width={"1em"}
       style={{
         fill: "currentcolor",
-
         ...(style || {}),
       }}
       className={classNames("plasmic-default__svg", className)}

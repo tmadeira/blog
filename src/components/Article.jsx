@@ -1,4 +1,5 @@
 import * as React from "react";
+import {Link} from 'gatsby';
 import { PlasmicArticle } from "./plasmic/site_layout/PlasmicArticle";
 
 import 'katex/dist/katex.min.css';
@@ -18,7 +19,7 @@ function Article({post}) {
 
   return (
     <PlasmicArticle
-      title={post.frontmatter.title}
+      title={<Link style={{textDecoration: 'none'}} to={post.frontmatter.url}>{post.frontmatter.title}</Link>}
       date={fmtDate}
       tags={<>
         {post.frontmatter.tags.map((tag, key) =>

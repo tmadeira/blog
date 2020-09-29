@@ -26,6 +26,7 @@ export const pageQuery = graphql`
       edges {
         node {
           frontmatter {
+            url
             title
             date
             tags

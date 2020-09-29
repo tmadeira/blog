@@ -9,7 +9,7 @@ import Layout from "../components/Layout";
 export default function Single({ data }) {
   return (
     <Layout>
-      <Head />
+      <Head title={data.markdownRemark.frontmatter.title} />
 
       <Article post={data.markdownRemark} />
 

@@ -8,7 +8,7 @@ import Layout from "../components/Layout";
 export default function ({ data }) {
   return (
     <Layout>
-      <Head />
+      <Head title="Blog" />
 
       {data.allMarkdownRemark.edges.map((edge, key) => (
         <Article key={key} post={edge.node} />

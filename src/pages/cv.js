@@ -11,7 +11,7 @@ import SectionItem from "../components/SectionItem";
 export default function () {
   return (
     <Layout>
-      <Head />
+      <Head title="Tiago Madeira's Resumé" />
 
       <Card title="Tiago Madeira" description="Software Engineer" />
 

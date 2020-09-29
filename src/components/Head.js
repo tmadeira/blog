@@ -1,10 +1,10 @@
 import React from "react";
 import Helmet from "react-helmet";
 
-export default function Head() {
+export default function Head({ title }) {
   return (
     <Helmet>
-      <title>Tiago Madeira</title>
+      <title>{title ? `${title} | ` : ""} Tiago Madeira</title>
     </Helmet>
   );
 }

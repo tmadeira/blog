@@ -44,7 +44,8 @@ export default function () {
         <SectionItem
           title="EVAG"
           subtitle="Director & Software Engineer"
-          badge={<Badge type="featured">apr/2016 - current</Badge>}
+          description="Management and software development."
+          badge={<Badge type="featured">dec/2014 - current</Badge>}
         />
 
         <SectionItem
@@ -255,6 +256,100 @@ export default function () {
               />
             </ul>
           }
+        />
+      </Section>
+
+      <Section title="Other Work">
+        <SectionItem
+          title="Teaching"
+          description={
+            <ul>
+              <Award
+                title="Introduction to AI"
+                description="Colégio Santa Cruz"
+                badge={<Badge type="featured">2019 - current</Badge>}
+              />
+              <Award
+                title="Internet Contemporaneities and Introduction to Computer Programming"
+                description="Colégio Ítaca"
+                badge={<Badge>2014</Badge>}
+              />
+            </ul>
+          }
+        />
+
+        <SectionItem
+          title="Open Source Software"
+          description={
+            <ul>
+              <Award
+                title="Authored WordPress theme Dolores"
+                badge={<Badge>2015</Badge>}
+              />
+              <Award
+                title="Contributed to SilverStripe and Drupal in Google Highly Open Participation Contest"
+                badge={<Badge>2008</Badge>}
+              />
+              <Award
+                title="Contributed to the development of webcam 0c45:6260 and image sensor OV7670 in the Microdia driver for Linux"
+                badge={<Badge>2008</Badge>}
+              />
+              <Award
+                title="Contributed to Funções ZZ"
+                badge={<Badge>2008</Badge>}
+              />
+            </ul>
+          }
+          subdescription={
+            <div style={{ marginTop: 10 }}>
+              Check my GitHub profile at{" "}
+              <a href="https://github.com/tmadeira">github.com/tmadeira</a>
+            </div>
+          }
+        />
+      </Section>
+
+      <Section title="Additional Education">
+        <SectionItem
+          title="Game Theory (with distinction)"
+          subtitle="Online at Coursera"
+          description="Instructors: Matthew O. Jackson (Stanford), Kevin Leyton-Brown (UBC), Yoav Shoham (Stanford)"
+          badge={<Badge>2014</Badge>}
+        />
+        <SectionItem
+          title="Cryptography I (with distinction)"
+          subtitle="Online at Coursera"
+          description="Instructor: Dan Boneh (Stanford)"
+          badge={<Badge>2013</Badge>}
+        />
+        <SectionItem
+          title="Programming Challenges"
+          subtitle="University of São Paulo (USP)"
+          subdescription="Invited for having a good performance at ACM-ICPC."
+          badge={<Badge>2011</Badge>}
+        />
+        <SectionItem
+          title="Programming Challenges"
+          subtitle="University of São Paulo (USP)"
+          badge={<Badge>2010</Badge>}
+        />
+        <SectionItem
+          title="Advanced Computer Programming"
+          subtitle="State University of Campinas (UNICAMP)"
+          subdescription="Invited for having a good performance at Brazilian Olympiad in Informatics (OBI)."
+          badge={<Badge>2006</Badge>}
+        />
+        <SectionItem
+          title="Advanced Computer Programming"
+          subtitle="State University of Campinas (UNICAMP)"
+          subdescription="Invited for having a good performance at Brazilian Olympiad in Informatics (OBI)."
+          badge={<Badge>2005</Badge>}
+        />
+        <SectionItem
+          title="Introduction to Computer Programming"
+          subtitle="State University of Campinas (UNICAMP)"
+          subdescription="Invited for having a good performance at Brazilian Olympiad in Informatics (OBI)."
+          badge={<Badge>2004</Badge>}
         />
       </Section>
     </Layout>

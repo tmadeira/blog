@@ -247,11 +247,11 @@ export default function () {
           description={
             <ul>
               <Award
-                title="Bronze Medal at Iberoamerican May Olympiad (Olimpyada de Mayo)"
+                title="Bronze Medal at Iberoamerican May Olympiad (Olimpíada de Mayo)"
                 badge={<Badge>2005</Badge>}
               />
               <Award
-                title="Bronze Medal at Iberoamerican May Olympiad (Olimpyada de Mayo)"
+                title="Bronze Medal at Iberoamerican May Olympiad (Olimpíada de Mayo)"
                 badge={<Badge>2003</Badge>}
               />
             </ul>

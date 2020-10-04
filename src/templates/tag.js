@@ -7,7 +7,7 @@ import Layout from "../components/Layout";
 import Pagination from "../components/Pagination";
 
 export default function ({ data, pageContext }) {
-  let title = "Blog";
+  let title = `${pageContext.tag}`;
   if (pageContext.humanPageNumber !== 1) {
     title += ` (página ${pageContext.humanPageNumber})`;
   }

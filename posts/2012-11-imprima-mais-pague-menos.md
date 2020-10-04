@@ -21,83 +21,22 @@ Isso torna as gráficas boas candidatas de lugares para pensar em gráficos de f
 
 Hoje fui imprimir uma partitura e me deparei com a seguinte tabela:
 
-<table>
-  <tr>
-    <td>
-      De 01 a 03 unidades
-    </td>
+|                Cópias | Preço         |
+| --------------------: | ------------- |
+|   De 01 a 03 unidades | R\$ 0,70 cada |
+|   De 04 a 10 unidades | R\$ 0,50 cada |
+|   De 11 a 20 unidades | R\$ 0,40 cada |
+|   De 21 a 50 unidades | R\$ 0,30 cada |
+|  De 51 a 100 unidades | R\$ 0,25 cada |
+| Acima de 100 unidades | R\$ 0,20 cada |
 
-    <td>
-      R$ 0,70 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      De 04 a 10 unidades
-    </td>
-
-    <td>
-      R$ 0,50 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      De 11 a 20 unidades
-    </td>
-
-    <td>
-      R$ 0,40 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      De 21 a 50 unidades
-    </td>
-
-    <td>
-      R$ 0,30 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      De 51 a 100 unidades
-    </td>
-
-    <td>
-      R$ 0,25 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      Acima de 100 unidades
-    </td>
-
-    <td>
-      R$ 0,20 cada
-    </td>
-
-  </tr>
-</table>
-
-<p style="text-align:center;">
-  <small>(registrada em uma <a href="http://instagram.com/p/R-Zo0Si6sY/">foto de um bilhão de dólares</a>)</small>
-</p>
+(registrada em uma <a href="http://instagram.com/p/R-Zo0Si6sY/">foto de um bilhão de dólares</a>)
 
 Se desenharmos um gráfico de preço (eixo y — vertical) por número de impressões (eixo x — horizontal), temos:
 
 ![Preço (eixo y) por número de impressões (eixo x)](/wp-content/uploads/2012/11/grafico.png)
 
-Observando esse gráfico (feio), percebemos que há alguns números de impressões que economicamente não faz sentido fazer. Por exemplo, 3 impressões custam R$ 2,10 enquanto 4 impressões custam R$ 2,00. 20 impressões custam R$ 8,00 enquanto 21 impressões custam R$ 6,30. 100 impressões custam R$ 25,00 enquanto 101 impressões custam R$ 20,20.
+Observando esse gráfico (feio), percebemos que há alguns números de impressões que economicamente não faz sentido fazer. Por exemplo, 3 impressões custam R\$ 2,10 enquanto 4 impressões custam R\$ 2,00. 20 impressões custam R\$ 8,00 enquanto 21 impressões custam R\$ 6,30. 100 impressões custam R\$ 25,00 enquanto 101 impressões custam R\$ 20,20.
 
 Mas não só esses. Os valores que não faz sentido imprimir no gráfico são todos aqueles cujo existe algum ponto a direita na mesma altura ou mais baixo, ou seja, todos os que pintei de amarelo:
 
@@ -133,85 +72,24 @@ Por exemplo: 3 cópias custam R\$ 2,10. Se a partir de 4 cópias quisermos que a
 
 Se repetirmos o mesmo raciocínio para as outras interseções, a tabela de preços final fica assim:
 
-<table>
-  <tr>
-    <td>
-      De 01 a 03 unidades
-    </td>
+|                Cópias | Preço                          |
+| --------------------: | ------------------------------ |
+|   De 01 a 03 unidades | R\$ 0,70 cada                  |
+|   De 04 a 10 unidades | R\$ 0,60 fixo + R\$ 0,50 cada  |
+|   De 11 a 20 unidades | R\$ 1,60 fixo + R\$ 0,40 cada  |
+|   De 21 a 50 unidades | R\$ 3,60 fixo + R\$ 0,30 cada  |
+|  De 51 a 100 unidades | R\$ 6,10 fixo + R\$ 0,25 cada  |
+| Acima de 100 unidades | R\$ 11,10 fixo + R\$ 0,20 cada |
 
-    <td>
-      R$ 0,70 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      De 04 a 10 unidades
-    </td>
-
-    <td>
-      R$ 0,60 fixo + R$ 0,50 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      De 11 a 20 unidades
-    </td>
-
-    <td>
-      R$ 1,60 fixo + R$ 0,40 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      De 21 a 50 unidades
-    </td>
-
-    <td>
-      R$ 3,60 fixo + R$ 0,30 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      De 51 a 100 unidades
-    </td>
-
-    <td>
-      R$ 6,10 fixo + R$ 0,25 cada
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      Acima de 100 unidades
-    </td>
-
-    <td>
-      R$ 11,10 fixo + R$ 0,20 cada
-    </td>
-
-  </tr>
-</table>
-
-<p style="text-align:center;">
-  <small><strong>(Isso aqui é só um exercício. Por favor, não façam isso, donos de gráficas!)</strong></small>
-</p>
+_(Isso aqui é só um exercício. Por favor, não façam isso, donos de gráficas!)_
 
 Agora note que as coisas passam a fazer mais sentido (embora muito mais caras):
 
-- 3 cópias custam R$ 2,10 e 4 cópias custam R$ 2,60;
-- 10 cópias custam R$ 5,60 e 11 cópias custam R$ 6,00;
-- 20 cópias custam R$ 9,60 e 21 cópias custam R$ 9,90;
-- 50 cópias custam R$ 18,60 e 51 cópias custam R$ 18,85;
-- 100 cópias custam R$ 31,10 e 101 cópias custam R$ 31,30.
+- 3 cópias custam R\$ 2,10 e 4 cópias custam R\$ 2,60;
+- 10 cópias custam R\$ 5,60 e 11 cópias custam R\$ 6,00;
+- 20 cópias custam R\$ 9,60 e 21 cópias custam R\$ 9,90;
+- 50 cópias custam R\$ 18,60 e 51 cópias custam R\$ 18,85;
+- 100 cópias custam R\$ 31,10 e 101 cópias custam R\$ 31,30.
 
 O gráfico monótono (e bonito) comprova:
 

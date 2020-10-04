@@ -108,18 +108,18 @@ Com o tempo você pode decidir fazer um caminho diferente, mas eu sugiro começa
 
 O problema fala que começa nos dando um número _N_ que será o número de casos de teste que teremos que receber depois. Sem dificuldade podemos escrever o \_pseudo_código a seguir:
 
-<pre><code>recebe</strong> N
-<strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-<strong>fim-para</strong></code></pre>
+**recebe** N  
+**para** _nteste_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+**fim-para**
 
 Já chamo a variável que loopa como _nteste_, porque já li a saída do problema e sei que vou precisar imprimir o número de caad caso de teste… ;)
 
 Aí o enunciado diz que <q>Cada uma das $N$ linhas seguintes contém cinco números inteiros $C\_{1}$, $C\_{2}$, $C\_{3}$, $C\_{4}$ e $C\_{5}$, representando as cinco cartas recebidas por um jogador ($1 \leq{} C\_{1}, C\_{2}, C\_{3}, C\_{4}, C\_{5} \leq{} 13$).</q> Então, vamos receber os cinco números em cada iteração e colocá-los num vetor, é claro!
 
-<pre><code><strong>recebe</strong> N
-<strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-    <strong>recebe</strong> <span class="tex-render">C_{1}, C_{2}, C_{3}, C_{4}, C_{5}</span>
-<strong>fim-para</strong></code></pre>
+**recebe** N  
+**para** _nteste_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;**recebe** $C_{1}, C_{2}, C_{3}, C_{4}, C_{5}$  
+**fim-para**
 
 E a entrada está pronta.
 
@@ -127,25 +127,25 @@ E a entrada está pronta.
 
 O programa se baseia em encontrarmos valores iguais nos elementos do vetor. O que podemos fazer para facilitar essa tarefa?
 
-Isso mesmo: A ordenação! :D Se os elementos estiverem ordenados, ficará bem mais fácil para procurarmos quatro números iguais, porque eles não poderão ser qualquer uma das possibilidades, mas somente $C\_{1}, C\_{2}, C\_{3}, C\_{4}$ ou $C\_{2}, C\_{3}, C\_{4}, C\_{5}$.
+Isso mesmo: A ordenação! :D Se os elementos estiverem ordenados, ficará bem mais fácil para procurarmos quatro números iguais, porque eles não poderão ser qualquer uma das possibilidades, mas somente $C_{1}, C_{2}, C_{3}, C_{4}$ ou $C_{2}, C_{3}, C_{4}, C_{5}$.
 
 Aí que algoritmos devemos implementar para ordenar? Isso é uma conclusão que vamos chegar no final de nossa série, mas para este algoritmo não tem solução melhor que a **Ordenação por Inserção**. É um caso pequeno (n=5) e a **Ordenação por Inserção** é mais rápida que a por **Seleção**, porque o seu melhor caso é uma função linear. Então, vamos implementar o **Insertion Sort** no nosso algoritmo:
 
-<pre><code><strong>recebe</strong> N
-<strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-    <strong>recebe</strong> <span class="tex-render">C_{1}, C_{2}, C_{3}, C_{4}, C_{5}</span>
-    <span style="color:red;">início da ordenação por inserção</span>
-    <strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 2 <strong>até</strong> <em>5</em>
-        <em>elemento</em> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{j}</span>
-        <em>i</em> <span class="tex-render">\leftarrow{}</span> <em>j-1</em>
-        <strong>enquanto</strong> <em>i</em> > 0 <strong>e</strong> <span class="tex-render">C_{i}</span> > <em>elemento</em>, <strong>faça</strong>
-            <span class="tex-render">C_{i+1}</span> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{i}</span>
-            <span class="tex-render">i</span> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{i-1}</span>
-        <strong>fim-enquanto</strong>
-        <span class="tex-render">C_{i+1}</span> <span class="tex-render">\leftarrow{}</span> <em>elemento</em>
-    <strong>fim-para</strong>
-    <span style="color:red;">fim da ordenação por inserção</span>
-<strong>fim-para</strong></code></pre>
+**recebe** N  
+**para** _nteste_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;**recebe** $C_{1}, C_{2}, C_{3}, C_{4}, C_{5}$  
+ &emsp;_// início da ordenação por inserção_  
+ &emsp;**para** _j_ $\leftarrow{}$ 2 **até** _5_  
+ &emsp;&emsp;_elemento_ $\leftarrow{}$ $C_{j}$  
+ &emsp;&emsp;_i_ $\leftarrow{}$ _j-1_  
+ &emsp;&emsp;**enquanto** _i_ > 0 **e** $C_{i}$ > _elemento_, **faça**  
+ &emsp;&emsp;&emsp;$C_{i+1}$ $\leftarrow{}$ $C_{i}$  
+ &emsp;&emsp;&emsp;$i$ $\leftarrow{}$ $C_{i-1}$  
+ &emsp;&emsp;**fim-enquanto**  
+ &emsp;&emsp;$C_{i+1}$ $\leftarrow{}$ _elemento_  
+ &emsp;**fim-para**  
+ &emsp;_// fim da ordenação por inserção_  
+**fim-para**
 
 O bom desses algoritmos de ordenação é que sua lógica é muito simples e por isso é fácil decorá-los… Ao menos o **Insertion Sort** e o **Selection Sort** são algoritmos básicos que todo programador deve conhecer bem. Bom… Acredito que vocês não tenham tido dificuldade pra entender até aqui. A cor vermelha no pseudocódigo eu vou usar daqui pra frente para um comentário, que aliás, é uma excelente prática de boa programação.
 
@@ -157,61 +157,60 @@ Como vamos ver com os pseudocódigos a seguir, é fácil testar cada uma das reg
 
 #### Primeira Regra – Seqüência
 
-Se as cinco cartas estão em seqüência a partir da carta <span class="tex-render">x</span>(ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x+1</span>, <span class="tex-render">x+2</span>, $x+3$ e <span class="tex-render">x+4</span>), a pontuação é $x+200$ pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
+Se as cinco cartas estão em seqüência a partir da carta $x$(ou seja, os valores das cartas são $x$, $x+1$, $x+2$, $x+3$ e $x+4$), a pontuação é $x+200$ pontos. Por exemplo, se as cartas recebidas são 10, 9, 8, 11 e 12, a pontuação é 208 pontos.
 
-<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2}-1</span> e <span class="tex-render">C_{2} = C_{3}-1</span> e <span class="tex-render">C_{3}=C_{4}-1</span> e <span class="tex-render">C_{4}=C_{5}-1</span>, <strong>então</strong>
-    <strong>retorna</strong> <span class="tex-render">C_{1}+200</span>
-<strong>fim-se</strong></code></pre>
+**se** $C_{1} = C_{2}-1$ e $C_{2} = C_{3}-1$ e $C_{3}=C_{4}-1$ e $C_{4}=C_{5}-1$, **então**  
+ &emsp;**retorna** $C_{1}+200$  
+**fim-se**
 
 #### Segunda Regra – Quadra
 
-Se há quatro cartas iguais $x$ (uma _quadra_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, $x$ e <span class="tex-render">y</span>), a pontuação é $x+180$ pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
+Se há quatro cartas iguais $x$ (uma _quadra_, ou seja, os valores das cartas são $x$, $x$, $x$, $x$ e $y$), a pontuação é $x+180$ pontos. Por exemplo, se as cartas recebidas são 1, 1, 1, 10 e 1, a pontuação é 181 pontos.
 
-<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
-    <strong>retorna</strong> <span class="tex-render">C_{2}+180</span>
-<strong>fim-se</strong></code></pre>
+**se** $C_{1} = C_{2} = C_{3} = C_{4}$ ou $C_{2} = C_{3} = C_{4} = C_{5}$, **então**  
+ &emsp;**retorna** $C_{2}+180$  
+**fim-se**
 
 Aqui retornamos $C\_{2}$ porque ele será sempre parte da quadra (ela começando em $C\_{1}$ ou $C\_{2}$).
 
 #### Terceira e Quarta Regra – Trinca
 
-Se há três cartas iguais $x$ e outras duas cartas iguais $y$ (uma _trinca_ e um _par_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, $y$ e <span class="tex-render">y</span>), a pontuação é $x+160$ pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
+Se há três cartas iguais $x$ e outras duas cartas iguais $y$ (uma _trinca_ e um _par_, ou seja, os valores das cartas são $x$, $x$, $x$, $y$ e $y$), a pontuação é $x+160$ pontos. Por exemplo, se as cartas recebidas são 10, 4, 4, 10 e 4, a pontuação é 164 pontos.
 
-<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
-    <strong>se</strong> ( <span class="tex-render">C_{1} \neq{} C_{3}</span> e <span class="tex-render">C_{1} = C_{2}</span> ) ou ( <span class="tex-render">C_{3} \neq{} C_{5}</span> e <span class="tex-render">C_{4} = C_{5}</span> ), <strong>então</strong>
-        <strong>retorna</strong> <span class="tex-render">C_{3}+160</span></code></pre>
+**se** $C_{1} = C_{2} = C_{3}$ ou $C_{2} = C_{3} = C_{4}$ ou $C_{3} = C_{4} = C_{5}$, **então**  
+ &emsp;**se** ( $C_{1} \neq{} C_{3}$ e $C_{1} = C_{2}$ ) ou ( $C_{3} \neq{} C_{5}$ e $C_{4} = C_{5}$ ), **então**  
+ &emsp;&emsp;**retorna** $C_{3}+160$
 
-Se há três cartas iguais $x$ e duas outras cartas diferentes $y$ e $z$ (uma _trinca_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">x</span>, $y$ e <span class="tex-render">z</span>), a pontuação é $x+140$ pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
+Se há três cartas iguais $x$ e duas outras cartas diferentes $y$ e $z$ (uma _trinca_, ou seja, os valores das cartas são $x$, $x$, $x$, $y$ e $z$), a pontuação é $x+140$ pontos. Por exemplo, se as cartas recebidas são 2, 3, 2, 2 e 13, a pontuação é 142 pontos.
 
-<pre><code>    <strong>senão</strong>
-        <strong>retorna</strong> <span class="tex-render">C_{3} + 140</span>
-    <strong>fim-se</strong>
-<strong>fim-se</strong></code></pre>
+&emsp;**senão**  
+ &emsp;&emsp;**retorna** $C_{3} + 140$  
+ &emsp;**fim-se**  
+**fim-se**
 
 Note que aqui retornamos $C\_{3}$ porque ele será sempre parte da trinca (o mesmo motivo que retornarmos $C\_{2}$ para a quadra).
 
 #### Quinta Regra – Duas Duplas
 
-Se há duas cartas iguais <span class="tex-render">x</span>, duas outras cartas iguais $y$ (<span class="tex-render">x \neq{} y</span>) e uma outra carta distinta $z$ (dois _pares_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">y</span>, $y$ e <span class="tex-render">z</span>), a pontuação é $3 \times{} x + 2 \times{} y + 20$ pontos, em que $x > y$. Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
+Se há duas cartas iguais $x$, duas outras cartas iguais $y$ ($x \neq{} y$) e uma outra carta distinta $z$ (dois _pares_, ou seja, os valores das cartas são $x$, $x$, $y$, $y$ e $z$), a pontuação é $3 \times{} x + 2 \times{} y + 20$ pontos, em que $x > y$. Por exemplo, se as cartas recebidas são 12, 7, 12, 8 e 7, a pontuação é 70 pontos.
 
-<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
-    <strong>se</strong> <span class="tex-render">C_{3} = C_{4}</span> ou <span class="tex-render">C_{4} = C_{5}</span>, <strong>então</strong>
-        <strong>retorna</strong> <span class="tex-render">3 \times{} C_{4} + 2 \times{} C_{2} + 20</span>
-    <strong>fim-se</strong>
-<strong>fim-se</strong></code></pre>
+**se** $C_{1} = C_{2}$ ou $C_{2} = C_{3}$, **então**  
+ &emsp;**se** $C_{3} = C_{4}$ ou $C_{4} = C_{5}$, **então**  
+ &emsp;&emsp;**retorna** $3 \times{} C_{4} + 2 \times{} C_{2} + 20$  
+ &emsp;**fim-se**  
+**fim-se**
 
-$C\_{2}$ será sempre elemento da menor dupla e $C\_{4}$ será sempre elemento da maior dupla. Por isso usamos eles como $y$ e <span class="tex-render">x</span>, respectivamente.
+$C\_{2}$ será sempre elemento da menor dupla e $C\_{4}$ será sempre elemento da maior dupla. Por isso usamos eles como $y$ e $x$, respectivamente.
 
 #### Sexta Regra – Dupla
 
-Se há apenas duas cartas iguais $x$ e as outras são distintas (um _par_, ou seja, os valores das cartas são <span class="tex-render">x</span>, <span class="tex-render">x</span>, <span class="tex-render">y</span>, $z$ e <span class="tex-render">t</span>), a pontuação é $x$ pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
+Se há apenas duas cartas iguais $x$ e as outras são distintas (um _par_, ou seja, os valores das cartas são $x$, $x$, $y$, $z$ e $t$), a pontuação é $x$ pontos. Por exemplo, se as cartas recebidas são 12, 13, 5, 8 e 13, a pontuação é 13 pontos.
 
-<pre><code><strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
-    <strong>retorna</strong> <span class="tex-render">C_{2}</span>
-<strong>senão se</strong> <span class="tex-render">C_{3} = C_{4}</span> ou <span class="tex-render">C_{4} = C_{5}</span>,
-<strong>então</strong>
-    <strong>retorna</strong> <span class="tex-render">C_{4}</span>
-<strong>fim-se</strong></code></pre>
+**se** $C_{1} = C_{2}$ ou $C_{2} = C_{3}$, **então**  
+ &emsp;**retorna** $C_{2}$  
+**senão se** $C_{3} = C_{4}$ ou $C_{4} = C_{5}$, **então**  
+ &emsp;**retorna** $C_{4}$  
+**fim-se**
 
 Separei em dois **SE**s porque senão não saberíamos que valor retornar.
 
@@ -219,50 +218,50 @@ Separei em dois **SE**s porque senão não saberíamos que valor retornar.
 
 Se todas as cartas são distintas, não há pontuação.
 
-<pre><code><strong>retorna</strong> 0</code></pre>
+**retorna** 0
 
 #### Função Inteira
 
 Juntando todos os **SE**s, temos:
 
-<pre><code><strong>função</strong> <em>pontua</em> (<em>C</em>)
-    <span style="color:red;">primeira regra</span>
-    <strong>se</strong> <span class="tex-render">C_{1} = C_{2}-1</span> e <span class="tex-render">C_{2} = C_{3}-1</span> e <span class="tex-render">C_{3}=C_{4}-1</span> e <span class="tex-render">C_{4}=C_{5}-1</span>, <strong>então</strong>
-        <strong>retorna</strong> <span class="tex-render">C_{1}+200</span>
-    <strong>fim-se</strong>
-
-    <span style="color:red;">segunda regra</span>
-    <strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
-        <strong>retorna</strong> <span class="tex-render">C_{2}+180</span>
-    <strong>fim-se</strong>
-
-    <span style="color:red;">terceira e quarta regra</span>
-    <strong>se</strong> <span class="tex-render">C_{1} = C_{2} = C_{3}</span> ou <span class="tex-render">C_{2} = C_{3} = C_{4}</span> ou <span class="tex-render">C_{3} = C_{4} = C_{5}</span>, <strong>então</strong>
-        <strong>se</strong> ( <span class="tex-render">C_{1} \neq{} C_{3}</span> e <span class="tex-render">C_{1} = C_{2}</span> ) ou ( <span class="tex-render">C_{3} \neq{} C_{5}</span> e <span class="tex-render">C_{4} = C_{5}</span> ), <strong>então</strong>
-            <strong>retorna</strong> <span class="tex-render">C_{3}+160</span>
-        <strong>senão</strong>
-            <strong>retorna</strong> <span class="tex-render">C_{3} + 140</span>
-        <strong>fim-se</strong>
-    <strong>fim-se</strong>
-
-    <span style="color:red;">quinta regra</span>
-    <strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
-        <strong>se</strong> <span class="tex-render">C_{3} = C_{4}</span> ou <span class="tex-render">C_{4} = C_{5}</span>, <strong>então</strong>
-            <strong>retorna</strong> <span class="tex-render">3 \times{} C_{4} + 2 \times{} C_{2} + 20</span>
-        <strong>fim-se</strong>
-    <strong>fim-se</strong>
-
-    <span style="color:red;">sexta regra</span>
-    <strong>se</strong> <span class="tex-render">C_{1} = C_{2}</span> ou <span class="tex-render">C_{2} = C_{3}</span>, <strong>então</strong>
-        <strong>retorna</strong> <span class="tex-render">C_{2}</span>
-    <strong>senão se</strong> <span class="tex-render">C_{3} = C_{4}</span> ou <span class="tex-render">C_{4} = C_{5}</span>,
-    <strong>então</strong>
-        <strong>retorna</strong> <span class="tex-render">C_{4}</span>
-    <strong>fim-se</strong>
-
-    <span style="color:red;">sétima regra</span>
-    <strong>retorna</strong> 0
-<strong>fim-função</strong></code></pre>
+**função** _pontua_ (_C_)  
+ &emsp;_// primeira regra_  
+ &emsp;**se** $C_{1} = C_{2}-1$ e $C_{2} = C_{3}-1$ e $C_{3}=C_{4}-1$ e $C_{4}=C_{5}-1$, **então**  
+ &emsp;&emsp;**retorna** $C_{1}+200$  
+ &emsp;**fim-se**  
+ &emsp;  
+ &emsp;_// segunda regra_  
+ &emsp;**se** $C_{1} = C_{2} = C_{3} = C_{4}$ ou $C_{2} = C_{3} = C_{4} = C_{5}$, **então**  
+ &emsp;&emsp;**retorna** $C_{2}+180$  
+ &emsp;**fim-se**  
+ &emsp;  
+ &emsp;_//terceira e quarta regra_  
+ &emsp;**se** $C_{1} = C_{2} = C_{3}$ ou $C_{2} = C_{3} = C_{4}$ ou $C_{3} = C_{4} = C_{5}$, **então**  
+ &emsp;&emsp;**se** ( $C_{1} \neq{} C_{3}$ e $C_{1} = C_{2}$ ) ou ( $C_{3} \neq{} C_{5}$ e $C_{4} = C_{5}$ ), **então**  
+ &emsp;&emsp;&emsp;**retorna** $C_{3}+160$  
+ &emsp;&emsp;**senão**  
+ &emsp;&emsp;&emsp;**retorna** $C_{3} + 140$  
+ &emsp;&emsp;**fim-se**  
+ &emsp;**fim-se**  
+ &emsp;  
+ &emsp;_// quinta regra_  
+ &emsp;**se** $C_{1} = C_{2}$ ou $C_{2} = C_{3}$, **então**  
+ &emsp;&emsp;**se** $C_{3} = C_{4}$ ou $C_{4} = C_{5}$, **então**  
+ &emsp;&emsp;&emsp;**retorna** $3 \times{} C_{4} + 2 \times{} C_{2} + 20$  
+ &emsp;&emsp;**fim-se**  
+ &emsp;**fim-se**  
+ &emsp;  
+ &emsp;_// sexta regra_  
+ &emsp;**se** $C_{1} = C_{2}$ ou $C_{2} = C_{3}$, **então**  
+ &emsp;&emsp;**retorna** $C_{2}$  
+ &emsp;**senão se** $C_{3} = C_{4}$ ou $C_{4} = C_{5}$,  
+ &emsp;**então**  
+ &emsp;&emsp;**retorna** $C_{4}$  
+ &emsp;**fim-se**  
+ &emsp;  
+ &emsp;_// sétima regra_  
+ &emsp;**retorna** 0  
+**fim-função**
 
 Já que a função retorna assim que encontra um resultado, não há risco de ocorrer nada errado (por exemplo, uma quadra é sempre uma trinca, que é sempre uma dupla). Agora basta colocarmos esta função no nosso código e adaptar para a saída ser igual a que o problema pede.
 
@@ -270,26 +269,26 @@ Já que a função retorna assim que encontra um resultado, não há risco de oc
 
 Para chegar a saída, basta fazermos o programa imprimir **Teste _nteste_** e depois o retorno da função **pontua**. Com isto, temos:
 
-<pre><code><strong>recebe</strong> N
-<strong>para</strong> <em>nteste</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-    <strong>recebe</strong> <span class="tex-render">C_{1}, C_{2}, C_{3}, C_{4}, C_{5}</span>
-    <span style="color:red;">início da ordenação por inserção</span>
-    <strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 2 <strong>até</strong> <em>5</em>
-        <em>elemento</em> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{j}</span>
-        <em>i</em> <span class="tex-render">\leftarrow{}</span> <em>j-1</em>
-        <strong>enquanto</strong> <em>i</em> > 0 <strong>e</strong> <span class="tex-render">C_{i}</span> > <em>elemento</em>, <strong>faça</strong>
-            <span class="tex-render">C_{i+1}</span> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{i}</span>
-            <span class="tex-render">i</span> <span class="tex-render">\leftarrow{}</span> <span class="tex-render">C_{i-1}</span>
-        <strong>fim-enquanto</strong>
-        <span class="tex-render">C_{i+1}</span> <span class="tex-render">\leftarrow{}</span> <em>elemento</em>
-    <strong>fim-para</strong>
-    <span style="color:red;">fim da ordenação por inserção</span>
+**recebe** N  
+**para** _nteste_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;**recebe** $C_{1}, C_{2}, C_{3}, C_{4}, C_{5}$  
+ &emsp;_// início da ordenação por inserção_  
+ &emsp;**para** _j_ $\leftarrow{}$ 2 **até** _5_  
+ &emsp;&emsp;_elemento_ $\leftarrow{}$ $C_{j}$  
+ &emsp;&emsp;_i_ $\leftarrow{}$ _j-1_  
+ &emsp;&emsp;**enquanto** _i_ > 0 **e** $C_{i}$ > _elemento_, **faça**  
+ &emsp;&emsp;&emsp;$C_{i+1}$ $\leftarrow{}$ $C_{i}$  
+ &emsp;&emsp;&emsp;$i$ $\leftarrow{}$ $C_{i-1}$  
+ &emsp;&emsp;**fim-enquanto**  
+ &emsp;&emsp;$C_{i+1}$ $\leftarrow{}$ _elemento_  
+ &emsp;**fim-para**  
+ &emsp;_// fim da ordenação por inserção_
 
-    <strong>imprime</strong> "Teste "
-    <strong>imprime linha</strong> testen
-    <strong>imprime linha</strong> pontua(C)
-    <strong>imprime linha</strong>
-<strong>fim-para</strong></code></pre>
+&emsp;**imprime** "Teste "  
+ &emsp;**imprime linha** testen  
+ &emsp;**imprime linha** pontua(C)  
+ &emsp;**imprime linha**  
+**fim-para**
 
 Fiz essa saída assim pra se parecer com Pascal, mas para cada linguagem ela pode ser bem diferente… Vejamos dois exemplos…
 

@@ -34,23 +34,23 @@ Então, mãos à obra!
 
 ---
 
-Em matemática, o número fatorial de $n$ é igual a: <span class="tex-render">n \times{} n-1 \times{} n-2 \times{} \ldots{} 2 \times{} 1</span>.
+Em matemática, o número fatorial de $n$ é igual a: $n \times{} n-1 \times{} n-2 \times{} \ldots{} 2 \times{} 1$.
 
-Logo, por exemplo, $5!$ (cinco fatorial) seria igual a: <span class="tex-render">5 \times{} 4 \times{} 3 \times{} 2 \times{} 1 = 120</span>.
+Logo, por exemplo, $5!$ (cinco fatorial) seria igual a: $5 \times{} 4 \times{} 3 \times{} 2 \times{} 1 = 120$.
 
 ---
 
 Um exemplo bom e simples de recursão é um algoritmo para determinar números fatoriais:
 
-<pre><code><strong>função</strong> <em>fatorial</em> (<em>n</em>)
- <strong>se</strong> <span class="tex-render">n = 1</span>, <strong>então</strong>
-     <strong>retorna</strong> <span class="tex-render">1</span>
- <strong>senão</strong>
-     <strong>retorna</strong> <span class="tex-render">n \times{} fatorial(n-1)</span>
- <strong>fim-se</strong>
-<strong>fim-função</strong></code></pre>
+**função** _fatorial_ (_n_)  
+ &emsp;**se** $n = 1$, **então**  
+ &emsp;&emsp;**retorna** $1$  
+ &emsp;**senão**  
+ &emsp;&emsp;**retorna** $n \times{} fatorial(n-1)$  
+ &emsp;**fim-se**  
+**fim-função**
 
-**Domínio de nossa função:** <span class="tex-render">n \in{} \mathbf{N} / n \geq{} 1</span>.
+**Domínio de nossa função:** $n \in{} \mathbf{N} / n \geq{} 1$.
 
 ### Qual o custo desse algoritmo?
 
@@ -58,35 +58,35 @@ Vamos abrir um grande parênteses aqui até a próxima linha horizontal para des
 
 **Número da linha: Número de vezes que é executada.**.
 
-1. <span class="tex-render">n</span>
-2. <span class="tex-render">n-1</span>
-3. <span class="tex-render">1</span>
-4. <span class="tex-render">n-1</span>
-5. <span class="tex-render">n-1</span>
+1. $n$
+2. $n-1$
+3. $1$
+4. $n-1$
+5. $n-1$
 
 $T(n) = (n) + (n-1) + (1) + (n-1) + (n-1) = 4n - 2$
 
 Uma **função linear**, o tipo de algoritmo mais simples que podemos encontrar, com excessão dos que são uma **função constante**. Mas o parênteses na verdade não serviu só pra isso. Eu queria aproveitar pra _escovar uns bits_ de nosso código. Você percebeu que o primeiro condicional é executado $n-1$ vezes, mas só entramos nele **uma** vez? Então vamos inverter nosso condicional.
 
-<pre><code><strong>função</strong> <em>fatorial</em> (<em>n</em>)
- <strong>se</strong> <span class="tex-render">n \geq{} 2</span>, <strong>então</strong>
-     <strong>retorna</strong> <span class="tex-render">n \times{} fatorial(n-1)</span>
- <strong>senão</strong>
-     <strong>retorna</strong> <span class="tex-render">1</span>
- <strong>fim-se</strong>
-<strong>fim-função</strong></code></pre>
+**função** _fatorial_ (_n_)  
+ &emsp;**se** $n \geq{} 2$, **então**  
+ &emsp;&emsp;**retorna** $n \times{} fatorial(n-1)$  
+ &emsp;**senão**  
+ &emsp;&emsp;**retorna** $1$  
+ &emsp;**fim-se**  
+**fim-função**
 
 #### Novo custo
 
-1. <span class="tex-render">n</span>
-2. <span class="tex-render">n-1</span>
-3. <span class="tex-render">n-1</span>
-4. <span class="tex-render">1</span>
-5. <span class="tex-render">1</span>
+1. $n$
+2. $n-1$
+3. $n-1$
+4. $1$
+5. $1$
 
 $T(n) = (n) + (n-1) + (n-1) + (1) + (1) = 3n$
 
-Claro que continua uma **função linear**, não houve nenhuma grande mudança. Os dois continuam com a mesma ordem de crescimento e tal… $4n+2$ comparado com $3n$ é uma diferença pequena, mas essa solução ficou bem mais elegante. ;) Poxa, diminuímos o custo do algoritmo em <span class="tex-render">\frac{1}{4}</span>! Hehehe…
+Claro que continua uma **função linear**, não houve nenhuma grande mudança. Os dois continuam com a mesma ordem de crescimento e tal… $4n+2$ comparado com $3n$ é uma diferença pequena, mas essa solução ficou bem mais elegante. ;) Poxa, diminuímos o custo do algoritmo em $\frac{1}{4}$! Hehehe…
 
 Agora, antes de continuar, só vamos definir a **notação assintótica** desse nosso novo custo!
 
@@ -96,25 +96,25 @@ Substituindo pela nossa função, temos: $c\_{1}n \leq{} 3n \leq{} c\_{2}n$. É 
 
 ---
 
-Bom… Continuando com a recursão… Nossa função cria um loop consigo mesma, ao invés de usar um **para** (for) ou **enquanto** (while). Ela se repete diminuindo um de $n$ a cada iteração, até que chegue ao valor mínimo $1$ aonde a resposta é trivial: <span class="tex-render">1</span>.
+Bom… Continuando com a recursão… Nossa função cria um loop consigo mesma, ao invés de usar um **para** (for) ou **enquanto** (while). Ela se repete diminuindo um de $n$ a cada iteração, até que chegue ao valor mínimo $1$ aonde a resposta é trivial: $1$.
 
-O que é necessário para criarmos uma **recursão**? Apenas um ponto de parada! Temos que tomar cuidado para não criarmos _loops infinitos_ cuidando sempre com cada entrada que o usuário pode colocar. Nesse caso, eu determinei que o domínio da função é <span class="tex-render">n \in{} \mathbf{N} / n \geq{} 1</span>. Se o cara colocasse <span class="tex-render">n=0</span>, minha função iria diminuindo infinitamente… e nunca iria retornar nada!
+O que é necessário para criarmos uma **recursão**? Apenas um ponto de parada! Temos que tomar cuidado para não criarmos _loops infinitos_ cuidando sempre com cada entrada que o usuário pode colocar. Nesse caso, eu determinei que o domínio da função é $n \in{} \mathbf{N} / n \geq{} 1$. Se o cara colocasse $n=0$, minha função iria diminuindo infinitamente… e nunca iria retornar nada!
 
-Para fazer a recursão portanto, precisamos analisar o domínio de nossa função e mais: precisamos conhecer um valor (que vai ser o limite; no caso do **fatorial**, o valor que sabíamos é que <span class="tex-render">1! = 1</span>).
+Para fazer a recursão portanto, precisamos analisar o domínio de nossa função e mais: precisamos conhecer um valor (que vai ser o limite; no caso do **fatorial**, o valor que sabíamos é que $1! = 1$).
 
 Acredito que vocês tenham achado tudo simples e que não tenham problema com isso. Funções recursivas vão ser extremamente úteis para nós nos próximos artigos. Vou finalizar mostrando-lhes alguns casos básicos de algoritmos em que podemos usar a recursão:
 
 ### Números de Fibonacci
 
-<pre><code><strong>função</strong> <em>fibonacci</em> (<em>n</em>)
- <strong>se</strong> <span class="tex-render">n \geq{} 3</span>, <strong>então</strong>
-     <strong>retorna</strong> <span class="tex-render">fibonacci(n-1) + fibonacci(n-2)</span>
- <strong>senão</strong>
-     <strong>retorna</strong> <span class="tex-render">1</span>
- <strong>fim-se</strong>
-<strong>fim-função</strong></code></pre>
+**função** _fibonacci_ (_n_)  
+ &emsp;**se** $n \geq{} 3$, **então**  
+ &emsp;&emsp;**retorna** $fibonacci(n-1) + fibonacci(n-2)$  
+ &emsp;**senão**  
+ &emsp;&emsp;**retorna** $1$  
+ &emsp;**fim-se**  
+**fim-função**
 
-**Domínio de fibonacci(n)**: <span class="tex-render">n \in{} N / n \geq{} 1</span>
+**Domínio de fibonacci(n)**: $n \in{} N / n \geq{} 1$
 
 _Depois descobriremos como calcular os **números de Fibonacci** mais rápido, mas por enquanto nosso objetivo é a recursão!_
 
@@ -122,14 +122,14 @@ _Depois descobriremos como calcular os **números de Fibonacci** mais rápido, m
 
 Vamos supor que você quer imprimir os números de **n** a **1** e esqueceu a sintaxe do **para**… :D
 
-<pre><code><strong>função</strong> <em>imprime_ate</em> (<em>n</em>)
- <strong>imprima</strong> <span class="tex-render">n</span>
- <strong>se</strong> \(n>1\), <strong>então</strong>
-     <strong>imprime_ate</strong>(<em>n-1</em>)
- <strong>fim-se</strong>
-<strong>fim-função</strong></code></pre>
+**função** _imprime_ate_ (_n_)  
+ &emsp;**imprima** $n$  
+ &emsp;**se** $n>1$, **então**  
+ &emsp;&emsp;**imprime_ate**(_n-1_)  
+ &emsp;**fim-se**  
+**fim-função**
 
-**Domínio de imprime_ate(n)**: <span class="tex-render">n \in{} N / n \geq{} 1</span>
+**Domínio de imprime_ate(n)**: $n \in{} N / n \geq{} 1$
 
 Todo loop pode ser uma recursão e tem alguns que ficam bem mais fáceis se forem! Nesse caso, é claro que seria mais simples usarmos um **para**!
 

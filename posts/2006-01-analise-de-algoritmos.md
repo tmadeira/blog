@@ -26,11 +26,11 @@ Eu expliquei em algum dos artigos anteriores que o **tempo de um algoritmo** dep
 
 Para o entendimento ficar mais fácil, vamos partir do seguinte algoritmo (que vamos chamar de **Algoritmo 1**):
 
-<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 até <em>n</em>, <strong>faça</strong>
- <strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 1 até <em>i</em>, <strong>faça</strong>
-     <strong>imprima</strong> <em>i</em> <span class="tex-render">\times{}</span> <em>j</em> <span class="tex-render">\times{}</span> <em>n</em>
- <strong>fim-para</strong>
-<strong>fim-para</strong></code></pre>
+**para** _i_ $\leftarrow{}$ 1 até _n_, **faça**  
+ &emsp;**para** _j_ $\leftarrow{}$ 1 até _i_, **faça**  
+ &emsp;&emsp;**imprima** _i_ $\times{}$ _j_ $\times{}$ _n_  
+ &emsp;**fim-para**  
+**fim-para**
 
 O que este algoritmo faz é, depois de receber a entrada $n$ do usuário, imprimir o produto de $n$ com todos dois números $i$ e $j$, tal que $j \leq{} i \leq{} n$.
 
@@ -87,11 +87,11 @@ Principalmente para pessoas pouco habituadas com matemática, essa parte é dif�
 
 As notações que usamos para descrever o tempo de execução de um algoritmo são **cinco**:
 
-- <span class="tex-render">\Theta{}</span>
-- <span class="tex-render">O</span>
-- <span class="tex-render">\Omega{}</span>
-- <span class="tex-render">o</span>
-- <span class="tex-render">\omega{}</span>
+- $\Theta{}$
+- $O$
+- $\Omega{}$
+- $o$
+- $\omega{}$
 
 Embora essas notações sejam conjuntos, usamos o **sinal de igualdade** (=) para expressar que $f(n)$ pertence a algum deles, ao invés de usar o **sinal de pertinência** ($\in{}$).
 

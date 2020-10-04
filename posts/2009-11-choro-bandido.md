@@ -18,7 +18,7 @@ Estava com vontade de tocar essa música e resolvi procurar a [cifra][1]. É nor
 
 Abaixo está a primeira parte. Em vermelho a cifra do Cifraclub, em azul a minha.
 
-<pre><code><span style="color:red;">Dm(7M 9)         Dm7/9       G7/4(9) G7(b5) G7(9 13)</span>
+<pre><span style="color:red;">Dm(7M 9)         Dm7/9       G7/4(9) G7(b5) G7(9 13)</span>
 <span style="color:blue;">A7/D             Am/D        Dm/G           G7(b5)</span>
 Mesmo  que os cantores sejam falsos  como   eu
 <span style="color:red;">  G7(#9 b13)  C7M/9        E7(b9)</span>
@@ -45,7 +45,7 @@ Quando um deus sonso e ladrão
 Fez     das tripas a primeira lira
 <span style="color:red;">       A7/9           G#7M</span>
 <span style="color:blue;">       Em6/A          Cm/G#</span>
-Que animou  todos os sons</code></pre>
+Que animou  todos os sons</pre>
 
 <small><em><strong>PS:</strong> Favor não tentar analisar harmonicamente a música pela minha cifra. É apenas uma maneira mais fácil pra eu tocar e provavelmente não é a intenção do compositor, pois de fato há muita coisa estranha que provavelmente só é mais fácil pra quem toca piano (G/G# por exemplo).</em></small>
 

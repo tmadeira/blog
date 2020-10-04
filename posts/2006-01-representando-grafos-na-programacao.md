@@ -51,144 +51,13 @@ Vamos escrever este [grafo aqui][2] usando uma matriz de adjacência:
 
 #### Matriz Inicial
 
-<table>
-  <tr>
-    <td>
-       
-    </td>
-
-    <td>
-      <strong>1</strong>
-    </td>
-
-    <td>
-      <strong>2</strong>
-    </td>
-
-    <td>
-      <strong>3</strong>
-    </td>
-
-    <td>
-      <strong>4</strong>
-    </td>
-
-    <td>
-      <strong>5</strong>
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>1</strong>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>2</strong>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>3</strong>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>4</strong>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>5</strong>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-  </tr>
-</table>
+|       | 1   | 2   | 3   | 4   | 5   |
+| ----- | --- | --- | --- | --- | --- |
+| **1** |     |     |     |     |     |
+| **2** |     |     |     |     |     |
+| **3** |     |     |     |     |     |
+| **4** |     |     |     |     |     |
+| **5** |     |     |     |     |     |
 
 #### Relações do nosso grafo
 
@@ -202,136 +71,19 @@ Já que o grafo não é orientado, a relação **1–2** significa **2–1** tam
 
 Essas são as **cinco arestas** do nosso grafo. Vamos representá-la na **matriz de adjacência**:
 
-<table>
-  <tr>
-    <td>
-    </td>
-    <td>
-      <strong>1</strong>
-    </td>
-    <td>
-      <strong>2</strong>
-    </td>
-    <td>
-      <strong>3</strong>
-    </td>
-    <td>
-      <strong>4</strong>
-    </td>
-    <td>
-      <strong>5</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>1</strong>
-    </td>
-    <td>
-    </td>
-    <td class="preto">
-      1
-    </td>
-    <td class="preto">
-      1
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>2</strong>
-    </td>
-    <td class="preto">
-      1
-    </td>
-    <td>
-    </td>
-    <td class="preto">
-      1
-    </td>
-    <td class="preto">
-      1
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>3</strong>
-    </td>
-
-    <td class="preto">
-      1
-    </td>
-
-    <td class="preto">
-      1
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-  </tr>
-  <tr>
-    <td>
-      <strong>4</strong>
-    </td>
-
-    <td>
-    </td>
-
-    <td class="preto">
-      1
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td class="preto">
-      1
-    </td>
-
-  </tr>
-  <tr>
-    <td>
-      <strong>5</strong>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td>
-    </td>
-
-    <td class="preto">
-      1
-    </td>
-
-    <td>
-    </td>
-
-  </tr>
-</table>
+|       | 1   | 2   | 3   | 4   | 5   |
+| ----- | --- | --- | --- | --- | --- |
+| **1** |     | 1   | 1   |     |     |
+| **2** | 1   |     | 1   | 1   |     |
+| **3** | 1   | 1   |     |     |     |
+| **4** |     | 1   |     |     | 1   |
+| **5** |     |     |     | 1   |     |
 
 #### Simetria
 
 Uma das características da matriz de adjacência quando o grafo não é orientado é a simetria encontrada na “diagonal”. É interessante que se lermos uma coluna de índice **v** ou uma linha de índice **v** vamos encontrar a mesma coisa.
 
-#### Problemas da OBI {#probma}
+#### Problemas da OBI
 
 Alguns desses programas são complicados, mas isto não entra em questão. Apenas dê uma olhada no recebimento da entrada deles. Todos estão em **C**. O que eles têm em comum é a utilização de uma **matriz de adjacência** para guardar o grafo (geralmente nomeada **g**):
 
@@ -354,15 +106,15 @@ X – Não queira ver esse problema. Nunca vi solução mais feia. Já estou pro
 
 Eu não disse pra vocês que era fácil conseguir emprego no [Orkut][13]? Hehehe… Vamos pensar como podemos descobrir o grau (relembrando… o número de arestas que cada vértice tem OU o número de amigos que cada pessoa tem) na matriz de adjacências. Não basta contar quantos **1**s tem na sua linha correspondente? Então façamos isto.
 
-<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-	<em>grau</em> <span class="tex-render">\leftarrow{}</span> 0
-	<strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-		<strong>se</strong> <em>matriz[i][j] = 1</em>, <strong>então</strong>
-			<em>grau</em> <span class="tex-render">\leftarrow{}</span> <em>grau</em> + 1
-		<strong>fim-se</strong>
-	<strong>fim-para</strong>
-	<strong>imprima</strong> "O vértice " <em>i</em> " tem grau " <em>grau</em> "."
-<strong>fim-para</strong></code></pre>
+**para** _i_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;_grau_ $\leftarrow{}$ 0  
+ &emsp;**para** _j_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;&emsp;**se** _matriz[i][j] = 1_, **então**  
+ &emsp;&emsp;&emsp;_grau_ $\leftarrow{}$ _grau_ + 1  
+ &emsp;&emsp;**fim-se**  
+ &emsp;**fim-para**  
+ &emsp;**imprima** "O vértice " _i_ " tem grau " _grau_ "."  
+**fim-para**
 
 O custo é $\Theta{}(n^{2})$ até no melhor caso… Será que não há uma maneira mais simples de fazer isso? Imagina um negócio do tamanho do Orkut. Milhões de pessoas… Não seria bem mais fácil se ao invés de termos que passar por todos os vértices, só passarmos pelos amigos? Não poderíamos colocar somente seus amigos num vetor? É por isto que utilizamos a **lista de adjacência**.
 
@@ -370,169 +122,13 @@ O custo é $\Theta{}(n^{2})$ até no melhor caso… Será que não há uma manei
 
 A **lista de adjacência** consiste em criar um vetor para cada vértice. Este vetor contém cada vértice que o vértice “conhece” (tem uma aresta para). Geralmente é representada com uma matriz, porque cada vértice vai precisar de um vetor diferente, não é? Já que eu não vou ser duas vezes “amigo” de ninguém, então podemos fazer uma matriz de **NxN**.
 
-<table>
-  <tr>
-    <td>
-       
-    </td>
-
-    <td>
-      <strong>1</strong>
-    </td>
-
-    <td>
-      <strong>2</strong>
-    </td>
-
-    <td>
-      <strong>3</strong>
-    </td>
-
-    <td>
-      <strong>4</strong>
-    </td>
-
-    <td>
-      <strong>5</strong>
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>1</strong>
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>2</strong>
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>3</strong>
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>4</strong>
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>5</strong>
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-</table>
+|       | 1   | 2   | 3   | 4   | 5   |
+| ----- | --- | --- | --- | --- | --- |
+| **1** |     |     |     |     |     |
+| **2** |     |     |     |     |     |
+| **3** |     |     |     |     |     |
+| **4** |     |     |     |     |     |
+| **5** |     |     |     |     |     |
 
 A lista consiste em escrever para cada número de linha (= vértice) seus amigos, da seguinte maneira:
 
@@ -544,173 +140,15 @@ A lista consiste em escrever para cada número de linha (= vértice) seus amigos
 
 Portanto, na programação seria representado da seguinte maneira:
 
-<table>
-  <tr>
-    <td>
-       
-    </td>
+|       | 1   | 2   | 3   | 4   | 5   |
+| ----- | --- | --- | --- | --- | --- |
+| **1** | 2   | 3   |     |     |     |
+| **2** | 1   | 3   | 4   |     |     |
+| **3** | 1   | 2   |     |     |     |
+| **4** | 2   | 5   |     |     |     |
+| **5** | 4   |     |     |     |     |
 
-    <td>
-      <strong>1</strong>
-    </td>
-
-    <td>
-      <strong>2</strong>
-    </td>
-
-    <td>
-      <strong>3</strong>
-    </td>
-
-    <td>
-      <strong>4</strong>
-    </td>
-
-    <td>
-      <strong>5</strong>
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>1</strong>
-    </td>
-
-    <td class="preto">
-      2
-    </td>
-
-    <td class="preto">
-      3
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>2</strong>
-    </td>
-
-    <td class="preto">
-      1
-    </td>
-
-    <td class="preto">
-      3
-    </td>
-
-    <td class="preto">
-      4
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>3</strong>
-    </td>
-
-    <td class="preto">
-      1
-    </td>
-
-    <td class="preto">
-      2
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>4</strong>
-    </td>
-
-    <td class="preto">
-      2
-    </td>
-
-    <td class="preto">
-      5
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-
-  <tr>
-    <td>
-      <strong>5</strong>
-    </td>
-
-    <td class="preto">
-      4
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-    <td>
-       
-    </td>
-
-  </tr>
-</table>
-
-<p id="vantagensl">
-  O método da <strong>lista de adjacências</strong> tem várias vantagens: dependendo de como você implementa você não precisa inicializar a lista (zerar), as buscas são bem mais rápidas (você só passa pelos vértices que são “amigos” do atual) e geralmente você já tem o grau do vértice na ponta da língua (eu, pelo menos, sempre uso um vetor <strong>cont</strong> que contém o número de amigos de cada vértice para ficar mais fácil inserir o próximo elemento na lista – <strong>lista[cont[v]++]=w</strong>).
-</p>
+O método da **lista de adjacências** tem várias vantagens: dependendo de como você implementa você não precisa inicializar a lista (zerar), as buscas são bem mais rápidas (você só passa pelos vértices que são “amigos” do atual) e geralmente você já tem o grau do vértice na ponta da língua (eu, pelo menos, sempre uso um vetor **cont** que contém o número de amigos de cada vértice para ficar mais fácil inserir o próximo elemento na lista – **lista[cont[v]++]=w**).
 
 ### Como implementar
 
@@ -718,47 +156,47 @@ Vamos trabalhar com uma entrada de vários **x, y**, indicando relação entre x
 
 #### Matriz de Adjacências
 
-<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-	<strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-		<em>matriz[i][j]</em> <span class="tex-render">\leftarrow{}</span> 0
-	<strong>fim-para</strong>
-<strong>fim-para</strong>
+**para** _i_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;**para** _j_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;&emsp;_matriz[i][j]_ $\leftarrow{}$ 0  
+ &emsp;**fim-para**  
+**fim-para**
 
-<strong>enquanto</strong> (<strong>recebe</strong> <em>x</em>, <em>y</em> <strong>e</strong> <em>x <span class="tex-render">\neq{}</span> 0</em>), <strong>faça</strong>
-	<em>matriz[x][y]</em> <span class="tex-render">\leftarrow{}</span> <em>1</em>
-	<em>matriz[y][x]</em> <span class="tex-render">\leftarrow{}</span> <em>1</em>
-<strong>fim-enquanto</strong></code></pre>
+**enquanto** (**recebe** _x_, _y_ **e** _x $\neq{}$ 0_), **faça**  
+ &emsp;_matriz[x][y]_ $\leftarrow{}$ _1_  
+ &emsp;_matriz[y][x]_ $\leftarrow{}$ _1_  
+**fim-enquanto**
 
 Tem vários exemplos implementados em C [aqui][14].
 
 #### Lista de Adjacências
 
-<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-	<em>grau[i]</em> <span class="tex-render">\leftarrow{}</span> 0
-<strong>fim-para</strong>
+**para** _i_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;_grau[i]_ $\leftarrow{}$ 0  
+**fim-para**
 
-<strong>enquanto</strong> (<strong>recebe</strong> <em>x</em>, <em>y</em> <strong>e</strong> <em>x <span class="tex-render">\neq{}</span> 0</em>), <strong>faça</strong>
-	<em>lista[x][grau[x]++]</em> <span class="tex-render">\leftarrow{}</span> <em>y</em>
-	<em>lista[y][grau[y]++]</em> <span class="tex-render">\leftarrow{}</span> <em>x</em>
-<strong>fim-enquanto</strong></code></pre>
+**enquanto** (**recebe** _x_, _y_ **e** _x $\neq{}$ 0_), **faça**  
+ &emsp;_lista[x]grau[x]++]_ $\leftarrow{}$ _y_  
+ &emsp;_lista[y]grau[y]++]_ $\leftarrow{}$ _x_  
+**fim-enquanto**
 
 Para quem não programa em **C**, o _variavel++_ significa “incrementar _variavel_ depois da instrução atual”.
 
 #### As duas juntas
 
-<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-	<strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>N</em>, <strong>faça</strong>
-		<em>matriz[i][j]</em> <span class="tex-render">\leftarrow{}</span> 0
-	<strong>fim-para</strong>
-	<em>grau[i]</em> <span class="tex-render">\leftarrow{}</span> 0
-<strong>fim-para</strong>
+**para** _i_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;**para** _j_ $\leftarrow{}$ 1 **até** _N_, **faça**  
+ &emsp;&emsp;_matriz[i][j]_ $\leftarrow{}$ 0  
+ &emsp;**fim-para**  
+ &emsp;_grau[i]_ $\leftarrow{}$ 0  
+**fim-para**
 
-<strong>enquanto</strong> (<strong>recebe</strong> <em>x</em>, <em>y</em> <strong>e</strong> <em>x <span class="tex-render">\neq{}</span> 0</em>), <strong>faça</strong>
-	<em>matriz[x][y]</em> <span class="tex-render">\leftarrow{}</span> <em>1</em>
-	<em>matriz[y][x]</em> <span class="tex-render">\leftarrow{}</span> <em>1</em>
-	<em>lista[x][grau[x]++]</em> <span class="tex-render">\leftarrow{}</span> <em>y</em>
-	<em>lista[y][grau[y]++]</em> <span class="tex-render">\leftarrow{}</span> <em>x</em>
-<strong>fim-enquanto</strong></code></pre>
+**enquanto** (**recebe** _x_, _y_ **e** _x $\neq{}$ 0_), **faça**  
+ &emsp;_matriz[x][y]_ $\leftarrow{}$ _1_  
+ &emsp;_matriz[y][x]_ $\leftarrow{}$ _1_  
+ &emsp;_lista[x]grau[x]++]_ $\leftarrow{}$ _y_  
+ &emsp;_lista[y]grau[y]++]_ $\leftarrow{}$ _x_  
+**fim-enquanto**
 
 ### Qual a representação que devo utilizar?
 
@@ -778,5 +216,3 @@ Até maio do ano passado, eu não tinha aprendido isso direito e sempre usava a 
 [11]: /wp-content/uploads/c/pedagio.c
 [12]: /wp-content/uploads/c/redeotica.c
 [13]: http://www.orkut.com
-[14]: #probma
-[15]: #vantagensl

@@ -73,6 +73,7 @@ main {
   hr,
   ol,
   p,
+  pre,
   table,
   ul {
     margin-bottom: 1.25em;
@@ -89,10 +90,13 @@ main {
     }
   }
 
+  figure {
+    text-align: center;
+  }
+
   figcaption {
     color: $gray;
     font-size: 0.8em;
-    text-align: center;
   }
 
   h1,

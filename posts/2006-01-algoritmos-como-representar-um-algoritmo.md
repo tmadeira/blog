@@ -29,15 +29,15 @@ Não existe uma regra padrão para a representação de algoritmos. Cada pessoa 
 
 Os pseudocódigos costumam parecer um código em linguagem [Pascal][3] traduzido para a sua língua. :) Usam quase sempre estruturas que estamos acostumados a usar na programação, como **se**, **enquanto**, **para**, **arrays**, etc. Eles existem para que o algoritmo seja de fácil leitura para qualquer programador, que programe em qualquer linguagem _“normal”_. Veja o pseudocódigo do **Insertion Sort**, um algoritmo de ordenação de vetores bastante simples:
 
-<pre><code><strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> 2 <strong>até</strong> <em>comprimento do vetor</em>, <strong>faça</strong>
-    <em>elemento</em> <span class="tex-render">\leftarrow{}</span> <em>vetor[j]</em>
-    <em>i</em> <span class="tex-render">\leftarrow{}</span> <em>j</em> - 1
-    <strong>enquanto</strong> <em>i</em> > 0 e <em>vetor[i]</em> > <em>elemento</em>, <strong>faça</strong>
-        <em>vetor[i + 1]</em> <span class="tex-render">\leftarrow{}</span> <em>vetor[i]</em>
-        <em>i</em> <span class="tex-render">\leftarrow{}</span> <em>i</em> - 1
-    <strong>fim-enquanto</strong>
-    <em>vetor[i + 1]</em> <span class="tex-render">\leftarrow{}</span> <em>elemento</em>
-<strong>fim-para</strong></code></pre>
+**para** _j_ $\leftarrow{}$ 2 **até** _comprimento do vetor_, **faça**  
+ &emsp;_elemento_ $\leftarrow{}$ _vetor[j]_  
+ &emsp;_i_ $\leftarrow{}$ _j_ - 1  
+ &emsp;**enquanto** _i_ > 0 e _vetor[i]_ > _elemento_, **faça**  
+ &emsp;&emsp;_vetor[i + 1]_ $\leftarrow{}$ _vetor[i]_  
+ &emsp;&emsp;_i_ $\leftarrow{}$ _i_ - 1  
+ &emsp;**fim-enquanto**  
+ &emsp;_vetor[i + 1]_ $\leftarrow{}$ _elemento_  
+**fim-para**
 
 (Não se preocupe em entender o que ele faz, AINDA, pois veremos isso mais adiante)
 

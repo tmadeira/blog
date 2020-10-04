@@ -31,26 +31,26 @@ O algoritmo consiste em:
 
 Há várias maneiras de implementar este algoritmo. Eu _pseudocodaria_ (meu pseudocódigo é bem próximo de uma linguagem normal, porque acho que assim é mais fácil de entender e depois implementar) ele assim:
 
-<pre><code>/* Primeiro passo */
-<strong>recebe</strong> valorLimite
+/_ Primeiro passo _/  
+**recebe** valorLimite
 
-/* Segundo passo */
-raiz <span class="tex-render">\leftarrow</span> <span class="tex-render">\sqrt{valorLimite}</span>
+/_ Segundo passo _/  
+raiz $\leftarrow$ $\sqrt{valorLimite}$
 
-/* Terceiro passo */
-<strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow</span> 2 <strong>até</strong> <em>valorLimite</em>
-    <em>vetor[i]</em> <span class="tex-render">\leftarrow</span> <em>i</em>
-<strong>fim-para</strong>
+/_ Terceiro passo _/  
+**para** _i_ $\leftarrow$ 2 **até** _valorLimite_  
+ &emsp;_vetor[i]_ $\leftarrow$ _i_  
+**fim-para**
 
-/* Quarto passo */
-<strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow</span> 2 <strong>até</strong> <em>raiz</em>
-    <strong>se</strong> <em>vetor[i] = i</em>
-        <strong>imprima</strong> "O número " <em>i</em> " é primo."
-        <strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow</span> <em>i+i</em> até <em>valorLimite</em>, de <em>i</em> e <em>i</em>
-            <em>vetor[j]</em> <span class="tex-render">\leftarrow</span> 0
-        <strong>fim-para</strong>
-    <strong>fim-se</strong>
-<strong>fim-para</strong></code></pre>
+/_ Quarto passo _/  
+**para** _i_ $\leftarrow$ 2 **até** _raiz_  
+ &emsp;**se** _vetor[i] = i_  
+ &emsp;&emsp;**imprima** "O número " _i_ " é primo."  
+ &emsp;&emsp;**para** _j_ $\leftarrow$ _i+i_ até _valorLimite_, de _i_ e _i_  
+ &emsp;&emsp;&emsp;_vetor[j]_ $\leftarrow$ 0  
+ &emsp;&emsp;**fim-para**  
+ &emsp;**fim-se**  
+**fim-para**
 
 Vêem como é simples?
 

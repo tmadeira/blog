@@ -20,17 +20,17 @@ tags:
 
 Hoje vou apresentar mais um algoritmo de ordenação de vetores. É a **Ordenação por Seleção** (ou _Selection Sort_). Sem mais papo e antes mesmo da explicação, vamos ao seu pseudocódigo:
 
-<pre><code><strong>para</strong> <em>i</em> <span class="tex-render">\leftarrow{}</span> 1 <strong>até</strong> <em>tamanho-1</em>, <strong>faça</strong>
- <em>minimo</em> <span class="tex-render">\leftarrow{}</span> i
- <strong>para</strong> <em>j</em> <span class="tex-render">\leftarrow{}</span> <em>i</em>+1 <strong>até</strong> <em>tamanho</em>, <strong>faça</strong>
-     <strong>se</strong> <em>vetor[j]</em> < <em>vetor[minimo]</em>, <strong>então</strong>
-         <em>minimo</em> <span class="tex-render">\leftarrow{}</span> j
-     <strong>fim-se</strong>
- <strong>fim-para</strong>
- <em>temp</em> <span class="tex-render">\leftarrow{}</span> <em>vetor[i]</em>
- <em>vetor[i]</em> <span class="tex-render">\leftarrow{}</span> <em>vetor[minimo]</em>
-<em>vetor[minimo]</em> <span class="tex-render">\leftarrow{}</span> <em>temp</em>
-<strong>fim-para</strong></code></pre>
+**para** _i_ $\leftarrow{}$ 1 **até** _tamanho-1_, **faça**  
+ &emsp;_minimo_ $\leftarrow{}$ i  
+ &emsp;**para** _j_ $\leftarrow{}$ _i_+1 **até** _tamanho_, **faça**  
+ &emsp;&emsp;**se** _vetor[j]_ < _vetor[minimo]_, **então**  
+ &emsp;&emsp;&emsp;_minimo_ $\leftarrow{}$ j  
+ &emsp;&emsp;**fim-se**  
+ &emsp;**fim-para**  
+ &emsp;_temp_ $\leftarrow{}$ _vetor[i]_  
+ &emsp;_vetor[i]_ $\leftarrow{}$ _vetor[minimo]_  
+ &emsp;_vetor[minimo]_ $\leftarrow{}$ _temp_  
+**fim-para**
 
 _tamanho_ = comprimento do vetor
 
@@ -60,112 +60,86 @@ O programa recebe o seguinte vetor.
     <td>
       v[1]
     </td>
-
     <td>
       v[2]
     </td>
-
     <td>
       v[3]
     </td>
-
     <td>
       v[4]
     </td>
-
     <td>
       v[5]
     </td>
-
     <td>
       v[6]
     </td>
-
   </tr>
-
   <tr>
     <td>
       5
     </td>
-
     <td>
       3
     </td>
-
     <td>
       7
     </td>
-
     <td>
       8
     </td>
-
     <td>
       2
     </td>
-
     <td>
       5
     </td>
-
   </tr>
 </table>
 
-Aí ele começa com <span class="tex-render">i=1</span>. Vou sempre marcar $i$ com a cor **preta** e $min$ com a cor **cinza**.
+Aí ele começa com $i=1$. Vou sempre marcar $i$ com a cor **preta** e $min$ com a cor **cinza**.
 
 <table>
   <tr>
     <td>
       v[1]
     </td>
-
     <td>
       v[2]
     </td>
-
     <td>
       v[3]
     </td>
-
     <td>
       v[4]
     </td>
-
     <td>
       v[5]
     </td>
-
     <td>
       v[6]
     </td>
-
   </tr>
-
   <tr>
     <td class="preto">
       5
     </td>
-
     <td>
       3
     </td>
-
     <td>
       7
     </td>
-
     <td>
       8
     </td>
-
     <td>
       2
     </td>
-
     <td>
       5
     </td>
-
   </tr>
 </table>
 
@@ -200,54 +174,41 @@ Agora substituímos o _v[minimo]_ pelo _v[i]_, formando com isto o novo vetor:
     <td>
       v[1]
     </td>
-
     <td>
       v[2]
     </td>
-
     <td>
       v[3]
     </td>
-
     <td>
       v[4]
     </td>
-
     <td>
       v[5]
     </td>
-
     <td>
       v[6]
     </td>
-
   </tr>
-
   <tr>
     <td class="cinza">
       2
     </td>
-
     <td>
       3
     </td>
-
     <td>
       7
     </td>
-
     <td>
       8
     </td>
-
     <td class="preto">
       5
     </td>
-
     <td>
       5
     </td>
-
   </tr>
 </table>
 
@@ -259,24 +220,25 @@ Este algoritmo não tem um melhor/pior caso, porque todos os elementos são varr
 
 _n_ = tamanho do vetor
 
-1. <span class="tex-render">n</span>
-2. <span class="tex-render">n</span>
-3. <span class="tex-render">\sum\_{j=1}^{n} n</span>
-4. <span class="tex-render">\sum\_{j=1}^{n} 1</span>
-5. <span class="tex-render">\sum\_{j=1}^{n} 1</span>
-6. <span class="tex-render">0</span>
-7. <span class="tex-render">0</span>
-8. <span class="tex-render">n-1</span>
-9. <span class="tex-render">n-1</span>
-10. <span class="tex-render">n-1</span>
-11. <span class="tex-render">0</span>
+1. $n$
+2. $n$
+3. $\sum\_{j=1}^{n} n$
+4. $\sum\_{j=1}^{n} 1$
+5. $\sum\_{j=1}^{n} 1$
+6. $0$
+7. $0$
+8. $n-1$
+9. $n-1$
+10. $n-1$
+11. $0$
 
 Você pode estar se perguntando porque eu coloquei este custo para a linha 5. Afinal, a linha 5 diria que este programa tem um melhor/pior caso, porque ela não seria executada se o **se** retornar falso. Mas o caso é que ela é desprezível. Uma soma como estas para o custo geral do nosso algoritmo não vai influenciar em nada. Quer ver? Vamos somar os custos com esta linha valendo $0$ (como se nenhum **se** entrasse) e depois com ela valendo $\sum\_{j=1}^{n}$.
 
 #### Primeiro cálculo
 
 $$
-T(n) = n + (n-1) + (\sum\_{j=1}^n n) + (\sum\\_{j=1}^n 1) \times 2 + 0 \times 3 + (n-1) \times 3 + 0
+T(n) = n + (n-1) + (\sum\_{j=1}^n n) + \\
+(\sum\\_{j=1}^n 1) \times 2 + 0 \times 3 + (n-1) \times 3 + 0
 $$
 
 $$
@@ -286,7 +248,8 @@ $$
 #### Segundo cálculo
 
 $$
-T(n) = n + (n-1) + (\sum\_{j=1}^n n) + (\sum\\_{j=1}^n 1) \times 3 + 0 \times 2 + (n-1) \times 3 + 0
+T(n) = n + (n-1) + (\sum\_{j=1}^n n) + \\
+(\sum\\_{j=1}^n 1) \times 3 + 0 \times 2 + (n-1) \times 3 + 0
 $$
 
 $$

@@ -1,5 +1,9 @@
 module.exports = {
+  siteMetadata: {
+    siteUrl: `https://tiagomadeira.com`,
+  },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
 

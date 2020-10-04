@@ -1,6 +1,7 @@
 import * as React from "react";
 import { Link } from "gatsby";
 import { PlasmicArticle } from "./plasmic/site_layout/PlasmicArticle";
+import slugify from "slugify";
 
 import "katex/dist/katex.min.css";
 
@@ -41,7 +42,12 @@ function Article({ post }) {
       tags={
         <>
           {post.frontmatter.tags.map((tag, key) => (
-            <Badge key={key}>{tag}</Badge>
+            <Link
+              to={`/tags/${slugify(tag)}`}
+              style={{ textDecoration: "none" }}
+            >
+              <Badge key={key}>{tag}</Badge>
+            </Link>
           ))}
         </>
       }

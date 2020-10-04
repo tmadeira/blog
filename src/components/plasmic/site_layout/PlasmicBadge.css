@@ -37,6 +37,9 @@
   color: rgb(255, 255, 255);
   text-transform: uppercase;
 }
+.Badge__slotChildren__86nGw > * {
+  text-decoration-line: none;
+}
 @media (min-width: 600px) {
   .Badge__slotChildren--baseMedium__86nGwatg_U_MVUpr {
     font-size: 12px;

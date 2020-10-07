@@ -1,11 +1,8 @@
 ---
 title: Estatísticas, Programação Dinâmica, OBI Programação Nível 2
-type: post
 date: 2005-05-22T17:36:19+00:00
 excerpt: Visitas do site crescendo, mas IE ainda na liderança; Solução dos problemas da OBI2005 Programação Nível 2 e comentários.
 url: /2005/05/estatisticas-programacao-dinamica-obi-programacao-nivel-2/
-categorias:
-  - Cotidiano
 tags:
   - algoritmos
   - c

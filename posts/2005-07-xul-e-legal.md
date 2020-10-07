@@ -1,11 +1,8 @@
 ---
 title: XUL é legal!
-type: post
 date: 2005-07-28T23:33:18+00:00
 excerpt: Por influência da Semana Azul, acabei pesquisando e procurando aprender algo sobre XUL. Achei o máximo!
 url: /2005/07/xul-e-legal/
-categorias:
-  - Cotidiano
 tags:
   - mozilla
   - xml

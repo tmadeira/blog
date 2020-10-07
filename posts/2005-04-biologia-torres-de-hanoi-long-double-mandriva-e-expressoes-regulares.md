@@ -1,11 +1,8 @@
 ---
 title: Biologia, Torres de Hanói, Long Double, Mandriva e Expressões Regulares
-type: post
 date: 2005-04-07T23:17:30+00:00
 excerpt: São muitos assuntos pra descrever em tão pouco espaço! Leia logo o artigo completo!
 url: /2005/04/biologia-torres-de-hanoi-long-double-mandriva-e-expressoes-regulares/
-categorias:
-  - Cotidiano
 tags:
   - biologia
   - c
@@ -14,7 +11,7 @@ tags:
   - long double
   - mandriva
   - regex
-  - Software Livre
+  - software livre
   - torres de hanói
 ---
 

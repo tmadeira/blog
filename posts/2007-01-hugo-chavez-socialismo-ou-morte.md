@@ -1,10 +1,7 @@
 ---
 title: "Hugo Chávez: socialismo ou morte"
-type: post
 date: 2007-01-10T23:32:19+00:00
 url: /2007/01/hugo-chavez-socialismo-ou-morte/
-categorias:
-  - Política
 tags:
   - chávez
   - comunismo

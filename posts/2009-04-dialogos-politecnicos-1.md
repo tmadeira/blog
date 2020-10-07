@@ -1,15 +1,10 @@
 ---
 title: "Diálogos politécnicos #1"
-type: post
 date: 2009-04-01T12:42:22+00:00
 url: /2009/04/dialogos-politecnicos-1/
-sociableoff:
-  - "false"
-categorias:
-  - Futilidades
 tags:
   - engenharia
-  - Matemática
+  - matemática
   - poli
   - usp
 ---

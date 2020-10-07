@@ -1,13 +1,8 @@
 ---
 title: Qual a utilidade do algoritmo?
-type: post
 date: 2006-01-06T13:27:51+00:00
 excerpt: O projeto antes de colocar a mão na massa é indispensável. O que seria do pedreiro (a implementação) se não existisse o engenheiro (o algoritmo)? Representar algoritmos complexos é essencial para uma boa programação.
 url: /2006/01/algoritmos-qual-a-utilidade-do-algoritmo/
-ordem:
-  - eeegg
-categorias:
-  - Básico
 tags:
   - algoritmo
   - aplicação

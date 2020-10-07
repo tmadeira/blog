@@ -1,17 +1,12 @@
 ---
 title: Suspeito
-type: post
 date: 2009-04-02T03:26:53+00:00
 url: /2009/04/suspeito/
-sociableoff:
-  - "false"
-categorias:
-  - Cotidiano
 tags:
   - desassalto
   - história
   - medo
-  - São Paulo
+  - são paulo
   - suspeito
 ---
 

@@ -1,15 +1,12 @@
 ---
 title: Colofão
-type: post
 date: 2010-12-15T22:35:43+00:00
 url: /2010/12/colofao/
-categorias:
-  - Futilidades
 tags:
   - editora
   - linux
   - livro
-  - Software Livre
+  - software livre
 ---
 
 > Adverte-se aos curiosos que se imprimiu esta obra nas oficinas da gráfica Vida&Consciência em 16 de julho de 2009, em papel off-set 90 gramas, composta em tipologia Walbaum Monotype de corpo oito a treze e Courier de corpo sete, em plataforma Linux (Gentoo, Ubuntu), com os softwares livres $\textrm{LaTeX}$, $\textrm{DeTeX}$, Vim, Evince, Pdftk, Aspell, SVN e TRAC.

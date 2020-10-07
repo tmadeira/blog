@@ -1,10 +1,7 @@
 ---
 title: Pontinho verde
-type: post
 date: 2007-01-14T10:33:29+00:00
 url: /2007/01/pontinho-verde/
-categorias:
-  - Cotidiano
 tags:
   - acer
   - aspire 5050-3205

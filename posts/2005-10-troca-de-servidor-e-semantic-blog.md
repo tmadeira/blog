@@ -1,11 +1,8 @@
 ---
 title: Troca de Servidor e “Semantic Blog”
-type: post
 date: 2005-10-02T17:19:38+00:00
 excerpt: Duas pequenas novidades...
 url: /2005/10/troca-de-servidor-e-semantic-blog/
-categorias:
-  - Metablogagem
 tags:
   - cpanel
   - geshi

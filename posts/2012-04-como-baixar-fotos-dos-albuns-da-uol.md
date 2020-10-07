@@ -1,10 +1,7 @@
 ---
 title: Como baixar fotos dos álbuns da UOL
-type: post
 date: 2012-04-11T05:17:38+00:00
 url: /2012/04/como-baixar-fotos-dos-albuns-da-uol/
-categorias:
-  - Dicas
 tags:
   - álbuns
   - bookmarlet

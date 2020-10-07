@@ -1,10 +1,7 @@
 ---
 title: Batizado
-type: post
 date: 2007-01-22T20:21:21+00:00
 url: /2007/01/batizado/
-categorias:
-  - Cotidiano
 tags:
   - acer
   - aspire 5050-3205

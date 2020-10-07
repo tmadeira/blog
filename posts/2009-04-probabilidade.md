@@ -1,17 +1,12 @@
 ---
 title: Probabilidade
-type: post
 date: 2009-04-05T01:43:40+00:00
 url: /2009/04/probabilidade/
-sociableoff:
-  - "false"
-categorias:
-  - Matemática
 tags:
   - aulas
   - estatiśtica
   - ime
-  - Matemática
+  - matemática
   - probabilidade
   - universidade
   - usp

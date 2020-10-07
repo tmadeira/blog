@@ -1,10 +1,7 @@
 ---
 title: Empresa
-type: post
 date: 2012-02-10T04:44:44+00:00
 url: /2012/02/empresa/
-categorias:
-  - Cotidiano
 tags:
   - android
   - apple
@@ -21,7 +18,7 @@ tags:
   - stanford
   - starbucks
   - topcoder
-  - Trabalho
+  - trabalho
   - w-4
 ---
 

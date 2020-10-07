@@ -1,15 +1,10 @@
 ---
 title: Universidade de São Paulo de São Paulo
-type: post
 date: 2009-06-02T14:19:17+00:00
 url: /2009/06/universidade-de-sao-paulo-de-sao-paulo/
-sociableoff:
-  - "false"
-categorias:
-  - Pensamentos aleatórios
 tags:
   - fuvest
-  - São Paulo
+  - são paulo
   - universidade
   - usp
   - vestibular

@@ -1,10 +1,7 @@
 ---
 title: Um passo à frente na disputa pela Internet
-type: post
 date: 2014-03-27T20:11:59+00:00
 url: /2014/03/um-passo-a-frente-na-disputa-pela-internet/
-categorias:
-  - Política
 tags:
   - asilo
   - dilma
@@ -13,7 +10,7 @@ tags:
   - inclusão digital
   - marco civil
   - neutralidade
-  - Software Livre
+  - software livre
 ---
 
 A aprovação do Marco Civil da Internet na Câmara foi uma grande vitória. O projeto, cuja criação contou com a participação de ativistas digitais e movimentos pela democratização da mídia, é pedagógico. Pela positiva, mostra como o Estado deve tratar a Internet: fazendo uma guerra contra as empresas de telecomunicações para defender seus usuários, não se aliando a elas para nos vigiar e censurar.

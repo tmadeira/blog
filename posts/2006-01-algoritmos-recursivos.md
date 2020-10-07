@@ -1,13 +1,8 @@
 ---
 title: Recursão
-type: post
 date: 2006-01-08T21:38:18+00:00
 excerpt: A "recursão" é uma das técnicas mais simples e úteis que existem para usarmos em nossos algoritmos. Consiste em uma função (denominada recursiva) chamar a si mesmo, até que o retorno seja trivial. Resolvi abordá-la aqui porque alguns algoritmos que estudaremos mais pra frente usarão essas funções recursivas.
 url: /2006/01/algoritmos-recursivos/
-ordem:
-  - eeeii
-categorias:
-  - Básico
 tags:
   - algoritmos
   - algoritmos recursivos

@@ -1,13 +1,8 @@
 ---
 title: Mini-Poker
-type: post
 date: 2006-01-13T16:58:45+00:00
 excerpt: "Uma pausa nos algoritmos de ordenação para usar nossos conhecimentos de forma prática solucionando um problema que caiu na prova da categoria Programação Nível 2 da Olimpíada Brasileira de Informática do ano passado: Mini-Poker."
 url: /2006/01/mini-poker/
-ordem:
-  - eeemn
-categorias:
-  - Básico
 tags:
   - algoritmos
   - mini-poker

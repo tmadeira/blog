@@ -1,10 +1,7 @@
 ---
 title: O dólar vale sete reais em São José
-type: post
 date: 2007-01-05T13:05:03+00:00
 url: /2007/01/o-dolar-vale-sete-reais-em-sao-jose/
-categorias:
-  - Cotidiano
 tags:
   - 4610us
   - cotação

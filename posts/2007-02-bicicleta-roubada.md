@@ -1,10 +1,7 @@
 ---
 title: Bicicleta roubada
-type: post
 date: 2007-02-01T12:59:22+00:00
 url: /2007/02/bicicleta-roubada/
-categorias:
-  - Cotidiano
 tags:
   - bicicleta
   - boletim de ocorrência

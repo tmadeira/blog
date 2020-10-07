@@ -1,10 +1,7 @@
 ---
 title: Vai trabalhar, vagabundo!
-type: post
 date: 2007-01-01T21:41:35+00:00
 url: /2007/01/vai-trabalhar-vagabundo/
-categorias:
-  - Sociedade
 tags:
   - capitalismo
   - dinheiro
@@ -17,7 +14,7 @@ tags:
   - política
   - revolução industrial
   - sociedade
-  - Trabalho
+  - trabalho
 ---
 
 > _“Do suor do teu rosto comerás o teu pão, até que te tornes à terra; porque dela foste tomado; porquanto és pó e em pó te tornarás.”_ (Gênesis, 3:19)

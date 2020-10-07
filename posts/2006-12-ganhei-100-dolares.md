@@ -1,10 +1,7 @@
 ---
 title: Ganhei 100 dólares!
-type: post
 date: 2006-12-22T11:50:42+00:00
 url: /2006/12/ganhei-100-dolares/
-categorias:
-  - Cotidiano
 tags:
   - blogosfera
   - brasil

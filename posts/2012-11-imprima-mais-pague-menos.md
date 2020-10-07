@@ -1,17 +1,14 @@
 ---
 title: Imprima mais, pague menos
-type: post
 date: 2012-11-13T17:27:44+00:00
 url: /2012/11/imprima-mais-pague-menos/
-categorias:
-  - Matemática
 tags:
   - cópias
   - funções
   - gráficas
   - gráficos
   - impressões
-  - Matemática
+  - matemática
   - vida real
 ---
 

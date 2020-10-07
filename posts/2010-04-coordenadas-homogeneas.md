@@ -1,17 +1,14 @@
 ---
 title: Coordenadas homogêneas
-type: post
 date: 2010-04-24T03:49:43+00:00
 url: /2010/04/coordenadas-homogeneas/
-categorias:
-  - Algoritmos geométricos
 tags:
   - acm icpc
   - computação
   - coordenadas homogêneas
   - geometria
   - maratona
-  - Matemática
+  - matemática
 ---
 
 Conheci as coordenadas homogêneas por acaso. Era 2004, ganhei a modalidade iniciação da Olimpíada Brasileira de Informática e passei o inverno estudando C, acho que por dois motivos: interesse pelos problemas da modalidade programação e desejo de aproveitar bem o curso que os medalhistas fazem na UNICAMP; ou talvez fosse apenas falta do que fazer ou curiosidade mesmo. Não importa.

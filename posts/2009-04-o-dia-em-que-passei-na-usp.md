@@ -1,18 +1,13 @@
 ---
 title: O dia em que passei na USP
-type: post
 date: 2009-04-08T00:05:52+00:00
 url: /2009/04/o-dia-em-que-passei-na-usp/
-sociableoff:
-  - "false"
-categorias:
-  - Cotidiano
 tags:
   - estória
   - florianópolis
   - fuvest
   - história
-  - São Paulo
+  - são paulo
   - ufsc
   - usp
   - vestibular

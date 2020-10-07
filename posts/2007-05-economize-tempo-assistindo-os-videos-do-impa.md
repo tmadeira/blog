@@ -1,14 +1,11 @@
 ---
 title: Economize tempo assistindo os vídeos do IMPA
-type: post
 date: 2007-05-02T14:11:25+00:00
 url: /2007/05/economize-tempo-assistindo-os-videos-do-impa/
-categorias:
-  - Matemática
 tags:
   - capem
   - impa
-  - Matemática
+  - matemática
   - professores
   - vídeos
 ---

@@ -1,10 +1,7 @@
 ---
 title: Fazer teatro de obras de ficção é errado?
-type: post
 date: 2007-05-28T22:41:46+00:00
 url: /2007/05/fazer-teatro-de-obras-de-ficcao-e-errado/
-categorias:
-  - Religião
 tags:
   - arte
   - bíblia

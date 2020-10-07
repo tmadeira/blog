@@ -1,10 +1,7 @@
 ---
 title: Pela aprovação do Marco Civil da Internet com o princípio da neutralidade
-type: post
 date: 2014-03-24T20:22:29+00:00
 url: /2014/03/pela-aprovacao-do-marco-civil-da-internet-com-o-principio-da-neutralidade/
-categorias:
-  - Política
 tags:
   - dilma
   - eduardo cunha

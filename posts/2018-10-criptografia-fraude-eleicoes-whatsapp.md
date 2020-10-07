@@ -1,18 +1,14 @@
 ---
 title: "Criptografia e fraude eleitoral no WhatsApp"
-type: post
 date: 2018-10-21T16:09:51-03:00
 url: /2018/10/criptografia-fraude-eleicoes-whatsapp/
-categorias:
-  - Política
 tags:
   - eleições
-  - TSE
-  - Brasil
-  - WhatsApp
+  - tse
+  - brasil
+  - whatsapp
   - criptografia
   - segurança
-description: Mais do que apostar em medidas paliativas ou criticar mecanismos de segurança, é necessário investigar profundamente as empresas que financiam e operam, via caixa 2, o disparo de mensagens desinformativas via WhatsApp.
 ---
 
 Algumas pessoas acreditam que a criptografia de ponta a ponta do WhatsApp seja a culpada pelo aplicativo de mensagens ser uma terra sem leis pela qual está sendo manipulada a eleição no Brasil. Casey Newton, no The Verge, [opinou](https://www.theverge.com/2018/10/19/17997516/facebook-election-war-room-brazil-whatsapp) que um aplicativo de mensagens deve ter ou criptografia segura ou mecanismos de compartilhamento que permitam que coisas viralizem, mas não as duas coisas.

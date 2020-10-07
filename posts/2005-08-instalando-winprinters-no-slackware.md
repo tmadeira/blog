@@ -1,11 +1,8 @@
 ---
 title: Instalando winprinters no Slackware
-type: post
 date: 2005-08-10T20:00:07+00:00
 excerpt: Provavelmente serve pra outras distros Linux também... Um guia de como instalar uma impressora "for Windows" (PPA), como as HP Deskjets 710C, 720C, 722C, 820Cse, 820Cxi, 1000Cse e 1000Cxi.
 url: /2005/08/instalando-winprinters-no-slackware/
-categorias:
-  - Dicas
 tags:
   - cups
   - dicas

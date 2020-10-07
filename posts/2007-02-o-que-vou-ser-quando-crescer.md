@@ -1,13 +1,10 @@
 ---
 title: O que vou ser quando crescer?
-type: post
 date: 2007-02-24T00:44:17+00:00
 url: /2007/02/o-que-vou-ser-quando-crescer/
-categorias:
-  - Cotidiano
 tags:
   - amadurecimento
-  - Computação
+  - computação
   - crescimento
   - egocentrismo
   - egoísmo

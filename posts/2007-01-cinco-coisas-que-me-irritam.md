@@ -1,10 +1,7 @@
 ---
 title: Cinco coisas que me irritam
-type: post
 date: 2007-01-18T13:19:20+00:00
 url: /2007/01/cinco-coisas-que-me-irritam/
-categorias:
-  - Cotidiano
 tags:
   - brasil telecom
   - cinco coisas que me irritam

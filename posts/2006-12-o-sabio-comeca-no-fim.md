@@ -1,10 +1,7 @@
 ---
 title: O sábio começa no fim…
-type: post
 date: 2006-12-07T11:42:21+00:00
 url: /2006/12/o-sabio-comeca-no-fim/
-categorias:
-  - Filosofia
 tags:
   - ciência
   - filosofia

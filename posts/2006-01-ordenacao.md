@@ -1,13 +1,8 @@
 ---
 title: Introdução à Ordenação de Vetores
-type: post
 date: 2006-01-10T00:52:10+00:00
 excerpt: Nesse artigo, introduzo-lhes a ordenação de vetores. Um artigo light, apenas apresentando o conceito de vetor, de ordenação e pra que ela serve.
 url: /2006/01/ordenacao/
-ordem:
-  - eeejj
-categorias:
-  - Ordenação
 tags:
   - algoritmos
   - cartas

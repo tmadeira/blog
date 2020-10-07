@@ -1,13 +1,8 @@
 ---
 title: Como representar um algoritmo?
-type: post
 date: 2006-01-05T14:19:37+00:00
 excerpt: No primeiro artigo, expliquei o que é um algoritmo e até citei exemplos do cotidiano, como "acordar" ou "falar com outra pessoa". Talvez você nem tenha se dado conta, mas usando listas numeradas eu representei os algoritmos ali presentes, inclusive destacando a entrada e a saída de cada situação-problema. Mas não é sempre assim que representamos algoritmos.
 url: /2006/01/algoritmos-como-representar-um-algoritmo/
-ordem:
-  - eeeff
-categorias:
-  - Básico
 tags:
   - algoritmo
   - algoritmos

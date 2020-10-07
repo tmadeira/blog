@@ -1,13 +1,10 @@
 ---
 title: Sobre o que você quer ler?
-type: post
 date: 2006-12-09T19:37:40+00:00
 url: /2006/12/sobre-o-que-voce-quer-ler/
-categorias:
-  - Metablogagem
 tags:
   - enquete
-  - Metablogagem
+  - metablogagem
 ---
 
 Afim de ter visitantes mais satisfeitos e na dúvida de sobre o quê publicar no meu blog resolvi fazer uma enquete. Por favor participe, porque a opinião de todos os leitores é muito importante. Se você quiser ler sobre algo que eu não lembrei de escrever nas opções de resposta, escreva nos comentários!

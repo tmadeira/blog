@@ -1,11 +1,8 @@
 ---
 title: LiveSearch no WordPress
-type: post
 date: 2006-01-04T01:03:13+00:00
 excerpt: Aprenda a usar uma busca dinâmica no seu Wordpress utilizando Ajax...
 url: /2006/01/livesearch-no-wordpress/
-categorias:
-  - Códigos aleatórios
 tags:
   - ajax
   - códigos

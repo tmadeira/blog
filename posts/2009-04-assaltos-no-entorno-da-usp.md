@@ -1,12 +1,7 @@
 ---
 title: Assaltos no entorno da USP
-type: post
 date: 2009-04-09T12:31:28+00:00
 url: /2009/04/assaltos-no-entorno-da-usp/
-sociableoff:
-  - "false"
-categorias:
-  - Cotidiano
 tags:
   - assalto
   - crime

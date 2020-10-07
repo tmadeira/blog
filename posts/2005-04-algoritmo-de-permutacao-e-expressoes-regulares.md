@@ -1,11 +1,8 @@
 ---
 title: Algoritmo de Permutação e Expressões Regulares
-type: post
 date: 2005-04-04T23:52:07+00:00
 excerpt: Entre os problemas da minha lista de pendências, estava um algoritmo de permutação usando uma função recursiva...
 url: /2005/04/algoritmo-de-permutacao-e-expressoes-regulares/
-categorias:
-  - Cotidiano
 tags:
   - algoritmos
   - computação

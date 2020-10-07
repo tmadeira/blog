@@ -1,11 +1,8 @@
 ---
 title: Palavras Cruzadas (OBI99)
-type: post
 date: 2005-02-18T12:25:51+00:00
 excerpt: Acabei de resolver o problema Palavras Cruzadas, até agora o mais difícil da OBI de 1999.
 url: /2005/02/palavras-cruzadas-obi99/
-categorias:
-  - Cotidiano
 tags:
   - c
   - códigos

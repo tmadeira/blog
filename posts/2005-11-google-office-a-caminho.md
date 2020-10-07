@@ -1,11 +1,8 @@
 ---
 title: “Google Office” a caminho
-type: post
 date: 2005-11-01T22:12:36+00:00
 excerpt: Até que ponto a Web 2.0 pode chegar?
 url: /2005/11/google-office-a-caminho/
-categorias:
-  - Cotidiano
 tags:
   - computação em nuvem
   - google

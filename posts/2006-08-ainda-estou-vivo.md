@@ -1,10 +1,7 @@
 ---
 title: Ainda estou vivo…
-type: post
 date: 2006-08-16T00:53:50+00:00
 url: /2006/08/ainda-estou-vivo/
-categorias:
-  - Cotidiano
 tags:
   - blogosfera
   - linuxchix

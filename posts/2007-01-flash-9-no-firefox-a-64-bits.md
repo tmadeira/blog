@@ -1,10 +1,7 @@
 ---
 title: Flash 9 no Firefox a 64 bits
-type: post
 date: 2007-01-30T13:54:00+00:00
 url: /2007/01/flash-9-no-firefox-a-64-bits/
-categorias:
-  - Dicas
 tags:
   - 64 bits
   - adobe

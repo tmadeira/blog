@@ -1,12 +1,7 @@
 ---
 title: Escada perfeita (OBI2006)
-type: post
 date: 2007-06-15T12:38:30+00:00
 url: /2007/06/escada-perfeita-obi2006/
-ordem:
-  - eeess
-categorias:
-  - Algoritmos gulosos
 tags:
   - algoritmos
   - algoritmos gulosos

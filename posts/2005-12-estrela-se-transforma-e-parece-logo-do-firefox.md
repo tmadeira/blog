@@ -1,15 +1,12 @@
 ---
 title: Estrela se transforma e parece logo do Firefox
-type: post
 date: 2005-12-10T01:39:35+00:00
 excerpt: É, parece que a hora se aproxima... Até o universo está se preparando para a nova era...
 url: /2005/12/estrela-se-transforma-e-parece-logo-do-firefox/
-categorias:
-  - Futilidades
 tags:
   - firefox
   - mozilla
-  - Software Livre
+  - software livre
 ---
 
 É, parece que a hora se aproxima… Até o universo está se preparando para a nova era… Li hoje no meu feed de tecnologia do [Terra][1] sobre uma [estrela que se transformou][2] se parecendo com o logo do [Firefox][3]!

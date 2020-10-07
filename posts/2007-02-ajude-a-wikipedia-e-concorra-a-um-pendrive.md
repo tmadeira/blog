@@ -1,10 +1,7 @@
 ---
 title: Ajude a Wikipedia e concorra a um pendrive!
-type: post
 date: 2007-02-11T12:22:03+00:00
 url: /2007/02/ajude-a-wikipedia-e-concorra-a-um-pendrive/
-categorias:
-  - Cotidiano
 tags:
   - br-linux
   - campanha

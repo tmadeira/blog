@@ -1,11 +1,8 @@
 ---
 title: Novo design!
-type: post
 date: 2006-01-05T22:35:28+00:00
 excerpt: Novo template feito em tempo recorde... Três dias foram necessários para eu finalizar o novo design do meu site, agora mais leve e acessível (e mais bonito).
 url: /2006/01/novo-design/
-categorias:
-  - Metablogagem
 tags:
   - ajax
   - css

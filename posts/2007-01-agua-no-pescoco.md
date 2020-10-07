@@ -1,10 +1,7 @@
 ---
 title: Água no pescoço
-type: post
 date: 2007-01-28T11:44:35+00:00
 url: /2007/01/agua-no-pescoco/
-categorias:
-  - Política
 tags:
   - ambição
   - bush

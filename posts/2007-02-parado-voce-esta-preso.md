@@ -1,10 +1,7 @@
 ---
 title: Parado! Você está preso!
-type: post
 date: 2007-02-11T20:27:48+00:00
 url: /2007/02/parado-voce-esta-preso/
-categorias:
-  - Sociedade
 tags:
   - crime
   - criminoso

@@ -1,10 +1,7 @@
 ---
 title: O sonho americano dos que mal dormem
-type: post
 date: 2012-03-19T20:57:25+00:00
 url: /2012/03/o-sonho-americano-dos-que-mal-dormem/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - à procura da felicidade
   - california

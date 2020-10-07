@@ -1,11 +1,8 @@
 ---
 title: Sobre as mudanças
-type: post
 date: 2006-01-07T19:19:09+00:00
 excerpt: Resolvi escrever um artigo inteiro só pra comentar sobre as mudanças no blog que já fiz e as que ainda estou fazendo.
 url: /2006/01/sobre-as-mudancas/
-categorias:
-  - Metablogagem
 tags:
   - ajax
   - algoritmos

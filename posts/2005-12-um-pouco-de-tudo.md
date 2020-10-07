@@ -1,11 +1,8 @@
 ---
 title: Um pouco de tudo
-type: post
 date: 2005-12-21T13:08:51+00:00
 excerpt: Hoje é dia 21... Faltam 4 dias pro natal. Dia 24, vou viajar pra Floripa e não vou voltar para casa provavelmente até provavelmente 2-5 de janeiro.
 url: /2005/12/um-pouco-de-tudo/
-categorias:
-  - Cotidiano
 tags:
   - age of empires
   - futebol

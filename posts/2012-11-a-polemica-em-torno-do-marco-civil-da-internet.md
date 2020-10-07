@@ -1,10 +1,7 @@
 ---
 title: A polêmica em torno do Marco Civil da Internet
-type: post
 date: 2012-11-15T13:09:27+00:00
 url: /2012/11/a-polemica-em-torno-do-marco-civil-da-internet/
-categorias:
-  - Política
 tags:
   - democracia
   - governo federal
@@ -12,7 +9,7 @@ tags:
   - marco civil
   - política
   - pt
-  - Software Livre
+  - software livre
 ---
 
 O Marco Civil da Internet surgiu em oposição ao projeto de lei do então senador Eduardo Azeredo (PSDB/MG) conhecido como AI-5 Digital, que buscava vigiar e controlar o que nós fazemos na internet. O conteúdo original daquele projeto era bizarro, prevendo cadastro prévio e identificação de todos os usuários de internet, utilização dessa identificação para prender para quem baixa músicas online, censura de sites arbitrariamente sem aviso prévio e outros absurdos do tipo. Algo muito parecido com [a lei SOPA nos EUA][1].

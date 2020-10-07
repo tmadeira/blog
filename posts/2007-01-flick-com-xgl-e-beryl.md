@@ -1,12 +1,9 @@
 ---
 title: Flick com XGL e Beryl
-type: post
 date: 2007-01-30T13:08:57+00:00
 url: /2007/01/flick-com-xgl-e-beryl/
-categorias:
-  - Cotidiano
 tags:
-  - 3D
+  - 3d
   - acer
   - aquamarine
   - aspire 5050-3205

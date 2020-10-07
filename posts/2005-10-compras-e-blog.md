@@ -1,11 +1,8 @@
 ---
 title: Compras e Blog
-type: post
 date: 2005-10-09T23:42:28+00:00
 excerpt: Pedi meu presente de "Dia das Crianças"!
 url: /2005/10/compras-e-blog/
-categorias:
-  - Cotidiano
 tags:
   - bbcodes
   - c

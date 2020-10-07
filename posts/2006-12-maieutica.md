@@ -1,10 +1,7 @@
 ---
 title: Maiêutica
-type: post
 date: 2006-12-04T08:43:53+00:00
 url: /2006/12/maieutica/
-categorias:
-  - Filosofia
 tags:
   - ciência
   - filosofia

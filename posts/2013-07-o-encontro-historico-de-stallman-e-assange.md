@@ -1,11 +1,7 @@
 ---
 title: O encontro histórico de Stallman e Assange
-type: post
 date: 2013-07-12T15:57:50+00:00
 url: /2013/07/o-encontro-historico-de-stallman-e-assange/
-featured_image: /wp-content/uploads/2013/07/789758853-300x180.jpg
-categorias:
-  - Pensamentos aleatórios
 tags:
   - bradley manning
   - criptografia
@@ -16,9 +12,8 @@ tags:
   - julian assange
   - nsa
   - richard stallman
-  - Software Livre
+  - software livre
   - wikileaks
-format: aside
 ---
 
 **Richard Stallman** é um dos hackers mais importantes da história. Quando era estudante de doutorado em Ciência da Computação no MIT, viveu a transição dos dias em que todos os programas eram abertos para os dias em que as ideias computacionais se tornaram privatizáveis através do modelo do sofware proprietário.

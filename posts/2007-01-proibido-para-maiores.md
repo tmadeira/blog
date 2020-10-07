@@ -1,10 +1,7 @@
 ---
 title: Proibido para maiores
-type: post
 date: 2007-01-11T18:39:50+00:00
 url: /2007/01/proibido-para-maiores/
-categorias:
-  - Sociedade
 tags:
   - adulto
   - filosofia

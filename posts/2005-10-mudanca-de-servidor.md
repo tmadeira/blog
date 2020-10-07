@@ -1,11 +1,8 @@
 ---
 title: Mudança de Servidor
-type: post
 date: 2005-10-30T20:52:19+00:00
 excerpt: "A Nerdhost ficou mais de uma semana fora do ar sem dar explicações... É mole? Mas ainda bem que me livrei logo daquele servidor. Depois de googlar um pouco, encontrei a solução: Dreamhost."
 url: /2005/10/mudanca-de-servidor/
-categorias:
-  - Metablogagem
 tags:
   - debian
   - digitalminds

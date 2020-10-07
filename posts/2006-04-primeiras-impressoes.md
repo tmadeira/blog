@@ -1,11 +1,8 @@
 ---
 title: Primeiras Impressões
-type: post
 date: 2006-04-09T23:26:23+00:00
 excerpt: Ontem a tarde foi aplicada a prova da primeira fase da OBI 2006, Programação Nível 2. Minhas primeiras impressões sobre a prova...
 url: /2006/04/primeiras-impressoes/
-categorias:
-  - Cotidiano
 tags:
   - computação
   - impressões

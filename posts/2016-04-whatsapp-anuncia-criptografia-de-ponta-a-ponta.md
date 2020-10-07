@@ -1,10 +1,7 @@
 ---
 title: WhatsApp anuncia criptografia de ponta a ponta
-type: post
 date: 2016-04-05T17:20:27+00:00
 url: /2016/04/whatsapp-anuncia-criptografia-de-ponta-a-ponta/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - criptografia
   - edward snowden

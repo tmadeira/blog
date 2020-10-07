@@ -1,12 +1,7 @@
 ---
 title: Semana santa
-type: post
 date: 2009-04-07T12:37:29+00:00
 url: /2009/04/semana-santa/
-sociableoff:
-  - "false"
-categorias:
-  - Cotidiano
 tags:
   - aulas
   - biblioteca

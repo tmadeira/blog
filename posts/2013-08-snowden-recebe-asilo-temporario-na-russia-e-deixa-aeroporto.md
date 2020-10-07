@@ -1,17 +1,14 @@
 ---
 title: Snowden recebe asilo temporário na Rússia e deixa aeroporto
-type: post
 date: 2013-08-01T11:52:57+00:00
 url: /2013/08/snowden-recebe-asilo-temporario-na-russia-e-deixa-aeroporto/
-categorias:
-  - Política
 tags:
   - aeroporto
   - asilo
   - edward snowden
   - internet
   - liberdade
-  - Rússia
+  - rússia
 ---
 
 Edward Snowden acaba de obter asilo temporário na Rússia por um ano. O ex-agente da inteligência americana saiu da zona de trânsito internacional do aeroporto de Moscou por volta das 8:30 no horário de Brasília acompanhado de Sarah Harrison, assessora do WikiLeaks. Ele estava lá desde o dia 23 de junho, quando chegou de Hong Kong.

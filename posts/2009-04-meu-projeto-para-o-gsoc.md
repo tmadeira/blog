@@ -1,12 +1,7 @@
 ---
 title: Meu projeto para o GSoC
-type: post
 date: 2009-04-03T15:06:33+00:00
 url: /2009/04/meu-projeto-para-o-gsoc/
-sociableoff:
-  - "false"
-categorias:
-  - Software Livre
 tags:
   - free software
   - g-pear
@@ -14,7 +9,7 @@ tags:
   - linux
   - pear
   - php
-  - Software Livre
+  - software livre
   - summer of code
 ---
 

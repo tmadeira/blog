@@ -1,11 +1,7 @@
 ---
 title: E-books devem ampliar nossa liberdade, não reduzí-la
-type: post
 date: 2012-11-20T13:13:45+00:00
 url: /2012/11/e-books-devem-ampliar-nossa-liberdade-nao-reduzi-la/
-featured_image: /wp-content/uploads/2012/11/stallman1.article.jpg
-categorias:
-  - Software Livre
 tags:
   - amazon
   - e-books
@@ -13,7 +9,7 @@ tags:
   - fsf
   - kindle
   - richard stallman
-  - Software Livre
+  - software livre
   - stallman
 ---
 

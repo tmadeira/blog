@@ -1,11 +1,7 @@
 ---
 title: Que calor!
-type: post
 date: 2007-03-03T17:03:03+00:00
 url: /2007/03/que-calor/
-categorias:
-  - Política
-  - Sociedade
 tags:
   - aquecimento global
   - calor

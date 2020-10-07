@@ -1,10 +1,7 @@
 ---
 title: "Problema das mesas de credenciamento"
-type: post
 date: 2020-04-05T17:48:02-03:00
 url: /2020/04/problema-mesas-credenciamento/
-categorias:
-  - Cotidiano
 tags:
   - matemática
   - algoritmos
@@ -12,7 +9,6 @@ tags:
   - desvio padrão
   - algoritmos gulosos
   - programação dinâmica
-description: "A partir de um problema do mundo real, discutimos duas técnicas para resolver problemas de otimização: algoritmos gulosos e programação dinâmica."
 ---
 
 Eventos com inscrição prévia, do Fórum Internacional do Software Livre às plenárias do Congresso do PSOL nas grandes cidades, costumam ter mesas de credenciamento pelas quais os presentes precisam passar para pegar um crachá.

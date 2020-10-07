@@ -1,10 +1,7 @@
 ---
 title: Terrorismo Poético
-type: post
 date: 2007-01-12T21:36:33+00:00
 url: /2007/01/terrorismo-poetico/
-categorias:
-  - Política
 tags:
   - anarquismo
   - hakim bey

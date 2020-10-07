@@ -1,10 +1,7 @@
 ---
 title: Sobre o novo ataque (KRACK) no WPA
-type: post
 date: 2017-10-17T12:07:50+00:00
 url: /2017/10/sobre-o-novo-ataque-krack-no-wpa/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - criptografia
   - internet

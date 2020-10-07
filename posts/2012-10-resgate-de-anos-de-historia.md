@@ -1,10 +1,7 @@
 ---
 title: Resgate de anos de história
-type: post
 date: 2012-10-22T06:25:42+00:00
 url: /2012/10/resgate-de-anos-de-historia/
-categorias:
-  - Metablogagem
 tags:
   - 1001 gatos
   - "2005"
@@ -17,7 +14,7 @@ tags:
   - história
   - ibrahim
   - mal vicioso
-  - Metablogagem
+  - metablogagem
   - textos
   - ufsc
   - usp

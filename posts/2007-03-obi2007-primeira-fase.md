@@ -1,10 +1,7 @@
 ---
 title: OBI2007 – Primeira fase
-type: post
 date: 2007-03-18T11:27:16+00:00
 url: /2007/03/obi2007-primeira-fase/
-categorias:
-  - Cotidiano
 tags:
   - computação
   - obi

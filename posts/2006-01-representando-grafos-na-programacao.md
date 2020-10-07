@@ -1,13 +1,8 @@
 ---
 title: Representando Grafos na Programação
-type: post
 date: 2006-01-23T12:50:15+00:00
 excerpt: Como representar relações binárias na programação? Qual a estrutura de dados perfeita para representar aquela árvore que vimos no último artigo? Isto é o que descobriremos aqui...
 url: /2006/01/representando-grafos-na-programacao/
-ordem:
-  - eeeqq
-categorias:
-  - Grafos
 tags:
   - adjacência
   - algoritmos

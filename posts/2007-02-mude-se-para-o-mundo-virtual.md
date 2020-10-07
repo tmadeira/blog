@@ -1,10 +1,7 @@
 ---
 title: Mude-se para o mundo virtual
-type: post
 date: 2007-02-22T21:12:15+00:00
 url: /2007/02/mude-se-para-o-mundo-virtual/
-categorias:
-  - Sociedade
 tags:
   - assalto
   - brasil

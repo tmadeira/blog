@@ -1,11 +1,7 @@
 ---
 title: Como copiar textos da Folha e outros sites que não deixam
-type: post
 date: 2014-04-01T16:51:59+00:00
 url: /2014/04/como-copiar-textos-da-folha-e-outros-sites-que-nao-deixam/
-featured_image: /wp-content/uploads/2014/04/folha-300x180.jpg
-categorias:
-  - Dicas
 tags:
   - códigos
   - computação
@@ -14,7 +10,7 @@ tags:
   - javascript
   - programação
   - scripts
-  - Software Livre
+  - software livre
 ---
 
 Alguns sites começaram a abusar de um recurso super interessante do JavaScript para acabar com uma das características mais importantes da Internet: **a capacidade de copiar/colar**.

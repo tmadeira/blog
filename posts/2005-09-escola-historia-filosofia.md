@@ -1,11 +1,8 @@
 ---
 title: Escola, história, filosofia
-type: post
 date: 2005-09-11T23:36:50+00:00
 excerpt: Pra não citar os fatos inúteis da escola (que são maioria), resolvi elogiar as aulas de história deste terceiro bimestre escrevendo neste artigo principalmente sobre filosofia (e dessa vez não é só a do software livre!)
 url: /2005/09/escola-historia-filosofia/
-categorias:
-  - Cotidiano
 tags:
   - computação
   - educação
@@ -16,7 +13,7 @@ tags:
   - história
   - kde
   - linux
-  - Matemática
+  - matemática
   - mundo de sofia
   - nfs
   - olimpíadas

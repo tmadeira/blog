@@ -1,11 +1,8 @@
 ---
 title: "PHP: Array de Caracteres != String"
-type: post
 date: 2006-01-02T13:31:15+00:00
 excerpt: "Já não é a primeira vez que eu vou fazer uma aplicação em PHP e quero usar uma função de arrays numa string. Como um bom dicípulo da linguagem C, aprendi que uma string é um array de chars. O PHP tenta fazer algo parecido com isso, aceitando que possamos acessar caracteres da string com $string[indice]; porém, não sei por quê, não podemos usar funções de array nas strings e vice-versa."
 url: /2006/01/php-array-de-caracteres-string/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - arrays
   - bug

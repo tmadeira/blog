@@ -1,15 +1,12 @@
 ---
 title: Year Zero
-type: post
 date: 2017-03-07T17:16:57+00:00
 url: /2017/03/year-zero/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - assange
-  - CIA
+  - cia
   - open whisper systems
-  - Signal
+  - signal
   - snowden
   - vault7
   - vigilância

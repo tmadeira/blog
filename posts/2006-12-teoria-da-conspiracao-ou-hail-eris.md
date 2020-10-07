@@ -1,10 +1,7 @@
 ---
 title: "Teoria da conspiração (ou: Hail Eris!)"
-type: post
 date: 2006-12-07T12:16:09+00:00
 url: /2006/12/teoria-da-conspiracao-ou-hail-eris/
-categorias:
-  - Cotidiano
 tags:
   - conspiração
   - ddate

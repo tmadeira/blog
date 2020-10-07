@@ -1,10 +1,7 @@
 ---
 title: A criação musical do mundo
-type: post
 date: 2007-07-25T18:32:54+00:00
 url: /2007/07/a-criacao-musical-do-mundo/
-categorias:
-  - Filosofia
 tags:
   - big bang
   - ciência

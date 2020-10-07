@@ -1,17 +1,12 @@
 ---
 title: Estatísticas estranhas
-type: post
 date: 2009-04-09T11:46:27+00:00
 url: /2009/04/estatisticas-estranhas/
-sociableoff:
-  - "false"
-categorias:
-  - Metablogagem
 tags:
   - estatiśtica
   - feed
   - feedburner
-  - Metablogagem
+  - metablogagem
   - rss
 ---
 

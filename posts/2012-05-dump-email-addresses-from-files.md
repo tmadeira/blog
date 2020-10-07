@@ -1,10 +1,7 @@
 ---
 title: Dump email addresses from files
-type: post
 date: 2012-05-03T06:58:38+00:00
 url: /2012/05/dump-email-addresses-from-files/
-categorias:
-  - Códigos aleatórios
 tags:
   - antiword
   - bash

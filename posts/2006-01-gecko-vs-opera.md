@@ -1,18 +1,15 @@
 ---
 title: Gecko vs. Opera
-type: post
 date: 2006-01-06T16:07:20+00:00
 excerpt: Não que eu seja um expert nisso, mas aqui está minha análise sobre o caso Mozilla (Gecko) vs. Opera.
 url: /2006/01/gecko-vs-opera/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - browsers
   - firefox
   - gecko
   - mozilla
   - opera
-  - Software Livre
+  - software livre
   - web
 ---
 

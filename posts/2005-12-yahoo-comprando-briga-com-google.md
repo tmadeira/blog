@@ -1,11 +1,8 @@
 ---
 title: Yahoo! comprando briga com Google
-type: post
 date: 2005-12-10T01:46:47+00:00
 excerpt: Os rivais Google e Yahoo! continuam a dividir os serviços mais populares da Web 2.0.
 url: /2005/12/yahoo-comprando-briga-com-google/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - del.icio.us
   - flickr

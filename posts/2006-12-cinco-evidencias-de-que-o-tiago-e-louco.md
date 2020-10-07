@@ -1,15 +1,12 @@
 ---
 title: Cinco evidências de que o Tiago é louco
-type: post
 date: 2006-12-27T16:05:18+00:00
 url: /2006/12/cinco-evidencias-de-que-o-tiago-e-louco/
-categorias:
-  - Cotidiano
 tags:
   - 5 things you may not know about me
   - ciência
   - discordianismo
-  - Matemática
+  - matemática
   - meme
   - religião
 ---

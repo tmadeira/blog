@@ -1,16 +1,11 @@
 ---
 title: Problemas ao comentar?
-type: post
 date: 2009-04-13T14:45:06+00:00
 url: /2009/04/problemas-ao-comentar/
-sociableoff:
-  - "false"
-categorias:
-  - Metablogagem
 tags:
   - bug
   - comentários
-  - Metablogagem
+  - metablogagem
   - páscoa
   - problema
   - wordpress

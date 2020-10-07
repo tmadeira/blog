@@ -1,10 +1,7 @@
 ---
 title: Final mundial do ICPC no Egito é adiada
-type: post
 date: 2011-02-01T09:51:53+00:00
 url: /2011/02/final-mundial-do-icpc-no-egito-e-adiada/
-categorias:
-  - Cotidiano
 tags:
   - acm
   - acm icpc

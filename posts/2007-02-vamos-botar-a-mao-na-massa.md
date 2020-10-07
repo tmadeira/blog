@@ -1,10 +1,7 @@
 ---
 title: Vamos botar a mão na massa?
-type: post
 date: 2007-02-13T00:03:24+00:00
 url: /2007/02/vamos-botar-a-mao-na-massa/
-categorias:
-  - Cotidiano
 tags:
   - blogosfera
   - blogs

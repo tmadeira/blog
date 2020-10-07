@@ -1,10 +1,7 @@
 ---
 title: Sobre os anônimos que tiraram o site do PSOL do ar
-type: post
 date: 2012-06-24T06:02:57+00:00
 url: /2012/06/sobre-os-anonimos-que-tiraram-o-site-do-psol-do-ar/
-categorias:
-  - Política
 tags:
   - anônimos
   - assange

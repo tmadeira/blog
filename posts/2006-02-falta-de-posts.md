@@ -1,13 +1,10 @@
 ---
 title: Falta de Posts
-type: post
 date: 2006-02-07T12:50:40+00:00
 excerpt: Viajei nesse final de semana, tô com três rascunhos no Wordpress em desenvolvimento, estou acabando três sites e fazendo dois projetos. Por isso a falta de posts!
 url: /2006/02/falta-de-posts/
-categorias:
-  - Cotidiano
 tags:
-  - Metablogagem
+  - metablogagem
   - recomendo
   - wordpress
 ---

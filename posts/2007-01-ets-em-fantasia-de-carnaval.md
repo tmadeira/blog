@@ -1,10 +1,7 @@
 ---
 title: ET’s em fantasia de carnaval?
-type: post
 date: 2007-01-27T14:03:46+00:00
 url: /2007/01/ets-em-fantasia-de-carnaval/
-categorias:
-  - Filosofia
 tags:
   - carnaval
   - filosofia

@@ -1,10 +1,7 @@
 ---
 title: "downloadsubtitle: script para baixar legendas de filmes automaticamente no shell do GNU/Linux"
-type: post
 date: 2013-06-28T05:34:39+00:00
 url: /2013/06/script-para-baixar-legendas-de-filmes-automaticamente-no-linux/
-categorias:
-  - Códigos aleatórios
 tags:
   - c
   - códigos

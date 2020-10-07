@@ -1,10 +1,7 @@
 ---
 title: "3%"
-type: post
 date: 2009-03-30T16:26:50+00:00
 url: /2009/03/tres-porcento/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - "3%"
   - aulas

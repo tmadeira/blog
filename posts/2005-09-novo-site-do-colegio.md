@@ -1,11 +1,8 @@
 ---
 title: Novo site do Colégio!
-type: post
 date: 2005-09-20T21:36:28+00:00
 excerpt: Publiquei hoje o novo site do Colégio Salesiano, um site tableless totalmente administrável que usa a linguagem PHP e o banco de dados MySql.
 url: /2005/09/novo-site-do-colegio/
-categorias:
-  - Cotidiano
 tags:
   - expressões regulares
   - greasemonkey
@@ -14,7 +11,7 @@ tags:
   - php
   - regex
   - salesiano
-  - Trabalho
+  - trabalho
 ---
 
 Publiquei hoje o novo site do **Colégio Salesiano Itajaí**, um site totalmente administrável (até o título pode ser mudado via formulários) que usa a linguagem PHP e o banco de dados MySql. O site também segue os padrões web, mesmo com formulários rich text que às vezes deixam o site pouco semântico (é que os monitores do Colégio devem poder atualizar) e está disponível em: [salesianoitajai.g12.br][1].

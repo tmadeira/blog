@@ -1,10 +1,7 @@
 ---
 title: "Nem tão livre assim: balanço do NETmundial"
-type: post
 date: 2014-04-28T23:02:17+00:00
 url: /2014/04/nem-tao-livre-assim-balanco-do-netmundial/
-categorias:
-  - Política
 tags:
   - asilo
   - banda larga

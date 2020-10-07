@@ -1,10 +1,7 @@
 ---
 title: Javier Toret visita Porto Alegre
-type: post
 date: 2016-07-05T16:22:58+00:00
 url: /2016/07/javier-toret-visita-porto-alegre/
-categorias:
-  - Cotidiano
 tags:
   - ada colau
   - barcelona
@@ -13,7 +10,6 @@ tags:
   - javier toret
   - porto alegre
   - tecnopolítica
-format: image
 ---
 
 Obrigado pela visita a Porto Alegre e pelo intercâmbio de idéias, Toret!

@@ -1,20 +1,16 @@
 ---
 title: Novo cálculo eleitoral e algoritmos para distribuir vagas de eleições proporcionais
-type: post
 date: 2018-04-25T07:44:49-03:00
 url: /2018/04/calculo-eleitoral-algoritmo-eleicoes-proporcionais/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - eleições
-  - TSE
-  - D'Hondt
+  - tse
+  - d'hondt
   - algoritmos
-  - Brasil
+  - brasil
   - busca binária
   - quociente eleitoral
   - menor sobra
-description: O quociente eleitoral está morto; vida longa à menor sobra! Um exercício matemático e computacional sobre os métodos usados para alocar vagas nas eleições proporcionais.
 ---
 
 Um exercício matemático e computacional sobre os métodos usados para alocar vagas nas eleições proporcionais do Brasil. Estava refletindo sobre isso uns dias atrás e estou colocando aqui para sistematizar, compartilhar e saber o que outras pessoas acham. A epígrafe é: _O quociente eleitoral está morto; vida longa à menor sobra!_

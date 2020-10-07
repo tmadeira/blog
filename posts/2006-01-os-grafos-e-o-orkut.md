@@ -1,13 +1,8 @@
 ---
 title: Os Grafos e o Orkut
-type: post
 date: 2006-01-22T17:43:22+00:00
 excerpt: "Grafo: uma forma de representar uma relação binária entre elementos de um conjunto. Ficou muito difícil? Então vamos trabalhar com o exemplo do Orkut! :)"
 url: /2006/01/os-grafos-e-o-orkut/
-ordem:
-  - eeepp
-categorias:
-  - Grafos
 tags:
   - algoritmos
   - algoritmos em grafos

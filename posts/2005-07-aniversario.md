@@ -1,11 +1,8 @@
 ---
 title: Aniversário
-type: post
 date: 2005-07-06T20:29:38+00:00
 excerpt: Só pra não passar o dia seis de julho em branco...
 url: /2005/07/aniversario/
-categorias:
-  - Cotidiano
 tags:
   - aniversário
 ---

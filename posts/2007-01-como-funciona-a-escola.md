@@ -1,10 +1,7 @@
 ---
 title: Como funciona a escola
-type: post
 date: 2007-01-16T15:47:45+00:00
 url: /2007/01/como-funciona-a-escola/
-categorias:
-  - Sociedade
 tags:
   - aprendizagem
   - escola

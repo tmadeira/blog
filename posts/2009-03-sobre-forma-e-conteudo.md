@@ -1,14 +1,11 @@
 ---
 title: Sobre forma e conteúdo
-type: post
 date: 2009-03-30T15:04:06+00:00
 url: /2009/03/sobre-forma-e-conteudo/
-categorias:
-  - Metablogagem
 tags:
   - conteúdo
   - forma
-  - Metablogagem
+  - metablogagem
 ---
 
 Eu sempre cuidei do design mais do que do conteúdo do blog. Aliás, no [1001 Gatos de Schrödinger][1] esta ficou sendo praticamente a minha única função, já que eu pouco postava. É fato que me divirto escrevendo XHTML/CSS e gosto de deixar a forma de um site perfeita.

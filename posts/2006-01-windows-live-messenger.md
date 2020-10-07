@@ -1,11 +1,8 @@
 ---
 title: Windows Live Messenger
-type: post
 date: 2006-01-23T21:35:10+00:00
 excerpt: Para quem está afim de testar a próxima geração do MSN Messenger...
 url: /2006/01/windows-live-messenger/
-categorias:
-  - Cotidiano
 tags:
   - beta
   - googletalk

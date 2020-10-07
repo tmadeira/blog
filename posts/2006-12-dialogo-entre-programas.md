@@ -1,15 +1,12 @@
 ---
 title: Diálogo entre programas
-type: post
 date: 2006-12-11T20:08:45+00:00
 url: /2006/12/dialogo-entre-programas/
-categorias:
-  - Software Livre
 tags:
   - filosofia
   - linux
   - shell
-  - Software Livre
+  - software livre
   - unix
 ---
 

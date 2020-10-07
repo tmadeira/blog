@@ -1,10 +1,7 @@
 ---
 title: Você patentearia o Sol?
-type: post
 date: 2011-06-09T02:06:22+00:00
 url: /2011/06/voce-patentearia-o-sol/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - capitalismo
   - michael moore

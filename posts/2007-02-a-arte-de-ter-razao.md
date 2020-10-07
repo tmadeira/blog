@@ -1,10 +1,7 @@
 ---
 title: A arte de ter razão
-type: post
 date: 2007-02-02T01:04:37+00:00
 url: /2007/02/a-arte-de-ter-razao/
-categorias:
-  - Livros
 tags:
   - dialética
   - disputa

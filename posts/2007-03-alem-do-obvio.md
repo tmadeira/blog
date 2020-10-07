@@ -1,11 +1,7 @@
 ---
 title: Além do óbvio
-type: post
 date: 2007-03-02T11:00:44+00:00
 url: /2007/03/alem-do-obvio/
-categorias:
-  - Imagens
-  - Sociedade
 tags:
   - destruição
   - guerra

@@ -1,10 +1,7 @@
 ---
 title: Choro Bandido
-type: post
 date: 2009-11-19T15:16:31+00:00
 url: /2009/11/choro-bandido/
-categorias:
-  - Futilidades
 tags:
   - chico buarque
   - choro bandido

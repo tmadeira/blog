@@ -1,17 +1,14 @@
 ---
 title: O Jogo do Sete
-type: post
 date: 2005-02-13T19:08:01+00:00
 excerpt: Meu professor de matemática Vavá me passou dois desafios lógicos. Um deles é muito interessante depois de se entender a lógica. Resolvi implementá-lo em C.
 url: /2005/02/o-jogo-do-sete/
-categorias:
-  - Cotidiano
 tags:
   - c
   - códigos
   - jogos
   - lógica
-  - Matemática
+  - matemática
   - programação
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: Gerando tabelas de hash MD5
-type: post
 date: 2008-04-11T03:26:24+00:00
 url: /2008/04/gerando-tabelas-de-hash-md5/
-categorias:
-  - Códigos aleatórios
 tags:
   - c
   - hash

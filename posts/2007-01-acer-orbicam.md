@@ -1,10 +1,7 @@
 ---
 title: Acer Orbicam
-type: post
 date: 2007-01-26T17:57:34+00:00
 url: /2007/01/acer-orbicam/
-categorias:
-  - Cotidiano
 tags:
   - acer
   - acer orbicam
@@ -15,7 +12,7 @@ tags:
   - kernel
   - linux
   - microdia
-  - Ov7670
+  - ov7670
   - sn9c201
   - sonix
   - webcam

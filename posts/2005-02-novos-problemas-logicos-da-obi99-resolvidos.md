@@ -1,11 +1,8 @@
 ---
 title: Novos problemas lógicos da OBI99 resolvidos!
-type: post
 date: 2005-02-08T23:49:43+00:00
 excerpt: Peguei a prova da OBI 99 com apenas seis problemas, porque já resolvi 2 há algum tempo sem perceber, com o objetivo de treinar um pouco para a OBI desse ano.
 url: /2005/02/novos-problemas-logicos-da-obi99-resolvidos/
-categorias:
-  - Cotidiano
 tags:
   - algoritmos
   - c

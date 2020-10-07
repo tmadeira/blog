@@ -1,16 +1,13 @@
 ---
 title: Linux NÃO é Windows
-type: post
 date: 2006-12-22T01:21:44+00:00
 url: /2006/12/linux-nao-e-windows/
-categorias:
-  - Software Livre
 tags:
   - gnu
   - linux
   - marketing
   - sistemas operacionais
-  - Software Livre
+  - software livre
   - unix
   - windows
 ---

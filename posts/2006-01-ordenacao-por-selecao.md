@@ -1,13 +1,8 @@
 ---
 title: Ordenação por Seleção
-type: post
 date: 2006-01-13T11:50:14+00:00
 excerpt: Este é o segundo algoritmo de ordenação que estudamos e talvez seja o mais fácil deles. Tem um custo um pouco maior que a Ordenação por Inserção, mas uma lógica muito simples. Vamos ver qual é a dele...
 url: /2006/01/ordenacao-por-selecao/
-ordem:
-  - eeell
-categorias:
-  - Ordenação
 tags:
   - algoritmos
   - análise de algoritmos

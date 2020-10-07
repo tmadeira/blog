@@ -1,10 +1,7 @@
 ---
 title: A culpa é de quem?
-type: post
 date: 2007-02-01T17:17:54+00:00
 url: /2007/02/a-culpa-e-de-quem/
-categorias:
-  - Sociedade
 tags:
   - bicicleta
   - crime

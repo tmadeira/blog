@@ -1,14 +1,11 @@
 ---
 title: Módulo Rewrite do Apache
-type: post
 date: 2005-01-31T11:59:02+00:00
 excerpt: Uma forma bem legal de organizar a estrutura de uma página...
 url: /2005/01/modulo-rewrite-do-apache/
-categorias:
-  - Metablogagem
 tags:
   - apache
-  - Metablogagem
+  - metablogagem
   - rewrite
   - web
 ---

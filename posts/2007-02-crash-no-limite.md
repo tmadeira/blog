@@ -1,10 +1,7 @@
 ---
 title: Crash – No Limite
-type: post
 date: 2007-02-07T22:26:33+00:00
 url: /2007/02/crash-no-limite/
-categorias:
-  - Filmes
 tags:
   - crash
   - filmes

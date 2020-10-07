@@ -1,10 +1,7 @@
 ---
 title: BoBee – esse é o nome
-type: post
 date: 2006-12-28T14:58:14+00:00
 url: /2006/12/bobee-esse-e-o-nome/
-categorias:
-  - Futilidades
 tags:
   - bobee
   - concurso

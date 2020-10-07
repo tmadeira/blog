@@ -1,16 +1,13 @@
 ---
 title: Onde anda o Slackware 11?
-type: post
 date: 2006-08-20T13:34:02+00:00
 url: /2006/08/onde-anda-o-slackware-11/
-categorias:
-  - Cotidiano
 tags:
   - linux
   - patrick
   - slackware
   - slackware 11
-  - Software Livre
+  - software livre
 ---
 
 Ok… O Patrick tá trabalhando _pra caramba_, tem bastante gente colaborando, estamos tendo um monte de atualizações todo dia no [slackware-current][1], o Slackware 11.0 vai ser estável do jeito que deve ser, mas… Tá demorando, né?

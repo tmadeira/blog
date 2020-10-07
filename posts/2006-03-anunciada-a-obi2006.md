@@ -1,11 +1,8 @@
 ---
 title: Anunciada a OBI2006
-type: post
 date: 2006-03-20T00:25:31+00:00
 excerpt: Anunciada a Olimpíada Brasileira de Informática de 2006. Neste ano, temos novidades...
 url: /2006/03/anunciada-a-obi2006/
-categorias:
-  - Cotidiano
 tags:
   - anúncios
   - computação

@@ -1,17 +1,13 @@
 ---
 title: "Em defesa dos algoritmos"
-type: post
 date: 2018-06-13T12:45:33-03:00
 url: /2018/06/em-defesa-dos-algoritmos/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - facebook
   - whatsapp
   - algoritmos
   - euclides
   - g1
-description: O que seria um programa de computador sem algoritmos?
 ---
 
 Estão transformando "algoritmo" num termo pejorativo e usando ele de forma muito esquisita. Acabei de ler, numa [matéria do G1](https://g1.globo.com/economia/tecnologia/noticia/protestos-de-2013-ocorreram-antes-de-whatsapp-bombar-no-brasil-entenda-papel-do-facebook-na-epoca-e-o-que-mudou.ghtml), sobre um programa de computador "sem algoritmos".

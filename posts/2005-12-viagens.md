@@ -1,11 +1,8 @@
 ---
 title: Viagens
-type: post
 date: 2005-12-23T14:37:55+00:00
 excerpt: Só estou postando para desejar a todos um feliz natal e um ótimo ano de 2006!
 url: /2005/12/viagens/
-categorias:
-  - Cotidiano
 tags:
   - férias
   - florianópolis

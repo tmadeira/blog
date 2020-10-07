@@ -1,10 +1,7 @@
 ---
 title: "DNA2006: Desafio legal, mas mal planejado…"
-type: post
 date: 2006-06-11T00:44:30+00:00
 url: /2006/06/dna2006-desafio-legal-mas-mal-planejado/
-categorias:
-  - Cotidiano
 tags:
   - asp
   - dna
@@ -12,7 +9,7 @@ tags:
   - iis
   - microsoft
   - mp3
-  - Rússia
+  - rússia
 ---
 
 > Você, que é aluno do ensino médio, não pode ficar de fora do maior evento virtual já organizado no Brasil.

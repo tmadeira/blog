@@ -1,11 +1,8 @@
 ---
 title: Projetos do Salesiano, SED/Bash, Programação Nível 2
-type: post
 date: 2005-05-20T13:32:47+00:00
 excerpt: O título já descreve perfeitamente o que eu digo nesse post...
 url: /2005/05/projetos-do-salesiano-sedbash-programacao-nivel-2/
-categorias:
-  - Cotidiano
 tags:
   - bash
   - computação
@@ -17,7 +14,7 @@ tags:
   - salesiano
   - sed
   - shell
-  - Trabalho
+  - trabalho
 ---
 
 Em primeiro lugar, publiquei dois projetos do colégio (dentro dos padrões web, um que não funciona direito no IE) sexta-feira. O pessoal tava reclamando que a página tava desatualizada e tinha gente procurando por “ginsal 2005” no Google e chegando aqui, então estou postando os links para o projeto **Ginsal 2005** e **Páginas Literárias** aqui mesmo:

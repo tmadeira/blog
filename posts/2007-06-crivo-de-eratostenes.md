@@ -1,17 +1,12 @@
 ---
 title: Crivo de Eratóstenes
-type: post
 date: 2007-06-17T13:40:53+00:00
 url: /2007/06/crivo-de-eratostenes/
-ordem:
-  - eeenn
-categorias:
-  - Curiosidades
 tags:
   - algoritmos
   - c
   - crivo de eratóstenes
-  - Matemática
+  - matemática
   - números primos
   - primos
   - raiz quadrada

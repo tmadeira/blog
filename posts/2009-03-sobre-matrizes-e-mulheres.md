@@ -1,15 +1,12 @@
 ---
 title: Sobre matrizes e mulheres
-type: post
 date: 2009-03-30T23:54:34+00:00
 url: /2009/03/sobre-matrizes-e-mulheres/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - álgebra linear
   - economia
   - filmes
-  - Matemática
+  - matemática
   - matrizes
   - mulheres
   - nash

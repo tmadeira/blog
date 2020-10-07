@@ -1,10 +1,7 @@
 ---
 title: Boa nova
-type: post
 date: 2010-04-30T05:48:27+00:00
 url: /2010/04/boa-nova/
-categorias:
-  - Cotidiano
 tags:
   - bcc
   - burocracia

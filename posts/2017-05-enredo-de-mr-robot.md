@@ -1,10 +1,7 @@
 ---
 title: Enredo de Mr. Robot
-type: post
 date: 2017-05-12T18:46:20+00:00
 url: /2017/05/enredo-de-mr-robot/
-categorias:
-  - Cotidiano
 tags:
   - eternalblue
   - kapersky
@@ -17,7 +14,6 @@ tags:
   - tsb
   - wannacry
   - windows
-format: aside
 ---
 
 Um [_ransomware_ comprometeu mais de 45 mil computadores em 74 países][1], e o número não para de crescer. As redes do [NHS][2] (sistema de saúde britânico) e da Telefónica (multinacional espanhola) estão entre as atingidas [de forma mais pesada][3].

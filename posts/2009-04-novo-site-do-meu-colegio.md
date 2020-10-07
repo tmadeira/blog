@@ -1,18 +1,13 @@
 ---
 title: Novo site do “meu” colégio
-type: post
 date: 2009-04-08T19:30:56+00:00
 url: /2009/04/novo-site-do-meu-colegio/
-sociableoff:
-  - "false"
-categorias:
-  - Cotidiano
 tags:
   - colégio
   - itajaí
   - salesiano
   - site
-  - Trabalho
+  - trabalho
 ---
 
 Estudei no Colégio Salesiano Itajaí por 11 anos, da primeira série do Ensino Fundamental ao terceiro ano do Ensino Médio. Desde a oitava série (2004) trabalhei desenvolvendo o seu site em troca de bolsa de estudos. Durante a maior parte deste tempo o site esteve hospedado no [meu servidor][1].

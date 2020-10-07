@@ -1,10 +1,7 @@
 ---
 title: Não saia de casa
-type: post
 date: 2007-02-20T22:36:51+00:00
 url: /2007/02/nao-saia-de-casa/
-categorias:
-  - Sociedade
 tags:
   - assalto
   - celular

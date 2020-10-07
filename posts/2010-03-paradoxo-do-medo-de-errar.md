@@ -1,15 +1,12 @@
 ---
 title: Paradoxo do medo de errar
-type: post
 date: 2010-03-03T14:58:07+00:00
 url: /2010/03/paradoxo-do-medo-de-errar/
-categorias:
-  - Futilidades
 tags:
   - contradição
   - demonstração
   - erro
-  - Matemática
+  - matemática
   - medo
   - paradoxo
   - twitter

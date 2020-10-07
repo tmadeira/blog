@@ -1,11 +1,8 @@
 ---
 title: Função para MMC e Gerador de Gráficos em Setores
-type: post
 date: 2005-03-15T19:34:00+00:00
 excerpt: Novos programinhas lógicos simples...
 url: /2005/03/funcao-para-mmc-e-gerador-de-graficos-em-setores/
-categorias:
-  - Cotidiano
 tags:
   - c
   - códigos
@@ -13,7 +10,7 @@ tags:
   - gcd
   - gráficos
   - lcm
-  - Matemática
+  - matemática
   - mdc
   - mmc
   - programação

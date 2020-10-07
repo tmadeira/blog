@@ -1,10 +1,7 @@
 ---
 title: Carnaval também é pop!
-type: post
 date: 2007-01-27T02:23:53+00:00
 url: /2007/01/carnaval-tambem-e-pop/
-categorias:
-  - Cotidiano
 tags:
   - carnaval
   - google

@@ -1,10 +1,7 @@
 ---
 title: A Blogosfera Brasileira de 2006
-type: post
 date: 2006-12-21T16:32:19+00:00
 url: /2006/12/a-blogosfera-brasileira-de-2006/
-categorias:
-  - Cotidiano
 tags:
   - 1001 gatos
   - blogosfera

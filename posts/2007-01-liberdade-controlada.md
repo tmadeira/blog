@@ -1,10 +1,7 @@
 ---
 title: Liberdade controlada
-type: post
 date: 2007-01-09T18:31:24+00:00
 url: /2007/01/liberdade-controlada/
-categorias:
-  - Sociedade
 tags:
   - brasil
   - censura

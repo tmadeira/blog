@@ -1,11 +1,8 @@
 ---
 title: Expressões Regulares no C
-type: post
 date: 2005-10-09T17:43:11+00:00
 excerpt: Em julho, na UNICAMP, um cara chamado Fernando Aires (e conhecido como Tchê), falou brevemente que o "scanf" suportava alguma coisa que é quase uma expressão regular no seu primeiro argumento. Mas a biblioteca regex.h é bem mais legal!
 url: /2005/10/expressoes-regulares-no-c/
-categorias:
-  - Cotidiano
 tags:
   - c
   - expressões regulares

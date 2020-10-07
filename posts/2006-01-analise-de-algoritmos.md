@@ -1,19 +1,14 @@
 ---
 title: Análise de Algoritmos
-type: post
 date: 2006-01-08T03:53:26+00:00
 excerpt: Analisar um algoritmo é prever o que o algoritmo irá precisar. Com este artigo, pretendo explicar como analisamos um algoritmo para compará-lo com outros algoritmos na realização de uma mesma tarefa.
 url: /2006/01/analise-de-algoritmos/
-ordem:
-  - eeehh
-categorias:
-  - Básico
 tags:
   - algoritmos
   - análise
   - análise de algoritmos
   - inequações
-  - Matemática
+  - matemática
   - notação assintótica
   - omega
   - ordem de crescimento

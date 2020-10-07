@@ -1,10 +1,7 @@
 ---
 title: Você pode confiar no seu computador?
-type: post
 date: 2007-02-07T00:24:26+00:00
 url: /2007/02/voce-pode-confiar-no-seu-computador/
-categorias:
-  - Software Livre
 tags:
   - can you trust your computer
   - computador
@@ -13,7 +10,7 @@ tags:
   - gnu
   - linux
   - richard stallman
-  - Software Livre
+  - software livre
 ---
 
 > De quem o seu computador deveria receber ordens? A maioria das pessoas pensam que seus computadores deveriam obedecer elas, não a outra pessoa. Com um plano que chamam de “computação confiável”, grande corporações de mídia (incluindo as companias de filmes e de gravação), junto com companhias de computação como a Microsoft e a Intel, estão planejando fazer o seu computador obedecer eles ao invés de você. (a versão da Microsoft deste esquema é chamada “Palladium”.) Programas proprietários já tiveram recursos mal intencionados antes, mas este plano fará isso universal.

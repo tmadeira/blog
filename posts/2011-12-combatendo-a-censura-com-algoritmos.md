@@ -1,16 +1,13 @@
 ---
 title: Combatendo a censura com algoritmos
-type: post
 date: 2011-12-24T18:11:42+00:00
 url: /2011/12/combatendo-a-censura-com-algoritmos/
-categorias:
-  - Curiosidades
 tags:
   - acm
   - algoritmos
   - censura
   - computação
-  - Mohammad Mahdian
+  - mohammad mahdian
   - oriente médio
   - política
   - proxy

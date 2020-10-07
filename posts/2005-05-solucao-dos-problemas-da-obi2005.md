@@ -1,11 +1,8 @@
 ---
 title: Solução dos Problemas da OBI2005
-type: post
 date: 2005-05-18T17:22:05+00:00
 excerpt: Agora que as escolas já submeteram as soluções dos problemas da OBI desse ano, resolvi publicar a solução dos quatro problemas da Programação Nível 1 aqui.
 url: /2005/05/solucao-dos-problemas-da-obi2005/
-categorias:
-  - Cotidiano
 tags:
   - c
   - campo de minhocas

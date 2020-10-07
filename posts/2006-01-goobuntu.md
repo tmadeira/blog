@@ -1,18 +1,15 @@
 ---
 title: “Goobuntu”!?
-type: post
 date: 2006-02-01T00:11:47+00:00
 excerpt: '"Google is preparing its own distribution of Linux for the desktop, in a possible bid to take on Microsoft in its core business - desktop software."'
 url: /2006/01/goobuntu/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - apt
   - debian
   - goobuntu
   - google
   - linux
-  - Software Livre
+  - software livre
   - ubuntu
 ---
 

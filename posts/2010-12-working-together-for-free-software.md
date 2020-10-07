@@ -1,11 +1,7 @@
 ---
 title: Working together for free software
-type: post
 date: 2010-12-16T19:46:16+00:00
 url: /2010/12/working-together-for-free-software/
-featured_image: /wp-content/uploads/2010/12/libre-planet1.jpg
-categorias:
-  - Software Livre
 tags:
   - bulletin
   - fsf

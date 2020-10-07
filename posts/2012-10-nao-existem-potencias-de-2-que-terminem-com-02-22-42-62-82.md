@@ -1,14 +1,11 @@
 ---
 title: Não existem potências de 2 que terminem com 02, 22, 42, 62, 82
-type: post
 date: 2012-10-17T02:33:20+00:00
 url: /2012/10/nao-existem-potencias-de-2-que-terminem-com-02-22-42-62-82/
-categorias:
-  - Matemática
 tags:
   - demonstrações
   - futilidades
-  - Matemática
+  - matemática
   - potências
   - praia
 ---

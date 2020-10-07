@@ -1,13 +1,8 @@
 ---
 title: Ordenação por Inserção
-type: post
 date: 2006-01-11T21:32:04+00:00
 excerpt: Também conhecida como Insertion Sort, a Ordenação por Inserção consiste em inserir um elemento N num vetor já ordenado de N-1 elementos. Neste artigo, apresento-lhes este simples algoritmo para ordenação de vetores.
 url: /2006/01/ordenacao-por-insercao/
-ordem:
-  - eeekk
-categorias:
-  - Ordenação
 tags:
   - algoritmos
   - análise de algoritmos

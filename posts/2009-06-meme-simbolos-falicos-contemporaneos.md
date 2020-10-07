@@ -1,16 +1,11 @@
 ---
 title: "Meme: Símbolos fálicos contemporâneos"
-type: post
 date: 2009-06-06T02:56:41+00:00
 url: /2009/06/meme-simbolos-falicos-contemporaneos/
-sociableoff:
-  - "false"
-categorias:
-  - Futilidades
 tags:
   - falo
   - meme
-  - São Paulo
+  - são paulo
   - torre do relógio
   - usp
 ---

@@ -1,13 +1,7 @@
 ---
 title: Script para baixar documentos do Issuu no GNU/Linux
-type: post
 date: 2014-09-26T15:50:33+00:00
 url: /2014/09/script-para-baixar-documentos-do-issuu-no-gnulinux/
-categorias:
-  - Códigos aleatórios
-  - Dicas
-  - Futilidades
-  - Software Livre
 tags:
   - bash
   - download

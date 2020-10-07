@@ -1,10 +1,7 @@
 ---
 title: Programas indispensáveis no meu computador
-type: post
 date: 2007-12-05T11:22:32+00:00
 url: /2007/12/programas-indispensaveis-no-meu-computador/
-categorias:
-  - Futilidades
 tags:
   - bash
   - computador

@@ -1,10 +1,7 @@
 ---
 title: Sobre os meus 5²³ problemas com meu laptop
-type: post
 date: 2009-08-25T00:40:43+00:00
 url: /2009/08/sobre-os-meus-5²³-problemas-com-meu-laptop/
-categorias:
-  - Cotidiano
 tags:
   - alice
   - amazon

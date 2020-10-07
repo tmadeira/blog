@@ -1,11 +1,8 @@
 ---
 title: Como se pega um beija-flor?
-type: post
 date: 2006-01-24T12:23:36+00:00
 excerpt: "OK, isso não é coisa pra se perguntar assim do nada, mas a questão quase me acerta na testa mal eu abro a porta, e voilá a dita ave em pânico se debatendo contra o teto, paredes, um furacão azulado sem freios nem juízo."
 url: /2006/01/como-se-pega-um-beija-flor/
-categorias:
-  - Cotidiano
 tags:
   - beija-flor
   - internet

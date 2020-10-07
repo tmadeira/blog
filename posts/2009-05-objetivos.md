@@ -1,19 +1,14 @@
 ---
 title: Objetivos
-type: post
 date: 2009-05-16T12:46:17+00:00
 url: /2009/05/objetivos/
-sociableoff:
-  - "false"
-categorias:
-  - Pensamentos aleatórios
 tags:
   - câncer
-  - Computação
+  - computação
   - icpc
   - objetivos
   - phd
-  - São Paulo
+  - são paulo
   - segurança
   - turing award
   - vida

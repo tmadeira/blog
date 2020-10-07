@@ -1,11 +1,8 @@
 ---
 title: Resumão
-type: post
 date: 2006-05-16T23:58:50+00:00
 excerpt: O que aconteceu nesse tempo que não postei...
 url: /2006/05/resumao/
-categorias:
-  - Cotidiano
 tags:
   - dna
   - linux

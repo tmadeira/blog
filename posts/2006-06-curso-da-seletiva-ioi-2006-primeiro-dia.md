@@ -1,10 +1,7 @@
 ---
 title: "Curso da Seletiva IOI 2006: Primeiro Dia"
-type: post
 date: 2006-06-13T22:48:53+00:00
 url: /2006/06/curso-da-seletiva-ioi-2006-primeiro-dia/
-categorias:
-  - Cotidiano
 tags:
   - algoritmos
   - campinas

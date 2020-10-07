@@ -1,14 +1,11 @@
 ---
 title: Interesse comum
-type: post
 date: 2007-02-05T20:29:47+00:00
 url: /2007/02/interesse-comum/
-categorias:
-  - Cotidiano
 tags:
   - freelances
   - interesses
-  - Trabalho
+  - trabalho
   - vida
 ---
 

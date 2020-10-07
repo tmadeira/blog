@@ -1,10 +1,7 @@
 ---
 title: Nova versão do GSPCA, nada de sn9c20x
-type: post
 date: 2007-05-01T13:54:15+00:00
 url: /2007/05/nova-versao-do-gspca-nada-de-sn9c20x/
-categorias:
-  - Software Livre
 tags:
   - acer
   - acer orbicam

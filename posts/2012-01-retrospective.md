@@ -1,11 +1,7 @@
 ---
 title: "Retrospective: new plugin for WordPress"
-type: post
 date: 2012-02-01T00:20:03+00:00
 url: /2012/01/retrospective/
-featured_image: /wp-content/uploads/2012/01/wordpresssc1.jpg
-categorias:
-  - WordPress
 tags:
   - códigos
   - css
@@ -16,7 +12,7 @@ tags:
   - programação
   - retrospective
   - scripts
-  - Software Livre
+  - software livre
   - wordpress
 ---
 

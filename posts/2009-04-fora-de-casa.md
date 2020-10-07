@@ -1,16 +1,11 @@
 ---
 title: Fora de casa
-type: post
 date: 2009-04-16T12:13:06+00:00
 url: /2009/04/fora-de-casa/
-sociableoff:
-  - "false"
-categorias:
-  - Cotidiano
 tags:
   - estocolmo
   - icpc
-  - Metablogagem
+  - metablogagem
   - viagem
 ---
 

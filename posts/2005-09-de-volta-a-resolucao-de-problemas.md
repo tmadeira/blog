@@ -1,11 +1,8 @@
 ---
 title: De volta à resolução de problemas
-type: post
 date: 2005-09-16T19:33:06+00:00
 excerpt: "Depois de umas férias de uns dois meses, hoje resolvi um problema lógico do USACO Training Gateway: Superprime Rib."
 url: /2005/09/de-volta-a-resolucao-de-problemas/
-categorias:
-  - Cotidiano
 tags:
   - c
   - códigos

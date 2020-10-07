@@ -1,10 +1,7 @@
 ---
 title: Vergonha
-type: post
 date: 2009-11-24T18:22:23+00:00
 url: /2009/11/vergonha/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - absurdo
   - administração

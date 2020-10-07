@@ -1,10 +1,7 @@
 ---
 title: Organizando sua biblioteca de músicas no formato MP3 utilizando Ruby e taglib
-type: post
 date: 2007-11-28T21:04:35+00:00
 url: /2007/11/organizando-sua-biblioteca-de-musicas-no-formato-mp3-utilizando-ruby-e-taglib/
-categorias:
-  - Dicas
 tags:
   - biblioteca
   - códigos

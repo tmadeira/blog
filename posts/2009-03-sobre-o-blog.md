@@ -1,13 +1,10 @@
 ---
 title: Sobre o blog
-type: post
 date: 2009-03-30T00:15:15+00:00
 url: /2009/03/sobre-o-blog/
-categorias:
-  - Metablogagem
 tags:
   - história
-  - Metablogagem
+  - metablogagem
 ---
 
 Mantenho um blog desde 2004. É uma maneira interessante de exercitar a escrita, a criatividade e encontrar pessoas com gostos semelhantes. Já fiz vários amigos blogando. O [meu antigo blog][1] chegou a ser o segundo resultado do Google ao procurar por _“tiago”_. Tive vários leitores. Até que cansei de escrever.

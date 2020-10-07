@@ -1,11 +1,8 @@
 ---
 title: Desafios Lógicos e Sites
-type: post
 date: 2005-04-14T21:55:52+00:00
 excerpt: Nessa semana aconteceram tantas coisas que nem deu tempo de postar! Resumão...
 url: /2005/04/desafios-logicos-e-sites/
-categorias:
-  - Cotidiano
 tags:
   - códigos
   - computação
@@ -13,7 +10,7 @@ tags:
   - gcd
   - lcm
   - lógica
-  - Matemática
+  - matemática
   - mdc
   - mmc
   - programação

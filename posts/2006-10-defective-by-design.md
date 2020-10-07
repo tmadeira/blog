@@ -1,16 +1,13 @@
 ---
 title: Defective by Design
-type: post
 date: 2006-10-03T21:59:11+00:00
 url: /2006/10/defective-by-design/
-categorias:
-  - Software Livre
 tags:
   - defective by design
   - drm
   - fsf
   - richard stallman
-  - Software Livre
+  - software livre
 ---
 
 _“If consumers even know there’s a DRM, what it is, and how it works, we’ve already failed”_ (executivo da Disney)

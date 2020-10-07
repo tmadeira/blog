@@ -1,10 +1,7 @@
 ---
 title: Discussão sobre notícias falsas
-type: post
 date: 2016-11-15T20:13:11+00:00
 url: /2016/11/discussao-sobre-noticias-falsas/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - boatos
   - eleições
@@ -15,7 +12,6 @@ tags:
   - marcelo freixo
   - notícias falsas
   - trump
-format: link
 ---
 
 As eleições municipais no Brasil foram repletas de boatos contra as candidaturas do PSOL.

@@ -1,12 +1,7 @@
 ---
 title: Como mostrar o último post de cada categoria no WordPress?
-type: post
 date: 2012-03-13T06:32:06+00:00
 url: /2012/03/como-mostrar-o-ultimo-post-de-cada-categoria-no-wordpress/
-featured_image: /wp-content/uploads/2012/01/wordpresssc1.jpg
-categorias:
-  - Códigos aleatórios
-  - WordPress
 tags:
   - banco de dados
   - códigos

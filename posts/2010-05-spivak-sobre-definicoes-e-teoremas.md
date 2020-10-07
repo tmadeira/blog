@@ -1,10 +1,7 @@
 ---
 title: Spivak sobre definições e teoremas
-type: post
 date: 2010-05-24T23:47:14+00:00
 url: /2010/05/spivak-sobre-definicoes-e-teoremas/
-categorias:
-  - Matemática
 tags:
   - calculus on manifolds
   - definition

@@ -1,10 +1,7 @@
 ---
 title: Direto do Chile
-type: post
 date: 2011-08-25T15:27:09+00:00
 url: /2011/08/direto-do-chile/
-categorias:
-  - Política
 tags:
   - chile
   - folha

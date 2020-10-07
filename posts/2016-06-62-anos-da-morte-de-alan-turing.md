@@ -1,19 +1,15 @@
 ---
 title: 62 anos da morte de Alan Turing
-type: post
 date: 2016-06-07T19:07:00+00:00
 url: /2016/06/62-anos-da-morte-de-alan-turing/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - alan turing
   - algoritmo
-  - Computação
+  - computação
   - história
   - inteligência artificial
   - lgbt
-  - máquina de Turing
-format: status
+  - máquina de turing
 ---
 
 Hoje completa 62 anos a morte de Alan Turing, personagem fundamental da história da computação e um dos maiores gênios do século XX.

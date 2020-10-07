@@ -1,10 +1,7 @@
 ---
 title: Hey, Arnold!
-type: post
 date: 2007-05-10T00:26:47+00:00
 url: /2007/05/hey-arnold/
-categorias:
-  - Imagens
 tags:
   - arnold schwarzenegger
   - paris hilton

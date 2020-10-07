@@ -1,11 +1,8 @@
 ---
 title: Web Authoring Statistics
-type: post
 date: 2006-01-25T11:15:14+00:00
 excerpt: O Google publicou uma série de estatísticas mostrando como os desenvolvedores atuais utilizam o HTML. O resultado é decepcionante...
 url: /2006/01/web-authoring-statistics/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - google code
   - html

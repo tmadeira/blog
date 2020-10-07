@@ -1,10 +1,7 @@
 ---
 title: O bloqueio do WhatsApp e o Marco Civil da Internet
-type: post
 date: 2016-05-02T18:46:52+00:00
 url: /2016/05/o-bloqueio-do-whatsapp-e-o-marco-civil-da-internet/
-categorias:
-  - Política
 tags:
   - bloqueio
   - cpiciber
@@ -12,7 +9,6 @@ tags:
   - internet
   - marco civil
   - whatsapp
-format: aside
 ---
 
 A grande imprensa começou a circular que o Marco Civil da Internet [é o responsável pelo bloqueio][1] do WhatsApp e que a CPI dos Crimes Cibernéticos [quer impedir juízes de bloquear][2] o WhatsApp.

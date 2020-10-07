@@ -1,10 +1,7 @@
 ---
 title: É carnaval!
-type: post
 date: 2007-02-17T22:36:51+00:00
 url: /2007/02/e-carnaval/
-categorias:
-  - Carnaval
 tags:
   - brasil
   - carnaval

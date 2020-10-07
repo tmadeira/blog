@@ -1,10 +1,7 @@
 ---
 title: Em defesa dos pseudônimos
-type: post
 date: 2011-08-01T20:47:12+00:00
 url: /2011/08/em-defesa-dos-pseudonimos/
-categorias:
-  - Política
 tags:
   - anonimato
   - internet

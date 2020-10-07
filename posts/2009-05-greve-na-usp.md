@@ -1,13 +1,7 @@
 ---
 title: Greve na USP
-type: post
 date: 2009-05-25T22:14:31+00:00
 url: /2009/05/greve-na-usp/
-sociableoff:
-  - "false"
-categorias:
-  - Cotidiano
-  - Política
 tags:
   - dce
   - esquerda

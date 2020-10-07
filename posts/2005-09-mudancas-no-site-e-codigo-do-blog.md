@@ -1,11 +1,8 @@
 ---
 title: Mudanças no Site e Código do Blog
-type: post
 date: 2005-09-25T20:29:39+00:00
 excerpt: Ultimamente fiz várias alterações no site. Depois de conhecer POO, refiz quase todas as páginas e deixei tudo um pouco mais leve e fácil para alterações futuras...
 url: /2005/09/mudancas-no-site-e-codigo-do-blog/
-categorias:
-  - Metablogagem
 tags:
   - códigos
   - computação

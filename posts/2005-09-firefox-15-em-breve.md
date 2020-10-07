@@ -1,15 +1,12 @@
 ---
 title: Firefox 1.5 em breve!
-type: post
 date: 2005-09-02T16:43:32+00:00
 excerpt: Só pra dar o recado... =)
 url: /2005/09/firefox-15-em-breve/
-categorias:
-  - Cotidiano
 tags:
   - firefox
   - mozilla
-  - Software Livre
+  - software livre
 ---
 
 A Mozilla publicou um [documento][1] sobre o primeiro beta do **Firefox 1.5**. O [roadmap][2] do Mozilla Firefox mostra como será a evolução do popular navegador…

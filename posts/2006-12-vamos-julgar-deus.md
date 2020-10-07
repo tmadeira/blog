@@ -1,10 +1,7 @@
 ---
 title: Vamos julgar Deus?
-type: post
 date: 2006-12-07T22:40:33+00:00
 url: /2006/12/vamos-julgar-deus/
-categorias:
-  - Cotidiano
 tags:
   - deus
   - discordianismo

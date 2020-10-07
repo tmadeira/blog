@@ -1,10 +1,7 @@
 ---
 title: Despoema nauseabundo
-type: post
 date: 2010-07-31T15:55:44+00:00
 url: /2010/07/despoema-nauseabundo/
-categorias:
-  - Futilidades
 tags:
   - náusea
   - recursão

@@ -1,12 +1,7 @@
 ---
 title: Refeição especial
-type: post
 date: 2009-04-14T22:34:27+00:00
 url: /2009/04/refeicao-especial/
-sociableoff:
-  - "false"
-categorias:
-  - Futilidades
 tags:
   - avião
   - estocolmo

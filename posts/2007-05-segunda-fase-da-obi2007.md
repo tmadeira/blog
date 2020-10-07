@@ -1,10 +1,7 @@
 ---
 title: Segunda fase da OBI2007
-type: post
 date: 2007-05-01T13:38:05+00:00
 url: /2007/05/segunda-fase-da-obi2007/
-categorias:
-  - Cotidiano
 tags:
   - c
   - computação

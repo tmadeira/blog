@@ -1,10 +1,7 @@
 ---
 title: "Ser ou não ser: eis a questão."
-type: post
 date: 2007-04-17T23:17:47+00:00
 url: /2007/04/ser-ou-nao-ser-eis-a-questao/
-categorias:
-  - Futilidades
 tags:
   - conversas
   - ibrahim

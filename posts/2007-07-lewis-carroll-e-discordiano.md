@@ -1,11 +1,7 @@
 ---
 title: Lewis Carroll é discordiano
-type: post
 date: 2007-07-24T11:29:20+00:00
 url: /2007/07/lewis-carroll-e-discordiano/
-categorias:
-  - Filosofia
-  - Livros
 tags:
   - alice
   - alice in wonderland

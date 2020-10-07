@@ -1,11 +1,8 @@
 ---
 title: “Nem tão livre assim”
-type: post
 date: 2005-09-05T17:40:19+00:00
 excerpt: A Istoé publicou uma matéria sobre a saída de Sérgio Amadeu da Silveira do ITI...
 url: /2005/09/nem-tao-livre-assim/
-categorias:
-  - Software Livre
 tags:
   - festival de música
   - itajaí
@@ -14,7 +11,7 @@ tags:
   - olimpíadas
   - salesiano
   - sérgio amadeu
-  - Software Livre
+  - software livre
 ---
 
 ![Sérgio Amadeu da Silveira](https://static.flickr.com/33/40987282_8060b9dd63_m.jpg)

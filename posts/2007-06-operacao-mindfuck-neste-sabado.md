@@ -1,10 +1,7 @@
 ---
 title: Operação Mindfuck neste sábado!
-type: post
 date: 2007-06-20T00:13:58+00:00
 url: /2007/06/operacao-mindfuck-neste-sabado/
-categorias:
-  - Mindfuck
 tags:
   - "23"
   - "5"

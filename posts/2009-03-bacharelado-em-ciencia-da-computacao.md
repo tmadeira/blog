@@ -1,10 +1,7 @@
 ---
 title: Bacharelado em Ciência da Computação
-type: post
 date: 2009-03-31T09:07:55+00:00
 url: /2009/03/bacharelado-em-ciencia-da-computacao/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - computação
   - juventude

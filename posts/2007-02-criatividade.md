@@ -1,15 +1,12 @@
 ---
 title: Criatividade
-type: post
 date: 2007-02-27T00:36:45+00:00
 url: /2007/02/criatividade/
-categorias:
-  - Cotidiano
 tags:
   - criatividade
   - ideias
   - mal vicioso
-  - Metablogagem
+  - metablogagem
   - planos
   - vida
 ---

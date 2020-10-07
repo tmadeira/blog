@@ -1,10 +1,7 @@
 ---
 title: Userscript para remover usuários de grupos do Facebook
-type: post
 date: 2011-12-27T16:58:39+00:00
 url: /2011/12/userscript-para-remover-usuarios-de-grupos-do-facebook/
-categorias:
-  - Códigos aleatórios
 tags:
   - bug
   - códigos

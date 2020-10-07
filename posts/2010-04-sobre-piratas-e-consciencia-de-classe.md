@@ -1,10 +1,7 @@
 ---
 title: Sobre piratas e consciência de classe
-type: post
 date: 2010-04-13T22:38:23+00:00
 url: /2010/04/sobre-piratas-e-consciencia-de-classe/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - hakim bey
   - inglaterra

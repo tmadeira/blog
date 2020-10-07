@@ -1,10 +1,7 @@
 ---
 title: There and back again…
-type: post
 date: 2006-06-25T12:45:06+00:00
 url: /2006/06/there-and-back-again/
-categorias:
-  - Cotidiano
 tags:
   - computação
   - croácia

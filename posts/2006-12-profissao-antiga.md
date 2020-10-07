@@ -1,10 +1,7 @@
 ---
 title: Profissão antiga
-type: post
 date: 2006-12-27T11:56:35+00:00
 url: /2006/12/profissao-antiga/
-categorias:
-  - Cotidiano
 tags:
   - blogs
   - monges

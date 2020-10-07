@@ -1,13 +1,8 @@
 ---
 title: Grafos Ponderados
-type: post
 date: 2006-01-26T12:31:20+00:00
 excerpt: Um grafo é ponderado quando suas arestas possuem um peso, quando há um custo para ir de um vértice a outro. Vamos ver como representar um grafo ponderado...
 url: /2006/01/grafos-ponderados/
-ordem:
-  - eeerr
-categorias:
-  - Grafos
 tags:
   - algoritmos
   - computação

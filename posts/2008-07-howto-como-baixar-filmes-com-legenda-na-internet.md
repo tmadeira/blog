@@ -1,10 +1,7 @@
 ---
 title: Como baixar e assistir filmes completos na internet
-type: post
 date: 2008-07-19T22:40:12+00:00
 url: /2008/07/howto-como-baixar-filmes-com-legenda-na-internet/
-categorias:
-  - Dicas
 tags:
   - ares
   - azureus

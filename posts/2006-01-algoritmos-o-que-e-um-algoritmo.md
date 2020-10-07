@@ -1,13 +1,8 @@
 ---
 title: O que é um algoritmo?
-type: post
 date: 2006-01-04T16:55:31+00:00
 excerpt: Um algoritmo é um procedimento computacional definido que recebe um ou mais valores (entrada) e produz um ou mais valores (saída). O algoritmo é aquela fórmula matemática, aquele pedaço de código, que fica ali no meio da entrada e da saída para transformar o primeiro no segundo.
 url: /2006/01/algoritmos-o-que-e-um-algoritmo/
-ordem:
-  - eeeee
-categorias:
-  - Básico
 tags:
   - algoritmo
   - algoritmos

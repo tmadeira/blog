@@ -1,10 +1,7 @@
 ---
 title: 43 anos de Internet
-type: post
 date: 2012-04-08T00:56:09+00:00
 url: /2012/04/43-anos-de-internet/
-categorias:
-  - Pensamentos aleatórios
 tags:
   - california
   - computação

@@ -1,11 +1,8 @@
 ---
 title: Agora acabou definitivamente!
-type: post
 date: 2005-11-27T15:00:51+00:00
 excerpt: Acabou a OLIS e agora definitivamente o ano letivo. Comecei a rotina de estudos de leve... Por enquanto só relembrando aonde tinha parado.
 url: /2005/11/agora-acabou-definitivamente/
-categorias:
-  - Cotidiano
 tags:
   - c
   - java

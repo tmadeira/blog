@@ -1,16 +1,13 @@
 ---
 title: "Ataque, não: protesto!"
-type: post
 date: 2011-07-04T15:50:13+00:00
 url: /2011/07/ataque-nao-protesto/
-categorias:
-  - Política
 tags:
   - amazon
   - anonymous
   - fsf
   - mastercard
-  - Software Livre
+  - software livre
   - stallman
   - wikileaks
 ---

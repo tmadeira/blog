@@ -1,18 +1,14 @@
 ---
 title: Ano novo
-type: post
 date: 2010-02-28T00:13:07+00:00
 url: /2010/02/ano-novo/
-categorias:
-  - Matemática
-  - Pensamentos aleatórios
 tags:
   - aprendizagem
   - cerveja
   - dce
   - ensino
-  - Matemática
-  - São Paulo
+  - matemática
+  - são paulo
   - universidade
   - usp
 ---

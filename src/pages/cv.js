@@ -42,10 +42,23 @@ export default function () {
 
       <Section title="Professional Experience">
         <SectionItem
+          title="Plasmic"
+          subtitle="Software Engineer"
+          badge={<Badge type="featured">nov/2020 - current</Badge>}
+        />
+
+        <SectionItem
           title="EVAG"
-          subtitle="Director & Software Engineer"
-          description="Management and software development."
-          badge={<Badge type="featured">dec/2014 - current</Badge>}
+          subtitle="Founder & Software Engineer"
+          description="Management and product development."
+          subdescription={
+            <div>
+              Experience with product design, maintenance and operations (Go, MongoDB, Postgres, Docker, React, AWS).
+              <br />
+              São Paulo, Brazil
+            </div>
+          }
+          badge={<Badge>apr/2016 - nov/2020</Badge>}
         />
 
         <SectionItem
@@ -267,7 +280,7 @@ export default function () {
               <Award
                 title="Introduction to AI"
                 description="Colégio Santa Cruz"
-                badge={<Badge type="featured">2019 - current</Badge>}
+                badge={<Badge>2019 - 2020</Badge>}
               />
               <Award
                 title="Internet Contemporaneities and Introduction to Computer Programming"
@@ -303,7 +316,7 @@ export default function () {
           subdescription={
             <div style={{ marginTop: 10 }}>
               Check my GitHub profile at{" "}
-              <a href="https://github.com/tmadeira">github.com/tmadeira</a>
+              <a href="https://github.com/tmadeira">github.com/tmadeira</a>.
             </div>
           }
         />

@@ -8,6 +8,9 @@
     "scheme": "css",
     "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
   },
+  "images": {
+    "scheme": "inlined"
+  },
   "tokens": {
     "scheme": "theo",
     "tokensFilePath": "plasmic-tokens.theo.json"
@@ -17,7 +20,7 @@
   "projects": [
     {
       "projectId": "oH8FCw6CW4Lg76cBx26GoT",
-      "projectName": "Site layout",
+      "projectName": "tiagomadeira.com",
       "version": "latest",
       "cssFilePath": "plasmic/site_layout/plasmic_site_layout.css",
       "components": [
@@ -31,7 +34,8 @@
             "modulePath": "Section.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicSection.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "Zh0Xu99edL",
@@ -43,7 +47,8 @@
             "modulePath": "Badge.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicBadge.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "cOAv4QMHX7",
@@ -55,7 +60,8 @@
             "modulePath": "Award.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicAward.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "29WTxWrj0J9",
@@ -67,7 +73,8 @@
             "modulePath": "Layout.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicLayout.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "jex8yZy-7V",
@@ -79,7 +86,8 @@
             "modulePath": "Card.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicCard.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "cLfqUBakSC",
@@ -91,7 +99,8 @@
             "modulePath": "TextContent.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicTextContent.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "HXZAepZU2F",
@@ -103,7 +112,8 @@
             "modulePath": "MenuItem.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicMenuItem.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "7JhRlb0B4Y",
@@ -115,7 +125,8 @@
             "modulePath": "Blockquote.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicBlockquote.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "xQNaB3lXQB",
@@ -127,7 +138,8 @@
             "modulePath": "Code.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicCode.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "5P9Z-2oNX3",
@@ -139,7 +151,8 @@
             "modulePath": "TagList.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicTagList.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "VqtJtITmmH",
@@ -151,7 +164,8 @@
             "modulePath": "Comments.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicComments.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "3RgVkGyAq0r",
@@ -163,7 +177,8 @@
             "modulePath": "Article.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicArticle.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "2K6EDJzV0q",
@@ -175,7 +190,8 @@
             "modulePath": "SectionItem.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicSectionItem.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         },
         {
           "id": "pt1RbgzI3D",
@@ -187,37 +203,45 @@
             "modulePath": "Pagination.jsx"
           },
           "cssFilePath": "plasmic/site_layout/PlasmicPagination.css",
-          "scheme": "blackbox"
+          "scheme": "blackbox",
+          "componentType": "component"
         }
       ],
       "icons": [
         {
           "id": "LnEYthlvR",
           "name": "AwardsvgIcon",
-          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Awardsvg.tsx"
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Awardsvg.jsx"
         },
         {
           "id": "tCt3kPm8k",
           "name": "GitlabsvgIcon",
-          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Gitlabsvg.tsx"
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Gitlabsvg.jsx"
         },
         {
           "id": "Ws255ApOB",
           "name": "TwitterIcon",
-          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Twitter.tsx"
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Twitter.jsx"
         },
         {
           "id": "2CRUWf376",
           "name": "GithubIcon",
-          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Github.tsx"
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Github.jsx"
         },
         {
           "id": "Xch0_c3Sh",
           "name": "LinkedinIcon",
-          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Linkedin.tsx"
+          "moduleFilePath": "plasmic/site_layout/PlasmicIcon__Linkedin.jsx"
         }
       ],
-      "jsBundleThemes": []
+      "jsBundleThemes": [],
+      "images": [
+        {
+          "id": "HdMgP1XWW",
+          "name": "avatar",
+          "filePath": "plasmic/tiagomadeira_com/images/avatar.png"
+        }
+      ]
     }
   ],
   "globalVariants": {
@@ -230,5 +254,6 @@
       }
     ]
   },
-  "cliVersion": "0.1.59"
+  "cliVersion": "0.1.114",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.114/dist/plasmic.schema.json"
 }

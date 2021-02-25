@@ -1,19 +1,10 @@
 .SectionItem__root__vQUdQ {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  font-style: normal;
-  color: #535353;
-  text-align: left;
-  text-transform: none;
-  line-height: 1.5;
-  letter-spacing: normal;
-  white-space: pre-wrap;
   display: flex;
   width: 100%;
   height: auto;
   flex-direction: column;
   position: relative;
+  min-width: 0;
 }
 .SectionItem__root__vQUdQ > .__wab_flex-container {
   flex-direction: column;
@@ -24,28 +15,28 @@
 .SectionItem__root__vQUdQ > .__wab_flex-container > .__wab_slot > * {
   margin-top: 1px;
 }
-.SectionItem__box__9E2uC {
+.SectionItem__box___9E2UC {
   display: flex;
   position: relative;
   flex-direction: row;
 }
-.SectionItem__box__9E2uC > .__wab_flex-container {
+.SectionItem__box___9E2UC > .__wab_flex-container {
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
   margin-left: calc(0px - 10px);
   width: calc(100% + 10px);
 }
-.SectionItem__box__9E2uC > .__wab_flex-container > *,
-.SectionItem__box__9E2uC > .__wab_flex-container > .__wab_slot > * {
+.SectionItem__box___9E2UC > .__wab_flex-container > *,
+.SectionItem__box___9E2UC > .__wab_flex-container > .__wab_slot > * {
   margin-left: 10px;
 }
-.SectionItem__slotTitle___nVUL {
+.SectionItem__slotTitle__nVul {
   font-weight: 500;
   font-size: 18px;
 }
 @media (min-width: 600px) {
-  .SectionItem__slotTitle--baseMedium___nVULYrWvl_MVUpr {
+  .SectionItem__slotTitle__nVul {
     font-size: 20px;
   }
 }
@@ -56,30 +47,30 @@
   align-items: stretch;
   justify-content: flex-start;
 }
-.SectionItem__slotSubtitle__OS36h {
+.SectionItem__slotSubtitle__os36H {
   font-weight: 400;
   font-size: 16px;
 }
 @media (min-width: 600px) {
-  .SectionItem__slotSubtitle--baseMedium__OS36hYrWvl_MVUpr {
+  .SectionItem__slotSubtitle__os36H {
     font-size: 18px;
   }
 }
-.SectionItem__slotDescription__EDhTx {
+.SectionItem__slotDescription__eDhTx {
   font-size: 14px;
   font-weight: 400;
 }
 @media (min-width: 600px) {
-  .SectionItem__slotDescription--baseMedium__EDhTxYrWvl_MVUpr {
+  .SectionItem__slotDescription__eDhTx {
     font-size: 16px;
   }
 }
-.SectionItem__slotSubdescription__55Z1t {
+.SectionItem__slotSubdescription___55Z1T {
   font-size: 11px;
   font-weight: 400;
 }
 @media (min-width: 600px) {
-  .SectionItem__slotSubdescription--baseMedium__55Z1tYrWvl_MVUpr {
+  .SectionItem__slotSubdescription___55Z1T {
     font-size: 14px;
   }
 }

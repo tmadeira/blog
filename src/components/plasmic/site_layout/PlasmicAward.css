@@ -1,30 +1,20 @@
-.Award__root__1LT3p {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  font-style: normal;
-  color: #535353;
-  text-align: left;
-  text-transform: none;
-  line-height: 1.5;
-  letter-spacing: normal;
-  white-space: pre-wrap;
+.Award__root___1Lt3P {
   display: flex;
   flex-direction: row;
   position: relative;
   padding-top: 5px;
 }
-.Award__root__1LT3p > .__wab_flex-container {
+.Award__root___1Lt3P > .__wab_flex-container {
   flex-direction: row;
   align-items: flex-start;
   margin-left: calc(0px - 5px);
   width: calc(100% + 5px);
 }
-.Award__root__1LT3p > .__wab_flex-container > *,
-.Award__root__1LT3p > .__wab_flex-container > .__wab_slot > * {
+.Award__root___1Lt3P > .__wab_flex-container > *,
+.Award__root___1Lt3P > .__wab_flex-container > .__wab_slot > * {
   margin-left: 5px;
 }
-.Award__svg__Kys_E {
+.Award__svg__kysE {
   position: relative;
   object-fit: cover;
   width: 12px;
@@ -33,13 +23,13 @@
   flex-shrink: 0;
 }
 @media (min-width: 600px) {
-  .Award__svg--baseMedium__Kys_EhTQV6_MVUpr {
+  .Award__svg__kysE {
     width: 18px;
     height: 18px;
     flex-shrink: 0;
   }
 }
-.Award__box__PdrAM {
+.Award__box__pdrAm {
   display: flex;
   position: relative;
   flex-direction: column;
@@ -48,14 +38,15 @@
   top: auto;
   left: auto;
   width: 100%;
+  min-width: 0;
 }
 @media (min-width: 600px) {
-  .Award__box--baseMedium__PdrAMhTQV6_MVUpr {
+  .Award__box__pdrAm {
     width: auto;
     display: inline-flex;
   }
 }
-.Award__box__d-2BI {
+.Award__box__d2Bi {
   display: flex;
   position: relative;
   height: auto;
@@ -65,27 +56,24 @@
   font-weight: 400;
 }
 @media (min-width: 600px) {
-  .Award__slotTitle--baseMedium__sSzf1hTQV6_MVUpr {
+  .Award__slotTitle__sSzf1 {
     font-size: 18px;
     line-height: 1.4;
   }
 }
-.Award__box__Jgq_h {
+.Award__box__jgqH {
   display: flex;
   position: relative;
   height: auto;
   width: 100%;
+  min-width: 0;
 }
-@media (min-width: 600px) {
-  .Award__box--baseMedium__Jgq_hhTQV6_MVUpr {
-  }
-}
-.Award__slotDescription__c78el {
+.Award__slotDescription__c78El {
   font-size: 10px;
   font-weight: 400;
 }
 @media (min-width: 600px) {
-  .Award__slotDescription--baseMedium__c78elhTQV6_MVUpr {
+  .Award__slotDescription__c78El {
     font-size: 14px;
   }
 }

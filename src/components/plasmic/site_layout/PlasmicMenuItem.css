@@ -1,50 +1,33 @@
-.MenuItem__root__QAqgk {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  font-style: normal;
-  color: #535353;
-  text-align: left;
-  text-transform: none;
-  line-height: 1.5;
-  letter-spacing: normal;
-  white-space: pre-wrap;
+.MenuItem__root__qAqgk {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  padding-top: 0px;
-  padding-right: 5px;
-  padding-bottom: 0px;
-  padding-left: 5px;
   position: relative;
   cursor: pointer;
+  padding: 0px 5px;
 }
 @media (min-width: 600px) {
-  .MenuItem__root--baseMedium__QAqgkSMvEo_MVUpr {
+  .MenuItem__root__qAqgk {
     padding-left: 15px;
     padding-right: 15px;
   }
 }
-.MenuItem__root--current__QAqgkKROJS {
-}
-.MenuItem__root__QAqgk:hover {
-}
-.MenuItem__slotChildren__1pWAN {
+.MenuItem__slotChildren___1PWan {
   color: rgb(255, 255, 255);
   font-size: 14px;
 }
 @media (min-width: 600px) {
-  .MenuItem__slotChildren--baseMedium__1pWANSMvEo_MVUpr {
+  .MenuItem__slotChildren___1PWan {
     font-size: 18px;
   }
 }
-.MenuItem__slotChildren--current__1pWANKROJS {
+.MenuItem__slotChildren__state_current___1PWankrojs {
   font-weight: 600;
 }
-.MenuItem__root__QAqgk:hover .MenuItem__slotChildren__1pWAN {
+.MenuItem__root__qAqgk:hover .MenuItem__slotChildren___1PWan {
   color: rgba(255, 255, 255, 0.75);
 }
-.MenuItem__root__QAqgk:active .MenuItem__slotChildren__1pWAN {
+.MenuItem__root__qAqgk:active .MenuItem__slotChildren___1PWan {
   color: rgba(255, 255, 255, 0.5);
 }

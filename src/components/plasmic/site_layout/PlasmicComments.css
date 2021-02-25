@@ -1,21 +1,11 @@
-.Comments__root__WTQdA {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  font-style: normal;
-  color: #535353;
-  text-align: left;
-  text-transform: none;
-  line-height: 1.5;
-  letter-spacing: normal;
-  white-space: pre-wrap;
+.Comments__root__wtQdA {
   display: flex;
   flex-direction: column;
   align-items: stretch;
   justify-content: flex-start;
   position: relative;
 }
-.Comments__box__dD6FA {
+.Comments__box__dD6Fa {
   font-size: 14px;
   color: rgb(136, 136, 136) /* plasmic-token: LcEYQw5GO */;
   font-style: italic;

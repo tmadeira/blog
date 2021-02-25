@@ -1,23 +1,9 @@
-.Article__root__AHmRZ {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  font-style: normal;
-  color: #535353;
-  text-align: left;
-  text-transform: none;
-  line-height: 1.5;
-  letter-spacing: normal;
-  white-space: pre-wrap;
+.Article__root__aHmRz {
   display: flex;
   flex-direction: column;
   position: relative;
 }
-@media (min-width: 600px) {
-  .Article__root--baseMedium__AHmRZz0TSU_MVUpr {
-  }
-}
-.Article__title__2ETOg {
+.Article__title___2EtOg {
   display: flex;
   position: relative;
   flex-direction: column;
@@ -26,24 +12,21 @@
   margin-bottom: 3px;
 }
 @media (min-width: 600px) {
-  .Article__title--baseMedium__2ETOgz0TSU_MVUpr {
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 8px;
-    margin-left: 0px;
+  .Article__title___2EtOg {
+    margin: 0px 0px 8px;
   }
 }
-.Article__slotTitle__4AoPv {
+.Article__slotTitle___4AoPv {
   font-size: 24px;
   font-weight: 500;
   line-height: 1.2;
 }
 @media (min-width: 600px) {
-  .Article__slotTitle--baseMedium__4AoPvz0TSU_MVUpr {
+  .Article__slotTitle___4AoPv {
     font-size: 34px;
   }
 }
-.Article__date__G2s7e {
+.Article__date__g2S7E {
   display: flex;
   position: relative;
   flex-direction: column;
@@ -52,17 +35,17 @@
   margin-bottom: 20px;
 }
 @media (min-width: 600px) {
-  .Article__date--baseMedium__G2s7ez0TSU_MVUpr {
+  .Article__date__g2S7E {
     margin-bottom: 30px;
   }
 }
-.Article__slotDate__dZG6E {
+.Article__slotDate__dZg6E {
   font-size: 12px;
   font-weight: 400;
   color: rgb(136, 136, 136) /* plasmic-token: LcEYQw5GO */;
 }
 @media (min-width: 600px) {
-  .Article__slotDate--baseMedium__dZG6Ez0TSU_MVUpr {
+  .Article__slotDate__dZg6E {
     font-size: 16px;
   }
 }
@@ -72,20 +55,14 @@
   margin-bottom: 20px;
 }
 @media (min-width: 600px) {
-  .Article__content--baseMedium__lMoNrz0TSU_MVUpr {
+  .Article__content__lMoNr {
     margin-bottom: 30px;
   }
 }
-.Article__textContent__dUZP6.__wab_instance {
+.Article__textContent__dUzp6.__wab_instance {
   position: relative;
   margin-bottom: 0;
 }
 .Article__tags__ldbiS.__wab_instance {
   position: relative;
-  width: default;
-  height: default;
-}
-@media (min-width: 600px) {
-  .Article__tags--baseMedium__ldbiSz0TSU_MVUpr.__wab_instance {
-  }
 }

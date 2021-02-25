@@ -1,49 +1,31 @@
-.Badge__root__HcdhM {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  font-style: normal;
-  color: #535353;
-  text-align: left;
-  text-transform: none;
-  line-height: 1.5;
-  letter-spacing: normal;
-  white-space: pre-wrap;
+.Badge__root__hcdhM {
   display: flex;
   flex-direction: row;
   align-items: stretch;
   justify-content: flex-start;
-  background-color: rgba(10, 54, 65, 0.6);
-  padding-top: 3px;
-  padding-right: 5px;
-  padding-bottom: 2px;
-  padding-left: 5px;
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-  border-bottom-left-radius: 3px;
   position: relative;
+  border-radius: 3px;
+  padding: 3px 5px 2px;
+  background: rgba(10, 54, 65, 0.6);
 }
-.Badge__root--featured__HcdhMHbdsW {
-  background-color: rgba(201, 76, 34, 0.7);
+.Badge__root__type_featured__hcdhMHbdsW {
+  background: rgba(201, 76, 34, 0.7);
 }
-.Badge__box__DvTjy {
+.Badge__box__dvTjy {
   display: flex;
   position: relative;
   height: auto;
 }
-.Badge__slotChildren__86nGw {
+.Badge__slotChildren___86NGw {
   font-size: 10px;
   color: rgb(255, 255, 255);
   text-transform: uppercase;
 }
-.Badge__slotChildren__86nGw > * {
+.Badge__slotChildren___86NGw > * {
   text-decoration-line: none;
 }
 @media (min-width: 600px) {
-  .Badge__slotChildren--baseMedium__86nGwatg_U_MVUpr {
+  .Badge__slotChildren___86NGw {
     font-size: 12px;
   }
-}
-.Badge__slotChildren--featured__86nGwHbdsW {
 }

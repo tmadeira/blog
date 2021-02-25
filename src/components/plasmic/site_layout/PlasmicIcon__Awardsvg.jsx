@@ -1,3 +1,4 @@
+// @ts-nocheck
 /* eslint-disable */
 /* tslint:disable */
 /* prettier-ignore-start */
@@ -14,7 +15,6 @@ export function AwardsvgIcon(props) {
       width={"1em"}
       style={{
         fill: "currentcolor",
-
         ...(style || {}),
       }}
       className={classNames("plasmic-default__svg", className)}
